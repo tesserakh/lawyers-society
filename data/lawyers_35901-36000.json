@@ -1,0 +1,5238 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76749-75483",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:32:53.042Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Supreet-Kareer",
+        "nodeid": 75483,
+        "documentid": 76749,
+        "nodealias": "Supreet-Kareer",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f5b2514e-eebb-4cdf-b354-27ab072ad1a4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Supreet Kareer",
+        "documentmodifiedwhen": "2022-05-14T07:20:10.919Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07956",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Supreet Kareer",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L4W 0B6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76751-75485",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:32:53.729Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Stacey-Nicole-Karellas",
+        "nodeid": 75485,
+        "documentid": 76751,
+        "nodealias": "Stacey-Nicole-Karellas",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1fb1a8ec-154e-4c71-a9a1-3efc0383dc6b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stacey Nicole Karellas",
+        "documentmodifiedwhen": "2022-01-11T07:29:52.609Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64122K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stacey Nicole Karellas",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L4Z 3Z9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123810-120264",
+        "sys_site": "lso",
+        "sys_created": "2020-06-23T09:06:15.204Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Levin-Nahne-Karg",
+        "nodeid": 120264,
+        "documentid": 123810,
+        "nodealias": "Levin-Nahne-Karg",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "037e7ed8-35fe-406b-b28c-646acf1245f8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Levin Nahne Karg",
+        "documentmodifiedwhen": "2021-01-22T07:20:51.993Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Allemand"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "German"
+        ],
+        "membernumber": "80017W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Levin Nahne Karg",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3805770874023,
+                43.6523323059082
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 3S8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130178-125812",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T10:09:32.208Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Pouria-Kargar-Ghaleh-Seifi",
+        "nodeid": 125812,
+        "documentid": 130178,
+        "nodealias": "Pouria-Kargar-Ghaleh-Seifi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0cef3358-dded-445a-ad3d-3bf177514d84",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Pouria Kargar Ghaleh Seifi",
+        "documentmodifiedwhen": "2021-09-02T07:18:16.678Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Cantonais",
+            "Farsi ou persan"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Cantonese",
+            "Farsi or Persian"
+        ],
+        "membernumber": "81792E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Pouria Kargar Ghaleh Seifi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.417106628418,
+                43.7876777648926
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2M 3V8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76750-75484",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:32:53.698Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Canni-Paula-Kargas",
+        "nodeid": 75484,
+        "documentid": 76750,
+        "nodealias": "Canni-Paula-Kargas",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "769d034c-8257-46cc-90b5-578d7fa4f0db",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Canni Paula Kargas",
+        "documentmodifiedwhen": "2022-05-09T07:16:48.277Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59840H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Canni Paula Kargas",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5L 1E2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93410-92140",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:19:44.182Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/050/Rhoda-Kargbo",
+        "nodeid": 92140,
+        "documentid": 93410,
+        "nodealias": "Rhoda-Kargbo",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "260a84b2-d4e1-4929-a12a-00a9562a4f4e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rhoda Kargbo",
+        "documentmodifiedwhen": "2022-01-04T07:27:20.193Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54316T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rhoda Kargbo",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Sierra Leone",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Freetown"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76752-75486",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:32:55.151Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Richard-Daniel-Kargus",
+        "nodeid": 75486,
+        "documentid": 76752,
+        "nodealias": "Richard-Daniel-Kargus",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e95ff856-1fb9-417c-9449-0f1f04644eb3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Richard Daniel Kargus",
+        "documentmodifiedwhen": "2022-01-04T07:22:24.256Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47337G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Richard Daniel Kargus",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K4R 1C4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Russell"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93412-92138",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:19:44.135Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/050/Elizabeth-O-Leary-Leslie-Kari",
+        "nodeid": 92138,
+        "documentid": 93412,
+        "nodealias": "Elizabeth-O-Leary-Leslie-Kari",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5033f5f0-2839-4c7c-9132-d8218f6b06bf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Elizabeth O'Leary Leslie Kari",
+        "documentmodifiedwhen": "2022-05-28T07:38:17.637Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "22069K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Elizabeth O'Leary Leslie Kari",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93413-92141",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:19:47.182Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/050/Philip-James-Kariam",
+        "nodeid": 92141,
+        "documentid": 93413,
+        "nodealias": "Philip-James-Kariam",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3529197a-04d6-4fe3-8024-878ee0ef96a7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Philip James Kariam",
+        "documentmodifiedwhen": "2022-03-31T07:17:47.797Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74625B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Philip James Kariam",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2T3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76753-75487",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:32:57.02Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Eleftheria-Karidakis",
+        "nodeid": 75487,
+        "documentid": 76753,
+        "nodealias": "Eleftheria-Karidakis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "92636b3b-4706-47ef-be37-69bde58197db",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eleftheria Karidakis",
+        "documentmodifiedwhen": "2021-09-21T09:42:25.055Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P12827",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eleftheria Karidakis",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76759-75489",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:07.536Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Khalid-Shah-Karim",
+        "nodeid": 75489,
+        "documentid": 76759,
+        "nodealias": "Khalid-Shah-Karim",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ecb910a8-3652-4485-84f9-9ce3b0c6d35e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Khalid Shah Karim",
+        "documentmodifiedwhen": "2022-01-13T07:26:55.349Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70630R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Khalid Shah Karim",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 4E3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93414-92142",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:19:47.885Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/050/Mehrin-Salim-Karim",
+        "nodeid": 92142,
+        "documentid": 93414,
+        "nodealias": "Mehrin-Salim-Karim",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ca335691-3ef1-4db5-a102-a8838b2e0d03",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mehrin Salim Karim",
+        "documentmodifiedwhen": "2021-11-05T07:55:15.882Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "44352E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mehrin Salim Karim",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -0.0809110030531883,
+                51.5204010009766
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "United Kingdom",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "EC2A 2HT",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76754-75493",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:08.036Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/S-M-Ashraful-Karim",
+        "nodeid": 75493,
+        "documentid": 76754,
+        "nodealias": "S-M-Ashraful-Karim",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4520eaf3-7765-4b24-acd8-10154d1f7472",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "S M Ashraful Karim",
+        "documentmodifiedwhen": "2020-01-02T07:30:45.068Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit commercial et corporatifes",
+            "Droit de la famille ou matrimonial",
+            "Droit de l'immigration",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies",
+            "Affaires relevant de la Cour des petites cr\u00e9ances"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Corporate/Commercial Law",
+            "Family/Matrimonial Law",
+            "Immigration Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law",
+            "Small Claims Court matters"
+        ],
+        "memberlanguagenamesfrench": [
+            "Hindi",
+            "Ourdou"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Hindi",
+            "Urdu"
+        ],
+        "membernumber": "72598E",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "S M Ashraful Karim",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3022918701172,
+                43.7223434448242
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4A 2M2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "129433-125152",
+        "sys_site": "lso",
+        "sys_created": "2021-05-01T08:58:38.505Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Sarah-Sabrin-Karim",
+        "nodeid": 125152,
+        "documentid": 129433,
+        "nodealias": "Sarah-Sabrin-Karim",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "01de0ed8-d281-4e8c-b993-8186eb1d7a0e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sarah Sabrin Karim",
+        "documentmodifiedwhen": "2021-06-26T07:18:11.178Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17411",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sarah Sabrin Karim",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3819046020508,
+                43.6485252380371
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M5X 1A4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76757-75490",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:07.192Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Shazin-Karim",
+        "nodeid": 75490,
+        "documentid": 76757,
+        "nodealias": "Shazin-Karim",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7f416a6d-c413-4c64-bde1-887e7b9a8729",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shazin Karim",
+        "documentmodifiedwhen": "2020-06-16T07:16:05.392Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54018S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shazin Karim",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76755-75488",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:07.255Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Shermina-Kamrudin-Karim",
+        "nodeid": 75488,
+        "documentid": 76755,
+        "nodealias": "Shermina-Kamrudin-Karim",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d3b80441-d3db-4bfe-9049-5164cd19b83c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shermina Kamrudin Karim",
+        "documentmodifiedwhen": "2022-01-11T07:25:31.045Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64889O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shermina Kamrudin Karim",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L5B 3C3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "128008-124064",
+        "sys_site": "lso",
+        "sys_created": "2021-02-27T07:41:07.527Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Talha-Karim",
+        "nodeid": 124064,
+        "documentid": 128008,
+        "nodealias": "Talha-Karim",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8dfe026d-2ceb-452c-beaa-e7c4f0bbe70d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Talha Karim",
+        "documentmodifiedwhen": "2021-04-07T07:21:32.801Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit commercial et corporatifes",
+            "Droit de l'emploi et droit du travail",
+            "Droit de l'immigration",
+            "Droit immobilier",
+            "Droit fiscal"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Corporate/Commercial Law",
+            "Employment/Labour Law",
+            "Immigration Law",
+            "Real Estate Law",
+            "Tax Law"
+        ],
+        "memberlanguagenamesfrench": [
+            "Hindi",
+            "Punjabi",
+            "Ourdou"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Hindi",
+            "Punjabi",
+            "Urdu"
+        ],
+        "membernumber": "81335W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Talha Karim",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.673454284668,
+                43.6284942626953
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4Z 2H6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76758-75491",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:07.942Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Sedighe-Karim-Zadeh",
+        "nodeid": 75491,
+        "documentid": 76758,
+        "nodealias": "Sedighe-Karim-Zadeh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1305be0c-2b21-4a53-8fab-10e1963758d2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sedighe Karim-Zadeh",
+        "documentmodifiedwhen": "2021-12-16T07:25:00.348Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05151",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sedighe Karim-Zadeh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "L4C 1E2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Richmond Hill"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93415-92143",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:19:50.104Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Pearl-Madeline-Karimalis",
+        "nodeid": 92143,
+        "documentid": 93415,
+        "nodealias": "Pearl-Madeline-Karimalis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "983cf9db-e86b-48b5-804d-9c7e2984c920",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Pearl Madeline Karimalis",
+        "documentmodifiedwhen": "2022-04-07T07:15:20.982Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Droits de la personne",
+            "Location immobili\u00e8re",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Small Claims Court matters",
+            "Human Rights",
+            "Landlord and Tenant",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14116",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Pearl Madeline Karimalis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4K 2R4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "138851-133294",
+        "sys_site": "lso",
+        "sys_created": "2022-06-14T07:50:04.324Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/015/Newsha-Kariman",
+        "nodeid": 133294,
+        "documentid": 138851,
+        "nodealias": "Newsha-Kariman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "501f8cb5-b3d8-4eef-b3ab-b35c7dd6d4bd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Newsha Kariman",
+        "documentmodifiedwhen": "2022-07-07T07:33:13.26Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18542",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Newsha Kariman",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93416-92144",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:19:50.199Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Farah-Karimi",
+        "nodeid": 92144,
+        "documentid": 93416,
+        "nodealias": "Farah-Karimi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8aa90903-c933-47c6-8644-b99d222b6fff",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Farah Karimi",
+        "documentmodifiedwhen": "2020-02-20T09:15:11.011Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05636",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Farah Karimi",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139950-134338",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T07:55:08.82Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Honey-Asal-Karimi",
+        "nodeid": 134338,
+        "documentid": 139950,
+        "nodealias": "Honey-Asal-Karimi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3ab10c29-fb39-40c2-a6ce-ed3ef8b8d983",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Honey Asal Karimi",
+        "documentmodifiedwhen": "2022-07-07T07:17:08.921Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84919O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Honey Asal Karimi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93417-92145",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:19:53.511Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/050/Jasmine-Shamsuddin-Karimi",
+        "nodeid": 92145,
+        "documentid": 93417,
+        "nodealias": "Jasmine-Shamsuddin-Karimi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ceaa2c87-b544-4766-8c27-adb920a625fd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jasmine Shamsuddin Karimi",
+        "documentmodifiedwhen": "2020-02-20T08:39:35.125Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42043O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jasmine Shamsuddin Karimi",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "128128-124158",
+        "sys_site": "lso",
+        "sys_created": "2021-03-11T07:21:06.502Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Mahabad-Marcia-Karimi",
+        "nodeid": 124158,
+        "documentid": 128128,
+        "nodealias": "Mahabad-Marcia-Karimi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "200633df-f3a1-4aac-aa66-6fbdcd545bf6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mahabad Marcia Karimi",
+        "documentmodifiedwhen": "2021-06-11T07:20:09.883Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17199",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mahabad Marcia Karimi",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118518-115878",
+        "sys_site": "lso",
+        "sys_created": "2019-09-25T07:21:43.416Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Rona-Karimi",
+        "nodeid": 115878,
+        "documentid": 118518,
+        "nodealias": "Rona-Karimi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6288770b-d2d0-4437-a7c3-ee64aa9cab57",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rona Karimi",
+        "documentmodifiedwhen": "2020-02-20T09:41:54.627Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15952",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rona Karimi",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76756-75492",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:08.036Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Laila-Karimi-Hendry",
+        "nodeid": 75492,
+        "documentid": 76756,
+        "nodealias": "Laila-Karimi-Hendry",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "45aac3cc-2e71-46c0-9a21-ad4b02bedabb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Laila Karimi Hendry",
+        "documentmodifiedwhen": "2022-01-05T07:24:10.639Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "55255U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Laila Karimi Hendry",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 2T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76760-75494",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:08.77Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Anna-Victoria-Karimian",
+        "nodeid": 75494,
+        "documentid": 76760,
+        "nodealias": "Anna-Victoria-Karimian",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d379d201-55c1-4001-b1c9-367a12078c8c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anna Victoria Karimian",
+        "documentmodifiedwhen": "2022-02-13T07:20:28.786Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70631N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anna Victoria Karimian",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L5N 1P9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76762-75496",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:11.945Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Kumail-Karimjee",
+        "nodeid": 75496,
+        "documentid": 76762,
+        "nodealias": "Kumail-Karimjee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a42c17fe-bf0b-4bfd-924c-d6037b817b43",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kumail Karimjee",
+        "documentmodifiedwhen": "2021-12-31T07:23:33.731Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42044K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kumail Karimjee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2Y4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76761-75495",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:09.536Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Moiz-Murtaza-Karimjee",
+        "nodeid": 75495,
+        "documentid": 76761,
+        "nodealias": "Moiz-Murtaza-Karimjee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4d61bd7f-876b-488a-a1da-1fe5cd61b86b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Moiz Murtaza Karimjee",
+        "documentmodifiedwhen": "2021-12-30T07:28:54.217Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41887V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Moiz Murtaza Karimjee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K2P 2K1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "114046-112034",
+        "sys_site": "lso",
+        "sys_created": "2019-03-15T07:20:53.014Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Babak-Karimkhani",
+        "nodeid": 112034,
+        "documentid": 114046,
+        "nodealias": "Babak-Karimkhani",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d779b613-8b42-403a-9dbc-7d632392e78c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Babak Karimkhani",
+        "documentmodifiedwhen": "2019-05-09T15:56:37.372Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15376",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Babak Karimkhani",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.7113418579102,
+                43.580249786377
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5M 1L7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76763-75498",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:21.525Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Sherzod-Karimov",
+        "nodeid": 75498,
+        "documentid": 76763,
+        "nodealias": "Sherzod-Karimov",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "249743d5-944a-4cd2-b9a0-ad724785355c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sherzod Karimov",
+        "documentmodifiedwhen": "2022-02-11T07:16:29.223Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Affaires relevant de l'annexe sur les indemnit\u00e9s d'accident l\u00e9gales (AIAL)"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Statutory Accident Benefits Schedule matters (SABS)"
+        ],
+        "memberlanguagenamesfrench": [
+            "Russe"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Russian"
+        ],
+        "membernumber": "73873R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sherzod Karimov",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 6P4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76765-75499",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:21.697Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Liza-Karimzad",
+        "nodeid": 75499,
+        "documentid": 76765,
+        "nodealias": "Liza-Karimzad",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2cedaf1f-0cba-423a-a9b3-8d470d9b7ef2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Liza Karimzad",
+        "documentmodifiedwhen": "2022-03-22T07:16:41.778Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Infractions punissables par proc\u00e9dure sommaire \u00e0 la Cour de justice de l'Ontario",
+            "Indemnit\u00e9s d'accidents du travail",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "\u00c9valuation de taxes fonci\u00e8res",
+            "Affaires relevant de l'annexe sur les indemnit\u00e9s d'accident l\u00e9gales (AIAL)",
+            "Droits de la personne",
+            "Location immobili\u00e8re",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice - Summary Conviction Offences",
+            "Workers' Compensation",
+            "Small Claims Court matters",
+            "Property Tax Assessment",
+            "Statutory Accident Benefits Schedule matters (SABS)",
+            "Human Rights",
+            "Landlord and Tenant",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [
+            "ASL ou LSQ (langue des signes)",
+            "Farsi ou persan",
+            "Hindi",
+            "Ourdou"
+        ],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [
+            "ASL or LSQ (Sign Language)",
+            "Farsi or Persian",
+            "Hindi",
+            "Urdu"
+        ],
+        "membernumber": "P05286",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Liza Karimzad",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L1R 2X0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Whitby"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76766-75497",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:21.885Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Halina-Karimzada",
+        "nodeid": 75497,
+        "documentid": 76766,
+        "nodealias": "Halina-Karimzada",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "af9c837b-16db-4b3e-9a58-485c691ba6ac",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Halina Karimzada",
+        "documentmodifiedwhen": "2021-09-21T09:40:25.666Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13534",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Halina Karimzada",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3393402099609,
+                43.8176078796387
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "L3R 0X1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76764-75500",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:22.417Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Shahram-Karimzadeh",
+        "nodeid": 75500,
+        "documentid": 76764,
+        "nodealias": "Shahram-Karimzadeh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9dd170dc-429c-4ed7-8893-2b39599512a8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shahram Karimzadeh",
+        "documentmodifiedwhen": "2021-12-20T07:16:14.093Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Location immobili\u00e8re"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Small Claims Court matters",
+            "Landlord and Tenant"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11841",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shahram Karimzadeh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4C 0C5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Richmond Hill"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76767-75501",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:22.713Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Caroline-Gathoni-Kariuki",
+        "nodeid": 75501,
+        "documentid": 76767,
+        "nodealias": "Caroline-Gathoni-Kariuki",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cec53dd9-853b-4d1b-aba4-138886197767",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Caroline Gathoni Kariuki",
+        "documentmodifiedwhen": "2021-09-21T09:31:03.036Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13629",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Caroline Gathoni Kariuki",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "122632-119157",
+        "sys_site": "lso",
+        "sys_created": "2020-06-16T07:17:17.724Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Jessica-Liisa-Karjanmaa",
+        "nodeid": 119157,
+        "documentid": 122632,
+        "nodealias": "Jessica-Liisa-Karjanmaa",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d7f6ada2-3e08-4408-b39a-fd9b9c51d00b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jessica Liisa Karjanmaa",
+        "documentmodifiedwhen": "2022-06-11T07:17:02.123Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "79569D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jessica Liisa Karjanmaa",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2W9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "113570-111666",
+        "sys_site": "lso",
+        "sys_created": "2019-01-30T07:27:10.353Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Ramesh-Karkee",
+        "nodeid": 111666,
+        "documentid": 113570,
+        "nodealias": "Ramesh-Karkee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "95684145-a998-41bb-9147-e001f6918063",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ramesh Karkee",
+        "documentmodifiedwhen": "2022-01-15T07:32:04.374Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76282Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ramesh Karkee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M1L 4C3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Scarborough"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "141329-135416",
+        "sys_site": "lso",
+        "sys_created": "2022-07-30T07:52:21.419Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/057/Soheil-Karkhanechi",
+        "nodeid": 135416,
+        "documentid": 141329,
+        "nodealias": "Soheil-Karkhanechi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "307de033-a863-4b50-a452-3220e5733172",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Soheil Karkhanechi",
+        "documentmodifiedwhen": "2022-07-30T07:52:21.419Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85514Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Soheil Karkhanechi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76769-75503",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:23.791Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Mark-Bradley-Karkkainen",
+        "nodeid": 75503,
+        "documentid": 76769,
+        "nodealias": "Mark-Bradley-Karkkainen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "23371892-c914-4715-9015-8c05b83d3652",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mark Bradley Karkkainen",
+        "documentmodifiedwhen": "2022-06-17T07:26:08.001Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24649H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mark Bradley Karkkainen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e)"
+        ],
+        "memberwebstatus": [
+            "Suspended"
+        ],
+        "memberpostalcode": "N3T 2M1",
+        "membercurrentrestrictions": "Y",
+        "membercity": [
+            "Brantford"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139949-134337",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T07:55:03.628Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Danielle-Arella-Karlin",
+        "nodeid": 134337,
+        "documentid": 139949,
+        "nodealias": "Danielle-Arella-Karlin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "59c7ee9a-335d-4b6e-b4c3-ea04a6b38881",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Danielle Arella Karlin",
+        "documentmodifiedwhen": "2022-07-07T07:17:09.548Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84920V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Danielle Arella Karlin",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139940-134328",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T07:54:15.472Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Alexander-Bogh-Karlsen",
+        "nodeid": 134328,
+        "documentid": 139940,
+        "nodealias": "Alexander-Bogh-Karlsen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "63bf8ea3-99e2-4440-ad81-d662f8716e26",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alexander Bogh Karlsen",
+        "documentmodifiedwhen": "2022-07-13T07:15:59.064Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84921R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alexander Bogh Karlsen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76770-75504",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:25.027Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Roy-Frederick-Olaf-John-Karlstedt",
+        "nodeid": 75504,
+        "documentid": 76770,
+        "nodealias": "Roy-Frederick-Olaf-John-Karlstedt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "970cb94c-9ffb-4fab-8cc9-ebe638133d8b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Roy Frederick Olaf John Karlstedt",
+        "documentmodifiedwhen": "2021-12-17T07:27:35.124Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "19936U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Roy Frederick Olaf John Karlstedt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P7C 1A7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Thunder Bay"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93418-92146",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:19:53.966Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/050/Sutapa-Karmakar",
+        "nodeid": 92146,
+        "documentid": 93418,
+        "nodealias": "Sutapa-Karmakar",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "77bf8fca-d0eb-46e3-8af4-956de0f991ee",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sutapa Karmakar",
+        "documentmodifiedwhen": "2020-02-20T08:35:24.232Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "44586T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sutapa Karmakar",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "133206-128632",
+        "sys_site": "lso",
+        "sys_created": "2021-07-15T07:34:37.84Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Allahnah-Karmali",
+        "nodeid": 128632,
+        "documentid": 133206,
+        "nodealias": "Allahnah-Karmali",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "60314bdb-4330-401e-9567-82e6064ca509",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Allahnah Karmali",
+        "documentmodifiedwhen": "2021-10-21T07:18:10.748Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83171K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Allahnah Karmali",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3926467895508,
+                43.6718292236328
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5R 1G2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "136579-131278",
+        "sys_site": "lso",
+        "sys_created": "2022-02-27T07:18:53.618Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/014/Alysha-Karmali",
+        "nodeid": 131278,
+        "documentid": 136579,
+        "nodealias": "Alysha-Karmali",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cc76135c-9675-420a-bf46-bac941b6cf1c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alysha Karmali",
+        "documentmodifiedwhen": "2022-03-09T07:17:35.084Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Gujarati",
+            "Hindi",
+            "Ourdou"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Gujarati",
+            "Hindi",
+            "Urdu"
+        ],
+        "membernumber": "83726G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alysha Karmali",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "H2Y 1B7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Montreal"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76771-75505",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:27.118Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Karima-Nizarali-Mohamedali-Karmali",
+        "nodeid": 75505,
+        "documentid": 76771,
+        "nodealias": "Karima-Nizarali-Mohamedali-Karmali",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "294ce747-030c-4909-8719-ca79d7effae9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karima Nizarali Mohamedali Karmali",
+        "documentmodifiedwhen": "2022-01-06T07:29:54.796Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51962E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karima Nizarali Mohamedali Karmali",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1P 6A4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76772-75506",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:30.228Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Sabrina-Karmali",
+        "nodeid": 75506,
+        "documentid": 76772,
+        "nodealias": "Sabrina-Karmali",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8fd47040-f95d-40a8-a186-4665252a2f45",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sabrina Karmali",
+        "documentmodifiedwhen": "2022-06-15T07:16:29.165Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52565U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sabrina Karmali",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L5A 3V8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "124767-121211",
+        "sys_site": "lso",
+        "sys_created": "2020-08-31T08:26:42.08Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Sean-Alexander-Karmali",
+        "nodeid": 121211,
+        "documentid": 124767,
+        "nodealias": "Sean-Alexander-Karmali",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "33a0f5ad-7848-4929-96a8-cf794e3ccf86",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sean Alexander Karmali",
+        "documentmodifiedwhen": "2022-03-13T07:17:50.321Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80640S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sean Alexander Karmali",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76773-75507",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:31.119Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Mehmet-Karman",
+        "nodeid": 75507,
+        "documentid": 76773,
+        "nodealias": "Mehmet-Karman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "42b39da1-ab88-4542-b654-9d98a16fe981",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mehmet Karman",
+        "documentmodifiedwhen": "2019-07-12T07:21:45.567Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47405W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mehmet Karman",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.6978607177734,
+                45.4365692138672
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "K1A 0G2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "117097-114695",
+        "sys_site": "lso",
+        "sys_created": "2019-06-28T08:21:02.39Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Evan-Andrew-Karmazyn",
+        "nodeid": 114695,
+        "documentid": 117097,
+        "nodealias": "Evan-Andrew-Karmazyn",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "65fb7860-c8ae-4a12-b461-949c74b1a7da",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Evan Andrew Karmazyn",
+        "documentmodifiedwhen": "2021-03-31T12:16:28.508Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77691I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Evan Andrew Karmazyn",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6930160522461,
+                44.389591217041
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4N 1T2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Barrie"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "48216-46942",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T16:20:14.29Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/007/Iryna-Karmazyn",
+        "nodeid": 46942,
+        "documentid": 48216,
+        "nodealias": "Iryna-Karmazyn",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "934206ff-2b4f-4a81-b91d-d9f5c760feb2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Iryna Karmazyn",
+        "documentmodifiedwhen": "2021-06-22T07:20:43.832Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06411",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Iryna Karmazyn",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -76.9500045776367,
+                44.2483787536621
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "K7R 1R2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Napanee"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76775-75508",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:39.826Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Bernice-Mabelle-Karn",
+        "nodeid": 75508,
+        "documentid": 76775,
+        "nodealias": "Bernice-Mabelle-Karn",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4dee693c-94ad-4dcc-a97b-d4b231043c94",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Bernice Mabelle Karn",
+        "documentmodifiedwhen": "2022-02-24T07:16:06.258Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25846K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Bernice Mabelle Karn",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76774-75510",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:40.405Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Robert-Bruce-Karn",
+        "nodeid": 75510,
+        "documentid": 76774,
+        "nodealias": "Robert-Bruce-Karn",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b1bb33e5-e890-438f-b49c-ab2ca75f623b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Bruce Karn",
+        "documentmodifiedwhen": "2022-01-08T07:24:51.68Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58616K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Bruce Karn",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L4Y 1M4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93419-92147",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:19:54.451Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/050/Anju-G-Karna",
+        "nodeid": 92147,
+        "documentid": 93419,
+        "nodealias": "Anju-G-Karna",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b424d14b-dd06-439f-a259-cd2b5e89aaea",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anju G Karna",
+        "documentmodifiedwhen": "2021-12-28T07:23:10.039Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36756J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anju G Karna",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76776-75511",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:40.858Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Ramesh-Kumar-Karnani",
+        "nodeid": 75511,
+        "documentid": 76776,
+        "nodealias": "Ramesh-Kumar-Karnani",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "68bfde11-e0df-4a90-be21-1715bf36da70",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ramesh Kumar Karnani",
+        "documentmodifiedwhen": "2021-12-18T07:26:09.884Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Location immobili\u00e8re",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Small Claims Court matters",
+            "Landlord and Tenant",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08123",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ramesh Kumar Karnani",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4Z 3E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76778-75512",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:41.092Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Diane-Lorraine-Karnay",
+        "nodeid": 75512,
+        "documentid": 76778,
+        "nodealias": "Diane-Lorraine-Karnay",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "89fe2915-e950-40e3-b249-9c22beeea887",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Diane Lorraine Karnay",
+        "documentmodifiedwhen": "2021-12-24T07:16:25.356Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26240N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Diane Lorraine Karnay",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4T 1C6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93420-92148",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:19:55.388Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/050/Susan-Mary-Karnay",
+        "nodeid": 92148,
+        "documentid": 93420,
+        "nodealias": "Susan-Mary-Karnay",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9b267ca8-a66a-4578-adbe-4e73961d1253",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Susan Mary Karnay",
+        "documentmodifiedwhen": "2022-03-03T13:14:26.889Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37150M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Susan Mary Karnay",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M6K 3J8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "134977-130064",
+        "sys_site": "lso",
+        "sys_created": "2021-11-09T07:26:06.102Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/022/Eashan-Sanjay-Karnik",
+        "nodeid": 130064,
+        "documentid": 134977,
+        "nodealias": "Eashan-Sanjay-Karnik",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e5a6ced1-0219-46e2-a161-f04c1aa18420",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eashan Sanjay Karnik",
+        "documentmodifiedwhen": "2022-03-23T07:15:55.458Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83518B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eashan Sanjay Karnik",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93421-92149",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:19:55.935Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/050/Nicholas-Alexis-Karnis",
+        "nodeid": 92149,
+        "documentid": 93421,
+        "nodealias": "Nicholas-Alexis-Karnis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bc0880d5-f56c-4a5c-b766-a709129e11ae",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nicholas Alexis Karnis",
+        "documentmodifiedwhen": "2022-06-17T07:24:28.442Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "35515A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nicholas Alexis Karnis",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e) (restriction \u00e0 la pratique)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed (Practice Restricted)"
+        ],
+        "memberpostalcode": "K0A 1L0",
+        "membercurrentrestrictions": "Y",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "133002-128429",
+        "sys_site": "lso",
+        "sys_created": "2021-07-01T07:45:24.81Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Matthew-Karol",
+        "nodeid": 128429,
+        "documentid": 133002,
+        "nodealias": "Matthew-Karol",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "519efcc6-5d32-4251-98d3-fb5536bff80d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Matthew Karol",
+        "documentmodifiedwhen": "2021-07-10T07:23:50.726Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83044D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Matthew Karol",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76779-75513",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:41.545Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Robert-Henry-Karol",
+        "nodeid": 75513,
+        "documentid": 76779,
+        "nodealias": "Robert-Henry-Karol",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a1331a94-da66-4202-b03a-bdd771657d4e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Henry Karol",
+        "documentmodifiedwhen": "2021-12-24T07:26:29.543Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27356H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Henry Karol",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 6P4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93422-92151",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:19:59.829Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/050/Shaheen-Karolia",
+        "nodeid": 92151,
+        "documentid": 93422,
+        "nodealias": "Shaheen-Karolia",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "93290250-7790-430c-a7ba-7fda461024fd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shaheen Karolia",
+        "documentmodifiedwhen": "2020-02-20T08:48:48.525Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59514Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shaheen Karolia",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76780-75514",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:42.233Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Mark-Leonard-Karoly",
+        "nodeid": 75514,
+        "documentid": 76780,
+        "nodealias": "Mark-Leonard-Karoly",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7eca1ca0-4493-438f-bf14-53cf47dc58c9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mark Leonard Karoly",
+        "documentmodifiedwhen": "2022-01-21T07:16:20.829Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "28087D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mark Leonard Karoly",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 5X3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76781-75515",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:42.811Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Michelle-Aliza-Karoly",
+        "nodeid": 75515,
+        "documentid": 76781,
+        "nodealias": "Michelle-Aliza-Karoly",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "51bb93a5-04ff-473e-879c-2f44681005e3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michelle Aliza Karoly",
+        "documentmodifiedwhen": "2021-12-31T07:17:49.489Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43279J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michelle Aliza Karoly",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6B 3A7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93423-92150",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:19:59.657Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/050/Robert-Karoly",
+        "nodeid": 92150,
+        "documentid": 93423,
+        "nodealias": "Robert-Karoly",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "73df1d00-85a6-4978-b872-4e86ebc3695a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Karoly",
+        "documentmodifiedwhen": "2021-12-14T07:51:36.731Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "14027L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Karoly",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93424-92152",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:20:00Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/050/Christos-Karopoulos",
+        "nodeid": 92152,
+        "documentid": 93424,
+        "nodealias": "Christos-Karopoulos",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7b59ee9a-5846-47a5-9a06-a60fd87b1d40",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christos Karopoulos",
+        "documentmodifiedwhen": "2020-07-10T07:16:17.85Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75542W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christos Karopoulos",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76782-75516",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:44.577Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Yanir-Karov",
+        "nodeid": 75516,
+        "documentid": 76782,
+        "nodealias": "Yanir-Karov",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a2ad091e-ce7d-43f2-9baf-4edcbe37f3ec",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Yanir Karov",
+        "documentmodifiedwhen": "2022-01-02T07:27:06.322Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49045O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Yanir Karov",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5X 1A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76783-75517",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:55.485Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Allen-Karp",
+        "nodeid": 75517,
+        "documentid": 76783,
+        "nodealias": "Allen-Karp",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f658fd17-1866-4d00-a832-6c54d0152990",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Allen Karp",
+        "documentmodifiedwhen": "2022-05-28T07:20:49.842Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "10449W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Allen Karp",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76786-75519",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:55.782Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Eliezer-Karp",
+        "nodeid": 75519,
+        "documentid": 76786,
+        "nodealias": "Eliezer-Karp",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c6304391-c9df-4d14-9aa2-0c90a3296f43",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eliezer Karp",
+        "documentmodifiedwhen": "2022-05-18T07:18:25.171Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54317P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eliezer Karp",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6C 2E3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93427-92155",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:20:04.243Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/050/Erez-Karp",
+        "nodeid": 92155,
+        "documentid": 93427,
+        "nodealias": "Erez-Karp",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "200a83b1-fb77-4321-b32e-7901c34c675f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Erez Karp",
+        "documentmodifiedwhen": "2021-12-14T10:49:46.321Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25847G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Erez Karp",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105754-104482",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T09:50:48.089Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Kenneth-Nathan-Karp",
+        "nodeid": 104482,
+        "documentid": 105754,
+        "nodealias": "Kenneth-Nathan-Karp",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4f8f318f-831f-4d87-9b0d-56373dd7fd4a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kenneth Nathan Karp",
+        "documentmodifiedwhen": "2021-12-14T07:52:49.308Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "09389I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kenneth Nathan Karp",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "D\u00e9c\u00e9d\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Deceased"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76784-75518",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:55.173Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Witnee-Kuzzy-Karp",
+        "nodeid": 75518,
+        "documentid": 76784,
+        "nodealias": "Witnee-Kuzzy-Karp",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "74190ae3-8325-481a-8ef4-06f5bc6b95bc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Witnee Kuzzy Karp",
+        "documentmodifiedwhen": "2019-05-08T15:53:52.111Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P12557",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Witnee Kuzzy Karp",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4418182373047,
+                43.7641296386719
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M2R 3V2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76787-75520",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:56.079Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Levi-David-Karpa",
+        "nodeid": 75520,
+        "documentid": 76787,
+        "nodealias": "Levi-David-Karpa",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bf3ca4f8-780b-4c05-bfa4-ffc79d876aa9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Levi David Karpa",
+        "documentmodifiedwhen": "2021-09-21T08:34:31.679Z",
+        "skuname": null,
+        "memberprovincetext": "Northwest Territories",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69658T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Levi David Karpa",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -114.372711181641,
+                62.4530487060547
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "X1A 2N1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Yellowknife"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76788-75522",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:56.413Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Christopher-George-Peter-Karpacz",
+        "nodeid": 75522,
+        "documentid": 76788,
+        "nodealias": "Christopher-George-Peter-Karpacz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "94530d5f-bf14-4ef3-910a-1214390e0ebb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher George Peter Karpacz",
+        "documentmodifiedwhen": "2021-09-21T08:26:44.559Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60480A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher George Peter Karpacz",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4597396850586,
+                43.7161903381348
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6A 2V2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "138519-132962",
+        "sys_site": "lso",
+        "sys_created": "2022-06-14T07:18:06.14Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/012/Lindsay-Katherine-Karpetz",
+        "nodeid": 132962,
+        "documentid": 138519,
+        "nodealias": "Lindsay-Katherine-Karpetz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "578a1aef-13d0-46c1-81dd-b1b3f7f68506",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lindsay Katherine Karpetz",
+        "documentmodifiedwhen": "2022-07-07T07:23:21.467Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84359E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lindsay Katherine Karpetz",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "45612-44343",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T14:36:27.801Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/020/Helen-Nikoleta-Karpouzos",
+        "nodeid": 44343,
+        "documentid": 45612,
+        "nodealias": "Helen-Nikoleta-Karpouzos",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9f485a1e-eef6-4520-b8bc-32f53e3ba645",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Helen-Nikoleta Karpouzos",
+        "documentmodifiedwhen": "2022-01-09T07:26:34.848Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61564U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Helen-Nikoleta Karpouzos",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N9A 4J2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Windsor"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93426-92154",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:20:03.915Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/050/Avril-Leigh-Karr",
+        "nodeid": 92154,
+        "documentid": 93426,
+        "nodealias": "Avril-Leigh-Karr",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "43e3fd69-a340-46a8-9baa-b12f0225bc85",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Avril Leigh Karr",
+        "documentmodifiedwhen": "2021-12-14T08:43:29.944Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "23415E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Avril Leigh Karr",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76785-75521",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:56.173Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Stephen-Michael-Karr",
+        "nodeid": 75521,
+        "documentid": 76785,
+        "nodealias": "Stephen-Michael-Karr",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "617e49a9-0f0f-4647-81cd-a3b04ad95b0f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephen Michael Karr",
+        "documentmodifiedwhen": "2022-02-03T07:16:11.959Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27357D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephen Michael Karr",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 5X3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "138051-132632",
+        "sys_site": "lso",
+        "sys_created": "2022-05-19T09:19:38.906Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/015/Alyssa-Jean-Karrandjas",
+        "nodeid": 132632,
+        "documentid": 138051,
+        "nodealias": "Alyssa-Jean-Karrandjas",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "959c2c34-5abf-4903-8244-6612af77c533",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alyssa Jean Karrandjas",
+        "documentmodifiedwhen": "2022-06-07T07:17:12.424Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18473",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alyssa Jean Karrandjas",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76791-75525",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:34:05.375Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Eric-Ludwig-Karrandjas",
+        "nodeid": 75525,
+        "documentid": 76791,
+        "nodealias": "Eric-Ludwig-Karrandjas",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e2d9b491-677a-45a7-ac23-2d5c28be8cad",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eric Ludwig Karrandjas",
+        "documentmodifiedwhen": "2022-06-11T07:17:33.784Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64454A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eric Ludwig Karrandjas",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5L 1G9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93428-92156",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:20:04.993Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/050/Nanci-Ruth-Karrandjas",
+        "nodeid": 92156,
+        "documentid": 93428,
+        "nodealias": "Nanci-Ruth-Karrandjas",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2e0e4388-9105-4499-996d-06604ca33f44",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nanci Ruth Karrandjas",
+        "documentmodifiedwhen": "2020-02-20T08:45:43.656Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47828E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nanci Ruth Karrandjas",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76789-75523",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:33:57.074Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Robert-Henry-Karrass",
+        "nodeid": 75523,
+        "documentid": 76789,
+        "nodealias": "Robert-Henry-Karrass",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "aa58a15a-908e-4952-85b0-6828f2966d65",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Henry Karrass",
+        "documentmodifiedwhen": "2022-01-11T07:29:10.993Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Russe"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Russian"
+        ],
+        "membernumber": "65563W",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Robert Henry Karrass",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4J 1V9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Thornhill"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93429-92157",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:20:05.837Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/050/Suzanne-Elisabeth-Karrer",
+        "nodeid": 92157,
+        "documentid": 93429,
+        "nodealias": "Suzanne-Elisabeth-Karrer",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cf1cf425-383c-4bca-a1eb-0a6f37436bf6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Suzanne Elisabeth Karrer",
+        "documentmodifiedwhen": "2021-09-21T07:48:34.3Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36555K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Suzanne Elisabeth Karrer",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76790-75524",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:34:01.844Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Al-Karim-Karsan",
+        "nodeid": 75524,
+        "documentid": 76790,
+        "nodealias": "Al-Karim-Karsan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "26d640c2-36a7-4202-a2ce-b121494afc3f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Al-Karim Karsan",
+        "documentmodifiedwhen": "2021-12-29T07:26:06.306Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37151I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Al-Karim Karsan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5A 2V9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76792-75527",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:34:09.098Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Alia-Sultana-Karsan",
+        "nodeid": 75527,
+        "documentid": 76792,
+        "nodealias": "Alia-Sultana-Karsan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9cac40af-cbe8-487a-89b7-36e67655d472",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alia Sultana Karsan",
+        "documentmodifiedwhen": "2022-01-07T07:25:16.376Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "53733O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alia Sultana Karsan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 3L1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76795-75526",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:34:09.192Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Fern-Margaret-Karsh",
+        "nodeid": 75526,
+        "documentid": 76795,
+        "nodealias": "Fern-Margaret-Karsh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3fda9f58-df79-47c2-a7a5-a2102620d572",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Fern Margaret Karsh",
+        "documentmodifiedwhen": "2022-01-27T07:16:27.584Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "55559U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Fern Margaret Karsh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M2N 6S6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76794-75528",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:34:09.504Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Mira-Karshan",
+        "nodeid": 75528,
+        "documentid": 76794,
+        "nodealias": "Mira-Karshan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c4461947-0f11-4475-986c-42cde4180077",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mira Karshan",
+        "documentmodifiedwhen": "2021-12-23T07:23:59.198Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49817N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mira Karshan",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0G2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76793-75529",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:34:09.939Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Peter-James-Karsten",
+        "nodeid": 75529,
+        "documentid": 76793,
+        "nodealias": "Peter-James-Karsten",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d902ef84-9407-4a29-90b2-2fd006941912",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Peter James Karsten",
+        "documentmodifiedwhen": "2022-01-08T07:27:56.138Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59629D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Peter James Karsten",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N3Y 4N5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Simcoe"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93431-92158",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:20:08.957Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/050/Bruce-Barry-Karten",
+        "nodeid": 92158,
+        "documentid": 93431,
+        "nodealias": "Bruce-Barry-Karten",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "be92d4fe-3a88-4369-89b9-388f8ea5869b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Bruce Barry Karten",
+        "documentmodifiedwhen": "2021-12-14T07:33:35.926Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "11992E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Bruce Barry Karten",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93430-92160",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:20:09.035Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Kanagasingham-Karthigesu",
+        "nodeid": 92160,
+        "documentid": 93430,
+        "nodealias": "Kanagasingham-Karthigesu",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7e31a6e2-ce5a-46af-8108-3d53be27c30b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kanagasingham Karthigesu",
+        "documentmodifiedwhen": "2022-07-17T07:15:44.578Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P00940",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kanagasingham Karthigesu",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Eligible to Provide Legal Services - No Proof of Insurance"
+        ],
+        "memberpostalcode": "N2G 2M2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kitchener"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76797-75531",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:34:11.331Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Aviv-Kartuz",
+        "nodeid": 75531,
+        "documentid": 76797,
+        "nodealias": "Aviv-Kartuz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0ec6f822-06fc-4367-9fa3-00e5d2b0e197",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Aviv Kartuz",
+        "documentmodifiedwhen": "2022-01-11T07:24:24.822Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65564S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Aviv Kartuz",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M2M 4G3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76796-75530",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:34:10.143Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Guy-Kartuz",
+        "nodeid": 75530,
+        "documentid": 76796,
+        "nodealias": "Guy-Kartuz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "09ea26c7-6f44-41b4-8ded-61f6eb963fd6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Guy Kartuz",
+        "documentmodifiedwhen": "2022-01-08T07:18:59.205Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58308P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Guy Kartuz",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L5W 0E5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76798-75532",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:34:12.323Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Michal-Kartuz",
+        "nodeid": 75532,
+        "documentid": 76798,
+        "nodealias": "Michal-Kartuz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cb388345-2a84-41bf-b62c-b4dc8b7a3c92",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michal Kartuz",
+        "documentmodifiedwhen": "2020-02-20T08:56:27.522Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65565O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michal Kartuz",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76800-75534",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:34:17.796Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Karen-Jane-Karuna",
+        "nodeid": 75534,
+        "documentid": 76800,
+        "nodealias": "Karen-Jane-Karuna",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a8413100-8d49-4760-8106-653c7d3dd0af",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karen Jane Karuna",
+        "documentmodifiedwhen": "2021-09-21T09:07:25.562Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06329",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karen Jane Karuna",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.868278503418,
+                43.2557754516602
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L8N 3Z1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76799-75533",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:34:12.682Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Robin-Karuna",
+        "nodeid": 75533,
+        "documentid": 76799,
+        "nodealias": "Robin-Karuna",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c2c3d39a-86a2-4bdc-a0f5-e402c4cb6040",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robin Karuna",
+        "documentmodifiedwhen": "2021-06-09T07:33:41.626Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06160",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robin Karuna",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.6959838867188,
+                45.3874816894531
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "K1S 5B6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76805-75536",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:34:25.824Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Chandima-Sandunmalee-Karunanayaka",
+        "nodeid": 75536,
+        "documentid": 76805,
+        "nodealias": "Chandima-Sandunmalee-Karunanayaka",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9bce5dbf-938b-44e0-b676-aa4718fa62c7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Chandima Sandunmalee Karunanayaka",
+        "documentmodifiedwhen": "2022-07-05T07:17:13.536Z",
+        "skuname": null,
+        "memberprovincetext": "Nova Scotia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71962S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Chandima Sandunmalee Karunanayaka",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "B3B 0A7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Halifax"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93432-92159",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:20:09.254Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/050/Athanassios-Karvanis",
+        "nodeid": 92159,
+        "documentid": 93432,
+        "nodealias": "Athanassios-Karvanis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6656a01c-7c79-4cb1-bf23-bb69946b0486",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Athanassios Karvanis",
+        "documentmodifiedwhen": "2021-12-14T08:55:28.663Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "22070R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Athanassios Karvanis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76801-75535",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:34:25.871Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Paul-Alexander-Karvanis",
+        "nodeid": 75535,
+        "documentid": 76801,
+        "nodealias": "Paul-Alexander-Karvanis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d051d789-c05d-489a-8bfa-2c904164a9a4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paul Alexander Karvanis",
+        "documentmodifiedwhen": "2022-04-05T07:18:00.908Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59323L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paul Alexander Karvanis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "M5C 2V8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76802-75537",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:34:26.3Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Karen-Rifka-Karvat",
+        "nodeid": 75537,
+        "documentid": 76802,
+        "nodealias": "Karen-Rifka-Karvat",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dd03c74d-5b9a-48da-9010-5adf06592bff",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karen Rifka Karvat",
+        "documentmodifiedwhen": "2022-01-02T07:21:22.357Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47829A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karen Rifka Karvat",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L3Y 4X7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Newmarket"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93433-92161",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:20:11.332Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Ekaterina-Karvelis",
+        "nodeid": 92161,
+        "documentid": 93433,
+        "nodealias": "Ekaterina-Karvelis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b950c549-8b96-4c85-863b-4102a93d9863",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ekaterina Karvelis",
+        "documentmodifiedwhen": "2020-02-20T09:26:03.946Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P12872",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ekaterina Karvelis",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    }
+]

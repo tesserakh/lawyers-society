@@ -1,0 +1,5154 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "85841-84568",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T05:52:08.593Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Phillip-Michael-Dempsey",
+        "nodeid": 84568,
+        "documentid": 85841,
+        "nodealias": "Phillip-Michael-Dempsey",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e7da8ed8-2c40-4839-acb2-968c85acf277",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Phillip Michael Dempsey",
+        "documentmodifiedwhen": "2020-02-20T08:14:38.565Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30382E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Phillip Michael Dempsey",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19049-18207",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:34:26.233Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Wendy-Maureen-Dempsey",
+        "nodeid": 18207,
+        "documentid": 19049,
+        "nodealias": "Wendy-Maureen-Dempsey",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e118eee8-4076-49de-bd01-1a94816a8ca8",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Wendy Maureen Dempsey",
+        "documentmodifiedwhen": "2021-12-22T07:19:24.283Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24737L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Wendy Maureen Dempsey",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1Z 1A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19053-18211",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:35:16.682Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/008/Benjamin-Brodie-Dempster",
+        "nodeid": 18211,
+        "documentid": 19053,
+        "nodealias": "Benjamin-Brodie-Dempster",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b0f8a5cb-468b-4df7-9d44-a7d074eadc97",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Benjamin Brodie Dempster",
+        "documentmodifiedwhen": "2021-09-21T08:54:42.373Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P10621",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Benjamin Brodie Dempster",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.9766540527344,
+                44.3620986938477
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L0M 1N0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "New Lowell"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19054-18212",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:35:29.215Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/008/Carlene-Alecia-Dempster",
+        "nodeid": 18212,
+        "documentid": 19054,
+        "nodealias": "Carlene-Alecia-Dempster",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ef587e82-33fe-4d79-a793-7bf23d4459dc",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Carlene Alecia Dempster",
+        "documentmodifiedwhen": "2019-05-07T15:33:34.064Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P10633",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Carlene Alecia Dempster",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -78.9424819946289,
+                43.8796272277832
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L1N 2M2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Whitby"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19055-18213",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:35:41.541Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/George-Graeme-Gibson-Dempster",
+        "nodeid": 18213,
+        "documentid": 19055,
+        "nodealias": "George-Graeme-Gibson-Dempster",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3a817b27-9c2d-468c-a782-ec80a3270897",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "George Graeme Gibson Dempster",
+        "documentmodifiedwhen": "2020-03-09T07:15:51.138Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit commercial et corporatifes",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Corporate/Commercial Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "12355S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "George Graeme Gibson Dempster",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -76.9506607055664,
+                44.2486953735352
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K7R 3M4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Napanee"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19056-18214",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:35:53.037Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/John-David-Dempster",
+        "nodeid": 18214,
+        "documentid": 19056,
+        "nodealias": "John-David-Dempster",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0894c053-bedc-45e2-a529-996e31ca7f75",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John David Dempster",
+        "documentmodifiedwhen": "2021-12-28T07:20:59.47Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36355H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John David Dempster",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1G 4Z7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19057-18215",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:36:04.489Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/William-Duncan-Dempster",
+        "nodeid": 18215,
+        "documentid": 19057,
+        "nodealias": "William-Duncan-Dempster",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0027a832-6210-436f-b287-7a4a6e81d7f5",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "William Duncan Dempster",
+        "documentmodifiedwhen": "2022-01-02T07:18:53.832Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46235N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "William Duncan Dempster",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1P 5G4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "85842-84570",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T05:52:09.11Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Sylvia-Victoria-Demshar",
+        "nodeid": 84570,
+        "documentid": 85842,
+        "nodealias": "Sylvia-Victoria-Demshar",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "93cbf873-44f8-4c7e-828e-8e1486b6cc21",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sylvia Victoria Demshar",
+        "documentmodifiedwhen": "2021-12-14T07:52:24.092Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "14180Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sylvia Victoria Demshar",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "85843-84571",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T05:52:11.897Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Sandra-Ragland-Demson",
+        "nodeid": 84571,
+        "documentid": 85843,
+        "nodealias": "Sandra-Ragland-Demson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "105eec91-5468-4f59-a5be-659adf34b028",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sandra Ragland Demson",
+        "documentmodifiedwhen": "2022-05-28T07:37:11.199Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32209K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sandra Ragland Demson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "115276-112995",
+        "sys_site": "lso",
+        "sys_created": "2019-05-08T07:17:37.394Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Margo-Lorena-Den-Haan",
+        "nodeid": 112995,
+        "documentid": 115276,
+        "nodealias": "Margo-Lorena-Den-Haan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "50e20695-6d46-486c-8961-b5b0e22b750d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Margo Lorena Den Haan",
+        "documentmodifiedwhen": "2022-01-29T07:16:22.766Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46448V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Margo Lorena Den Haan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M7A 1R1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19058-18216",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:36:17.441Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Norine-Elizabeth-Den-Otter",
+        "nodeid": 18216,
+        "documentid": 19058,
+        "nodealias": "Norine-Elizabeth-Den-Otter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "368394f2-e2c7-4d5b-8227-eeec7df1ed6d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Norine Elizabeth Den Otter",
+        "documentmodifiedwhen": "2021-11-05T07:40:44.991Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "34993B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Norine Elizabeth Den Otter",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -123.123397827148,
+                49.2869720458984
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "V6E 4S3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vancouver"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33445-32181",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:51:34.109Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Veadmattie-Amanda-Denanauth",
+        "nodeid": 32181,
+        "documentid": 33445,
+        "nodealias": "Veadmattie-Amanda-Denanauth",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "081b4ca0-282d-416b-a640-a7e073b323dd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Veadmattie Amanda Denanauth",
+        "documentmodifiedwhen": "2021-12-22T07:24:30.48Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13153",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Veadmattie Amanda Denanauth",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L1V 7G5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Pickering"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "109969-108525",
+        "sys_site": "lso",
+        "sys_created": "2018-09-29T06:34:18.534Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/David-Michael-DeNardi",
+        "nodeid": 108525,
+        "documentid": 109969,
+        "nodealias": "David-Michael-DeNardi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "be4b21b9-dbf0-4507-93e1-b1e59ba75f92",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Michael DeNardi",
+        "documentmodifiedwhen": "2021-11-06T07:19:00.113Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14876",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Michael DeNardi",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -80.0977325439453,
+                43.9220352172852
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L9W 2C8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Orangeville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130232-125866",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T10:42:15.734Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Carolyn-Leona-Denault",
+        "nodeid": 125866,
+        "documentid": 130232,
+        "nodealias": "Carolyn-Leona-Denault",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "74d583a4-d30d-4507-8d99-966847af8326",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Carolyn Leona Denault",
+        "documentmodifiedwhen": "2022-01-18T12:04:19.398Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81657S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Carolyn Leona Denault",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5L 1A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19059-18217",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:36:29.375Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/008/Michelle-Catherine-Denault",
+        "nodeid": 18217,
+        "documentid": 19059,
+        "nodealias": "Michelle-Catherine-Denault",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b58db31f-5b77-453f-94eb-80cc33109c4d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michelle Catherine Denault",
+        "documentmodifiedwhen": "2021-09-21T08:51:41.454Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08445",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michelle Catherine Denault",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -76.1184158325195,
+                45.1323394775391
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "K7C 0A8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Carleton Place"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19060-18218",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:36:41.882Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Christine-Helen-Karen-Denbok",
+        "nodeid": 18218,
+        "documentid": 19060,
+        "nodealias": "Christine-Helen-Karen-Denbok",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8b52e2b8-2aa3-4e5c-b14c-99e7136a39ad",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christine Helen Karen Denbok",
+        "documentmodifiedwhen": "2021-12-27T07:28:02.295Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "34639U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christine Helen Karen Denbok",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N2H 6P1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kitchener"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "85844-84572",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T05:52:12.43Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Pamala-Sue-Denby-Tucker",
+        "nodeid": 84572,
+        "documentid": 85844,
+        "nodealias": "Pamala-Sue-Denby-Tucker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4d3de2bd-c01b-41be-9fbf-eb11ebaa1b25",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Pamala Sue Denby-Tucker",
+        "documentmodifiedwhen": "2021-04-09T07:18:54.14Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09171",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Pamala Sue Denby-Tucker",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19061-18219",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:36:52.984Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/008/Eugeni-Denchik",
+        "nodeid": 18219,
+        "documentid": 19061,
+        "nodealias": "Eugeni-Denchik",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c24f127d-0093-454b-bdfe-9f1f3b1ae23f",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eugeni Denchik",
+        "documentmodifiedwhen": "2021-12-19T07:25:00.581Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Affaires relevant de l'annexe sur les indemnit\u00e9s d'accident l\u00e9gales (AIAL)",
+            "Location immobili\u00e8re"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Small Claims Court matters",
+            "Statutory Accident Benefits Schedule matters (SABS)",
+            "Landlord and Tenant"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P10960",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eugeni Denchik",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 5W9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19062-18220",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:37:04.796Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Natalia-Denchik",
+        "nodeid": 18220,
+        "documentid": 19062,
+        "nodealias": "Natalia-Denchik",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1ea801a5-e4a7-4a4d-afe3-71eacd0bec75",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Natalia Denchik",
+        "documentmodifiedwhen": "2022-01-02T07:28:48.624Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50317R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Natalia Denchik",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 5W9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19063-18221",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:37:16.539Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/David-Emile-Dendooven",
+        "nodeid": 18221,
+        "documentid": 19063,
+        "nodealias": "David-Emile-Dendooven",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "602c5776-04d5-4d51-9940-f52ce014e409",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Emile Dendooven",
+        "documentmodifiedwhen": "2019-05-11T07:17:18.994Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41108U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Emile Dendooven",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.72021484375,
+                45.4252738952637
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "J8X 4B3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Gatineau"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19064-18222",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:37:28.809Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Simon-Joseph-Martin-Deneau",
+        "nodeid": 18222,
+        "documentid": 19064,
+        "nodealias": "Simon-Joseph-Martin-Deneau",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7ee7cd55-b3bd-4125-b549-4e644c6435d7",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Simon Joseph Martin Deneau",
+        "documentmodifiedwhen": "2022-01-29T07:16:46.717Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69599B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Simon Joseph Martin Deneau",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0R5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "85846-84574",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T05:52:14.712Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Ching-Bee-Deng",
+        "nodeid": 84574,
+        "documentid": 85846,
+        "nodealias": "Ching-Bee-Deng",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "638aca10-f864-49b3-ae9d-951a2ea45fc5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ching Bee Deng",
+        "documentmodifiedwhen": "2021-11-05T07:33:18.392Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "19840C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ching Bee Deng",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "115804-113425",
+        "sys_site": "lso",
+        "sys_created": "2019-06-20T07:38:19.06Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Emily-Yu-Meng-Deng",
+        "nodeid": 113425,
+        "documentid": 115804,
+        "nodealias": "Emily-Yu-Meng-Deng",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "17bd91f5-6be0-46c9-944b-eeaa2ed372b1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Emily Yu Meng Deng",
+        "documentmodifiedwhen": "2020-04-30T07:22:41.536Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76559W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Emily Yu Meng Deng",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19065-18223",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:37:41.536Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Kai-Deng",
+        "nodeid": 18223,
+        "documentid": 19065,
+        "nodealias": "Kai-Deng",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b8ba2153-adb2-411c-b545-797953b72c70",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kai Deng",
+        "documentmodifiedwhen": "2022-04-01T07:18:02.452Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit commercial et corporatifes",
+            "Droit immobilier"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Corporate/Commercial Law",
+            "Real Estate Law"
+        ],
+        "memberlanguagenamesfrench": [
+            "Mandarin"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Mandarin"
+        ],
+        "membernumber": "66869C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kai Deng",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2J 4V6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "125422-121689",
+        "sys_site": "lso",
+        "sys_created": "2020-09-29T07:18:18.306Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Xi-Deng",
+        "nodeid": 121689,
+        "documentid": 125422,
+        "nodealias": "Xi-Deng",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1d3afd42-af10-44f2-8b5e-2b4f1b673cba",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Xi Deng",
+        "documentmodifiedwhen": "2022-01-17T07:25:08.875Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80820K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Xi Deng",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4N 3N1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19068-18226",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:38:19.036Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Karen-Elizabeth-Osachoff-Denham",
+        "nodeid": 18226,
+        "documentid": 19068,
+        "nodealias": "Karen-Elizabeth-Osachoff-Denham",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "583b9d0d-e9f2-4c83-8f18-bcfd62439b9e",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karen Elizabeth Osachoff Denham",
+        "documentmodifiedwhen": "2022-01-09T07:26:22.541Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61832Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karen Elizabeth Osachoff Denham",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L3V 6H6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Rama"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19069-18227",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:38:32.263Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Marc-Charles-Denhez",
+        "nodeid": 18227,
+        "documentid": 19069,
+        "nodealias": "Marc-Charles-Denhez",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1ca07376-cdeb-438d-9d69-35f1adcf88a4",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marc Charles Denhez",
+        "documentmodifiedwhen": "2021-12-17T07:26:00.602Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "18308K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marc Charles Denhez",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K2K 2R3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kanata"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19070-18228",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:38:43.86Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Thomas-Jeffrey-Denholm",
+        "nodeid": 18228,
+        "documentid": 19070,
+        "nodealias": "Thomas-Jeffrey-Denholm",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b8b24991-16a5-44f6-aad2-911dfd9a4bbf",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Thomas Jeffrey Denholm",
+        "documentmodifiedwhen": "2022-06-17T07:25:33.477Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38836K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Thomas Jeffrey Denholm",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e)"
+        ],
+        "memberwebstatus": [
+            "Suspended"
+        ],
+        "memberpostalcode": "P0C 1J0",
+        "membercurrentrestrictions": "Y",
+        "membercity": [
+            "Rosseau"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "85847-84575",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T05:52:16.65Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Kirstie-Ali-DeNicola",
+        "nodeid": 84575,
+        "documentid": 85847,
+        "nodealias": "Kirstie-Ali-DeNicola",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d1f20807-c81a-4731-824a-ff212d166746",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kirstie Ali DeNicola",
+        "documentmodifiedwhen": "2020-05-01T07:17:18.069Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09425",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kirstie Ali DeNicola",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "64504-63231",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T20:05:04.328Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Carl-Joseph-Jean-Denis",
+        "nodeid": 63231,
+        "documentid": 64504,
+        "nodealias": "Carl-Joseph-Jean-Denis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "46c480e8-9d00-4115-85ab-60646a092ea5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Carl Joseph Jean Denis",
+        "documentmodifiedwhen": "2019-05-08T14:36:17.307Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "40182I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Carl Joseph Jean Denis",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.6870803833008,
+                45.4249229431152
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1N 6N5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19074-18232",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:39:28.17Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Louis-Philippe-Joseph-Denis",
+        "nodeid": 18232,
+        "documentid": 19074,
+        "nodealias": "Louis-Philippe-Joseph-Denis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5068e4c0-43cd-430e-a575-7ad796b0a33f",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Louis-Philippe Joseph Denis",
+        "documentmodifiedwhen": "2022-01-05T07:19:22.068Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56197J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Louis-Philippe Joseph Denis",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "H3A 3L4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Montreal"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "85848-84576",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T05:52:18.088Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Marie-Julie-Dominique-Denis",
+        "nodeid": 84576,
+        "documentid": 85848,
+        "nodealias": "Marie-Julie-Dominique-Denis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "13f9100b-aae1-4d71-8f9f-f2de02367903",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marie Julie Dominique Denis",
+        "documentmodifiedwhen": "2021-12-23T07:22:16.874Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "53377O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marie Julie Dominique Denis",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K4A 3N1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19073-18231",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:39:15.802Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Pascale-Marie-Irene-Jacqueline-Denis",
+        "nodeid": 18231,
+        "documentid": 19073,
+        "nodealias": "Pascale-Marie-Irene-Jacqueline-Denis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d84538aa-0a04-4563-bb72-b4b622e76f2d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Pascale Marie Irene Jacqueline Denis",
+        "documentmodifiedwhen": "2022-01-03T07:17:40.118Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50195U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Pascale Marie Irene Jacqueline Denis",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0P9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19072-18230",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:39:02.922Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Stephen-Dale-Denis",
+        "nodeid": 18230,
+        "documentid": 19072,
+        "nodealias": "Stephen-Dale-Denis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4cad97a9-e685-46d8-a619-e02fba613a47",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephen Dale Denis",
+        "documentmodifiedwhen": "2021-12-25T07:20:31.689Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "29452M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephen Dale Denis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2V1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "133190-128616",
+        "sys_site": "lso",
+        "sys_created": "2021-07-15T07:23:54.778Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Nicole-Monique-Marie-Deniset",
+        "nodeid": 128616,
+        "documentid": 133190,
+        "nodealias": "Nicole-Monique-Marie-Deniset",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1e033e15-e921-43b9-ba2f-435037586b94",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nicole Monique Marie Deniset",
+        "documentmodifiedwhen": "2022-01-18T12:10:25.499Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83167P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nicole Monique Marie Deniset",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19075-18233",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:39:39.662Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Laura-Kathleen-Denison",
+        "nodeid": 18233,
+        "documentid": 19075,
+        "nodealias": "Laura-Kathleen-Denison",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "569ab06d-d6b1-4a00-b8d2-722c75a74c16",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Laura Kathleen Denison",
+        "documentmodifiedwhen": "2022-01-02T07:22:19.327Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49771L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Laura Kathleen Denison",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4V 1P5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "85852-84580",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T05:52:25.25Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Timothy-John-Alexander-Denison",
+        "nodeid": 84580,
+        "documentid": 85852,
+        "nodealias": "Timothy-John-Alexander-Denison",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ee062c3d-49ea-45e2-8d87-b886a4c9e6c5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Timothy John Alexander Denison",
+        "documentmodifiedwhen": "2019-06-17T11:28:03.606Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "39419P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Timothy John Alexander Denison",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.6892852783203,
+                45.423526763916
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "64506-63232",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T20:05:06.391Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/William-Terrance-Denison",
+        "nodeid": 63232,
+        "documentid": 64506,
+        "nodealias": "William-Terrance-Denison",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9eaaf46a-cafe-4031-a30f-4a2c3e2838f7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "William Terrance Denison",
+        "documentmodifiedwhen": "2021-12-14T08:41:15.839Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "18149C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "William Terrance Denison",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19076-18234",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:39:51.166Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Ivana-Denisov",
+        "nodeid": 18234,
+        "documentid": 19076,
+        "nodealias": "Ivana-Denisov",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "798ceaa9-09de-4ac4-b31b-73faf607499c",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ivana Denisov",
+        "documentmodifiedwhen": "2022-01-11T07:32:17.028Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66870J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ivana Denisov",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "P3C 1T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Sudbury"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19077-18235",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:40:03.386Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Katherine-MrieAnn-Elaine-Denkers",
+        "nodeid": 18235,
+        "documentid": 19077,
+        "nodealias": "Katherine-MrieAnn-Elaine-Denkers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c671f14c-741e-48af-9dda-ab0ccf5b988e",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Katherine MrieAnn Elaine Denkers",
+        "documentmodifiedwhen": "2022-01-14T07:24:47.621Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "R\u00e8glement extrajudiciaire des diff\u00e9rends (RAD)/ Services de m\u00e9diation",
+            "Droit de la famille ou matrimonial"
+        ],
+        "memberareasofservicenamesenglish": [
+            "ADR/Mediation Services",
+            "Family/Matrimonial Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "73818K",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Katherine MrieAnn Elaine Denkers",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N7M 4V9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Chatham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "131524-126952",
+        "sys_site": "lso",
+        "sys_created": "2021-06-17T07:34:10.322Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Alyssa-Anne-Denley",
+        "nodeid": 126952,
+        "documentid": 131524,
+        "nodealias": "Alyssa-Anne-Denley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1f0f6cfd-45eb-478e-b0bc-6729b07189cb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alyssa Anne Denley",
+        "documentmodifiedwhen": "2022-02-17T07:16:46.869Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82666E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alyssa Anne Denley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K2P 0J2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "85850-84578",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T05:52:25.375Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Elizabeth-Marjorie-Denman",
+        "nodeid": 84578,
+        "documentid": 85850,
+        "nodealias": "Elizabeth-Marjorie-Denman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e6cff945-327a-4449-9b78-8e219e50716c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Elizabeth Marjorie Denman",
+        "documentmodifiedwhen": "2021-12-29T07:26:13.691Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38177G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Elizabeth Marjorie Denman",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Bermuda",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "HM 11",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19078-18236",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:40:15.382Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Janine-Audrey-Denney-Lightfoot",
+        "nodeid": 18236,
+        "documentid": 19078,
+        "nodealias": "Janine-Audrey-Denney-Lightfoot",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6f17e394-cbdf-4ec3-a75f-8e532e5555e9",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Janine Audrey Denney-Lightfoot",
+        "documentmodifiedwhen": "2021-09-21T08:02:01.285Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32812S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Janine Audrey Denney-Lightfoot",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19080-18238",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:40:40.325Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Johanna-Jacoba-Dennie",
+        "nodeid": 18238,
+        "documentid": 19080,
+        "nodealias": "Johanna-Jacoba-Dennie",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d0ea5a18-0bab-4d28-bbcf-9738b0f2bb50",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Johanna Jacoba Dennie",
+        "documentmodifiedwhen": "2021-11-10T07:16:01.936Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68393L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Johanna Jacoba Dennie",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "133927-129225",
+        "sys_site": "lso",
+        "sys_created": "2021-09-08T07:46:21.045Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Shanel-Alicia-Dennie",
+        "nodeid": 129225,
+        "documentid": 133927,
+        "nodealias": "Shanel-Alicia-Dennie",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d57dc70a-f68f-4be7-a2c9-7cc56c249375",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shanel Alicia Dennie",
+        "documentmodifiedwhen": "2022-06-02T07:19:01.728Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17663",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shanel Alicia Dennie",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L4W 5A4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19079-18237",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:40:27.564Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/008/Tamara-Jalesa-Dennie",
+        "nodeid": 18237,
+        "documentid": 19079,
+        "nodealias": "Tamara-Jalesa-Dennie",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0ca17ac1-3eff-471b-bd13-8dcc9925411a",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tamara Jalesa Dennie",
+        "documentmodifiedwhen": "2019-05-07T15:34:12.125Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P10083",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tamara Jalesa Dennie",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.5689468383789,
+                43.5930252075195
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L5E 1V4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "85851-84579",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T05:52:25.484Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Alana-Wendi-Dennis",
+        "nodeid": 84579,
+        "documentid": 85851,
+        "nodealias": "Alana-Wendi-Dennis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "27659777-54cd-4e87-af34-3140b7663442",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alana Wendi Dennis",
+        "documentmodifiedwhen": "2021-09-21T09:00:20.958Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09531",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alana Wendi Dennis",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19084-18242",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:41:28.916Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Alison-Suzanne-Dennis",
+        "nodeid": 18242,
+        "documentid": 19084,
+        "nodealias": "Alison-Suzanne-Dennis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3c7f46ac-7ffc-41e1-b7f9-692ec13b9550",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alison Suzanne Dennis",
+        "documentmodifiedwhen": "2022-01-09T07:29:59.589Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61199W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alison Suzanne Dennis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4V 3A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19083-18241",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:41:17.535Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Craig-Patrick-Dennis",
+        "nodeid": 18241,
+        "documentid": 19083,
+        "nodealias": "Craig-Patrick-Dennis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "852064f9-ad19-4301-82e9-cfe771f163e1",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Craig Patrick Dennis",
+        "documentmodifiedwhen": "2021-12-27T07:17:47.104Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33228N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Craig Patrick Dennis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "V6Z 0C8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vancouver"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19082-18240",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:41:04.989Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Jeffrey-Mark-Dennis",
+        "nodeid": 18240,
+        "documentid": 19082,
+        "nodealias": "Jeffrey-Mark-Dennis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d20cfa82-884b-4419-833b-b885a5a3bd84",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jeffrey Mark Dennis",
+        "documentmodifiedwhen": "2021-12-24T07:19:00.609Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24928Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jeffrey Mark Dennis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "138594-133037",
+        "sys_site": "lso",
+        "sys_created": "2022-06-14T07:26:26.552Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/036/Jessie-Jordana-Eleanor-Dennis",
+        "nodeid": 133037,
+        "documentid": 138594,
+        "nodealias": "Jessie-Jordana-Eleanor-Dennis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "58f37a96-c361-4c46-b087-b4dfe6d35ace",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jessie Jordana Eleanor Dennis",
+        "documentmodifiedwhen": "2022-07-07T07:23:47.978Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84329W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jessie Jordana Eleanor Dennis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19081-18239",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:40:53.159Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/John-Raymond-Dennis",
+        "nodeid": 18239,
+        "documentid": 19081,
+        "nodealias": "John-Raymond-Dennis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a2a1f6fc-7305-4221-add7-1f942b4016ff",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Raymond Dennis",
+        "documentmodifiedwhen": "2021-12-14T08:48:38.565Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24020A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Raymond Dennis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "85853-84581",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T05:52:26.406Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Michael-Mark-Dennis",
+        "nodeid": 84581,
+        "documentid": 85853,
+        "nodealias": "Michael-Mark-Dennis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3683a4c0-0ea8-4f77-9657-d3e5e9ab2972",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Mark Dennis",
+        "documentmodifiedwhen": "2021-12-14T07:47:26.817Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "10987C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Mark Dennis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "138042-132623",
+        "sys_site": "lso",
+        "sys_created": "2022-05-19T09:19:13.862Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/015/Nathalie-Florence-Dennis",
+        "nodeid": 132623,
+        "documentid": 138042,
+        "nodealias": "Nathalie-Florence-Dennis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4d4ed7a2-4d18-465d-8d0e-6b26af47d3f6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nathalie Florence Dennis",
+        "documentmodifiedwhen": "2022-06-07T07:17:54.205Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18482",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nathalie Florence Dennis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118729-116047",
+        "sys_site": "lso",
+        "sys_created": "2019-09-27T07:24:02.134Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Tyler-Burns-Dennis",
+        "nodeid": 116047,
+        "documentid": 118729,
+        "nodealias": "Tyler-Burns-Dennis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "55ef1680-74fd-4410-90f2-345da7d91cbf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tyler Burns Dennis",
+        "documentmodifiedwhen": "2020-04-30T07:22:01.067Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78329N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tyler Burns Dennis",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19085-18243",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:41:40.167Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Catherine-Marie-Dennis-Brooks",
+        "nodeid": 18243,
+        "documentid": 19085,
+        "nodealias": "Catherine-Marie-Dennis-Brooks",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "92eecb0e-8f1d-4538-a0e6-36db2fde7fc6",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Catherine Marie Dennis Brooks",
+        "documentmodifiedwhen": "2021-12-27T07:18:10.564Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33227R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Catherine Marie Dennis Brooks",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3S1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130231-125865",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T10:41:39.209Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Sydney-JJ-Dennis-Birnbaum",
+        "nodeid": 125865,
+        "documentid": 130231,
+        "nodealias": "Sydney-JJ-Dennis-Birnbaum",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0de2336b-f808-4450-8876-fbd56120d1b7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sydney JJ Dennis-Birnbaum",
+        "documentmodifiedwhen": "2022-01-18T12:04:18.832Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81658O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sydney JJ Dennis-Birnbaum",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 4E3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19087-18245",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:42:03.413Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Mark-Howard-Dennison",
+        "nodeid": 18245,
+        "documentid": 19087,
+        "nodealias": "Mark-Howard-Dennison",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1ec4a103-4f18-4c99-9cbb-d7b0012ffaeb",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mark Howard Dennison",
+        "documentmodifiedwhen": "2021-12-30T07:28:06.505Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41853J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mark Howard Dennison",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5C 2T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19088-18246",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:42:15.458Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Kara-Lee-Denny",
+        "nodeid": 18246,
+        "documentid": 19088,
+        "nodealias": "Kara-Lee-Denny",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "36e19682-3668-4e35-bd49-9ff10d325378",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kara Lee Denny",
+        "documentmodifiedwhen": "2022-06-10T07:16:40.517Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57073M",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Kara Lee Denny",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2Y4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130367-126001",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T12:02:13.561Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Danielle-Marguerite-Denomme",
+        "nodeid": 126001,
+        "documentid": 130367,
+        "nodealias": "Danielle-Marguerite-Denomme",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dde36723-ea8b-4893-980d-36f616bb92b7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Danielle Marguerite Denomme",
+        "documentmodifiedwhen": "2022-06-05T07:15:27.305Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17505",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Danielle Marguerite Denomme",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19089-18247",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:42:28.277Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/David-Lawrence-Denomme",
+        "nodeid": 18247,
+        "documentid": 19089,
+        "nodealias": "David-Lawrence-Denomme",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1b047906-893a-4381-b21f-6e4d65dc9763",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Lawrence Denomme",
+        "documentmodifiedwhen": "2022-07-21T07:16:35.125Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "31811L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Lawrence Denomme",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5X 1A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19090-18248",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:42:40.579Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Denise-Alice-Denomme",
+        "nodeid": 18248,
+        "documentid": 19090,
+        "nodealias": "Denise-Alice-Denomme",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9b684c50-1b4d-4578-a313-f8f2301407b1",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Denise Alice Denomme",
+        "documentmodifiedwhen": "2021-12-27T07:28:01.578Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "34640E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Denise Alice Denomme",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N2L 3L3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Waterloo"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "131532-126960",
+        "sys_site": "lso",
+        "sys_created": "2021-06-17T07:39:35.645Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Emily-Anne-Denomme",
+        "nodeid": 126960,
+        "documentid": 131532,
+        "nodealias": "Emily-Anne-Denomme",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6ea49344-6cf1-4fe2-9e1c-211d34566538",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Emily Anne Denomme",
+        "documentmodifiedwhen": "2022-01-18T12:13:24.914Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82667A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Emily Anne Denomme",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 2C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19092-18250",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:43:04.584Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Kyle-Norman-Denomme",
+        "nodeid": 18250,
+        "documentid": 19092,
+        "nodealias": "Kyle-Norman-Denomme",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3eca99ae-625b-4c26-b291-4777f124e26b",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kyle Norman Denomme",
+        "documentmodifiedwhen": "2022-01-11T07:31:08.34Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65856J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kyle Norman Denomme",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 4E3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19091-18249",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:42:52.681Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Margot-Lynn-Denomme",
+        "nodeid": 18249,
+        "documentid": 19091,
+        "nodealias": "Margot-Lynn-Denomme",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "192f61ec-9003-4538-80cb-91abbaa9f3bf",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Margot Lynn Denomme",
+        "documentmodifiedwhen": "2021-12-29T07:16:16.48Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38684I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Margot Lynn Denomme",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5B 2H4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19093-18251",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:43:16.893Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Meredith-Joy-Adeline-Denomme",
+        "nodeid": 18251,
+        "documentid": 19093,
+        "nodealias": "Meredith-Joy-Adeline-Denomme",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "16b55be2-6ffa-41e3-a24c-a8d512445e01",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Meredith Joy Adeline Denomme",
+        "documentmodifiedwhen": "2022-03-31T07:17:50.067Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit commercial et corporatifes",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Corporate/Commercial Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69093G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Meredith Joy Adeline Denomme",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N4W 1B3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Listowel"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "85859-84584",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T05:52:32.523Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Megan-Kate-Denos",
+        "nodeid": 84584,
+        "documentid": 85859,
+        "nodealias": "Megan-Kate-Denos",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ecb14153-837f-41f3-9c0b-1ad300d6c220",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Megan Kate Denos",
+        "documentmodifiedwhen": "2022-01-04T07:22:08.613Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45925H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Megan Kate Denos",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Bermuda",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "HM EX",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "85856-84583",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T05:52:32.523Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Patrick-Richard-Denroche",
+        "nodeid": 84583,
+        "documentid": 85856,
+        "nodealias": "Patrick-Richard-Denroche",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c8633cf4-72ca-46ba-af8f-f92fa1ed1b48",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Patrick Richard Denroche",
+        "documentmodifiedwhen": "2020-04-30T07:20:49.623Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74526H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Patrick Richard Denroche",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19096-18254",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:43:54.263Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Emily-Lauren-Densem",
+        "nodeid": 18254,
+        "documentid": 19096,
+        "nodealias": "Emily-Lauren-Densem",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "419a3f70-2320-4814-b179-1e90bd431acb",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Emily Lauren Densem",
+        "documentmodifiedwhen": "2020-02-20T09:04:18.001Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72528A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Emily Lauren Densem",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19095-18253",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:43:41.239Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Scott-William-Densem",
+        "nodeid": 18253,
+        "documentid": 19095,
+        "nodealias": "Scott-William-Densem",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "edf4f002-2ca5-48ec-a206-a9c8262e7750",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Scott William Densem",
+        "documentmodifiedwhen": "2021-12-21T07:27:00.587Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "22683I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Scott William Densem",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M2R 1J1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19097-18255",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:44:05.867Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Stephen-Richard-Densmore",
+        "nodeid": 18255,
+        "documentid": 19097,
+        "nodealias": "Stephen-Richard-Densmore",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7d37305a-d130-4df5-b6d1-f137ee9a1338",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephen Richard Densmore",
+        "documentmodifiedwhen": "2021-12-14T08:48:49.056Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24021T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephen Richard Densmore",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M5V 3J1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19098-18256",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:44:34.821Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Shawn-Harold-Terry-Denstedt",
+        "nodeid": 18256,
+        "documentid": 19098,
+        "nodealias": "Shawn-Harold-Terry-Denstedt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0a8439bd-ee51-4132-a9ab-e9b2f2b99a21",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shawn Harold Terry Denstedt",
+        "documentmodifiedwhen": "2021-12-27T07:21:34.89Z",
+        "skuname": null,
+        "memberprovincetext": "Alberta",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33852F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shawn Harold Terry Denstedt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "T2P 5H1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Calgary"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "85854-84585",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T05:52:33.273Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/William-Lyle-Denstedt",
+        "nodeid": 84585,
+        "documentid": 85854,
+        "nodealias": "William-Lyle-Denstedt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cab40821-bc91-46d2-8f34-4241fa397599",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "William Lyle Denstedt",
+        "documentmodifiedwhen": "2022-01-15T07:17:31.147Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "73819G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "William Lyle Denstedt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4Z 1S1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "85857-84586",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T05:52:33.257Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Jennifer-Shapley-Dent",
+        "nodeid": 84586,
+        "documentid": 85857,
+        "nodealias": "Jennifer-Shapley-Dent",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e5b73e69-30e7-40e2-9c5e-85a1987593de",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Shapley Dent",
+        "documentmodifiedwhen": "2022-01-06T07:24:56.988Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41854F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Shapley Dent",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2T3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19100-18258",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:45:01.889Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/John-Arnold-Dent",
+        "nodeid": 18258,
+        "documentid": 19100,
+        "nodealias": "John-Arnold-Dent",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "eb76a66a-035d-472d-80ef-67b8e7068430",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Arnold Dent",
+        "documentmodifiedwhen": "2022-06-10T07:17:02.635Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46844U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Arnold Dent",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5A 1N1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118470-115833",
+        "sys_site": "lso",
+        "sys_created": "2019-09-21T07:18:47.358Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Paul-Jonathan-Dent",
+        "nodeid": 115833,
+        "documentid": 118470,
+        "nodealias": "Paul-Jonathan-Dent",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1bd75567-7e12-4883-8a9d-f89d7d6cfdde",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paul Jonathan Dent",
+        "documentmodifiedwhen": "2022-04-05T07:17:12.52Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15933",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paul Jonathan Dent",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K8V 6H3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Trenton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19099-18257",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:44:49.051Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Susan-Ashley-Dent",
+        "nodeid": 18257,
+        "documentid": 19099,
+        "nodealias": "Susan-Ashley-Dent",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b48255d6-d12f-4032-b95a-0e032915f155",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Susan Ashley Dent",
+        "documentmodifiedwhen": "2022-01-06T07:19:42.593Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "44734O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Susan Ashley Dent",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L8P 1A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "122192-118791",
+        "sys_site": "lso",
+        "sys_created": "2020-05-30T07:31:16.875Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Jessica-Lise-Denton",
+        "nodeid": 118791,
+        "documentid": 122192,
+        "nodealias": "Jessica-Lise-Denton",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "455e16ec-6ef3-4dd6-9ff6-87848429ae4c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jessica Lise Denton",
+        "documentmodifiedwhen": "2022-01-17T07:22:01.72Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78985C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jessica Lise Denton",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0H4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Gatineau"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19101-18259",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:45:13.563Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Peter-William-Denton",
+        "nodeid": 18259,
+        "documentid": 19101,
+        "nodealias": "Peter-William-Denton",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b4b28d13-7047-4c3e-b9ec-ba46e68455f5",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Peter William Denton",
+        "documentmodifiedwhen": "2022-01-07T07:17:52.313Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56070N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Peter William Denton",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P3E 3Z8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Sudbury"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19102-18260",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:45:26.345Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Martin-Kenneth-Denyes",
+        "nodeid": 18260,
+        "documentid": 19102,
+        "nodealias": "Martin-Kenneth-Denyes",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8b12f1cf-5e2e-4523-9508-3ae2028b201e",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Martin Kenneth Denyes",
+        "documentmodifiedwhen": "2021-12-27T07:18:21.51Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33229J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Martin Kenneth Denyes",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19103-18261",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:45:38.453Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Michael-Andrew-Denyszyn",
+        "nodeid": 18261,
+        "documentid": 19103,
+        "nodealias": "Michael-Andrew-Denyszyn",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "eba7c2fc-4752-4906-8754-de6e444d150d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Andrew Denyszyn",
+        "documentmodifiedwhen": "2022-01-04T07:27:15.788Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54691H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Andrew Denyszyn",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 3S8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19105-18263",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:46:02.202Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Antonella-Deo",
+        "nodeid": 18263,
+        "documentid": 19105,
+        "nodealias": "Antonella-Deo",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "88106973-b0af-4a15-9638-ee797df7403d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Antonella Deo",
+        "documentmodifiedwhen": "2021-12-29T07:26:25.12Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38178C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Antonella Deo",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4W 1E5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "85860-84588",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T05:52:33.851Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Francesco-Alessandro-Deo",
+        "nodeid": 84588,
+        "documentid": 85860,
+        "nodealias": "Francesco-Alessandro-Deo",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ffe10f9c-daf7-44ab-976f-6ec9a28396fe",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Francesco Alessandro Deo",
+        "documentmodifiedwhen": "2021-06-10T07:28:57.574Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74982Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Francesco Alessandro Deo",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.5240783691406,
+                43.7754592895508
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4K 3R1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Concord"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19104-18262",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:45:50.164Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Mario-Deo",
+        "nodeid": 18262,
+        "documentid": 19104,
+        "nodealias": "Mario-Deo",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3df9fbac-835d-4220-9232-a596f7ecf200",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mario Deo",
+        "documentmodifiedwhen": "2022-01-22T07:15:51.422Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "28392K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mario Deo",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4K 3R1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vaughan"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "112867-111120",
+        "sys_site": "lso",
+        "sys_created": "2018-12-20T07:17:43.877Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Sandeep-Kaur-Deogan",
+        "nodeid": 111120,
+        "documentid": 112867,
+        "nodealias": "Sandeep-Kaur-Deogan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "045f7a5b-878a-4f9a-a397-06132b7ec36b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sandeep Kaur Deogan",
+        "documentmodifiedwhen": "2022-03-01T07:18:57.178Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15260",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sandeep Kaur Deogan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "N4T 0N1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Woodstock"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19107-18265",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:46:25.777Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Gabriella-Varsha-Deokaran",
+        "nodeid": 18265,
+        "documentid": 19107,
+        "nodealias": "Gabriella-Varsha-Deokaran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8858693f-e9c1-48f0-bb74-f14badb9c6fd",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gabriella Varsha Deokaran",
+        "documentmodifiedwhen": "2022-06-17T07:16:53.482Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60061C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gabriella Varsha Deokaran",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e)"
+        ],
+        "memberwebstatus": [
+            "Suspended"
+        ],
+        "memberpostalcode": "L6W 4L2",
+        "membercurrentrestrictions": "Y",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19108-18266",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:46:37.443Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Alana-Nicole-Deokiesingh",
+        "nodeid": 18266,
+        "documentid": 19108,
+        "nodealias": "Alana-Nicole-Deokiesingh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "81f4aad3-870c-4596-ba72-9ca580dbc107",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alana Nicole Deokiesingh",
+        "documentmodifiedwhen": "2022-01-06T07:28:33.674Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51261J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alana Nicole Deokiesingh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M3C 1W3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19113-18271",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:47:39.225Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Birdavinder-Singh-Deol",
+        "nodeid": 18271,
+        "documentid": 19113,
+        "nodealias": "Birdavinder-Singh-Deol",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "aba0ce39-dc02-4197-8a96-4581ea73510d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Birdavinder Singh Deol",
+        "documentmodifiedwhen": "2022-01-07T07:21:19.427Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57669D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Birdavinder Singh Deol",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6S 0E7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19110-18268",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:47:01.568Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/008/Harpreet-Kaur-Deol",
+        "nodeid": 18268,
+        "documentid": 19110,
+        "nodealias": "Harpreet-Kaur-Deol",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3b8df20d-9662-4fcc-a5b3-34fd6aa4aa94",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Harpreet Kaur Deol",
+        "documentmodifiedwhen": "2021-12-20T07:22:38.858Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13431",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Harpreet Kaur Deol",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L4Z 1V9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19115-18273",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:48:03.764Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Kulvinder-Deol",
+        "nodeid": 18273,
+        "documentid": 19115,
+        "nodealias": "Kulvinder-Deol",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6411d9f7-cb04-4a6b-9071-030ec2d400ea",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kulvinder Deol",
+        "documentmodifiedwhen": "2022-01-09T07:29:41.012Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61113C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kulvinder Deol",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5S 0A7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19111-18269",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:47:13.637Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Kulwant-Singh-Deol",
+        "nodeid": 18269,
+        "documentid": 19111,
+        "nodealias": "Kulwant-Singh-Deol",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c224ed20-f525-4e88-9700-164515b262db",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kulwant Singh Deol",
+        "documentmodifiedwhen": "2022-01-03T07:22:55.608Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51665W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kulwant Singh Deol",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5R 3K7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "85861-84589",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T05:52:35.205Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Ravinder-Singh-Deol",
+        "nodeid": 84589,
+        "documentid": 85861,
+        "nodealias": "Ravinder-Singh-Deol",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ed4a583d-7c8d-487b-b9f0-2a53684eecb9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ravinder Singh Deol",
+        "documentmodifiedwhen": "2021-09-21T08:28:18.77Z",
+        "skuname": null,
+        "memberprovincetext": "Texas",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64371K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ravinder Singh Deol",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -96.5528564453125,
+                33.0081176757813
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "75098",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Wylie"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "113450-111546",
+        "sys_site": "lso",
+        "sys_created": "2019-01-30T07:21:43.642Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Rickindeep-Deol",
+        "nodeid": 111546,
+        "documentid": 113450,
+        "nodealias": "Rickindeep-Deol",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f658b94c-1882-4aa5-a5c4-3157aafce356",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rickindeep Deol",
+        "documentmodifiedwhen": "2021-12-18T07:16:31.609Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76222G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rickindeep Deol",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M9P 2V1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Etobicoke"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19116-18274",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:48:15.871Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Sandeep-Kaur-Deol",
+        "nodeid": 18274,
+        "documentid": 19116,
+        "nodealias": "Sandeep-Kaur-Deol",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "81fab450-6802-4aad-b289-3c4c64c0a0ca",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sandeep Kaur Deol",
+        "documentmodifiedwhen": "2022-07-01T07:18:10.11Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63614Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sandeep Kaur Deol",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "M5J 2T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19114-18272",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:47:50.991Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Sarah-Deol",
+        "nodeid": 18272,
+        "documentid": 19114,
+        "nodealias": "Sarah-Deol",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e7d069cf-80a2-4e77-a966-a0e00e320995",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sarah Deol",
+        "documentmodifiedwhen": "2020-04-21T07:19:13.703Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58555A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sarah Deol",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6373138427734,
+                43.5978775024414
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L4Z 3Z9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19109-18267",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:46:48.678Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/008/Sarbjit-Singh-Deol",
+        "nodeid": 18267,
+        "documentid": 19109,
+        "nodealias": "Sarbjit-Singh-Deol",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0fd8ac18-a15d-4def-a5b9-dedc68dc90c9",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sarbjit Singh Deol",
+        "documentmodifiedwhen": "2021-12-16T07:18:07.171Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P01980",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sarbjit Singh Deol",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L4L 6G8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Woodbridge"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "19112-18270",
+        "sys_site": "lso",
+        "sys_created": "2018-07-08T04:47:26.229Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Swaran-Singh-Deol",
+        "nodeid": 18270,
+        "documentid": 19112,
+        "nodealias": "Swaran-Singh-Deol",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5a9020ed-4985-4c4a-ac25-ef0b836d6a65",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Swaran Singh Deol",
+        "documentmodifiedwhen": "2022-04-15T07:17:27.748Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la construction",
+            "Droit commercial et corporatifes",
+            "Droit de l'immigration",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Construction Law",
+            "Corporate/Commercial Law",
+            "Immigration Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "53059C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Swaran Singh Deol",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M1V 4Z6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "85863-84591",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T05:52:40.55Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Daveannand-Deonarain",
+        "nodeid": 84591,
+        "documentid": 85863,
+        "nodealias": "Daveannand-Deonarain",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ca39afb2-3912-4433-97e5-d27aab6955ad",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daveannand Deonarain",
+        "documentmodifiedwhen": "2022-08-04T07:16:28.094Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de l'immigration",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Immigration Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74527D",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Daveannand Deonarain",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4C 3B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Richmond Hill"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "85865-84593",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T05:52:42.081Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Dave-Suruj-Deonarine",
+        "nodeid": 84593,
+        "documentid": 85865,
+        "nodealias": "Dave-Suruj-Deonarine",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6b7e87c4-6065-48c1-b0f4-f1a4ba9045e8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Dave Suruj Deonarine",
+        "documentmodifiedwhen": "2020-04-02T07:45:20.278Z",
+        "skuname": null,
+        "memberprovincetext": "California",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45926D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Dave Suruj Deonarine",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -117.241981506348,
+                32.9460525512695
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "92130",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "San Diego"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "64554-63280",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T20:05:54.674Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/008/Geetanjali-Deonarine",
+        "nodeid": 63280,
+        "documentid": 64554,
+        "nodealias": "Geetanjali-Deonarine",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2ebaf0ed-77aa-44da-a411-6cefe10e11b0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Geetanjali Deonarine",
+        "documentmodifiedwhen": "2022-04-27T07:16:59.864Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14479",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Geetanjali Deonarine",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    }
+]

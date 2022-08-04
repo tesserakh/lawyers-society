@@ -1,0 +1,5200 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15140-14297",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:41:28.556Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Scott-Wallace-Chamberlain",
+        "nodeid": 14297,
+        "documentid": 15140,
+        "nodealias": "Scott-Wallace-Chamberlain",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2110161a-46ac-47a4-a6ad-794dc08a88c0",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Scott Wallace Chamberlain",
+        "documentmodifiedwhen": "2021-12-31T07:27:37.011Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42627T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Scott Wallace Chamberlain",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K2B 0A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15135-14292",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:40:35.187Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Shelbie-Rae-Chamberlain",
+        "nodeid": 14292,
+        "documentid": 15135,
+        "nodealias": "Shelbie-Rae-Chamberlain",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c71d8904-1a2e-424b-8463-3c831d4411fe",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shelbie Rae Chamberlain",
+        "documentmodifiedwhen": "2021-09-21T09:31:34.915Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13946",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shelbie Rae Chamberlain",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.5477676391602,
+                45.4628143310547
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "K1C 7C6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "117125-114723",
+        "sys_site": "lso",
+        "sys_created": "2019-06-28T08:26:41.914Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Benjamin-Joseph-Chamberland",
+        "nodeid": 114723,
+        "documentid": 117125,
+        "nodealias": "Benjamin-Joseph-Chamberland",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7d619cab-a47c-4090-92e3-33f2d0513d65",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Benjamin Joseph Chamberland",
+        "documentmodifiedwhen": "2020-04-30T07:23:55.483Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77927T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Benjamin Joseph Chamberland",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15144-14301",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:42:13.823Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Denis-Ari-Chamberland",
+        "nodeid": 14301,
+        "documentid": 15144,
+        "nodealias": "Denis-Ari-Chamberland",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b2e77f66-e2a6-4051-9699-b68b32fd221f",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Denis Ari Chamberland",
+        "documentmodifiedwhen": "2022-05-02T07:16:23.941Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la construction",
+            "Droit commercial et corporatifes"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Construction Law",
+            "Corporate/Commercial Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "31560P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Denis Ari Chamberland",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4X 1S2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123781-120235",
+        "sys_site": "lso",
+        "sys_created": "2020-06-23T08:56:58.323Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Izabella-Joanna-Chamberland",
+        "nodeid": 120235,
+        "documentid": 123781,
+        "nodealias": "Izabella-Joanna-Chamberland",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "366689b2-b417-4f7a-88b6-0c8edfe4e3a8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Izabella Joanna Chamberland",
+        "documentmodifiedwhen": "2022-06-03T07:16:58.542Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "79911C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Izabella Joanna Chamberland",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2W9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15159-14316",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:44:56.493Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Adam-Jeffrey-Chambers",
+        "nodeid": 14316,
+        "documentid": 15159,
+        "nodealias": "Adam-Jeffrey-Chambers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dc389a38-b20d-4476-bf63-7160810fcb6c",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Adam Jeffrey Chambers",
+        "documentmodifiedwhen": "2022-01-09T07:27:41.487Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61433G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Adam Jeffrey Chambers",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 1R8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15154-14311",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:44:02.824Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Anthony-Patrick-Chambers",
+        "nodeid": 14311,
+        "documentid": 15154,
+        "nodealias": "Anthony-Patrick-Chambers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "96560de8-fdc0-457d-8458-50cd1bbe33d8",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anthony Patrick Chambers",
+        "documentmodifiedwhen": "2022-01-01T07:29:26.519Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45160O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anthony Patrick Chambers",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0H3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Gatineau"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15149-14306",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:43:07.769Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Brian-Edward-Chambers",
+        "nodeid": 14306,
+        "documentid": 15149,
+        "nodealias": "Brian-Edward-Chambers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dfea86e8-3951-4b4a-837d-b7b141d8d025",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brian Edward Chambers",
+        "documentmodifiedwhen": "2021-12-17T07:28:39.582Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "20158L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brian Edward Chambers",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 5P3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15158-14315",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:44:46.353Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Carolyn-Jennifer-Chambers",
+        "nodeid": 14315,
+        "documentid": 15158,
+        "nodealias": "Carolyn-Jennifer-Chambers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fc486064-7e48-4fbb-9f4a-7404e03f1ee5",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Carolyn Jennifer Chambers",
+        "documentmodifiedwhen": "2022-01-07T07:28:34.55Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57368O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Carolyn Jennifer Chambers",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2P 2A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15155-14312",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:44:13.28Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Cheryl-Bernadett-Chambers",
+        "nodeid": 14312,
+        "documentid": 15155,
+        "nodealias": "Cheryl-Bernadett-Chambers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "737c6f0a-3130-461b-8fcf-ea3a572bbe49",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Cheryl Bernadett Chambers",
+        "documentmodifiedwhen": "2022-02-02T07:16:40.66Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51500T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Cheryl Bernadett Chambers",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 2H1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82678-81407",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:08.395Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Dionne-Brown-Chambers",
+        "nodeid": 81407,
+        "documentid": 82678,
+        "nodealias": "Dionne-Brown-Chambers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "75295cd5-3e00-46f4-a551-e8568cd3f305",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Dionne Brown Chambers",
+        "documentmodifiedwhen": "2022-02-02T07:17:30.875Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74942R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Dionne Brown Chambers",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L2R 6Z1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "St Catharines"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15156-14313",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:44:24.294Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Joshua-Michael-Chambers",
+        "nodeid": 14313,
+        "documentid": 15156,
+        "nodealias": "Joshua-Michael-Chambers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "604b48b8-8891-468a-9010-422aff983ced",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joshua Michael Chambers",
+        "documentmodifiedwhen": "2022-01-03T07:24:50.594Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51905F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joshua Michael Chambers",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0H5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15153-14310",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:43:51.825Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Karen-Anne-Chambers",
+        "nodeid": 14310,
+        "documentid": 15153,
+        "nodealias": "Karen-Anne-Chambers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6eb20063-d079-4ad8-be75-f614a82984c6",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karen Anne Chambers",
+        "documentmodifiedwhen": "2021-12-23T07:20:01.166Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "39382L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karen Anne Chambers",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4N 0T5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Barrie"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15150-14307",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:43:18.48Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Kenneth-Bruce-Bentley-Chambers",
+        "nodeid": 14307,
+        "documentid": 15150,
+        "nodealias": "Kenneth-Bruce-Bentley-Chambers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ef12b393-5be7-4def-ab0c-784c225409ae",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kenneth Bruce Bentley Chambers",
+        "documentmodifiedwhen": "2021-12-28T07:19:25.559Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "35809G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kenneth Bruce Bentley Chambers",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2N7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15147-14304",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:42:46.333Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Luther-Paul-Chambers",
+        "nodeid": 14304,
+        "documentid": 15147,
+        "nodealias": "Luther-Paul-Chambers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "660500d2-48ab-41a1-9401-08580d6d36cf",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Luther Paul Chambers",
+        "documentmodifiedwhen": "2021-12-14T07:22:34.472Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "10235S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Luther Paul Chambers",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "K1A 0H8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15152-14309",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:43:41.145Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Mary-Catherine-Chambers",
+        "nodeid": 14309,
+        "documentid": 15152,
+        "nodealias": "Mary-Catherine-Chambers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f5c6ffb3-5dd4-480a-b09e-529f6ec4730e",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mary Catherine Chambers",
+        "documentmodifiedwhen": "2021-12-29T07:26:58.876Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38141C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mary Catherine Chambers",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P7B 5N3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Thunder Bay"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15148-14305",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:42:57.127Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Michael-Andrew-Chambers",
+        "nodeid": 14305,
+        "documentid": 15148,
+        "nodealias": "Michael-Andrew-Chambers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "94dbe6cc-5c5e-4c6b-a449-8d4b2ea83a78",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Andrew Chambers",
+        "documentmodifiedwhen": "2022-03-20T07:17:08.913Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "15097D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Andrew Chambers",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1P 6L2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15145-14302",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:42:25.14Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Owen-Keith-Chambers",
+        "nodeid": 14302,
+        "documentid": 15145,
+        "nodealias": "Owen-Keith-Chambers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "72343203-f377-4d8d-bca1-6f2faa890d34",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Owen Keith Chambers",
+        "documentmodifiedwhen": "2021-12-16T07:17:50.602Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Infractions punissables par proc\u00e9dure sommaire \u00e0 la Cour de justice de l'Ontario"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Ontario Court of Justice - Summary Conviction Offences"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P01335",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Owen Keith Chambers",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M1S 4Z5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Scarborough"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82679-81406",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:08.349Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Philip-Hatch-Chambers",
+        "nodeid": 81406,
+        "documentid": 82679,
+        "nodealias": "Philip-Hatch-Chambers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0713ee24-68de-4673-b3bf-3528930ab5e5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Philip Hatch Chambers",
+        "documentmodifiedwhen": "2021-07-15T07:17:35.972Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66583V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Philip Hatch Chambers",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15151-14308",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:43:29.764Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Robert-Hunter-Chambers",
+        "nodeid": 14308,
+        "documentid": 15151,
+        "nodealias": "Robert-Hunter-Chambers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d5070ffe-37fc-4688-ad5b-b31441ab050b",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Hunter Chambers",
+        "documentmodifiedwhen": "2019-05-07T15:11:21.129Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37033W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Hunter Chambers",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3775863647461,
+                43.6624298095703
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5B 1M3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15160-14317",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:45:06.715Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Roslyn-Kathleen-Chambers",
+        "nodeid": 14317,
+        "documentid": 15160,
+        "nodealias": "Roslyn-Kathleen-Chambers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "376a429d-c7da-4411-8b2b-5af1ca8e2b83",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Roslyn Kathleen Chambers",
+        "documentmodifiedwhen": "2022-01-15T07:21:05.765Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70251S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Roslyn Kathleen Chambers",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "V5X 0K3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vancouver"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82676-81405",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:03.16Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Scott-Davidson-Chambers",
+        "nodeid": 81405,
+        "documentid": 82676,
+        "nodealias": "Scott-Davidson-Chambers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ed37f73c-571c-43c5-9f83-f73ce99b61ee",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Scott Davidson Chambers",
+        "documentmodifiedwhen": "2020-04-02T07:43:12.571Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50596W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Scott Davidson Chambers",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15157-14314",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:44:35.197Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Sean-Robert-Chambers",
+        "nodeid": 14314,
+        "documentid": 15157,
+        "nodealias": "Sean-Robert-Chambers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2469ab76-37fb-4922-bf18-a1e7f2c865b5",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sean Robert Chambers",
+        "documentmodifiedwhen": "2022-01-05T07:24:42.559Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "55178G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sean Robert Chambers",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2K4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118803-116121",
+        "sys_site": "lso",
+        "sys_created": "2019-09-27T07:41:47.526Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Geoffrey-Chambers-Bedard",
+        "nodeid": 116121,
+        "documentid": 118803,
+        "nodealias": "Geoffrey-Chambers-Bedard",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2c3124db-6e2b-4880-9af0-0f8be050798d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Geoffrey Chambers-B\u00e9dard",
+        "documentmodifiedwhen": "2022-01-11T07:35:20.765Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78310J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Geoffrey Chambers-B\u00e9dard",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P7B 5N3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Thunder Bay"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "115826-113447",
+        "sys_site": "lso",
+        "sys_created": "2019-06-20T07:40:47.837Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Maxime-Jean-Roch-Chambers-Dumont",
+        "nodeid": 113447,
+        "documentid": 115826,
+        "nodealias": "Maxime-Jean-Roch-Chambers-Dumont",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5e3e8677-b0d3-4182-98ea-2dc9b72d2115",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Maxime Jean-Roch Chambers-Dumont",
+        "documentmodifiedwhen": "2020-03-12T07:23:01.713Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76536A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Maxime Jean-Roch Chambers-Dumont",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "117429-115027",
+        "sys_site": "lso",
+        "sys_created": "2019-06-29T07:22:16.555Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Nadia-Chami",
+        "nodeid": 115027,
+        "documentid": 117429,
+        "nodealias": "Nadia-Chami",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c3b77d58-3e7a-43ed-a472-7c0f1cab3ad1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nadia Chami",
+        "documentmodifiedwhen": "2022-01-15T07:27:56.934Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78224U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nadia Chami",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6Z 1W7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15161-14318",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:45:18.82Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Eric-Frank-Chamney",
+        "nodeid": 14318,
+        "documentid": 15161,
+        "nodealias": "Eric-Frank-Chamney",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cedd8951-aa00-4a99-a6ac-56b33b1f2f04",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eric Frank Chamney",
+        "documentmodifiedwhen": "2022-01-09T07:27:42.047Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61434C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eric Frank Chamney",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M7A 1A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15162-14319",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:45:29.225Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Roy-Chamoun",
+        "nodeid": 14319,
+        "documentid": 15162,
+        "nodealias": "Roy-Chamoun",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1409d0ee-71d0-4ef9-aff7-5c12ba80ca73",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Roy Chamoun",
+        "documentmodifiedwhen": "2022-01-07T07:19:07.542Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56497C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Roy Chamoun",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0S5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Gatineau"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15163-14320",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:45:40.143Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Paul-Stewart-Champ",
+        "nodeid": 14320,
+        "documentid": 15163,
+        "nodealias": "Paul-Stewart-Champ",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4d5660b8-89d6-4496-9821-4a551a16b0e9",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paul Stewart Champ",
+        "documentmodifiedwhen": "2022-01-01T07:29:41.118Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit administratif",
+            "Droit de l'emploi et droit du travail",
+            "Droits de la personne"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Administrative Law",
+            "Employment/Labour Law",
+            "Human Rights"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45305K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paul Stewart Champ",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K2P 0W6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82680-81408",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:09.302Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/007/Constance-Roberta-Champagne",
+        "nodeid": 81408,
+        "documentid": 82680,
+        "nodealias": "Constance-Roberta-Champagne",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8260e206-6b02-4f68-9068-e541e0b1478e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Constance Roberta Champagne",
+        "documentmodifiedwhen": "2021-09-21T09:00:45.784Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09486",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Constance Roberta Champagne",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82681-81409",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:10.005Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Donald-Cairn-Edward-Champagne",
+        "nodeid": 81409,
+        "documentid": 82681,
+        "nodealias": "Donald-Cairn-Edward-Champagne",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "99589c18-44e2-4f9a-aabd-4e319363a179",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Donald Cairn Edward Champagne",
+        "documentmodifiedwhen": "2022-05-28T07:33:03.057Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "11465O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Donald Cairn Edward Champagne",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15165-14322",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:46:01.374Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Joseph-Bernard-Andre-Champagne",
+        "nodeid": 14322,
+        "documentid": 15165,
+        "nodealias": "Joseph-Bernard-Andre-Champagne",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "024d97a7-9c4e-4cf3-8b71-2ca0ea4db8fe",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joseph Bernard Andre Champagne",
+        "documentmodifiedwhen": "2021-12-25T07:28:10.103Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27589D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joseph Bernard Andre Champagne",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1S 3V1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15166-14323",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:46:11.876Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Joseph-Pierre-Champagne",
+        "nodeid": 14323,
+        "documentid": 15166,
+        "nodealias": "Joseph-Pierre-Champagne",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "589af1a3-b317-4bfe-9e43-0666b0fc54b4",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joseph Pierre Champagne",
+        "documentmodifiedwhen": "2019-05-07T15:11:44.492Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit de la construction",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Construction Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36341G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joseph Pierre Champagne",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.6928787231445,
+                45.419750213623
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1C 1P3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15164-14321",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:45:50.835Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Marc-Thomas-Steven-Champagne",
+        "nodeid": 14321,
+        "documentid": 15164,
+        "nodealias": "Marc-Thomas-Steven-Champagne",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c25da958-deeb-4fc7-9c6c-0db0348ed6a1",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marc Thomas Steven Champagne",
+        "documentmodifiedwhen": "2021-12-21T07:16:58.889Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "23651W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marc Thomas Steven Champagne",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "H3B 2S2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Montreal"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82684-81411",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:13.351Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Marie-Noella-Diane-Champagne",
+        "nodeid": 81411,
+        "documentid": 82684,
+        "nodealias": "Marie-Noella-Diane-Champagne",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0b592df4-2d3c-4d3e-ad9a-0840c156d532",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marie Noella Diane Champagne",
+        "documentmodifiedwhen": "2020-02-20T08:00:54.844Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24331G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marie Noella Diane Champagne",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82682-81410",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:11.302Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Paul-Michael-Champagne",
+        "nodeid": 81410,
+        "documentid": 82682,
+        "nodealias": "Paul-Michael-Champagne",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "aa7bbb43-e4ce-4096-be4c-a16d4ea07900",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paul Michael Champagne",
+        "documentmodifiedwhen": "2021-12-14T07:59:02.794Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13448N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paul Michael Champagne",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15167-14324",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:46:23.193Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Robert-Jean-Claude-Champagne",
+        "nodeid": 14324,
+        "documentid": 15167,
+        "nodealias": "Robert-Jean-Claude-Champagne",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "322f03bf-e9d0-40c8-81cf-b0068a50d38c",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Jean Claude Champagne",
+        "documentmodifiedwhen": "2020-07-17T07:15:34.556Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45351T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Jean Claude Champagne",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15168-14325",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:46:34.586Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Emilie-Renee-Champagne",
+        "nodeid": 14325,
+        "documentid": 15168,
+        "nodealias": "Emilie-Renee-Champagne",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "55cd211f-8dbe-493f-a1fb-b10182be28d0",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "\u00c9milie Ren\u00e9e Champagne",
+        "documentmodifiedwhen": "2022-01-08T07:29:25.523Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59475J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "\u00c9milie Ren\u00e9e Champagne",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "126717-122838",
+        "sys_site": "lso",
+        "sys_created": "2020-12-10T07:20:45.225Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Kamille-Bernadette-Marie-Champagnie",
+        "nodeid": 122838,
+        "documentid": 126717,
+        "nodealias": "Kamille-Bernadette-Marie-Champagnie",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "942253cb-29fd-4c1e-b9df-2f889716b874",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kamille Bernadette Marie Champagnie",
+        "documentmodifiedwhen": "2021-03-26T07:20:08.82Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P16924",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kamille Bernadette Marie Champagnie",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.5390548706055,
+                43.6363792419434
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M9B 6K5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Etobicoke"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123239-119764",
+        "sys_site": "lso",
+        "sys_created": "2020-06-16T10:03:41.821Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Laurence-Marie-Charlotte-Joelle-France-Champigny",
+        "nodeid": 119764,
+        "documentid": 123239,
+        "nodealias": "Laurence-Marie-Charlotte-Joelle-France-Champigny",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6fc46a15-245e-4f86-9478-459e860c1c90",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Laurence Marie Charlotte Jo\u00eblle France Champigny",
+        "documentmodifiedwhen": "2022-01-16T07:25:25.036Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "79330I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Laurence Marie Charlotte Jo\u00eblle France Champigny",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0M3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Gatineau"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118474-115837",
+        "sys_site": "lso",
+        "sys_created": "2019-09-21T07:18:59.166Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Julia-Joyce-Champion",
+        "nodeid": 115837,
+        "documentid": 118474,
+        "nodealias": "Julia-Joyce-Champion",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2a760e7f-2eec-4ba9-8a54-a10da1e47b14",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Julia Joyce Champion",
+        "documentmodifiedwhen": "2020-12-24T07:17:48.664Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15937",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Julia Joyce Champion",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4101104736328,
+                43.7612113952637
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M2N 0G3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82683-81412",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:14.398Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Elizabeth-Joan-Champlin",
+        "nodeid": 81412,
+        "documentid": 82683,
+        "nodealias": "Elizabeth-Joan-Champlin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "36bc58b8-1e4b-414d-9958-0ec2e25649bb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Elizabeth Joan Champlin",
+        "documentmodifiedwhen": "2021-12-14T07:26:39.67Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "12818D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Elizabeth Joan Champlin",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130721-126310",
+        "sys_site": "lso",
+        "sys_created": "2021-06-01T08:45:48.452Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Veronique-Sophie-Champoux",
+        "nodeid": 126310,
+        "documentid": 130721,
+        "nodealias": "Veronique-Sophie-Champoux",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "110bf523-ab8d-4075-a3af-6feb60dee14a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Veronique Sophie Champoux",
+        "documentmodifiedwhen": "2022-01-28T07:16:49.484Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82171W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Veronique Sophie Champoux",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1P 6L5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15169-14326",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:46:44.947Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Azra-Champsi",
+        "nodeid": 14326,
+        "documentid": 15169,
+        "nodealias": "Azra-Champsi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "07d9d710-1208-4be7-a344-5a6a72a34517",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Azra Champsi",
+        "documentmodifiedwhen": "2022-01-02T07:18:36.94Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47094M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Azra Champsi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M3M 0B5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15170-14327",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:46:55.788Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Zohrina-Nyambura-Champsi",
+        "nodeid": 14327,
+        "documentid": 15170,
+        "nodealias": "Zohrina-Nyambura-Champsi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "78614478-de47-4419-8107-2f769f337d95",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Zohrina Nyambura Champsi",
+        "documentmodifiedwhen": "2022-03-01T07:17:34.728Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69932C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Zohrina Nyambura Champsi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L6W 4T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15171-14328",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:47:07.166Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Mina-Chamsi",
+        "nodeid": 14328,
+        "documentid": 15171,
+        "nodealias": "Mina-Chamsi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f094ecb3-7029-4b39-8fdd-239534368dc2",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mina Chamsi",
+        "documentmodifiedwhen": "2022-04-28T07:15:54.903Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71748D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mina Chamsi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M7A 1A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "110172-108705",
+        "sys_site": "lso",
+        "sys_created": "2018-10-04T06:33:57.905Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Aaron-Brian-Chan",
+        "nodeid": 108705,
+        "documentid": 110172,
+        "nodealias": "Aaron-Brian-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "10c47924-8a90-4fa8-b912-6c1c3134d4b6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Aaron Brian Chan",
+        "documentmodifiedwhen": "2022-01-15T07:32:24.905Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75903C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Aaron Brian Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5A 4J5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15206-14363",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:53:45.27Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Aaron-Lon-Chan",
+        "nodeid": 14363,
+        "documentid": 15206,
+        "nodealias": "Aaron-Lon-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8811ee11-cab0-49c3-bc2f-40d975c0291d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Aaron Lon Chan",
+        "documentmodifiedwhen": "2022-01-01T07:28:24.046Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46823N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Aaron Lon Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M7A 0B2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15226-14383",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:57:22.41Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Ada-Ho-Ying-Chan",
+        "nodeid": 14383,
+        "documentid": 15226,
+        "nodealias": "Ada-Ho-Ying-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "93c7390f-bc75-4528-adb1-758173eb39bb",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ada Ho-Ying Chan",
+        "documentmodifiedwhen": "2022-02-03T07:17:02.066Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58225C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ada Ho-Ying Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 1E2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15227-14384",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:57:33.34Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Alan-Douglas-Chan",
+        "nodeid": 14384,
+        "documentid": 15227,
+        "nodealias": "Alan-Douglas-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "56e6aa65-d6ed-43fb-b7e1-af1b53c43482",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alan Douglas Chan",
+        "documentmodifiedwhen": "2022-01-08T07:20:44.42Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la famille ou matrimonial",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Family/Matrimonial Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58226V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alan Douglas Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N2T 0A6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Waterloo"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82703-81431",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:38.739Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Alexander-Chi-Ho-Chan",
+        "nodeid": 81431,
+        "documentid": 82703,
+        "nodealias": "Alexander-Chi-Ho-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f793c4a2-4dc3-44eb-9d29-5051dcd5be85",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alexander Chi-Ho Chan",
+        "documentmodifiedwhen": "2022-01-04T07:18:08.402Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47770Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alexander Chi-Ho Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 0E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82712-81442",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:53.011Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Amanda-Hei-Man-Chan",
+        "nodeid": 81442,
+        "documentid": 82712,
+        "nodealias": "Amanda-Hei-Man-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f1569de8-79c7-4089-8736-63d84939f330",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amanda Hei Man Chan",
+        "documentmodifiedwhen": "2021-10-13T07:16:06.273Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74240D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amanda Hei Man Chan",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3786010742188,
+                43.6472625732422
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2T3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82714-81441",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:52.902Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Andrew-C-W-Chan",
+        "nodeid": 81441,
+        "documentid": 82714,
+        "nodealias": "Andrew-C-W-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4e96ad2b-9fbd-40ab-831a-221e2f6359b7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew C.W Chan",
+        "documentmodifiedwhen": "2021-02-25T07:17:04.145Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70849B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew C.W Chan",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3814239501953,
+                43.646598815918
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5K 1G8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15205-14362",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:53:34.45Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Andy-Chuk-Yen-Chan",
+        "nodeid": 14362,
+        "documentid": 15205,
+        "nodealias": "Andy-Chuk-Yen-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "34176fad-b041-49b5-b6e5-8ce7756a054f",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andy Chuk Yen Chan",
+        "documentmodifiedwhen": "2022-01-01T07:24:27.738Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45906P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andy Chuk Yen Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4K 0H9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vaughan"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "110173-108706",
+        "sys_site": "lso",
+        "sys_created": "2018-10-04T06:34:03.306Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Anson-Yat-Fai-Chan",
+        "nodeid": 108706,
+        "documentid": 110173,
+        "nodealias": "Anson-Yat-Fai-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5633a695-3027-4b6f-8033-7b73e90a7484",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anson Yat Fai Chan",
+        "documentmodifiedwhen": "2022-01-15T07:32:24.252Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75904V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anson Yat Fai Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 2J2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15250-14407",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T16:01:57.049Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Anthea-Yick-Cheung-Chan",
+        "nodeid": 14407,
+        "documentid": 15250,
+        "nodealias": "Anthea-Yick-Cheung-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "18c01f86-5b39-4244-8d73-984f8afc10b2",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anthea Yick Cheung Chan",
+        "documentmodifiedwhen": "2022-01-12T07:25:28.74Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68679P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anthea Yick Cheung Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "M5H 1J9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15241-14398",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T16:00:17.646Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Benedict-Felix-Bing-Fai-Chan",
+        "nodeid": 14398,
+        "documentid": 15241,
+        "nodealias": "Benedict-Felix-Bing-Fai-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "105977ca-b344-4974-a55a-056c177d1e06",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Benedict Felix Bing-Fai Chan",
+        "documentmodifiedwhen": "2019-05-07T15:12:19.138Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63583L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Benedict Felix Bing-Fai Chan",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3836364746094,
+                43.657600402832
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 2K5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82715-81444",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:54.123Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Benny-Ho-Kong-Chan",
+        "nodeid": 81444,
+        "documentid": 82715,
+        "nodealias": "Benny-Ho-Kong-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "73022664-098f-4367-9cd1-e79d776bb429",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Benny Ho Kong Chan",
+        "documentmodifiedwhen": "2022-01-17T07:17:37.911Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74943N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Benny Ho Kong Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0K9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "137816-132404",
+        "sys_site": "lso",
+        "sys_created": "2022-05-05T07:21:14.223Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/015/Bernadette-Man-Chi-Chan",
+        "nodeid": 132404,
+        "documentid": 137816,
+        "nodealias": "Bernadette-Man-Chi-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b947a283-2013-417f-9253-133a115df898",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Bernadette Man Chi Chan",
+        "documentmodifiedwhen": "2022-07-16T07:17:43.864Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18375",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Bernadette Man Chi Chan",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L4K 1Y2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Concord"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15261-14418",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T16:03:57.084Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Billie-Ho-Lam-Chan",
+        "nodeid": 14418,
+        "documentid": 15261,
+        "nodealias": "Billie-Ho-Lam-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "405f7f47-9cb3-45ee-a565-57295c7d872f",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Billie Ho Lam Chan",
+        "documentmodifiedwhen": "2022-01-14T07:28:10.5Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Cantonais"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Cantonese"
+        ],
+        "membernumber": "72829M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Billie Ho Lam Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "L3R 5J2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15260-14417",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T16:03:46.198Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Calvin-Kar-Wang-Chan",
+        "nodeid": 14417,
+        "documentid": 15260,
+        "nodealias": "Calvin-Kar-Wang-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ec59e915-6469-4516-86fd-5e2481366853",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Calvin Kar Wang Chan",
+        "documentmodifiedwhen": "2019-05-09T07:17:38.982Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit de l'emploi et droit du travail",
+            "Affaires relevant de la Cour des petites cr\u00e9ances"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Employment/Labour Law",
+            "Small Claims Court matters"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72499K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Calvin Kar Wang Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -78.7378311157227,
+                44.3551864624023
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K9V 2Y4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Lindsay"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82709-81436",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:44.386Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Candace-Michelle-Chan",
+        "nodeid": 81436,
+        "documentid": 82709,
+        "nodealias": "Candace-Michelle-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "247723bf-4068-47fa-8149-e9cb047dcad3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Candace Michelle Chan",
+        "documentmodifiedwhen": "2022-01-06T07:27:33.42Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50987H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Candace Michelle Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15258-14415",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T16:03:25.729Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Carina-Joyce-Chan",
+        "nodeid": 14415,
+        "documentid": 15258,
+        "nodealias": "Carina-Joyce-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7712b255-3fd1-4e90-a702-75db85775270",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Carina Joyce Chan",
+        "documentmodifiedwhen": "2022-05-27T07:16:32.653Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "R\u00e8glement extrajudiciaire des diff\u00e9rends (RAD)/ Services de m\u00e9diation",
+            "Droit de la famille ou matrimonial"
+        ],
+        "memberareasofservicenamesenglish": [
+            "ADR/Mediation Services",
+            "Family/Matrimonial Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70850I",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Carina Joyce Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5B 1Y4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "50301-49029",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:06:39.5Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Carling-Che-Pey-Chan",
+        "nodeid": 49029,
+        "documentid": 50301,
+        "nodealias": "Carling-Che-Pey-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6d2aa12d-d7b9-42f5-99ea-786cebfef430",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Carling Che Pey Chan",
+        "documentmodifiedwhen": "2021-05-15T07:16:04.504Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Cantonais",
+            "Mandarin"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Cantonese",
+            "Mandarin"
+        ],
+        "membernumber": "75405V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Carling Che Pey Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.382438659668,
+                43.6515502929688
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2M5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15239-14396",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:59:56.6Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Carmina-Chan",
+        "nodeid": 14396,
+        "documentid": 15239,
+        "nodealias": "Carmina-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bbe18f0c-9668-4e82-b28e-7ba7712ec77d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Carmina Chan",
+        "documentmodifiedwhen": "2021-03-14T07:18:16.215Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63094F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Carmina Chan",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -73.5709686279297,
+                45.5041351318359
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "H3A 0A3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Montreal"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15224-14381",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:57:01.089Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Carol-Joyce-Chan",
+        "nodeid": 14381,
+        "documentid": 15224,
+        "nodealias": "Carol-Joyce-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "401e6fdf-d788-432e-8a9d-bd71a89d6867",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Carol Joyce Chan",
+        "documentmodifiedwhen": "2022-01-05T07:31:32.196Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57369K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Carol Joyce Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L5P 1A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15175-14332",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:47:50.275Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Catherine-Anne-Chan",
+        "nodeid": 14332,
+        "documentid": 15175,
+        "nodealias": "Catherine-Anne-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f3d047bc-31a3-4d87-b2ae-5c4ae91b779e",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Catherine Anne Chan",
+        "documentmodifiedwhen": "2019-05-07T15:12:01.425Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09415",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Catherine Anne Chan",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -78.8964080810547,
+                43.9456214904785
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L1N 7L7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oshawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82694-81422",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:26.979Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Chee-Yen-Suzane-Chan",
+        "nodeid": 81422,
+        "documentid": 82694,
+        "nodealias": "Chee-Yen-Suzane-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1432ca74-e32d-45c7-971c-f377fa08d0d4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Chee Yen Suzane Chan",
+        "documentmodifiedwhen": "2021-11-05T07:40:48.937Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "35020S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Chee Yen Suzane Chan",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                114.157577514648,
+                22.281717300415
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Hong Kong",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hong Kong"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15176-14333",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:48:00.923Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Chee-Yeng-Jamie-Chan",
+        "nodeid": 14333,
+        "documentid": 15176,
+        "nodealias": "Chee-Yeng-Jamie-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0e0eae83-452c-4d39-81de-efc246771c62",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Chee Yeng Jamie Chan",
+        "documentmodifiedwhen": "2021-12-19T07:25:36.469Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09463",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Chee Yeng Jamie Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L3T 7M8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15228-14385",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:57:57.319Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Cheong-Yip-Chan",
+        "nodeid": 14385,
+        "documentid": 15228,
+        "nodealias": "Cheong-Yip-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ddde7e5b-9962-4560-bbb7-2d9c9e384cba",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Cheong-Yip Chan",
+        "documentmodifiedwhen": "2022-01-08T07:20:43.815Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58227R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Cheong-Yip Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L5N 1P9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82692-81420",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:23.117Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Cheuk-Christopher-Chan",
+        "nodeid": 81420,
+        "documentid": 82692,
+        "nodealias": "Cheuk-Christopher-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "20c099b2-cc83-4434-9c70-8b54dd721639",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Cheuk Christopher Chan",
+        "documentmodifiedwhen": "2021-11-05T07:41:00.462Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33809H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Cheuk Christopher Chan",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -97.7458190917969,
+                30.2761898040771
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15245-14402",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T16:01:02.553Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Cheuk-Ying-Chan",
+        "nodeid": 14402,
+        "documentid": 15245,
+        "nodealias": "Cheuk-Ying-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d3bc188c-e33b-4384-9a40-a8823d63ea92",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Cheuk Ying Chan",
+        "documentmodifiedwhen": "2020-09-16T07:16:42.028Z",
+        "skuname": null,
+        "memberprovincetext": "Alberta",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66224O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Cheuk Ying Chan",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -113.510475158691,
+                53.5182456970215
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "T6E 2B3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Edmonton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "124064-120514",
+        "sys_site": "lso",
+        "sys_created": "2020-06-27T07:28:55.129Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Chi-Kwan-Chan",
+        "nodeid": 120514,
+        "documentid": 124064,
+        "nodealias": "Chi-Kwan-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "35af81e5-5b8e-4234-9fa3-721c7891037b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Chi Kwan Chan",
+        "documentmodifiedwhen": "2022-01-19T07:17:34.276Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80416J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Chi Kwan Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4K 4M3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vaughan"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15229-14386",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:58:07.53Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Chi-Pui-Pearl-Chan",
+        "nodeid": 14386,
+        "documentid": 15229,
+        "nodealias": "Chi-Pui-Pearl-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ade39466-c546-4f23-920e-9a5325c2682c",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Chi Pui Pearl Chan",
+        "documentmodifiedwhen": "2022-03-24T07:18:13.132Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58228N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Chi Pui Pearl Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L5S 1V1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15193-14350",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:51:28.689Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Chi-Nam-Steve-Chan",
+        "nodeid": 14350,
+        "documentid": 15193,
+        "nodealias": "Chi-Nam-Steve-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "79028419-f7cc-43f5-ad32-fa22f4c91c41",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Chi-Nam Steve Chan",
+        "documentmodifiedwhen": "2021-12-29T07:22:25.312Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37767K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Chi-Nam Steve Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4B 1A6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Richmond Hill"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82686-81414",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:16.445Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/007/Ching-Man-Chan",
+        "nodeid": 81414,
+        "documentid": 82686,
+        "nodealias": "Ching-Man-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2d9ac93b-6907-4761-8351-01cffc81e01f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ching Man Chan",
+        "documentmodifiedwhen": "2020-02-20T09:12:16.743Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Cantonais",
+            "Mandarin"
+        ],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Cantonese",
+            "Mandarin"
+        ],
+        "membernumber": "P02393",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ching Man Chan",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15178-14335",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:48:37.604Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Choi-Wing-Chan",
+        "nodeid": 14335,
+        "documentid": 15178,
+        "nodealias": "Choi-Wing-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4a60474a-94fb-4039-99db-61824d0bd56a",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Choi Wing Chan",
+        "documentmodifiedwhen": "2021-04-18T07:16:11.911Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11966",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Choi Wing Chan",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15253-14410",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T16:02:30.821Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Christopher-Chi-Ho-Chan",
+        "nodeid": 14410,
+        "documentid": 15253,
+        "nodealias": "Christopher-Chi-Ho-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cc4c4bd2-5892-4628-9651-ef25a0877c9a",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher Chi-Ho Chan",
+        "documentmodifiedwhen": "2022-01-12T07:30:44.371Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69356L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher Chi-Ho Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2H 3P7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130255-125889",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T10:56:30.057Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Christopher-Samuel-Roy-Chan",
+        "nodeid": 125889,
+        "documentid": 130255,
+        "nodealias": "Christopher-Samuel-Roy-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4583516d-6697-42c5-80f9-904d3d2a2e59",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher Samuel Roy Chan",
+        "documentmodifiedwhen": "2021-06-10T07:24:36.587Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81631I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher Samuel Roy Chan",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "112908-111161",
+        "sys_site": "lso",
+        "sys_created": "2018-12-20T07:19:05.217Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Chung-Wai-Jonathan-Chan",
+        "nodeid": 111161,
+        "documentid": 112908,
+        "nodealias": "Chung-Wai-Jonathan-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4757ad3a-53c0-4a59-8d70-d76d22fe7ee4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Chung Wai Jonathan Chan",
+        "documentmodifiedwhen": "2020-02-20T09:39:56.871Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15200",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Chung Wai Jonathan Chan",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15200-14357",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:52:40.884Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Constance-Wai-Min-Chan",
+        "nodeid": 14357,
+        "documentid": 15200,
+        "nodealias": "Constance-Wai-Min-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5ad4df45-50db-4337-a67d-4dd3234ba6c6",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Constance Wai-Min Chan",
+        "documentmodifiedwhen": "2022-01-06T07:22:50.073Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42816J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Constance Wai-Min Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4N 1G7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82691-81419",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:22.648Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Daniel-Lap-Fung-Chan",
+        "nodeid": 81419,
+        "documentid": 82691,
+        "nodealias": "Daniel-Lap-Fung-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e56872e7-091f-4d3d-a07a-a4a278c89470",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniel Lap Fung Chan",
+        "documentmodifiedwhen": "2021-12-26T07:22:32.365Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32176N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniel Lap Fung Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Hong Kong",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hong Kong"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15207-14364",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:53:55.923Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Danny-Ming-Han-Chan",
+        "nodeid": 14364,
+        "documentid": 15207,
+        "nodealias": "Danny-Ming-Han-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9c1e24f1-d717-4156-9f2b-20cb13150d0a",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Danny Ming Han Chan",
+        "documentmodifiedwhen": "2022-01-06T07:24:05.336Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47095I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Danny Ming Han Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 3H6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82702-81430",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:36.821Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Derek-Pok-Chung-Chan",
+        "nodeid": 81430,
+        "documentid": 82702,
+        "nodealias": "Derek-Pok-Chung-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "da631332-bbb5-4a7d-bc4c-34f8a914044d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Derek Pok-Chung Chan",
+        "documentmodifiedwhen": "2022-01-04T07:16:31.231Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "44300T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Derek Pok-Chung Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Hong Kong",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hong Kong"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15236-14393",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:59:24.519Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Diana-Victoria-Chan",
+        "nodeid": 14393,
+        "documentid": 15236,
+        "nodealias": "Diana-Victoria-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "447d2a9b-68b1-45de-ab33-dc2885cf7160",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Diana Victoria Chan",
+        "documentmodifiedwhen": "2022-01-09T07:27:42.735Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61435V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Diana Victoria Chan",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M2N 0A4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116511-114123",
+        "sys_site": "lso",
+        "sys_created": "2019-06-27T08:20:35.42Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Dora-Hoi-Yan-Chan",
+        "nodeid": 114123,
+        "documentid": 116511,
+        "nodealias": "Dora-Hoi-Yan-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9b2958d7-4a19-4223-b8c4-d21d57f8fcae",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Dora Hoi Yan Chan",
+        "documentmodifiedwhen": "2021-09-21T09:39:57.77Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76942Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Dora Hoi Yan Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3839721679688,
+                43.6467971801758
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 2H7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82701-81429",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:36.399Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Edmund-King-Leung-Chan",
+        "nodeid": 81429,
+        "documentid": 82701,
+        "nodealias": "Edmund-King-Leung-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "00ba2e81-3b6f-4f7c-a28c-57b2b91aa8ba",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Edmund King-Leung Chan",
+        "documentmodifiedwhen": "2021-09-21T08:19:37.32Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47327M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Edmund King-Leung Chan",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "131608-127047",
+        "sys_site": "lso",
+        "sys_created": "2021-06-17T08:35:16.949Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Elizabeth-Chin-Yee-Chan",
+        "nodeid": 127047,
+        "documentid": 131608,
+        "nodealias": "Elizabeth-Chin-Yee-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6492ab4a-4446-4972-bca7-c739c265f3f5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Elizabeth Chin-Yee Chan",
+        "documentmodifiedwhen": "2021-08-17T07:17:43.531Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82645U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Elizabeth Chin-Yee Chan",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3795166015625,
+                43.6481819152832
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5L 1A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15203-14360",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:53:13.313Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Emily-Chan",
+        "nodeid": 14360,
+        "documentid": 15203,
+        "nodealias": "Emily-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "22d0c526-75ea-4dcb-94f1-de851ad8a2e1",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Emily Chan",
+        "documentmodifiedwhen": "2022-05-17T07:17:57.221Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45352P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Emily Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 2H7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15233-14390",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:58:51.939Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Emmanuel-Justin-Chan",
+        "nodeid": 14390,
+        "documentid": 15233,
+        "nodealias": "Emmanuel-Justin-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8ac48077-4030-4c5b-8fa4-66dff6f5783d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Emmanuel Justin Chan",
+        "documentmodifiedwhen": "2022-01-08T07:28:31.9Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58851J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Emmanuel Justin Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M3C 3E9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15172-14329",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:47:18.142Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Eric-Chan",
+        "nodeid": 14329,
+        "documentid": 15172,
+        "nodealias": "Eric-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f16d7983-d871-40c1-b16d-5c89a147b1ed",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eric Chan",
+        "documentmodifiedwhen": "2021-12-16T07:20:45.718Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P00079",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eric Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M1S 5H6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15259-14416",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T16:03:35.996Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Erika-Valerie-Wai-Yee-Chan",
+        "nodeid": 14416,
+        "documentid": 15259,
+        "nodealias": "Erika-Valerie-Wai-Yee-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "16ae7419-da8a-4ee7-ba3b-5026cb55c868",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Erika Valerie Wai Yee Chan",
+        "documentmodifiedwhen": "2022-01-13T07:30:45.86Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71539C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Erika Valerie Wai Yee Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 5W9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15195-14352",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:51:44.445Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Ernest-Hugh-Chan",
+        "nodeid": 14352,
+        "documentid": 15195,
+        "nodealias": "Ernest-Hugh-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b226feec-1dc9-4cdb-9bd0-bf50ab0d87a6",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ernest Hugh Chan",
+        "documentmodifiedwhen": "2021-12-29T07:26:58.056Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38142V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ernest Hugh Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 3K7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15217-14374",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:55:43.26Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Ernest-Yoe-Ming-Chan",
+        "nodeid": 14374,
+        "documentid": 15217,
+        "nodealias": "Ernest-Yoe-Ming-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bc4af423-3297-47a7-a4e0-ec4ab8f8fe0c",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ernest Yoe-Ming Chan",
+        "documentmodifiedwhen": "2022-01-05T07:24:36.281Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "55179C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ernest Yoe-Ming Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M9W 7K6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15202-14359",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T15:53:02.245Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Eva-Chan",
+        "nodeid": 14359,
+        "documentid": 15202,
+        "nodealias": "Eva-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e7237bbd-dc1c-47dd-9325-3ab0dea4fc53",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eva Chan",
+        "documentmodifiedwhen": "2021-12-31T07:30:30.497Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "44518H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eva Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5X 1C7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "15248-14405",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T16:01:34.563Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Eva-Macy-Chan",
+        "nodeid": 14405,
+        "documentid": 15248,
+        "nodealias": "Eva-Macy-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "79fd6216-2018-4282-9cc5-e4effec9269b",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eva Macy Chan",
+        "documentmodifiedwhen": "2022-01-12T07:22:02.345Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67701W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eva Macy Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5R 2A5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82693-81421",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:26.149Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Ferant-Hei-Kwong-Chan",
+        "nodeid": 81421,
+        "documentid": 82693,
+        "nodealias": "Ferant-Hei-Kwong-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3ffc313b-2803-4e38-9367-49c8b9c890f0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ferant Hei-Kwong Chan",
+        "documentmodifiedwhen": "2021-11-05T07:41:05.851Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33810O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ferant Hei-Kwong Chan",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                114.173728942871,
+                22.2798728942871
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116510-114122",
+        "sys_site": "lso",
+        "sys_created": "2019-06-27T08:20:25.84Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Fiona-Kwok-Shan-Chan",
+        "nodeid": 114122,
+        "documentid": 116510,
+        "nodealias": "Fiona-Kwok-Shan-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d859b844-49c9-4712-aa3e-c2718393c255",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Fiona Kwok Shan Chan",
+        "documentmodifiedwhen": "2022-03-29T07:15:49.426Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76943M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Fiona Kwok Shan Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82706-81433",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:39.911Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Gawain-Ka-Wang-Chan",
+        "nodeid": 81433,
+        "documentid": 82706,
+        "nodealias": "Gawain-Ka-Wang-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3183ff54-8968-401e-b757-61599b67c3ef",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gawain Ka Wang Chan",
+        "documentmodifiedwhen": "2022-07-01T07:20:30.408Z",
+        "skuname": null,
+        "memberprovincetext": "New York",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "48898T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gawain Ka Wang Chan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "10019-6011",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "New York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82689-81417",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:29:21.664Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Gee-Ming-Chan",
+        "nodeid": 81417,
+        "documentid": 82689,
+        "nodealias": "Gee-Ming-Chan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3282179e-8ba2-45c0-a485-0dba2606d8dc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gee Ming Chan",
+        "documentmodifiedwhen": "2021-11-05T07:33:30.637Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "19461D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gee Ming Chan",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    }
+]

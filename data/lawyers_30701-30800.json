@@ -1,0 +1,5112 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37604-36340",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:34.221Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Gordon-James-Henderson",
+        "nodeid": 36340,
+        "documentid": 37604,
+        "nodealias": "Gordon-James-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cf356ad2-9293-4bd2-9297-cc1357448dcf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gordon James Henderson",
+        "documentmodifiedwhen": "2022-02-02T07:15:56.756Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21693O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gordon James Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "L6J 1N4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oakville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37596-36332",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:26.674Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Graham-Francis-Laurence-Henderson",
+        "nodeid": 36332,
+        "documentid": 37596,
+        "nodealias": "Graham-Francis-Laurence-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a838ec44-1cc1-4f27-9a42-065962f5bdf2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Graham Francis Laurence Henderson",
+        "documentmodifiedwhen": "2022-05-28T07:30:39.879Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26928P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Graham Francis Laurence Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37571-36308",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:00.252Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Ian-Derek-Henderson",
+        "nodeid": 36308,
+        "documentid": 37571,
+        "nodealias": "Ian-Derek-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e1e3a82b-9b1f-416a-b7af-34b0c651c78a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ian Derek Henderson",
+        "documentmodifiedwhen": "2021-09-21T08:47:05.852Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P01816",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ian Derek Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.8632736206055,
+                45.2952575683594
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "K2M 1V8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37598-36334",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:27.206Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/James-Douglas-Henderson",
+        "nodeid": 36334,
+        "documentid": 37598,
+        "nodealias": "James-Douglas-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "61888a42-e0c9-4376-a48f-1b0db2acac92",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "James Douglas Henderson",
+        "documentmodifiedwhen": "2021-12-21T07:21:03.979Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24372B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "James Douglas Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2Y2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90322-89050",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:58:38.483Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Jeremy-Allen-Henderson",
+        "nodeid": 89050,
+        "documentid": 90322,
+        "nodealias": "Jeremy-Allen-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8c5882f9-429d-4950-a4be-9b3f8e286b0f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jeremy Allen Henderson",
+        "documentmodifiedwhen": "2019-12-12T23:50:50.016Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75504P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jeremy Allen Henderson",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.7014617919922,
+                45.4171409606934
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37581-36317",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:05.44Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Jessica-Mary-Henderson",
+        "nodeid": 36317,
+        "documentid": 37581,
+        "nodealias": "Jessica-Mary-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "09467d11-c5b3-4517-bd24-0a51c257953a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jessica Mary Henderson",
+        "documentmodifiedwhen": "2020-02-20T09:24:37.312Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P10544",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jessica Mary Henderson",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "137847-132434",
+        "sys_site": "lso",
+        "sys_created": "2022-05-07T07:18:28.771Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/015/Joan-Anne-Henderson",
+        "nodeid": 132434,
+        "documentid": 137847,
+        "nodealias": "Joan-Anne-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0730745d-65b3-4713-bb73-f63acaf95890",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joan Anne Henderson",
+        "documentmodifiedwhen": "2022-07-20T07:17:52.021Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18414",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joan Anne Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4N 9J2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Barrie"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116220-113832",
+        "sys_site": "lso",
+        "sys_created": "2019-06-27T07:38:03.947Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/John-Charles-Philip-Henderson",
+        "nodeid": 113832,
+        "documentid": 116220,
+        "nodealias": "John-Charles-Philip-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fe26d398-c975-4818-b09e-5457917a9d62",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Charles Philip Henderson",
+        "documentmodifiedwhen": "2022-04-27T07:16:20.66Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77009V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Charles Philip Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 2T3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90787-89514",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:16.499Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/046/John-David-Henderson",
+        "nodeid": 89514,
+        "documentid": 90787,
+        "nodealias": "John-David-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "778ea8c4-5933-4044-b6aa-c92ced2fe783",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John David Henderson",
+        "documentmodifiedwhen": "2021-12-22T07:18:11.278Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24761R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John David Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90782-89510",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:09.919Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/046/John-Edward-Henderson",
+        "nodeid": 89510,
+        "documentid": 90782,
+        "nodealias": "John-Edward-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ce5711c6-683c-4e6f-99d8-33a0093856e8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Edward Henderson",
+        "documentmodifiedwhen": "2021-12-14T08:23:44.81Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "06871J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Edward Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37614-36350",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:48.908Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Joshua-Jeremy-Arthur-Henderson",
+        "nodeid": 36350,
+        "documentid": 37614,
+        "nodealias": "Joshua-Jeremy-Arthur-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6b8b6a99-1a4a-410b-8051-1f86b5681bfb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joshua Jeremy Arthur Henderson",
+        "documentmodifiedwhen": "2022-02-03T07:17:05.842Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56389K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joshua Jeremy Arthur Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2Y4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37615-36351",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:51.689Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Kelly-Jane-Henderson",
+        "nodeid": 36351,
+        "documentid": 37615,
+        "nodealias": "Kelly-Jane-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "770cec28-773d-4b9b-b8e5-48c1c21787de",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kelly Jane Henderson",
+        "documentmodifiedwhen": "2022-01-05T07:30:53.566Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57127Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kelly Jane Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K8N 3A6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Belleville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "133977-129274",
+        "sys_site": "lso",
+        "sys_created": "2021-09-11T07:19:46.306Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Kelsey-Lynn-Henderson",
+        "nodeid": 129274,
+        "documentid": 133977,
+        "nodealias": "Kelsey-Lynn-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0626b2e4-6469-4c0f-a613-3be2157fc411",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kelsey Lynn Henderson",
+        "documentmodifiedwhen": "2022-01-06T07:31:30.663Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17791",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kelsey Lynn Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L1J 2B4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oshawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37610-36346",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:45.283Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Kevin-Michael-Henderson",
+        "nodeid": 36346,
+        "documentid": 37610,
+        "nodealias": "Kevin-Michael-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f5523d83-407a-4bc5-ab4d-b01b6be63c0e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kevin Michael Henderson",
+        "documentmodifiedwhen": "2022-01-05T07:23:47.897Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "55236F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kevin Michael Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4M 6C1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Barrie"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "121994-118628",
+        "sys_site": "lso",
+        "sys_created": "2020-05-11T08:20:20.919Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Kristen-Anne-Henderson",
+        "nodeid": 118628,
+        "documentid": 121994,
+        "nodealias": "Kristen-Anne-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3da0235c-2376-48a7-b21d-614fbbf631f1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kristen Anne Henderson",
+        "documentmodifiedwhen": "2021-07-28T07:21:53.697Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P16555",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kristen Anne Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3477020263672,
+                43.7550277709961
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M3B 3K4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37601-36337",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:29.111Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Laura-Katherine-Henderson",
+        "nodeid": 36337,
+        "documentid": 37601,
+        "nodealias": "Laura-Katherine-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7edc9c3f-b932-4dbe-9004-a7e1c626727b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Laura Katherine Henderson",
+        "documentmodifiedwhen": "2021-12-29T07:27:58.189Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la propri\u00e9t\u00e9 intellectuelle"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Intellectual Property Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38267C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Laura Katherine Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6P 1V7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37576-36312",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:01.862Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Leah-Michelle-Henderson",
+        "nodeid": 36312,
+        "documentid": 37576,
+        "nodealias": "Leah-Michelle-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1bcf3b6c-c628-4640-947e-5d09ce1f1e96",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Leah Michelle Henderson",
+        "documentmodifiedwhen": "2021-09-21T09:23:13.22Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05622",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Leah Michelle Henderson",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3840942382813,
+                43.6534843444824
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M5H 2N2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37599-36335",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:28.299Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Lisa-Diane-Henderson",
+        "nodeid": 36335,
+        "documentid": 37599,
+        "nodealias": "Lisa-Diane-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5b89743d-e1af-42ac-84e3-28a40e3a70ae",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lisa Diane Henderson",
+        "documentmodifiedwhen": "2021-12-27T07:18:27.586Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33287E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lisa Diane Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M7A 2S9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90792-89520",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:29.024Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/046/Lisa-Marie-Henderson",
+        "nodeid": 89520,
+        "documentid": 90792,
+        "nodealias": "Lisa-Marie-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0a63fe67-26cd-4a5d-8427-05212ff50dba",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lisa Marie Henderson",
+        "documentmodifiedwhen": "2020-02-20T09:07:20.738Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69644S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lisa Marie Henderson",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37597-36333",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:26.847Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Martin-John-Henderson",
+        "nodeid": 36333,
+        "documentid": 37597,
+        "nodealias": "Martin-John-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "79bbe33a-7da0-4fe9-b285-4c7c74df5c9f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Martin John Henderson",
+        "documentmodifiedwhen": "2021-12-24T07:18:43.285Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24986L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Martin John Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2T9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37619-36355",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:15:15.454Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Nancy-Elin-Henderson",
+        "nodeid": 36355,
+        "documentid": 37619,
+        "nodealias": "Nancy-Elin-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a17108b9-6d6f-4fdd-849f-1d6a5cb240b2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nancy Elin Henderson",
+        "documentmodifiedwhen": "2022-01-08T07:17:47.038Z",
+        "skuname": null,
+        "memberprovincetext": "Alberta",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57946U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nancy Elin Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "T5J 4R7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Edmonton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "131553-126992",
+        "sys_site": "lso",
+        "sys_created": "2021-06-17T07:53:35.55Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Nathan-Michael-Henderson",
+        "nodeid": 126992,
+        "documentid": 131553,
+        "nodealias": "Nathan-Michael-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "658753b9-f762-4829-bb5d-540608a4ac24",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nathan Michael Henderson",
+        "documentmodifiedwhen": "2021-08-11T07:18:10.981Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82726S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nathan Michael Henderson",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -80.5141906738281,
+                43.4597930908203
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N2J 1B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Waterloo"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37602-36338",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:30.736Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Neil-William-Henderson",
+        "nodeid": 36338,
+        "documentid": 37602,
+        "nodealias": "Neil-William-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6ca7feea-2736-4bf4-9913-514ea0133099",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Neil William Henderson",
+        "documentmodifiedwhen": "2022-01-12T07:16:41.943Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33288A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Neil William Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N2K 1Z5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Waterloo"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37616-36352",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:54.455Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Nicole-Dianne-Henderson",
+        "nodeid": 36352,
+        "documentid": 37616,
+        "nodealias": "Nicole-Dianne-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f72a2168-9d0f-48ad-a870-6fc85f6107c6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nicole Dianne Henderson",
+        "documentmodifiedwhen": "2022-01-07T07:22:17.707Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56799K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nicole Dianne Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5L 1A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90789-89517",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:20.327Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/046/Peter-Todd-Henderson",
+        "nodeid": 89517,
+        "documentid": 90789,
+        "nodealias": "Peter-Todd-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5f39da34-1b6b-4c4b-a073-dddd76fb7977",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Peter Todd Henderson",
+        "documentmodifiedwhen": "2022-06-17T07:24:50.005Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "34303A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Peter Todd Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "U",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37592-36328",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:23.503Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Philip-James-Henderson",
+        "nodeid": 36328,
+        "documentid": 37592,
+        "nodealias": "Philip-James-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "217eae3a-4553-47c0-af03-9a53c82ee408",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Philip James Henderson",
+        "documentmodifiedwhen": "2021-12-24T07:16:11.199Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26217D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Philip James Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5L 1B9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37617-36353",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:15:01.252Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Piper-Barbara-Claire-Henderson",
+        "nodeid": 36353,
+        "documentid": 37617,
+        "nodealias": "Piper-Barbara-Claire-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "443440b5-52ae-4a15-93c9-ad5ec7008522",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Piper Barbara Claire Henderson",
+        "documentmodifiedwhen": "2022-01-07T07:27:16.546Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57435L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Piper Barbara Claire Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 2R8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37573-36307",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:00.143Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Rachel-Marie-Henderson",
+        "nodeid": 36307,
+        "documentid": 37573,
+        "nodealias": "Rachel-Marie-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bea7b28f-d591-4daa-89fb-3df80837f182",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rachel Marie Henderson",
+        "documentmodifiedwhen": "2021-12-16T07:25:13.625Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P04606",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rachel Marie Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 5R8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90785-89513",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:13.294Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/046/Richard-Colin-Henderson",
+        "nodeid": 89513,
+        "documentid": 90785,
+        "nodealias": "Richard-Colin-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3ac41c49-c479-46d2-8c1a-a6e5598c970b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Richard Colin Henderson",
+        "documentmodifiedwhen": "2021-09-21T07:32:06.281Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "19908H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Richard Colin Henderson",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90783-89511",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:10.107Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/046/Roland-Errol-Thomas-Henderson",
+        "nodeid": 89511,
+        "documentid": 90783,
+        "nodealias": "Roland-Errol-Thomas-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0c381652-fbeb-49dc-8fdf-031eb619e990",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Roland Errol Thomas Henderson",
+        "documentmodifiedwhen": "2021-12-14T08:07:32.209Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "08486W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Roland Errol Thomas Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "D\u00e9c\u00e9d\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Deceased"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37582-36318",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:05.424Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Samantha-Paige-Henderson",
+        "nodeid": 36318,
+        "documentid": 37582,
+        "nodealias": "Samantha-Paige-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c913993b-868b-46c5-8889-442053b06719",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Samantha Paige Henderson",
+        "documentmodifiedwhen": "2021-12-19T07:19:12.343Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09582",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Samantha Paige Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M2N 6K9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90780-89508",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:06.243Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Scott-William-Henderson",
+        "nodeid": 89508,
+        "documentid": 90780,
+        "nodealias": "Scott-William-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "22143a2a-8336-407f-8614-af643a645db2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Scott William Henderson",
+        "documentmodifiedwhen": "2021-09-21T08:48:02.622Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P01116",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Scott William Henderson",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37609-36345",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:43.486Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Stephanie-Elizabeth-Henderson",
+        "nodeid": 36345,
+        "documentid": 37609,
+        "nodealias": "Stephanie-Elizabeth-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "53d97f53-1cdf-41ad-9537-48dfad993d8e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephanie Elizabeth Henderson",
+        "documentmodifiedwhen": "2022-01-05T07:25:46.972Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "55844Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephanie Elizabeth Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M9M 2Y9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37618-36354",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:15:12.47Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Stephen-James-Burrows-Henderson",
+        "nodeid": 36354,
+        "documentid": 37618,
+        "nodealias": "Stephen-James-Burrows-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a43786c4-c1d7-456b-8607-6e729062ebd2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephen James Burrows Henderson",
+        "documentmodifiedwhen": "2022-02-24T07:18:40.974Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65534N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephen James Burrows Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139752-134140",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T07:38:09.857Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Steven-Ryan-Henderson",
+        "nodeid": 134140,
+        "documentid": 139752,
+        "nodealias": "Steven-Ryan-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "439755b0-1562-48a7-bd55-160a1cf42301",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Steven Ryan Henderson",
+        "documentmodifiedwhen": "2022-07-07T07:30:08.686Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85222C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Steven Ryan Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37594-36330",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:25.596Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Stuart-William-Henderson",
+        "nodeid": 36330,
+        "documentid": 37594,
+        "nodealias": "Stuart-William-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d66e4233-e6f1-4206-8e22-efb7c24578f4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stuart William Henderson",
+        "documentmodifiedwhen": "2020-05-11T07:19:07.319Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la famille ou matrimonial",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Family/Matrimonial Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "29894J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stuart William Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6675033569336,
+                43.446117401123
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6J 1H8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oakville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37621-36357",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:15:16.47Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Thomas-William-Henderson",
+        "nodeid": 36357,
+        "documentid": 37621,
+        "nodealias": "Thomas-William-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e71b7ed7-6522-4c2a-8ca4-46a257c61a79",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Thomas William Henderson",
+        "documentmodifiedwhen": "2022-01-12T07:21:19.425Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67335F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Thomas William Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N4S 3C4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Woodstock"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "4220-4879",
+        "sys_site": "lso",
+        "sys_created": "2018-06-14T20:19:16.654Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Timothy-John-Henderson",
+        "nodeid": 4879,
+        "documentid": 4220,
+        "nodealias": "Timothy-John-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "32e18458-3045-4c63-9b13-ddd36f1e7e79",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Timothy John Henderson",
+        "documentmodifiedwhen": "2021-12-29T07:17:01.787Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "R\u00e8glement extrajudiciaire des diff\u00e9rends (RAD)/ Services de m\u00e9diation",
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit de la famille ou matrimonial"
+        ],
+        "memberareasofservicenamesenglish": [
+            "ADR/Mediation Services",
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Family/Matrimonial Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38860Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Timothy John Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P7A 4L3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Thunder Bay"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90791-89519",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:21.718Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/046/Timothy-Scott-Henderson",
+        "nodeid": 89519,
+        "documentid": 90791,
+        "nodealias": "Timothy-Scott-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "62f652f4-e06d-4b9a-b795-a091f642d443",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Timothy Scott Henderson",
+        "documentmodifiedwhen": "2020-02-20T08:30:21.616Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "34710M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Timothy Scott Henderson",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37608-36344",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:43.064Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Travis-Allen-Henderson",
+        "nodeid": 36344,
+        "documentid": 37608,
+        "nodealias": "Travis-Allen-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "484c343e-2eec-4b45-9690-3a3930e40343",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Travis Allen Henderson",
+        "documentmodifiedwhen": "2022-01-04T07:18:37.836Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46324N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Travis Allen Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0H8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90793-89521",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:30.414Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/046/Tyler-Wayne-Henderson",
+        "nodeid": 89521,
+        "documentid": 90793,
+        "nodealias": "Tyler-Wayne-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d4091e0d-e371-4317-8478-b25b72e1e3a4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tyler Wayne Henderson",
+        "documentmodifiedwhen": "2021-06-22T07:19:23.181Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "73223P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tyler Wayne Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3809585571289,
+                43.6434860229492
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 2V5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37577-36313",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:01.893Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Victoria-Louise-Henderson",
+        "nodeid": 36313,
+        "documentid": 37577,
+        "nodealias": "Victoria-Louise-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "44c89089-5212-4aa8-af4e-62c026d18a79",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Victoria Louise Henderson",
+        "documentmodifiedwhen": "2022-03-29T07:19:29.597Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05584",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Victoria Louise Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "M5J 2S1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130293-125927",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T11:21:24.107Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Vince-Henderson",
+        "nodeid": 125927,
+        "documentid": 130293,
+        "nodealias": "Vince-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5adca824-8a16-41e3-acfd-4942022b6e9e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Vince Henderson",
+        "documentmodifiedwhen": "2022-06-08T07:19:05.482Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81740T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Vince Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37565-36301",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:13:57.471Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Wayne-Eric-Henderson",
+        "nodeid": 36301,
+        "documentid": 37565,
+        "nodealias": "Wayne-Eric-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bd7254bf-607f-4b61-93d2-d1349c33d1d9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Wayne Eric Henderson",
+        "documentmodifiedwhen": "2021-09-21T08:47:59.669Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P01052",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Wayne Eric Henderson",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -80.2944030761719,
+                43.1323547363281
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "N3T 1R1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brantford"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37595-36331",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:26.486Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/William-Bertram-Henderson",
+        "nodeid": 36331,
+        "documentid": 37595,
+        "nodealias": "William-Bertram-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c7e84338-27a7-479f-ad8f-ba1572c8409d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "William Bertram Henderson",
+        "documentmodifiedwhen": "2021-12-21T07:24:23.208Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "22049W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "William Bertram Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4W 3G9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37605-36341",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:14:37.58Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/William-Glen-Henderson",
+        "nodeid": 36341,
+        "documentid": 37605,
+        "nodealias": "William-Glen-Henderson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f1c82881-efc7-43f7-aae0-b1f0c2935354",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "William Glen Henderson",
+        "documentmodifiedwhen": "2019-05-07T16:56:00.04Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit criminel et quasi criminel"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Criminal/Quasi-Criminal Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45971Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "William Glen Henderson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3972091674805,
+                43.6692085266113
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5R 1B2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90796-89524",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:40.397Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/047/Veronica-Henderson-Ashenhurst",
+        "nodeid": 89524,
+        "documentid": 90796,
+        "nodealias": "Veronica-Henderson-Ashenhurst",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e02b29ec-4d25-416d-b5a7-0c39b94c5fda",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Veronica Henderson Ashenhurst",
+        "documentmodifiedwhen": "2020-02-20T08:41:31.71Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52544N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Veronica Henderson Ashenhurst",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90798-89526",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:44.507Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/047/Stuart-Edward-Hendin",
+        "nodeid": 89526,
+        "documentid": 90798,
+        "nodealias": "Stuart-Edward-Hendin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3237404b-8d87-49b8-b0c4-bdfc56f55650",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stuart Edward Hendin",
+        "documentmodifiedwhen": "2022-06-17T07:23:18.799Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "15198M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stuart Edward Hendin",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e) (restriction \u00e0 la pratique)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed (Practice Restricted)"
+        ],
+        "memberpostalcode": "K1V 1S4",
+        "membercurrentrestrictions": "Y",
+        "membercity": [
+            "Gloucester"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37622-36358",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:15:17.829Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Douglas-Andrew-Hendler",
+        "nodeid": 36358,
+        "documentid": 37622,
+        "nodealias": "Douglas-Andrew-Hendler",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "66fc795e-b3d7-44b1-95b9-74b660b9c464",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Douglas Andrew Hendler",
+        "documentmodifiedwhen": "2021-12-14T07:57:27.838Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13371K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Douglas Andrew Hendler",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5C 3G5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37627-36363",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:15:25.564Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Lise-Sylvie-Claire-Hendlisz",
+        "nodeid": 36363,
+        "documentid": 37627,
+        "nodealias": "Lise-Sylvie-Claire-Hendlisz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6e3ff73d-186e-4b9c-87b7-d6925f31d39e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lise Sylvie Claire Hendlisz",
+        "documentmodifiedwhen": "2021-03-27T07:16:30.621Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27332M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lise Sylvie Claire Hendlisz",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37628-36364",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:15:30.079Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Alika-Denise-Hendricks",
+        "nodeid": 36364,
+        "documentid": 37628,
+        "nodealias": "Alika-Denise-Hendricks",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3d40d788-e69f-4d2e-8a41-c36bef7c5815",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alika Denise Hendricks",
+        "documentmodifiedwhen": "2022-04-27T07:17:52.553Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58925B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alika Denise Hendricks",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5B 2H4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "26148-25284",
+        "sys_site": "lso",
+        "sys_created": "2018-07-12T11:20:24.699Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Jonathan-Gerald-Valentine-Hendricks",
+        "nodeid": 25284,
+        "documentid": 26148,
+        "nodealias": "Jonathan-Gerald-Valentine-Hendricks",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4f763e2c-a999-48de-a3c9-de2500e82a9d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jonathan Gerald Valentine Hendricks",
+        "documentmodifiedwhen": "2022-01-18T11:57:54.857Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65161B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jonathan Gerald Valentine Hendricks",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "M5G 1Z3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37629-36365",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:15:30.517Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Barbara-Jean-Hendrickson",
+        "nodeid": 36365,
+        "documentid": 37629,
+        "nodealias": "Barbara-Jean-Hendrickson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ea1e9e44-ac09-4409-879b-e83ca2ff75e2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Barbara Jean Hendrickson",
+        "documentmodifiedwhen": "2021-12-28T07:22:00.719Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36161O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Barbara Jean Hendrickson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3B7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90797-89525",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:43.991Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/047/Anthony-Olmsted-Hendrie",
+        "nodeid": 89525,
+        "documentid": 90797,
+        "nodealias": "Anthony-Olmsted-Hendrie",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cba5c336-4648-4d54-9428-2c069237fc26",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anthony Olmsted Hendrie",
+        "documentmodifiedwhen": "2021-12-14T08:01:55.207Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "09501W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anthony Olmsted Hendrie",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "122872-119397",
+        "sys_site": "lso",
+        "sys_created": "2020-06-16T08:19:22.351Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Chloe-Pringle-Hendrie",
+        "nodeid": 119397,
+        "documentid": 122872,
+        "nodealias": "Chloe-Pringle-Hendrie",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e9761409-cf8e-4e1d-9c85-60b7954308a0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Chloe Pringle Hendrie",
+        "documentmodifiedwhen": "2022-01-16T07:23:57.363Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "79516W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Chloe Pringle Hendrie",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5V 3H1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90799-89527",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:45.908Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/047/Robert-Lawrence-Hendrie",
+        "nodeid": 89527,
+        "documentid": 90799,
+        "nodealias": "Robert-Lawrence-Hendrie",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cb3b1435-33d2-41ba-b2f7-5514a197193d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Lawrence Hendrie",
+        "documentmodifiedwhen": "2022-06-15T07:16:00.85Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "11148V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Lawrence Hendrie",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "D\u00e9c\u00e9d\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Deceased"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37631-36367",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:15:35.954Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Jessica-Anne-Hendriks",
+        "nodeid": 36367,
+        "documentid": 37631,
+        "nodealias": "Jessica-Anne-Hendriks",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5ddfb688-85d9-4532-b7f7-0435dfe2be75",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jessica Anne Hendriks",
+        "documentmodifiedwhen": "2019-05-07T16:56:50.013Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47542A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jessica Anne Hendriks",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6667633056641,
+                44.4121017456055
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "L4M 3X9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Barrie"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37630-36366",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:15:33.298Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Martha-Lori-Hendriks",
+        "nodeid": 36366,
+        "documentid": 37630,
+        "nodealias": "Martha-Lori-Hendriks",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d63a2dc0-a40b-4a1f-8689-5670feb9d0fc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Martha Lori Hendriks",
+        "documentmodifiedwhen": "2021-11-13T07:15:45.516Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27333I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Martha Lori Hendriks",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37633-36369",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:15:43.157Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Paul-James-Hendrikx",
+        "nodeid": 36369,
+        "documentid": 37633,
+        "nodealias": "Paul-James-Hendrikx",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "00daff89-1eb8-49ac-9cc3-c46d4dbcc888",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paul James Hendrikx",
+        "documentmodifiedwhen": "2022-01-07T07:19:33.687Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56390R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paul James Hendrikx",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N0M 2K0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Parkhill"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37732-36468",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:19.689Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Christopher-Stefan-Carr-Hendry",
+        "nodeid": 36468,
+        "documentid": 37732,
+        "nodealias": "Christopher-Stefan-Carr-Hendry",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e1aebb39-b44d-46e6-8b75-8b3122e54ff9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher Stefan Carr Hendry",
+        "documentmodifiedwhen": "2022-01-12T07:24:46.526Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67144A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher Stefan Carr Hendry",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L7N 3N2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Burlington"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90802-89529",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:54.883Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/047/Eric-James-Hendry",
+        "nodeid": 89529,
+        "documentid": 90802,
+        "nodealias": "Eric-James-Hendry",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cdca39f7-4980-476d-9fcc-de6318a166b8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eric James Hendry",
+        "documentmodifiedwhen": "2022-01-17T07:18:06.669Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74592E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eric James Hendry",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1P 0C6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37731-36467",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:19.314Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/George-Hampton-Hendry",
+        "nodeid": 36467,
+        "documentid": 37731,
+        "nodealias": "George-Hampton-Hendry",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cbeda7d0-894a-48e2-9931-6096477575c8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "George Hampton Hendry",
+        "documentmodifiedwhen": "2022-01-01T07:23:59.333Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45972M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "George Hampton Hendry",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L1G 0A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oshawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37733-36469",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:20.923Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Gregory-Evan-Hendry",
+        "nodeid": 36469,
+        "documentid": 37733,
+        "nodealias": "Gregory-Evan-Hendry",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1c22d5db-1b77-4128-ad97-2bc06e3489d4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gregory Evan Hendry",
+        "documentmodifiedwhen": "2022-01-04T07:25:02.714Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54000K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gregory Evan Hendry",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L6W 4T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37725-36461",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:14.97Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Harry-Ralph-Hendry",
+        "nodeid": 36461,
+        "documentid": 37725,
+        "nodealias": "Harry-Ralph-Hendry",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "616e9295-8f6c-4714-8774-11f799f7fe9e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Harry Ralph Hendry",
+        "documentmodifiedwhen": "2021-12-15T07:17:07.508Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "14810L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Harry Ralph Hendry",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N0H 2T0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Wiarton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90800-89528",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:46.001Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/047/Iain-Wilson-Menzies-Hendry",
+        "nodeid": 89528,
+        "documentid": 90800,
+        "nodealias": "Iain-Wilson-Menzies-Hendry",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "87df020c-7b25-4208-a07b-8564617fd243",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Iain Wilson Menzies Hendry",
+        "documentmodifiedwhen": "2022-05-28T07:26:42.472Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "08531Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Iain Wilson Menzies Hendry",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90806-89533",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:54.883Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/047/James-Ralph-Hendry",
+        "nodeid": 89533,
+        "documentid": 90806,
+        "nodealias": "James-Ralph-Hendry",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e6894564-df79-451e-a090-0e55395f75e4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "James Ralph Hendry",
+        "documentmodifiedwhen": "2021-12-17T07:19:38.627Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21261L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "James Ralph Hendry",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37735-36471",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:22.361Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Neil-Robertson-Hendry",
+        "nodeid": 36471,
+        "documentid": 37735,
+        "nodealias": "Neil-Robertson-Hendry",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "67fd8f63-a214-4d3f-9f18-ad0a65f39e89",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Neil Robertson Hendry",
+        "documentmodifiedwhen": "2021-12-24T07:18:13.334Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25822P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Neil Robertson Hendry",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 2J5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37626-36362",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:15:24.079Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Pamela-Hendry",
+        "nodeid": 36362,
+        "documentid": 37626,
+        "nodealias": "Pamela-Hendry",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cf9ef3b7-953f-43c5-8a2f-3cd1f6b316b2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Pamela Hendry",
+        "documentmodifiedwhen": "2022-06-01T07:17:52.404Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06045",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Pamela Hendry",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M4S 1Z2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37737-36473",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:28.251Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Travis-William-Hendry",
+        "nodeid": 36473,
+        "documentid": 37737,
+        "nodealias": "Travis-William-Hendry",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d022da74-c5ec-4454-9f68-531ee9a38a7e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Travis William Hendry",
+        "documentmodifiedwhen": "2022-01-14T07:17:25.829Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71133U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Travis William Hendry",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N0B 2N0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "St. Jacobs"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90805-89531",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:54.992Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/047/Judith-Ellen-Hendy",
+        "nodeid": 89531,
+        "documentid": 90805,
+        "nodealias": "Judith-Ellen-Hendy",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "051c5f20-3284-4fd2-92eb-ba65679d8071",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Judith Ellen Hendy",
+        "documentmodifiedwhen": "2021-12-14T07:34:13.306Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "11964O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Judith Ellen Hendy",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "117091-114689",
+        "sys_site": "lso",
+        "sys_created": "2019-06-28T08:19:50.508Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Timothy-Patrick-Jamieson-Heneghan",
+        "nodeid": 114689,
+        "documentid": 117091,
+        "nodealias": "Timothy-Patrick-Jamieson-Heneghan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "610e5e0c-1c3c-40f6-853f-34260cad524e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Timothy Patrick Jamieson Heneghan",
+        "documentmodifiedwhen": "2022-04-05T07:16:25.927Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77673M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Timothy Patrick Jamieson Heneghan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5T 2C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90804-89532",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:55.571Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/047/Karen-Anne-Henein",
+        "nodeid": 89532,
+        "documentid": 90804,
+        "nodealias": "Karen-Anne-Henein",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ed29e02b-1417-4463-bf6b-9e0d1bdfb54e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karen Anne Henein",
+        "documentmodifiedwhen": "2020-11-14T07:16:05.229Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "20720B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karen Anne Henein",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37740-36476",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:37.595Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Marie-Therese-Henein",
+        "nodeid": 36476,
+        "documentid": 37740,
+        "nodealias": "Marie-Therese-Henein",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c9bdc91c-6b34-4924-b58c-c69e3c2ff293",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marie Therese Henein",
+        "documentmodifiedwhen": "2021-12-27T07:18:26.466Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33289T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marie Therese Henein",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5A 1J9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37752-36488",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:49.985Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Natalie-Henein",
+        "nodeid": 36488,
+        "documentid": 37752,
+        "nodealias": "Natalie-Henein",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d529ab3a-fdc5-4679-af6b-65b3e63184f2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Natalie Henein",
+        "documentmodifiedwhen": "2022-01-02T07:17:37.998Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47488I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Natalie Henein",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 1T1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "27328-26461",
+        "sys_site": "lso",
+        "sys_created": "2018-07-12T20:25:59.103Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Peter-Joseph-Henein",
+        "nodeid": 26461,
+        "documentid": 27328,
+        "nodealias": "Peter-Joseph-Henein",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "562822fd-9441-438e-afd3-4cab50298c5e",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Peter Joseph Henein",
+        "documentmodifiedwhen": "2022-01-02T07:26:27.324Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit de la propri\u00e9t\u00e9 intellectuelle"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Defendant",
+            "Intellectual Property Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49330K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Peter Joseph Henein",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 4E3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37744-36480",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:42.626Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Samantha-Robin-Henein",
+        "nodeid": 36480,
+        "documentid": 37744,
+        "nodealias": "Samantha-Robin-Henein",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "61731adf-3b49-432a-8ebf-532d40559228",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Samantha Robin Henein",
+        "documentmodifiedwhen": "2022-01-27T07:16:50.507Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68758V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Samantha Robin Henein",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "M5L 1A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90801-89530",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:55.602Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/047/Paul-Edmund-Heney",
+        "nodeid": 89530,
+        "documentid": 90801,
+        "nodealias": "Paul-Edmund-Heney",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6cbad98d-7f30-4552-879d-ad0b78d38e41",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paul Edmund Heney",
+        "documentmodifiedwhen": "2021-09-21T07:34:45.389Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27334E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paul Edmund Heney",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37747-36483",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:45.345Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Trevor-Patrick-Heney",
+        "nodeid": 36483,
+        "documentid": 37747,
+        "nodealias": "Trevor-Patrick-Heney",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d2b82d00-2cf2-4177-b9c5-d862654b2b80",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Trevor Patrick Heney",
+        "documentmodifiedwhen": "2020-10-23T07:16:02.994Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27633B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Trevor Patrick Heney",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "115720-113341",
+        "sys_site": "lso",
+        "sys_created": "2019-06-20T07:29:12.115Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Brock-William-Michael-Hengel",
+        "nodeid": 113341,
+        "documentid": 115720,
+        "nodealias": "Brock-William-Michael-Hengel",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "276764bb-e8d8-49b0-aede-dddb0cb38161",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brock William Michael Hengel",
+        "documentmodifiedwhen": "2021-09-21T08:40:24.45Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76622M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brock William Michael Hengel",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -122.588401794434,
+                49.2538261413574
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "V4R 0A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Maple Ridge"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37751-36487",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:46.345Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Kathryn-Ann-Hengl",
+        "nodeid": 36487,
+        "documentid": 37751,
+        "nodealias": "Kathryn-Ann-Hengl",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "db245177-5ed7-45f6-95cc-f1d3f7346f28",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kathryn Ann Hengl",
+        "documentmodifiedwhen": "2022-01-29T07:16:00.029Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24645A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kathryn Ann Hengl",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "N8X 1T3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Windsor"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37745-36481",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:43.095Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Debra-Jeanne-Henke",
+        "nodeid": 36481,
+        "documentid": 37745,
+        "nodealias": "Debra-Jeanne-Henke",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fd78bb1c-99be-4440-84bf-05e6a371203d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Debra Jeanne Henke",
+        "documentmodifiedwhen": "2021-12-30T07:23:37.87Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "40215F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Debra Jeanne Henke",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1P 1A4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37748-36484",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:45.876Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Isabel-Corral-Henkelman",
+        "nodeid": 36484,
+        "documentid": 37748,
+        "nodealias": "Isabel-Corral-Henkelman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "361dee06-f222-4b71-8517-48ee22e43446",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Isabel Corral Henkelman",
+        "documentmodifiedwhen": "2022-01-10T07:29:36.831Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61873L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Isabel Corral Henkelman",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139753-134141",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T07:38:14.147Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Tatiana-Sasha-Theresa-Henkenhaf",
+        "nodeid": 134141,
+        "documentid": 139753,
+        "nodealias": "Tatiana-Sasha-Theresa-Henkenhaf",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "66550544-bea2-454f-b853-b83654f50f48",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tatiana Sasha Theresa Henkenhaf",
+        "documentmodifiedwhen": "2022-07-08T07:16:03.552Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85223V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tatiana Sasha Theresa Henkenhaf",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37749-36485",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:45.985Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Doreen-Carol-Henley",
+        "nodeid": 36485,
+        "documentid": 37749,
+        "nodealias": "Doreen-Carol-Henley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8e1618bd-63f3-4c89-ac10-4858e0e16d64",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Doreen Carol Henley",
+        "documentmodifiedwhen": "2022-05-28T07:34:39.448Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "18070H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Doreen Carol Henley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37743-36479",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:40.032Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Hilary-Dawn-Henley",
+        "nodeid": 36479,
+        "documentid": 37743,
+        "nodealias": "Hilary-Dawn-Henley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "666b38ed-2cc7-4b4c-b956-52177efa8bb9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hilary Dawn Henley",
+        "documentmodifiedwhen": "2022-05-17T07:18:10.188Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75050F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hilary Dawn Henley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "V6B 0M3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vancouver"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37741-36477",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:37.954Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Michael-Joseph-Philippe-Henley",
+        "nodeid": 36477,
+        "documentid": 37741,
+        "nodealias": "Michael-Joseph-Philippe-Henley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fca90182-4b7d-437d-a721-47007ff4c168",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Joseph Philippe Henley",
+        "documentmodifiedwhen": "2022-07-08T07:16:57.67Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58056A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Joseph Philippe Henley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N1G 5L3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Guelph"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "120476-117397",
+        "sys_site": "lso",
+        "sys_created": "2020-02-04T07:27:02.844Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Nicholas-Richard-Henn",
+        "nodeid": 117397,
+        "documentid": 120476,
+        "nodealias": "Nicholas-Richard-Henn",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "25f426ca-fee2-4822-bc32-32abbf36b8f2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nicholas Richard Henn",
+        "documentmodifiedwhen": "2022-01-16T07:26:45.406Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78747P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nicholas Richard Henn",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L6Y 5S5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90808-89536",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:56.211Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/047/Jean-Joseph-Henne",
+        "nodeid": 89536,
+        "documentid": 90808,
+        "nodealias": "Jean-Joseph-Henne",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c566205d-2c8d-4d36-abcc-c546b7fc4bf4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jean Joseph Henne",
+        "documentmodifiedwhen": "2021-12-14T11:24:27.908Z",
+        "skuname": null,
+        "memberprovincetext": "Washington",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "29083H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jean Joseph Henne",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "98008",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Bellevue"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37753-36489",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:50.407Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Ruth-Anne-Henneberry",
+        "nodeid": 36489,
+        "documentid": 37753,
+        "nodealias": "Ruth-Anne-Henneberry",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "18837f1d-e215-4007-83eb-8d080b1633f4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ruth Anne Henneberry",
+        "documentmodifiedwhen": "2021-12-25T07:24:45.076Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "29519V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ruth Anne Henneberry",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5C 1B5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37750-36486",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:46.313Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Karri-Lynn-Hope-Hennebury",
+        "nodeid": 36486,
+        "documentid": 37750,
+        "nodealias": "Karri-Lynn-Hope-Hennebury",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "43b0ba7d-5708-493c-8ecc-7879fbedba84",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karri-Lynn Hope Hennebury",
+        "documentmodifiedwhen": "2022-01-12T07:29:55.978Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67786A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karri-Lynn Hope Hennebury",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5C 3C7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37746-36482",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:45.173Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Deborah-Anne-Hennessey",
+        "nodeid": 36482,
+        "documentid": 37746,
+        "nodealias": "Deborah-Anne-Hennessey",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "90712daf-12a9-43b1-8135-ff4891c0bc95",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Deborah Anne Hennessey",
+        "documentmodifiedwhen": "2021-12-22T07:19:34.121Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24641Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Deborah Anne Hennessey",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N5R 5V1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "St. Thomas"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37738-36474",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:28.283Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Jessica-Marita-Teresa-Hennessey",
+        "nodeid": 36474,
+        "documentid": 37738,
+        "nodealias": "Jessica-Marita-Teresa-Hennessey",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fd7e9701-fcb5-4371-a44c-e7530c0c949f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jessica Marita Teresa Hennessey",
+        "documentmodifiedwhen": "2021-12-20T07:16:22.293Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11864",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jessica Marita Teresa Hennessey",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "K2P 0J9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "28102-27235",
+        "sys_site": "lso",
+        "sys_created": "2018-07-13T01:33:37.063Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Karen-Elizabeth-Hennessey",
+        "nodeid": 27235,
+        "documentid": 28102,
+        "nodealias": "Karen-Elizabeth-Hennessey",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4c390ec8-509d-4b33-9a0a-d03f94e51652",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karen Elizabeth Hennessey",
+        "documentmodifiedwhen": "2022-01-03T07:16:54.362Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit commercial et corporatifes"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Corporate/Commercial Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50538E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karen Elizabeth Hennessey",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1P 1C3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37742-36478",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:39.376Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Danielle-Hennessy",
+        "nodeid": 36478,
+        "documentid": 37742,
+        "nodealias": "Danielle-Hennessy",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "925c6e38-a439-4358-b105-75187ea06aa5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Danielle Hennessy",
+        "documentmodifiedwhen": "2021-09-21T09:36:12.532Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P12052",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Danielle Hennessy",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -81.2543792724609,
+                42.9853935241699
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "N6A 4G4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90807-89535",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:13:55.696Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/047/Kenneth-Reid-Massimo-Hennessy",
+        "nodeid": 89535,
+        "documentid": 90807,
+        "nodealias": "Kenneth-Reid-Massimo-Hennessy",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "036757e8-ba27-474e-b6dc-1d28679d67d1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kenneth Reid Massimo Hennessy",
+        "documentmodifiedwhen": "2021-12-14T07:44:18.467Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "10528F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kenneth Reid Massimo Hennessy",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37739-36475",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:34.579Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Noel-Hennessy",
+        "nodeid": 36475,
+        "documentid": 37739,
+        "nodealias": "Noel-Hennessy",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "03adb79e-9ea2-4e04-815c-252f7f418989",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Noel Hennessy",
+        "documentmodifiedwhen": "2021-09-21T09:26:24.362Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05265",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Noel Hennessy",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "D\u00e9c\u00e9d\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Deceased"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37755-36491",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:51.641Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Thomas-Michael-Hennessy",
+        "nodeid": 36491,
+        "documentid": 37755,
+        "nodealias": "Thomas-Michael-Hennessy",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4f2f74b4-b8d3-4042-824f-6843685ddc02",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Thomas Michael Hennessy",
+        "documentmodifiedwhen": "2021-12-17T07:25:40.527Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit administratif",
+            "Droit commercial et corporatifes",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Administrative Law",
+            "Corporate/Commercial Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "18455F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Thomas Michael Hennessy",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P3B 4H5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Sudbury"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130294-125928",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T11:22:01.258Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Zachary-Brian-Hennessy",
+        "nodeid": 125928,
+        "documentid": 130294,
+        "nodealias": "Zachary-Brian-Hennessy",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fd01a566-9716-4310-a199-a4685d2bb52a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Zachary Brian Hennessy",
+        "documentmodifiedwhen": "2022-04-20T07:17:08.753Z",
+        "skuname": null,
+        "memberprovincetext": "Northwest Territories",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81741P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Zachary Brian Hennessy",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "X1A 1T5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Yellowknife"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37762-36498",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:19:03.407Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Bradley-Michael-Hennick",
+        "nodeid": 36498,
+        "documentid": 37762,
+        "nodealias": "Bradley-Michael-Hennick",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e3131397-ee26-4121-b45e-325985295be0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Bradley Michael Hennick",
+        "documentmodifiedwhen": "2022-01-09T07:16:48.531Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60124E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Bradley Michael Hennick",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5S 2B4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "37757-36493",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:18:54.11Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Gayle-Hennick",
+        "nodeid": 36493,
+        "documentid": 37757,
+        "nodealias": "Gayle-Hennick",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "499bdb7c-1840-412c-8c46-b2a1730bf3c7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gayle Hennick",
+        "documentmodifiedwhen": "2022-06-17T07:26:56.856Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "29021F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gayle Hennick",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e)"
+        ],
+        "memberwebstatus": [
+            "Suspended"
+        ],
+        "memberpostalcode": "M5W 1A2",
+        "membercurrentrestrictions": "Y",
+        "membercity": [
+            "Toronto"
+        ]
+    }
+]

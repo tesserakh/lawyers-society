@@ -1,0 +1,5096 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93865-92593",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:14.013Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Harvey-Joseph-Kirsh",
+        "nodeid": 92593,
+        "documentid": 93865,
+        "nodealias": "Harvey-Joseph-Kirsh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5ef164cf-0d0a-4432-95e9-d809007829e2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Harvey Joseph Kirsh",
+        "documentmodifiedwhen": "2021-12-14T08:03:38.549Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13626N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Harvey Joseph Kirsh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93861-92589",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:11.033Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Irwin-Samuel-Kirsh",
+        "nodeid": 92589,
+        "documentid": 93861,
+        "nodealias": "Irwin-Samuel-Kirsh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "91a67034-17b5-438d-b060-0163336049b8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Irwin Samuel Kirsh",
+        "documentmodifiedwhen": "2022-05-28T07:22:36.196Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "08127P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Irwin Samuel Kirsh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123854-120308",
+        "sys_site": "lso",
+        "sys_created": "2020-06-23T09:21:32.019Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Jason-Jose-Fernando-Kohr-Kirsh",
+        "nodeid": 120308,
+        "documentid": 123854,
+        "nodealias": "Jason-Jose-Fernando-Kohr-Kirsh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8cfac99f-6cd4-403d-81b9-50e08d5b4498",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jason Jose Fernando Kohr Kirsh",
+        "documentmodifiedwhen": "2021-07-23T07:17:23.166Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80032H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jason Jose Fernando Kohr Kirsh",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3843612670898,
+                43.6578369140625
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M7A 0A8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93868-92596",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:16.077Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Jeffrey-Lorne-Stephen-Kirsh",
+        "nodeid": 92596,
+        "documentid": 93868,
+        "nodealias": "Jeffrey-Lorne-Stephen-Kirsh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0111dbe1-2502-4686-ad7b-9836e9230ce0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jeffrey Lorne Stephen Kirsh",
+        "documentmodifiedwhen": "2021-02-11T07:16:10.441Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32923V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jeffrey Lorne Stephen Kirsh",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92219-90947",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:08.561Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Kenneth-Richard-Kirsh",
+        "nodeid": 90947,
+        "documentid": 92219,
+        "nodealias": "Kenneth-Richard-Kirsh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f2932431-9d8c-4504-b984-c03d44f0524e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kenneth Richard Kirsh",
+        "documentmodifiedwhen": "2021-12-25T07:15:48.994Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "28500G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kenneth Richard Kirsh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M2P 1T7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92218-90946",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:03.474Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Lon-Michael-Kirsh",
+        "nodeid": 90946,
+        "documentid": 92218,
+        "nodealias": "Lon-Michael-Kirsh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "55da70f8-4dd3-4518-a225-0a0c4bd4aa6c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lon Michael Kirsh",
+        "documentmodifiedwhen": "2022-03-30T07:18:19.49Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit des valeurs mobili\u00e8res"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Securities Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27365F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lon Michael Kirsh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5N 1R4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92224-90952",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:12.728Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Marissa-Teresa-Kirsh",
+        "nodeid": 90952,
+        "documentid": 92224,
+        "nodealias": "Marissa-Teresa-Kirsh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4cce17c8-79b5-4992-ad56-9e53e3280b6b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marissa Teresa Kirsh",
+        "documentmodifiedwhen": "2022-01-11T07:32:38.207Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65954H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marissa Teresa Kirsh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93867-92595",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:15.248Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Roberta-Kirsh",
+        "nodeid": 92595,
+        "documentid": 93867,
+        "nodealias": "Roberta-Kirsh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bc4b0a25-5112-4b26-8aab-be059cbec058",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Roberta Kirsh",
+        "documentmodifiedwhen": "2021-11-05T07:37:15.961Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27366B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Roberta Kirsh",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92216-90944",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:02.755Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Sheila-Kirsh",
+        "nodeid": 90944,
+        "documentid": 92216,
+        "nodealias": "Sheila-Kirsh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "03df9064-5af4-4364-849c-cd27eb80a9ef",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sheila Kirsh",
+        "documentmodifiedwhen": "2022-02-08T07:15:49.72Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "R\u00e8glement extrajudiciaire des diff\u00e9rends (RAD)/ Services de m\u00e9diation",
+            "Droit de la famille ou matrimonial",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "ADR/Mediation Services",
+            "Family/Matrimonial Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "17822H",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Sheila Kirsh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3P5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92220-90948",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:08.655Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Stephanie-Elisse-Kirsh",
+        "nodeid": 90948,
+        "documentid": 92220,
+        "nodealias": "Stephanie-Elisse-Kirsh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e527bdf8-9742-401c-babc-38d095e6e889",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephanie Elisse Kirsh",
+        "documentmodifiedwhen": "2021-12-30T07:21:09.815Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "40516R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephanie Elisse Kirsh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5X 1K6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92223-90951",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:12.728Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Trevor-Jeremy-Kirsh",
+        "nodeid": 90951,
+        "documentid": 92223,
+        "nodealias": "Trevor-Jeremy-Kirsh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b501879b-ca97-4749-bb8d-b7a8ba789317",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Trevor Jeremy Kirsh",
+        "documentmodifiedwhen": "2022-01-12T07:30:54.954Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69145S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Trevor Jeremy Kirsh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5V 3J7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92225-90954",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:16.104Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Risa-Miriam-Kirshblum",
+        "nodeid": 90954,
+        "documentid": 92225,
+        "nodealias": "Risa-Miriam-Kirshblum",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c0219de4-4939-43b3-b6d4-d3bdd1ca9036",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Risa Miriam Kirshblum",
+        "documentmodifiedwhen": "2021-12-29T07:27:21.565Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38298D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Risa Miriam Kirshblum",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3P5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92226-90953",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:16.104Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Jeffrey-Alexander-Kirshen",
+        "nodeid": 90953,
+        "documentid": 92226,
+        "nodealias": "Jeffrey-Alexander-Kirshen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "47a530a9-5d7f-4000-998f-7ecf2a16ea2c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jeffrey Alexander Kirshen",
+        "documentmodifiedwhen": "2022-01-11T07:32:48.01Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65955D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jeffrey Alexander Kirshen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 2J5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92227-90955",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:16.901Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Jennifer-Rose-Kirshen",
+        "nodeid": 90955,
+        "documentid": 92227,
+        "nodealias": "Jennifer-Rose-Kirshen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5b00dca4-45ec-49cb-86f4-ec1556ae36bc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Rose Kirshen",
+        "documentmodifiedwhen": "2022-01-12T07:18:21.522Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66195B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Rose Kirshen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M3H 5Z8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92229-90956",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:20.064Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Howard-Joshua-Kirshenbaum",
+        "nodeid": 90956,
+        "documentid": 92229,
+        "nodealias": "Howard-Joshua-Kirshenbaum",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b76fc544-6692-4ecc-aee0-060319f8565c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Howard Joshua Kirshenbaum",
+        "documentmodifiedwhen": "2021-12-21T07:25:25.159Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21723A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Howard Joshua Kirshenbaum",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M3K 2A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93869-92597",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:21.911Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Noah-David-Kirshenbaum",
+        "nodeid": 92597,
+        "documentid": 93869,
+        "nodealias": "Noah-David-Kirshenbaum",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5853ef40-df53-41ae-aabb-52967c8a4697",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Noah David Kirshenbaum",
+        "documentmodifiedwhen": "2022-06-18T07:37:34.088Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70937F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Noah David Kirshenbaum",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92228-90957",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:20.142Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Randy-Malka-Kirshenbaum",
+        "nodeid": 90957,
+        "documentid": 92228,
+        "nodealias": "Randy-Malka-Kirshenbaum",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4a3c4e39-086f-47bd-b0d6-ce8cb479a921",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Randy Malka Kirshenbaum",
+        "documentmodifiedwhen": "2021-12-27T07:17:57.991Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33323A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Randy Malka Kirshenbaum",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4T 1B1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93870-92598",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:21.911Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Irving-Kirshenblat",
+        "nodeid": 92598,
+        "documentid": 93870,
+        "nodealias": "Irving-Kirshenblat",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7f9831dd-7c86-4c01-be30-ad621a532a9c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Irving Kirshenblat",
+        "documentmodifiedwhen": "2022-06-17T07:21:22.94Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "16886N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Irving Kirshenblat",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e)"
+        ],
+        "memberwebstatus": [
+            "Suspended"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "Y",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "124777-121221",
+        "sys_site": "lso",
+        "sys_created": "2020-08-31T08:31:31.049Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Joshua-Lewis-Kirshenblat",
+        "nodeid": 121221,
+        "documentid": 124777,
+        "nodealias": "Joshua-Lewis-Kirshenblat",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "80251c20-2bd8-4c88-8c70-c52b331bbf05",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joshua Lewis Kirshenblat",
+        "documentmodifiedwhen": "2021-11-23T07:16:55.39Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80650M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joshua Lewis Kirshenblat",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5R 1W6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92233-90961",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:29.402Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Ari-Shaun-Kirshenblatt",
+        "nodeid": 90961,
+        "documentid": 92233,
+        "nodealias": "Ari-Shaun-Kirshenblatt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dbcc2d64-727b-4409-b7a1-fc39320da0d6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ari Shaun Kirshenblatt",
+        "documentmodifiedwhen": "2022-01-18T11:57:39.297Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69014E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ari Shaun Kirshenblatt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M3J 0H1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92230-90958",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:20.517Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Beverley-Kirshenblatt",
+        "nodeid": 90958,
+        "documentid": 92230,
+        "nodealias": "Beverley-Kirshenblatt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "54ad4482-bdba-43ac-ad6e-1ff9bf83e5c7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Beverley Kirshenblatt",
+        "documentmodifiedwhen": "2021-12-23T07:20:38.122Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38874R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Beverley Kirshenblatt",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1Y 1E4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92232-90960",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:29.199Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Ryan-Samuel-Kirshenblatt",
+        "nodeid": 90960,
+        "documentid": 92232,
+        "nodealias": "Ryan-Samuel-Kirshenblatt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cdf15d41-d2db-4d35-a7f5-63558840af47",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ryan Samuel Kirshenblatt",
+        "documentmodifiedwhen": "2022-01-06T07:29:37.787Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52289W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ryan Samuel Kirshenblatt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 1S5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92231-90959",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:21.65Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Sharon-Kirshenblatt",
+        "nodeid": 90959,
+        "documentid": 92231,
+        "nodealias": "Sharon-Kirshenblatt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f96cb79a-9d75-4cab-bfea-c74091013549",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sharon Kirshenblatt",
+        "documentmodifiedwhen": "2021-12-23T07:21:12.869Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "40317K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sharon Kirshenblatt",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "H3C 3A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Montreal"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93872-92601",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:26.964Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Barry-Leslie-Kirshin",
+        "nodeid": 92601,
+        "documentid": 93872,
+        "nodealias": "Barry-Leslie-Kirshin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7d04f60c-8a95-41a7-989b-13a6323c2f27",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Barry Leslie Kirshin",
+        "documentmodifiedwhen": "2021-12-14T07:22:47.043Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "10065U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Barry Leslie Kirshin",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92234-90962",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:30.246Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/David-Stephen-Kirshin",
+        "nodeid": 90962,
+        "documentid": 92234,
+        "nodealias": "David-Stephen-Kirshin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cbc94239-5cae-4dbc-8372-3e16bb4e767e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Stephen Kirshin",
+        "documentmodifiedwhen": "2021-09-21T08:51:17.281Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P00063",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Stephen Kirshin",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3490676879883,
+                43.7750930786133
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M2J 1V3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92237-90963",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:34.621Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Sarah-Louise-Kirshin-Neilans",
+        "nodeid": 90963,
+        "documentid": 92237,
+        "nodealias": "Sarah-Louise-Kirshin-Neilans",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1a88c55e-41fe-4c86-84ca-b7aa70311af3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sarah Louise Kirshin-Neilans",
+        "documentmodifiedwhen": "2022-01-05T07:23:10.223Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "55082L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sarah Louise Kirshin-Neilans",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 5P2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92235-90965",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:35.23Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Renatta-Kirszbaum",
+        "nodeid": 90965,
+        "documentid": 92235,
+        "nodealias": "Renatta-Kirszbaum",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7134149e-9b9e-4fe0-9885-866a14c8358c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Renatta Kirszbaum",
+        "documentmodifiedwhen": "2021-12-24T07:27:42.856Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27367U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Renatta Kirszbaum",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4T 2A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92236-90964",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:35.121Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Mehmet-Alper-Kirtil",
+        "nodeid": 90964,
+        "documentid": 92236,
+        "nodealias": "Mehmet-Alper-Kirtil",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "91f605f5-0025-494c-bb85-5f9fc5a76ac4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mehmet Alper Kirtil",
+        "documentmodifiedwhen": "2021-12-20T07:21:36.992Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13196",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mehmet Alper Kirtil",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M3K 1E7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93871-92599",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:26.98Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Jennifer-Wai-Cee-Kirton",
+        "nodeid": 92599,
+        "documentid": 93871,
+        "nodealias": "Jennifer-Wai-Cee-Kirton",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "706de5be-56ad-4d91-987b-6a7cecd8bd77",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Wai-Cee Kirton",
+        "documentmodifiedwhen": "2021-09-21T08:27:33.915Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60150C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Wai-Cee Kirton",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93873-92600",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:26.98Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/William-Leonard-Kirton",
+        "nodeid": 92600,
+        "documentid": 93873,
+        "nodealias": "William-Leonard-Kirton",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3d6a5bc5-e94f-4f4c-8500-3102cb2adc31",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "William Leonard Kirton",
+        "documentmodifiedwhen": "2021-09-21T09:27:36.821Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05467",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "William Leonard Kirton",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92239-90967",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:35.736Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Ilya-Kirtsman",
+        "nodeid": 90967,
+        "documentid": 92239,
+        "nodealias": "Ilya-Kirtsman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1b69fb61-1c68-4864-afe1-adad73ea8fbf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ilya Kirtsman",
+        "documentmodifiedwhen": "2019-09-06T07:18:18.965Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Russe"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Russian"
+        ],
+        "membernumber": "60488O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ilya Kirtsman",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4103622436523,
+                43.7623596191406
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 5Y7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92238-90966",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:36.423Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Antonis-Tony-Kiru",
+        "nodeid": 90966,
+        "documentid": 92238,
+        "nodealias": "Antonis-Tony-Kiru",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ef902da6-43af-45ec-9691-610d12f7a530",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Antonis Tony Kiru",
+        "documentmodifiedwhen": "2021-12-27T07:22:19Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "34332J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Antonis Tony Kiru",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6W 3P1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92241-90968",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:41.877Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Darren-Deenosan-Kirupa",
+        "nodeid": 90968,
+        "documentid": 92241,
+        "nodealias": "Darren-Deenosan-Kirupa",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b9fbf712-3aa0-42ba-b8df-757f604d5181",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Darren Deenosan Kirupa",
+        "documentmodifiedwhen": "2022-06-17T07:16:59.654Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61575K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Darren Deenosan Kirupa",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) (tutelle)"
+        ],
+        "memberwebstatus": [
+            "Suspended (Trusteeship)"
+        ],
+        "memberpostalcode": "L1T 4C8",
+        "membercurrentrestrictions": "Y",
+        "membercity": [
+            "Ajax"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92243-90971",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:42.517Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Frederick-Thomas-Kirvan",
+        "nodeid": 90971,
+        "documentid": 92243,
+        "nodealias": "Frederick-Thomas-Kirvan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3330f522-88f5-4bfd-b322-5e4b0d0a91bf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Frederick Thomas Kirvan",
+        "documentmodifiedwhen": "2021-12-14T07:44:09.831Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "10553H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Frederick Thomas Kirvan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93874-92602",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:27.652Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Mary-Anne-Kirvan",
+        "nodeid": 92602,
+        "documentid": 93874,
+        "nodealias": "Mary-Anne-Kirvan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7ca33fdf-f438-4516-84bd-e1c038a942a3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mary-Anne Kirvan",
+        "documentmodifiedwhen": "2021-04-24T07:15:40.778Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21277E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mary-Anne Kirvan",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93875-92604",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:33.302Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Myles-John-Kirvan",
+        "nodeid": 92604,
+        "documentid": 93875,
+        "nodealias": "Myles-John-Kirvan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c6a03364-8593-4001-b465-63150f849c46",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Myles John Kirvan",
+        "documentmodifiedwhen": "2020-02-20T07:59:35.885Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21278A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Myles John Kirvan",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92242-90970",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:41.955Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Ryan-Michael-Kirvan",
+        "nodeid": 90970,
+        "documentid": 92242,
+        "nodealias": "Ryan-Michael-Kirvan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cc7ab769-3d3b-4cdc-987b-2ae200efdbca",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ryan Michael Kirvan",
+        "documentmodifiedwhen": "2022-01-08T07:17:08.802Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58073A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ryan Michael Kirvan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4L 2M6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93878-92606",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:33.929Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Doreen-Antoinette-Kirwan",
+        "nodeid": 92606,
+        "documentid": 93878,
+        "nodealias": "Doreen-Antoinette-Kirwan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1147d503-18ed-432f-832b-077e4cb71d68",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Doreen Antoinette Kirwan",
+        "documentmodifiedwhen": "2020-02-20T09:09:00.086Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71343R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Doreen Antoinette Kirwan",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93876-92605",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:33.646Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Mary-Patricia-Kirwan",
+        "nodeid": 92605,
+        "documentid": 93876,
+        "nodealias": "Mary-Patricia-Kirwan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8378155b-97dd-4c76-8317-6e080626f2df",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mary Patricia Kirwan",
+        "documentmodifiedwhen": "2021-09-21T07:57:28.218Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33818F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mary Patricia Kirwan",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92244-90972",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:42.908Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/David-James-Kirwin",
+        "nodeid": 90972,
+        "documentid": 92244,
+        "nodealias": "David-James-Kirwin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "af2d2b8a-6eba-482c-add7-d7ac8c3031aa",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David James Kirwin",
+        "documentmodifiedwhen": "2021-12-24T07:23:23.793Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26659A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David James Kirwin",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 5P2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92245-90973",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:44.95Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Lynn-Kirwin",
+        "nodeid": 90973,
+        "documentid": 92245,
+        "nodealias": "Lynn-Kirwin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5dc12344-18cd-4f66-bb99-9daa2a7bc5ef",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lynn Kirwin",
+        "documentmodifiedwhen": "2021-12-26T07:26:23.836Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la famille ou matrimonial"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Family/Matrimonial Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "31139O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lynn Kirwin",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4N 1B1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Barrie"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92246-90974",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:45.2Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Robert-Eugene-Kirwin",
+        "nodeid": 90974,
+        "documentid": 92246,
+        "nodealias": "Robert-Eugene-Kirwin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "64881cb9-0866-4de7-a18f-8cb3f77698d2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Eugene Kirwin",
+        "documentmodifiedwhen": "2021-09-21T08:11:19.465Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36766D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Eugene Kirwin",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3894958496094,
+                43.6492500305176
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M5V 1W2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130160-125794",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T09:58:39.952Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Samuel-Jeffery-Kirwin",
+        "nodeid": 125794,
+        "documentid": 130160,
+        "nodealias": "Samuel-Jeffery-Kirwin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e72dca00-d724-4b5d-98ec-48c38e7503f5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Samuel Jeffery Kirwin",
+        "documentmodifiedwhen": "2021-06-10T07:22:22.22Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81800K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Samuel Jeffery Kirwin",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -81.2515563964844,
+                42.9854736328125
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 5P3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92240-90969",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:41.861Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/William-James-Kirwin",
+        "nodeid": 90969,
+        "documentid": 92240,
+        "nodealias": "William-James-Kirwin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "750cd8b3-0973-448c-a53b-eb3731764a80",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "William James Kirwin",
+        "documentmodifiedwhen": "2022-07-17T07:15:59.991Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05069",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "William James Kirwin",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Eligible to Provide Legal Services - No Proof of Insurance"
+        ],
+        "memberpostalcode": "L4M 6C1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Barrie"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130978-126550",
+        "sys_site": "lso",
+        "sys_created": "2021-06-04T07:28:53.939Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Anastasiya-Kiryeyeva",
+        "nodeid": 126550,
+        "documentid": 130978,
+        "nodealias": "Anastasiya-Kiryeyeva",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3cda4b43-d944-4da8-b699-36b77efd5855",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anastasiya Kiryeyeva",
+        "documentmodifiedwhen": "2021-06-10T07:31:09.965Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17571",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anastasiya Kiryeyeva",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92247-90975",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:45.528Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Ariel-Shimon-Kirzner",
+        "nodeid": 90975,
+        "documentid": 92247,
+        "nodealias": "Ariel-Shimon-Kirzner",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b793f381-80ef-4730-92e4-9c4eace04769",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ariel Shimon Kirzner",
+        "documentmodifiedwhen": "2022-01-14T07:20:30.047Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71595F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ariel Shimon Kirzner",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L7L 6A3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Burlington"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92248-90976",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:47.934Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Renata-Kis",
+        "nodeid": 90976,
+        "documentid": 92248,
+        "nodealias": "Renata-Kis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0cbdcbb4-db73-4c88-95b3-e6b36c6a2c84",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Renata Kis",
+        "documentmodifiedwhen": "2022-01-05T07:19:30.259Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56835G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Renata Kis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 2N6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92249-90977",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:47.934Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Hamza-Nurdin-Hassan-Kisaka",
+        "nodeid": 90977,
+        "documentid": 92249,
+        "nodealias": "Hamza-Nurdin-Hassan-Kisaka",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0891acb2-cfa1-48b7-9315-888c30b98ee4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hamza Nurdin Hassan Kisaka",
+        "documentmodifiedwhen": "2021-12-29T07:28:35.051Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37873K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hamza Nurdin Hassan Kisaka",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5A 4K2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92250-90978",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:49.887Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Neil-Morley-Kisbee",
+        "nodeid": 90978,
+        "documentid": 92250,
+        "nodealias": "Neil-Morley-Kisbee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "82fe584c-49b6-4f38-8a7c-3a1da0485b55",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Neil Morley Kisbee",
+        "documentmodifiedwhen": "2021-12-17T07:24:34.085Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "18186N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Neil Morley Kisbee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L1H 4R2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oshawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "117444-115042",
+        "sys_site": "lso",
+        "sys_created": "2019-06-29T07:25:38.839Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Daniel-Leonard-Kiselbach",
+        "nodeid": 115042,
+        "documentid": 117444,
+        "nodealias": "Daniel-Leonard-Kiselbach",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e3b30c0e-3740-4d42-bbbc-cc3c268b9b1a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniel Leonard Kiselbach",
+        "documentmodifiedwhen": "2022-06-02T07:16:14.635Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78235K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniel Leonard Kiselbach",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "V7Y 1K8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vancouver"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "138515-132958",
+        "sys_site": "lso",
+        "sys_created": "2022-06-14T07:17:34.951Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Nicole-Ashley-Kiselyov",
+        "nodeid": 132958,
+        "documentid": 138515,
+        "nodealias": "Nicole-Ashley-Kiselyov",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4d0d789e-a048-4d89-b034-9903ff711ac9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nicole Ashley Kiselyov",
+        "documentmodifiedwhen": "2022-07-07T07:23:24.905Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84364S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nicole Ashley Kiselyov",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93877-92603",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:33.677Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Kasongo-Kisenga",
+        "nodeid": 92603,
+        "documentid": 93877,
+        "nodealias": "Kasongo-Kisenga",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "21c03f47-813d-4206-9cae-eca861dd8a0b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kasongo Kisenga",
+        "documentmodifiedwhen": "2021-09-21T09:27:02.468Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05154",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kasongo Kisenga",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92251-90979",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:50.309Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Lyndsey-Katherine-Kiser",
+        "nodeid": 90979,
+        "documentid": 92251,
+        "nodealias": "Lyndsey-Katherine-Kiser",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "46b87a8b-d7ae-4feb-bd3b-53be07fa4f43",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lyndsey Katherine Kiser",
+        "documentmodifiedwhen": "2021-04-28T07:17:09.939Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74637K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lyndsey Katherine Kiser",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.6966171264648,
+                45.419116973877
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K2P 2M5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92252-90980",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:52.044Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Dennis-John-Kish",
+        "nodeid": 90980,
+        "documentid": 92252,
+        "nodealias": "Dennis-John-Kish",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "730a9a89-e14c-4967-89bd-916f987620bb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Dennis John Kish",
+        "documentmodifiedwhen": "2022-02-05T07:15:50.388Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50354F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Dennis John Kish",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M2N 3A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92253-90981",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:53.013Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Amy-Marwan-Kishek",
+        "nodeid": 90981,
+        "documentid": 92253,
+        "nodealias": "Amy-Marwan-Kishek",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "419ecf0c-b87c-4209-8357-c6b852f1ab2d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amy Marwan Kishek",
+        "documentmodifiedwhen": "2022-01-13T07:32:49.869Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70345V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amy Marwan Kishek",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1B 3M4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92254-90982",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:54.685Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Catherine-Alexandra-Kishfy",
+        "nodeid": 90982,
+        "documentid": 92254,
+        "nodealias": "Catherine-Alexandra-Kishfy",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6fc9af67-232a-49a8-a208-f8904e7309d3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Catherine Alexandra Kishfy",
+        "documentmodifiedwhen": "2022-01-12T07:21:31.4Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67298N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Catherine Alexandra Kishfy",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "H3A 0A8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Montreal"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92255-90983",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:54.7Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Dvorah-Kishinevski",
+        "nodeid": 90983,
+        "documentid": 92255,
+        "nodealias": "Dvorah-Kishinevski",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9e668094-2c03-486b-8ea8-8d4cc232b5c5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Dvorah Kishinevski",
+        "documentmodifiedwhen": "2022-01-15T07:16:17.326Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45696O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Dvorah Kishinevski",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5C 2W5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92257-90985",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:52:59.265Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Mihail-Kishinevsky",
+        "nodeid": 90985,
+        "documentid": 92257,
+        "nodealias": "Mihail-Kishinevsky",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6e386739-bab8-48a9-9626-7aa71fdcb80c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mihail Kishinevsky",
+        "documentmodifiedwhen": "2021-12-29T07:25:58.938Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit commercial et corporatifes",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Corporate/Commercial Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37163R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mihail Kishinevsky",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L3R 6H3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92258-90987",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:05.289Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Reshma-Prem-Kishnani",
+        "nodeid": 90987,
+        "documentid": 92258,
+        "nodealias": "Reshma-Prem-Kishnani",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6beaa252-24ac-44e2-ab59-c8dec8c1ce62",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Reshma Prem Kishnani",
+        "documentmodifiedwhen": "2022-04-12T07:15:44.047Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60151V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Reshma Prem Kishnani",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 4G2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92259-90986",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:05.289Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Karen-Petra-Kisiel",
+        "nodeid": 90986,
+        "documentid": 92259,
+        "nodealias": "Karen-Petra-Kisiel",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f130d7da-27e3-4831-9f10-c260c238c043",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karen Petra Kisiel",
+        "documentmodifiedwhen": "2021-12-15T07:29:14.158Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45995L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karen Petra Kisiel",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5A 2R1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93879-92607",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:37.462Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Kristina-Sofia-Kiskis",
+        "nodeid": 92607,
+        "documentid": 93879,
+        "nodealias": "Kristina-Sofia-Kiskis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "22e2a3bc-0a9c-44eb-bd44-91ad8638761d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kristina Sofia Kiskis",
+        "documentmodifiedwhen": "2020-02-20T08:51:26.163Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61334M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kristina Sofia Kiskis",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93880-92608",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:37.777Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Clara-Leslie-Kisko",
+        "nodeid": 92608,
+        "documentid": 93880,
+        "nodealias": "Clara-Leslie-Kisko",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "74cd0d8a-7ac4-4eb4-8c67-7e697e4141a4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Clara Leslie Kisko",
+        "documentmodifiedwhen": "2019-05-09T14:39:06.595Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "20980O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Clara Leslie Kisko",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92260-90988",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:05.773Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Howard-Kislowicz",
+        "nodeid": 90988,
+        "documentid": 92260,
+        "nodealias": "Howard-Kislowicz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a84d74e2-0336-459c-b06b-4c56bbee3d15",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Howard Kislowicz",
+        "documentmodifiedwhen": "2022-01-07T07:30:22.811Z",
+        "skuname": null,
+        "memberprovincetext": "Alberta",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54604D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Howard Kislowicz",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "T2N 1N4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Calgary"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92261-90989",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:07.351Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Michelle-Jennifer-Kisluk",
+        "nodeid": 90989,
+        "documentid": 92261,
+        "nodealias": "Michelle-Jennifer-Kisluk",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1098200f-3cf6-4a78-8fca-f7c1db53ad0e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michelle Jennifer Kisluk",
+        "documentmodifiedwhen": "2022-01-05T07:20:10.204Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49586F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michelle Jennifer Kisluk",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5X 1J2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92262-90990",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:11.421Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Elizabeth-Andrea-Kiss",
+        "nodeid": 90990,
+        "documentid": 92262,
+        "nodealias": "Elizabeth-Andrea-Kiss",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a772b338-ca54-4a99-b731-1b267d208040",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Elizabeth Andrea Kiss",
+        "documentmodifiedwhen": "2021-12-29T07:21:33.2Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "39128U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Elizabeth Andrea Kiss",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 0B3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92263-90991",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:11.421Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Jennifer-Kristine-Kiss",
+        "nodeid": 90991,
+        "documentid": 92263,
+        "nodealias": "Jennifer-Kristine-Kiss",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0033046e-9a92-40eb-82e3-2188c7021b51",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Kristine Kiss",
+        "documentmodifiedwhen": "2022-05-28T07:46:37.441Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70346R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Kristine Kiss",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5K 1A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "138513-132956",
+        "sys_site": "lso",
+        "sys_created": "2022-06-14T07:17:17.37Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Jerred-Richard-Kiss",
+        "nodeid": 132956,
+        "documentid": 138513,
+        "nodealias": "Jerred-Richard-Kiss",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ab47c310-d9ba-4f7b-9461-dc8a5fe41dea",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jerred Richard Kiss",
+        "documentmodifiedwhen": "2022-07-20T07:16:21.18Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84365O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jerred Richard Kiss",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 1R8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123853-120307",
+        "sys_site": "lso",
+        "sys_created": "2020-06-23T09:21:12.959Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Lorant-Kiss",
+        "nodeid": 120307,
+        "documentid": 123853,
+        "nodealias": "Lorant-Kiss",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "acbf3bd0-bdb9-4157-a078-766b009f9754",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lorant Kiss",
+        "documentmodifiedwhen": "2021-10-21T07:18:28.625Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80033D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lorant Kiss",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3833618164063,
+                43.6509780883789
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3K6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92265-90993",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:12.596Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Gary-Franklin-Kissack",
+        "nodeid": 90993,
+        "documentid": 92265,
+        "nodealias": "Gary-Franklin-Kissack",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4a80eadf-f716-41e7-9e83-cc73b81feebe",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gary Franklin Kissack",
+        "documentmodifiedwhen": "2022-01-13T07:16:20.383Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Enjeux juridiques autochtones",
+            "Droit commercial et corporatifes",
+            "Droit des valeurs mobili\u00e8res"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Indigenous Legal Issues",
+            "Corporate/Commercial Law",
+            "Securities Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "35940I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gary Franklin Kissack",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1G8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92264-90992",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:11.875Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Joel-Thomas-Kissack",
+        "nodeid": 90992,
+        "documentid": 92264,
+        "nodealias": "Joel-Thomas-Kissack",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f458aac0-14fa-4ece-8d49-f708c3401ec4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joel Thomas Kissack",
+        "documentmodifiedwhen": "2021-12-24T07:23:24.379Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26658E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joel Thomas Kissack",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6K 0J5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oakville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92266-90994",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:15.252Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Dimitra-Kisses",
+        "nodeid": 90994,
+        "documentid": 92266,
+        "nodealias": "Dimitra-Kisses",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "941342b5-a8f6-4bed-a5b6-d775866f0f1a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Dimitra Kisses",
+        "documentmodifiedwhen": "2021-09-21T09:39:22.611Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13285",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Dimitra Kisses",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92270-90998",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:21.493Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Diane-Katharine-Kissick",
+        "nodeid": 90998,
+        "documentid": 92270,
+        "nodealias": "Diane-Katharine-Kissick",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a9460810-b494-4d22-acda-d5f33c4d3e60",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Diane Katharine Kissick",
+        "documentmodifiedwhen": "2022-01-12T07:21:00.731Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67531B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Diane Katharine Kissick",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0H8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139805-134193",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T07:42:18.201Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Sean-Daniel-Ryan-Kissick",
+        "nodeid": 134193,
+        "documentid": 139805,
+        "nodealias": "Sean-Daniel-Ryan-Kissick",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "652a8ebe-22c0-4740-9ca6-deeae523d9f5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sean Daniel Ryan Kissick",
+        "documentmodifiedwhen": "2022-07-07T07:19:13.741Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84753L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sean Daniel Ryan Kissick",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92267-90995",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:16.256Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/William-Peter-Kissick",
+        "nodeid": 90995,
+        "documentid": 92267,
+        "nodealias": "William-Peter-Kissick",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ac4acb0f-4db8-42e0-a940-3e99e7358aae",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "William Peter Kissick",
+        "documentmodifiedwhen": "2021-12-26T07:24:20.423Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30721E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "William Peter Kissick",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K7M 6S6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kingston"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93882-92610",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:38.449Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Mathieu-David-Bonneville-Kissin",
+        "nodeid": 92610,
+        "documentid": 93882,
+        "nodealias": "Mathieu-David-Bonneville-Kissin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e3ba4a8b-2e78-4c13-812d-101a59f3182a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mathieu David Bonneville Kissin",
+        "documentmodifiedwhen": "2022-01-10T07:19:45.725Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63016W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mathieu David Bonneville Kissin",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Singapore",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "169782",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Singapore"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92268-90997",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:20.915Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Dhaman-Persaud-Kissoon",
+        "nodeid": 90997,
+        "documentid": 92268,
+        "nodealias": "Dhaman-Persaud-Kissoon",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "47342c66-0fc2-4c6e-92d7-92662a84ebae",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Dhaman Persaud Kissoon",
+        "documentmodifiedwhen": "2021-12-26T07:20:55.565Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit criminel et quasi criminel",
+            "Droit de l'immigration",
+            "Infractions punissables par proc\u00e9dure sommaire \u00e0 la Cour de justice de l'Ontario"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Criminal/Quasi-Criminal Law",
+            "Immigration Law",
+            "Ontario Court of Justice - Summary Conviction Offences"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32313S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Dhaman Persaud Kissoon",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M9B 3P3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Etobicoke"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "122713-119238",
+        "sys_site": "lso",
+        "sys_created": "2020-06-16T07:37:56.078Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Navin-Tiwari-Kissoon",
+        "nodeid": 119238,
+        "documentid": 122713,
+        "nodealias": "Navin-Tiwari-Kissoon",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "03ede822-ce25-480e-9c72-daaeeb09b37f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Navin Tiwari Kissoon",
+        "documentmodifiedwhen": "2020-12-18T07:18:45.91Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "79583P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Navin Tiwari Kissoon",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.379524230957,
+                43.6481742858887
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5L 1B9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92269-90996",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:20.93Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Silvia-Kissova",
+        "nodeid": 90996,
+        "documentid": 92269,
+        "nodealias": "Silvia-Kissova",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e9d95614-a811-4a70-bf9b-ebd641e193c6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Silvia Kissova",
+        "documentmodifiedwhen": "2022-04-25T07:16:09.916Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit criminel et quasi criminel"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Criminal/Quasi-Criminal Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63718N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Silvia Kissova",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4K 5R2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Concord"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93881-92609",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:37.996Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Lois-Marilyn-Kit",
+        "nodeid": 92609,
+        "documentid": 93881,
+        "nodealias": "Lois-Marilyn-Kit",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7e98c648-d35a-42a9-8e24-863eb2007d0a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lois Marilyn Kit",
+        "documentmodifiedwhen": "2021-12-14T08:03:38.052Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13627J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lois Marilyn Kit",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93883-92612",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:47.303Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Stephen-Nestor-Kit",
+        "nodeid": 92612,
+        "documentid": 93883,
+        "nodealias": "Stephen-Nestor-Kit",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "520246a7-fae4-443a-b2a7-ca496202ed6d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephen Nestor Kit",
+        "documentmodifiedwhen": "2021-11-05T07:41:37.757Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "34333F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephen Nestor Kit",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92273-91001",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:24.352Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Michael-John-Kitagawa",
+        "nodeid": 91001,
+        "documentid": 92273,
+        "nodealias": "Michael-John-Kitagawa",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "51b12316-7198-4f47-8413-7ce3c6b0a92c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael John Kitagawa",
+        "documentmodifiedwhen": "2021-12-30T07:25:49.152Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "40897E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael John Kitagawa",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 1E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92271-90999",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:22.118Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Mitchell-Kent-Kitagawa",
+        "nodeid": 90999,
+        "documentid": 92271,
+        "nodealias": "Mitchell-Kent-Kitagawa",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0ec2e977-bcde-44f3-96e8-fab03a97ee93",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mitchell Kent Kitagawa",
+        "documentmodifiedwhen": "2021-12-29T07:17:08.255Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38875N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mitchell Kent Kitagawa",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K2P 2P7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92272-91000",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:24.321Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Arthur-Ryoji-Kitamura",
+        "nodeid": 91000,
+        "documentid": 92272,
+        "nodealias": "Arthur-Ryoji-Kitamura",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "23ea8154-fb52-404f-afc1-4c2ae36bc7ac",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Arthur Ryoji Kitamura",
+        "documentmodifiedwhen": "2021-12-14T07:42:21.655Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "10843G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Arthur Ryoji Kitamura",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "134082-129376",
+        "sys_site": "lso",
+        "sys_created": "2021-09-16T07:19:35.662Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Klara-Kitanovic",
+        "nodeid": 129376,
+        "documentid": 134082,
+        "nodealias": "Klara-Kitanovic",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f8805145-cb30-4722-90a1-48a0a52be172",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Klara Kitanovic",
+        "documentmodifiedwhen": "2022-04-27T07:17:34.292Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17820",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Klara Kitanovic",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L4Z 2H7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92276-91003",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:32.895Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Marc-Warren-Kitay",
+        "nodeid": 91003,
+        "documentid": 92276,
+        "nodealias": "Marc-Warren-Kitay",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "96751979-98bd-4edd-98c5-136c6af9d861",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marc Warren Kitay",
+        "documentmodifiedwhen": "2022-01-10T07:25:36.13Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit de l'emploi et droit du travail",
+            "Droits de la personne"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Employment/Labour Law",
+            "Human Rights"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "62896V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marc Warren Kitay",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3L5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92274-91002",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:28.801Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/William-Douglas-Kitay",
+        "nodeid": 91002,
+        "documentid": 92274,
+        "nodealias": "William-Douglas-Kitay",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e74a8803-d11a-4987-bc8e-abf8075d3272",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "William Douglas Kitay",
+        "documentmodifiedwhen": "2022-01-03T07:24:04.426Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit commercial et corporatifes",
+            "Droit des valeurs mobili\u00e8res"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Corporate/Commercial Law",
+            "Securities Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "53100M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "William Douglas Kitay",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4W 3S8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92283-91011",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:41.481Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Ching-Yuen-Kitchen",
+        "nodeid": 91011,
+        "documentid": 92283,
+        "nodealias": "Ching-Yuen-Kitchen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fb8367a2-71df-49eb-821c-785f86407959",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ching Yuen Kitchen",
+        "documentmodifiedwhen": "2021-12-21T07:18:14.095Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "23020M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ching Yuen Kitchen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L1G 0A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oshawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92281-91009",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:40.309Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Christopher-James-Kitchen",
+        "nodeid": 91009,
+        "documentid": 92281,
+        "nodealias": "Christopher-James-Kitchen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3a9ea80b-d898-41a4-bb56-68eed2aa92cf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher James Kitchen",
+        "documentmodifiedwhen": "2022-01-05T07:27:20.521Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54940L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher James Kitchen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0H8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92275-91005",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:33.223Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Erin-Hanlon-Kitchen",
+        "nodeid": 91005,
+        "documentid": 92275,
+        "nodealias": "Erin-Hanlon-Kitchen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dbb9091b-6c1a-4df5-b373-b8157e6bba57",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Erin Hanlon Kitchen",
+        "documentmodifiedwhen": "2021-12-18T07:25:53.578Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08188",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Erin Hanlon Kitchen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L6J 7Y5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oakville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93884-92615",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:47.288Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Gary-Gordon-Kitchen",
+        "nodeid": 92615,
+        "documentid": 93884,
+        "nodealias": "Gary-Gordon-Kitchen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "04cabfc7-4b54-44c2-a9fc-732fbb87eef2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gary Gordon Kitchen",
+        "documentmodifiedwhen": "2021-12-14T08:06:42.078Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "15229R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gary Gordon Kitchen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92280-91008",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:39.887Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Kenneth-Wayne-Kitchen",
+        "nodeid": 91008,
+        "documentid": 92280,
+        "nodealias": "Kenneth-Wayne-Kitchen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e05cf8fb-ec02-4628-a726-db1a68c58bd5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kenneth Wayne Kitchen",
+        "documentmodifiedwhen": "2021-12-21T07:17:44.289Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la famille ou matrimonial",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Family/Matrimonial Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "23101K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kenneth Wayne Kitchen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L3Y 3Y9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Newmarket"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92277-91004",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:33.02Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Monte-Ray-Kitchen",
+        "nodeid": 91004,
+        "documentid": 92277,
+        "nodealias": "Monte-Ray-Kitchen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d7ed19df-773f-4dae-9e81-e2c6f8b4d657",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Monte Ray Kitchen",
+        "documentmodifiedwhen": "2019-05-09T14:29:42.048Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06234",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Monte Ray Kitchen",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.9470748901367,
+                43.0612983703613
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "N3W 1H5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Caledonia"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92278-91006",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:33.895Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Ronald-John-Kitchen",
+        "nodeid": 91006,
+        "documentid": 92278,
+        "nodealias": "Ronald-John-Kitchen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ee93f503-51ac-4d65-8b02-7ffbb79b1ba4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ronald John Kitchen",
+        "documentmodifiedwhen": "2021-12-15T07:28:36.768Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "17477U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ronald John Kitchen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L1H 4G7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oshawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92279-91007",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:39.856Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Margaret-Anne-Kitching",
+        "nodeid": 91007,
+        "documentid": 92279,
+        "nodealias": "Margaret-Anne-Kitching",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "774db4c2-8cde-4420-8c73-412faa0f2049",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Margaret Anne Kitching",
+        "documentmodifiedwhen": "2021-09-21T08:38:21.717Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "73240P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Margaret Anne Kitching",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3817825317383,
+                43.6558570861816
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M5G 1Z3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92282-91010",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:40.809Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Kerri-Ann-Kitchura",
+        "nodeid": 91010,
+        "documentid": 92282,
+        "nodealias": "Kerri-Ann-Kitchura",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "58755adc-aacb-4d68-b2c0-212360603c76",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kerri-Ann Kitchura",
+        "documentmodifiedwhen": "2022-01-01T07:23:27.328Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46495D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kerri-Ann Kitchura",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 3C6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93885-92611",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:47.288Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Paul-David-Kiteley",
+        "nodeid": 92611,
+        "documentid": 93885,
+        "nodealias": "Paul-David-Kiteley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c9592119-a00f-4890-be15-7022b7a99948",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paul David Kiteley",
+        "documentmodifiedwhen": "2022-05-28T07:39:29.901Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "15230B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paul David Kiteley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93886-92614",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:47.288Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Melanie-Marie-Kitney",
+        "nodeid": 92614,
+        "documentid": 93886,
+        "nodealias": "Melanie-Marie-Kitney",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "70675afb-e769-439f-b166-ba3c17e707cf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Melanie Marie Kitney",
+        "documentmodifiedwhen": "2021-09-21T09:31:25.653Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13705",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Melanie Marie Kitney",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93888-92613",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:47.288Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Janet-Muriel-Kitson",
+        "nodeid": 92613,
+        "documentid": 93888,
+        "nodealias": "Janet-Muriel-Kitson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7c334e8e-bb75-491e-9c1f-a7e5a40a04ba",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Janet Muriel Kitson",
+        "documentmodifiedwhen": "2020-02-20T09:20:49.164Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P00806",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Janet Muriel Kitson",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "92285-91012",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:53:43.469Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Shelair-A-Kittani",
+        "nodeid": 91012,
+        "documentid": 92285,
+        "nodealias": "Shelair-A-Kittani",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "75b3870c-66a2-4af1-be37-4a87de5dc82e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shelair A Kittani",
+        "documentmodifiedwhen": "2021-12-20T07:17:19.32Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droits de la personne",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Human Rights",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P12946",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shelair A Kittani",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L8E 6E7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Stoney Creek"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "93887-92616",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T09:31:47.288Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Suzanne-Carinn-Kittell",
+        "nodeid": 92616,
+        "documentid": 93887,
+        "nodealias": "Suzanne-Carinn-Kittell",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b6c55cb8-25f1-456b-b359-2a3aaf9ead96",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Suzanne Carinn Kittell",
+        "documentmodifiedwhen": "2022-01-15T07:20:17.649Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68140E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Suzanne Carinn Kittell",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4W 1E5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    }
+]

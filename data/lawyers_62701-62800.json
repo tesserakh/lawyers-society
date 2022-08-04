@@ -1,0 +1,5146 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "138784-133227",
+        "sys_site": "lso",
+        "sys_created": "2022-06-14T07:44:15.314Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Adam-McLaren-Rose",
+        "nodeid": 133227,
+        "documentid": 138784,
+        "nodealias": "Adam-McLaren-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ddf5a89b-96ec-4b99-bcb3-1ffea98fc65c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Adam McLaren Rose",
+        "documentmodifiedwhen": "2022-07-23T07:15:47.149Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84262N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Adam McLaren Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 1J9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72366-71100",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:57.256Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Alexander-Duval-Rose",
+        "nodeid": 71100,
+        "documentid": 72366,
+        "nodealias": "Alexander-Duval-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "96b5e1ae-b0b5-4669-b535-7d21d0e111a0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alexander Duval Rose",
+        "documentmodifiedwhen": "2022-01-02T07:23:53.285Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49415P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alexander Duval Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5L 1B9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72351-71085",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:25.537Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Alexus-Teresa-Rose",
+        "nodeid": 71085,
+        "documentid": 72351,
+        "nodealias": "Alexus-Teresa-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "db6127a3-b4e5-4b78-a53d-7f44d87631bd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alexus Teresa Rose",
+        "documentmodifiedwhen": "2021-09-21T09:36:19.71Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P12109",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alexus Teresa Rose",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.7063293457031,
+                43.5195808410645
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L5L 6A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72378-71112",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:15.96Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Alycia-Christina-Rose",
+        "nodeid": 71112,
+        "documentid": 72378,
+        "nodealias": "Alycia-Christina-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c8a30574-3b79-49ac-9001-8589f6210b62",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alycia Christina Rose",
+        "documentmodifiedwhen": "2022-01-14T07:20:35.164Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "73330L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alycia Christina Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4K 0E8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Concord"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72371-71105",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:09.238Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Amy-Benkard-Rose",
+        "nodeid": 71105,
+        "documentid": 72371,
+        "nodealias": "Amy-Benkard-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6a66128e-02cb-4126-9a16-029a5d38dad4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amy Benkard Rose",
+        "documentmodifiedwhen": "2022-01-10T07:22:32.051Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63842J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amy Benkard Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M7A 2S9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72350-71084",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:25.396Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Arthur-Allen-Rose",
+        "nodeid": 71084,
+        "documentid": 72350,
+        "nodealias": "Arthur-Allen-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3827472e-bd32-4658-a66d-d69b348ca6f0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Arthur Allen Rose",
+        "documentmodifiedwhen": "2021-12-14T08:30:20.019Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "07443B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Arthur Allen Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "127373-123551",
+        "sys_site": "lso",
+        "sys_created": "2021-01-23T07:21:51.438Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Ashley-Lynn-Rose",
+        "nodeid": 123551,
+        "documentid": 127373,
+        "nodealias": "Ashley-Lynn-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ed956026-1a78-4b0f-aa12-88a658b42704",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ashley-Lynn Rose",
+        "documentmodifiedwhen": "2022-06-08T07:19:31.471Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17151",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ashley-Lynn Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72355-71089",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:39.343Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Blair-Coleman-Rose",
+        "nodeid": 71089,
+        "documentid": 72355,
+        "nodealias": "Blair-Coleman-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ea22f9fd-e4d2-405d-a2e0-ea13b4a3ba4e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Blair Coleman Rose",
+        "documentmodifiedwhen": "2021-12-17T07:21:45.228Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "19677W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Blair Coleman Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M3C 3G8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "115159-112939",
+        "sys_site": "lso",
+        "sys_created": "2019-04-30T07:21:24.109Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Brittany-Renill-Rose",
+        "nodeid": 112939,
+        "documentid": 115159,
+        "nodealias": "Brittany-Renill-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2aa686f6-166b-47c3-a4f9-0ab741558606",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brittany Renill Rose",
+        "documentmodifiedwhen": "2022-01-18T12:16:00.831Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15671",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brittany Renill Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2Y2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72377-71111",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:15.773Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Calla-Mary-Ashley-Rose",
+        "nodeid": 71111,
+        "documentid": 72377,
+        "nodealias": "Calla-Mary-Ashley-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "951f81ba-6092-4750-926d-b1bbe1d6668d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Calla Mary Ashley Rose",
+        "documentmodifiedwhen": "2020-02-18T07:16:12.526Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69739R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Calla Mary Ashley Rose",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.7555236816406,
+                45.3409538269043
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K2G 1W1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "112901-111154",
+        "sys_site": "lso",
+        "sys_created": "2018-12-20T07:18:52.715Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Chantal-Katie-Rose",
+        "nodeid": 111154,
+        "documentid": 112901,
+        "nodealias": "Chantal-Katie-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a99b6720-cb81-4c16-97fc-f375b9c60ed1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Chantal Katie Rose",
+        "documentmodifiedwhen": "2022-07-12T07:16:52.495Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15174",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Chantal Katie Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L2R 7R4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "St. Catharines"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "120119-117148",
+        "sys_site": "lso",
+        "sys_created": "2019-12-18T07:19:48.217Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Christine-Jaimie-Rose",
+        "nodeid": 117148,
+        "documentid": 120119,
+        "nodealias": "Christine-Jaimie-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dd724cad-7dec-4967-a3e3-26936e588cc8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christine Jaimie Rose",
+        "documentmodifiedwhen": "2022-04-09T07:17:30.219Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Infractions punissables par proc\u00e9dure sommaire \u00e0 la Cour de justice de l'Ontario"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Ontario Court of Justice - Summary Conviction Offences"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P16288",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christine Jaimie Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N2G 4X8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kitchener"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72362-71096",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:47.696Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/David-Jason-Rose",
+        "nodeid": 71096,
+        "documentid": 72362,
+        "nodealias": "David-Jason-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "95223d8e-5fa2-4110-aae9-a303920dbae6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Jason Rose",
+        "documentmodifiedwhen": "2021-12-28T07:29:46.479Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36196W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Jason Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6C 0A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82053-80781",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:17.732Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Derek-Rodney-Pugsley-Rose",
+        "nodeid": 80781,
+        "documentid": 82053,
+        "nodealias": "Derek-Rodney-Pugsley-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0df6efcd-0d15-40d4-89f6-3467d8134d86",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Derek Rodney Pugsley Rose",
+        "documentmodifiedwhen": "2020-02-20T08:12:31.022Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "19678S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Derek Rodney Pugsley Rose",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72358-71092",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:40.452Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Douglas-Stuart-Rose",
+        "nodeid": 71092,
+        "documentid": 72358,
+        "nodealias": "Douglas-Stuart-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "021f31fc-0487-404c-8596-938ede8643ef",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Douglas Stuart Rose",
+        "documentmodifiedwhen": "2021-12-24T07:24:24.885Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26688J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Douglas Stuart Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N2V 1W7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Waterloo"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72379-71113",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:16.533Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Ebony-Joyce-Ann-Rose",
+        "nodeid": 71113,
+        "documentid": 72379,
+        "nodealias": "Ebony-Joyce-Ann-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9a801320-9ab9-4601-b583-167b2429b6b8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ebony Joyce-Ann Rose",
+        "documentmodifiedwhen": "2022-01-13T07:21:19.567Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70112C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ebony Joyce-Ann Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5C 2B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72359-71093",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:40.859Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Elana-Nancy-Mayers-Rose",
+        "nodeid": 71093,
+        "documentid": 72359,
+        "nodealias": "Elana-Nancy-Mayers-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ddabcfef-b05c-48f3-b126-876d9cf18a52",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Elana Nancy Mayers Rose",
+        "documentmodifiedwhen": "2021-12-26T07:27:32.639Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30080T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Elana Nancy Mayers Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M1P 3E7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72372-71106",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:14.238Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Erin-Michelle-Rose",
+        "nodeid": 71106,
+        "documentid": 72372,
+        "nodealias": "Erin-Michelle-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "51a82900-5a54-4c1c-bb5d-85064298a132",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Erin Michelle Rose",
+        "documentmodifiedwhen": "2022-04-22T07:22:35.361Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63843F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Erin Michelle Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M4Y 1N1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72364-71098",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:56.24Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Frederick-George-Rose",
+        "nodeid": 71098,
+        "documentid": 72364,
+        "nodealias": "Frederick-George-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a954890e-bdbb-411d-b675-c16e9ce020c2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Frederick George Rose",
+        "documentmodifiedwhen": "2021-12-28T07:20:06.233Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36892O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Frederick George Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 3V8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72367-71101",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:57.537Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Gregory-John-Rose",
+        "nodeid": 71101,
+        "documentid": 72367,
+        "nodealias": "Gregory-John-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2f3908ec-6dde-445e-b70d-b1ac5a47ebd6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gregory John Rose",
+        "documentmodifiedwhen": "2021-09-21T08:09:12.139Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38924O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gregory John Rose",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72353-71087",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:26.115Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Jack-Martin-Rose",
+        "nodeid": 71087,
+        "documentid": 72353,
+        "nodealias": "Jack-Martin-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1866fd6a-33ea-43fa-9b13-a97e95e240d8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jack Martin Rose",
+        "documentmodifiedwhen": "2022-05-28T07:26:01.293Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "09243U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jack Martin Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "114070-112058",
+        "sys_site": "lso",
+        "sys_created": "2019-03-21T07:20:12.221Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Jaclyn-Marie-Rose",
+        "nodeid": 112058,
+        "documentid": 114070,
+        "nodealias": "Jaclyn-Marie-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e7139eac-5255-40ea-87c5-6716ec05bb52",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jaclyn Marie Rose",
+        "documentmodifiedwhen": "2020-02-20T09:38:21.6Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15448",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jaclyn Marie Rose",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82051-80780",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:18.131Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Janis-Margaret-Rose",
+        "nodeid": 80780,
+        "documentid": 82051,
+        "nodealias": "Janis-Margaret-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2245397f-1099-4dbf-b5e2-a5c7cc60efc6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Janis Margaret Rose",
+        "documentmodifiedwhen": "2022-03-28T07:15:43.744Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "23272A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Janis Margaret Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72374-71107",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:14.723Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Jessica-Margery-Rose",
+        "nodeid": 71107,
+        "documentid": 72374,
+        "nodealias": "Jessica-Margery-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "11fdf083-bffb-460a-bf25-7ca62ea9c9bd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jessica Margery Rose",
+        "documentmodifiedwhen": "2022-01-14T07:18:20.653Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68248I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jessica Margery Rose",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M2N 6S6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72352-71086",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:25.787Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Joel-Michael-Rose",
+        "nodeid": 71086,
+        "documentid": 72352,
+        "nodealias": "Joel-Michael-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4a8b1ac8-ae47-485a-a52e-3aba6084f194",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joel Michael Rose",
+        "documentmodifiedwhen": "2021-12-14T07:45:22.913Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "11270C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joel Michael Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2T9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72365-71099",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:57.209Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/John-Franklin-Leonard-Rose",
+        "nodeid": 71099,
+        "documentid": 72365,
+        "nodealias": "John-Franklin-Leonard-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ce462f27-2490-4021-bbe0-77baaa820972",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Franklin Leonard Rose",
+        "documentmodifiedwhen": "2022-02-13T07:16:49.806Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38609N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Franklin Leonard Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "127374-123552",
+        "sys_site": "lso",
+        "sys_created": "2021-01-23T07:21:52.629Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Julie-Lorraine-Rose",
+        "nodeid": 123552,
+        "documentid": 127374,
+        "nodealias": "Julie-Lorraine-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6fba50bc-f29d-4e61-be39-d7350668bb5b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Julie Lorraine Rose",
+        "documentmodifiedwhen": "2022-02-02T07:18:38.48Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Droits de la personne",
+            "Location immobili\u00e8re",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Small Claims Court matters",
+            "Human Rights",
+            "Landlord and Tenant",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17150",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Julie Lorraine Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L2R 3H7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "St Catharines"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72373-71108",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:14.317Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Keith-David-Rose",
+        "nodeid": 71108,
+        "documentid": 72373,
+        "nodealias": "Keith-David-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5eff6eb9-7eab-4832-a658-aca7aa44550d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Keith David Rose",
+        "documentmodifiedwhen": "2022-01-11T07:29:25.294Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64585O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Keith David Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82057-80785",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:19.521Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Leslie-Allen-Rose",
+        "nodeid": 80785,
+        "documentid": 82057,
+        "nodealias": "Leslie-Allen-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2e9d88e4-b979-439e-a4ff-951c26995bb5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Leslie Allen Rose",
+        "documentmodifiedwhen": "2022-05-28T07:29:09.444Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33042W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Leslie Allen Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105646-104374",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T06:18:27.809Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Leslie-Harris-Rose",
+        "nodeid": 104374,
+        "documentid": 105646,
+        "nodealias": "Leslie-Harris-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0300015a-b339-4780-9ff2-e43239d3efae",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Leslie Harris Rose",
+        "documentmodifiedwhen": "2021-12-15T07:17:38.855Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "14953L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Leslie Harris Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72360-71094",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:41.343Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Lon-Garrick-Rose",
+        "nodeid": 71094,
+        "documentid": 72360,
+        "nodealias": "Lon-Garrick-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "91d133cd-76db-46ed-b109-c75e32f4c96e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lon Garrick Rose",
+        "documentmodifiedwhen": "2021-12-25T07:17:47.684Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit criminel et quasi criminel",
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Infractions punissables par proc\u00e9dure sommaire \u00e0 la Cour de justice de l'Ontario"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Criminal/Quasi-Criminal Law",
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Ontario Court of Justice - Summary Conviction Offences"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30081P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lon Garrick Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2H7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72368-71102",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:57.959Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Lorne-Michael-Rose",
+        "nodeid": 71102,
+        "documentid": 72368,
+        "nodealias": "Lorne-Michael-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "67ec9e72-5092-4f87-ad92-2223d85beab7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lorne Michael Rose",
+        "documentmodifiedwhen": "2022-01-02T07:19:32.625Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50085N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lorne Michael Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M7A 1W3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72370-71104",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:59.037Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Malerie-Jane-Rose",
+        "nodeid": 71104,
+        "documentid": 72370,
+        "nodealias": "Malerie-Jane-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d7f21014-18cb-4232-8392-923edfaf8f47",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Malerie Jane Rose",
+        "documentmodifiedwhen": "2021-07-16T07:16:52.623Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la famille ou matrimonial"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Family/Matrimonial Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52665K",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Malerie Jane Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6226043701172,
+                43.5180931091309
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5J 1J4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72369-71103",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:58.381Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Meredith-Jane-Rose",
+        "nodeid": 71103,
+        "documentid": 72369,
+        "nodealias": "Meredith-Jane-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c8d3f1aa-8c41-4591-955e-a60efe053ada",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Meredith Jane Rose",
+        "documentmodifiedwhen": "2022-01-06T07:29:49.457Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52029J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Meredith Jane Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5C 3C7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72349-71083",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:24.927Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Michele-Agatha-Rose",
+        "nodeid": 71083,
+        "documentid": 72349,
+        "nodealias": "Michele-Agatha-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c6054ec1-2187-4112-9f70-bf93f050319b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michele Agatha Rose",
+        "documentmodifiedwhen": "2021-09-21T09:23:30.866Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05613",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michele Agatha Rose",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.5173263549805,
+                43.7011413574219
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M9N 1J2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72363-71097",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:56.522Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Mitchell-Hart-Rose",
+        "nodeid": 71097,
+        "documentid": 72363,
+        "nodealias": "Mitchell-Hart-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "672f0c87-de04-460d-b1fb-a77749409ee4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mitchell Hart Rose",
+        "documentmodifiedwhen": "2021-07-07T07:16:23.865Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "R\u00e8glement extrajudiciaire des diff\u00e9rends (RAD)/ Services de m\u00e9diation",
+            "Droit de l'emploi et droit du travail",
+            "Droits de la personne"
+        ],
+        "memberareasofservicenamesenglish": [
+            "ADR/Mediation Services",
+            "Employment/Labour Law",
+            "Human Rights"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37468N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mitchell Hart Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4129943847656,
+                43.7662658691406
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 7E9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72348-71082",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:24.818Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Paige-Alissa-Rose",
+        "nodeid": 71082,
+        "documentid": 72348,
+        "nodealias": "Paige-Alissa-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f697d9ed-dd57-4f80-8893-059029cb2670",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paige Alissa Rose",
+        "documentmodifiedwhen": "2021-09-21T08:56:48.322Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P10371",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paige Alissa Rose",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4531021118164,
+                44.2437171936035
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L4P 3Y7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Keswick"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82055-80784",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:18.881Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Randy-Lynn-Rose",
+        "nodeid": 80784,
+        "documentid": 82055,
+        "nodealias": "Randy-Lynn-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f06bd89c-01f1-4c1e-808d-9596a37c55ba",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Randy-Lynn Rose",
+        "documentmodifiedwhen": "2021-12-14T10:34:51.477Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32023T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Randy-Lynn Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82052-80779",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:17.138Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Richard-Frederick-Logan-Rose",
+        "nodeid": 80779,
+        "documentid": 82052,
+        "nodealias": "Richard-Frederick-Logan-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c3949fbf-f2a5-4991-a613-a005d4b12c93",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Richard Frederick Logan Rose",
+        "documentmodifiedwhen": "2021-12-14T07:59:24.362Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13121O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Richard Frederick Logan Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72361-71095",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:41.468Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Robert-Andrew-Rose",
+        "nodeid": 71095,
+        "documentid": 72361,
+        "nodealias": "Robert-Andrew-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "91760c79-4ed5-43f3-a22b-b118bebcd30d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Andrew Rose",
+        "documentmodifiedwhen": "2022-04-08T07:16:19.279Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32438W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Andrew Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 5A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72357-71091",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:40.187Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Robert-Murray-Rose",
+        "nodeid": 71091,
+        "documentid": 72357,
+        "nodealias": "Robert-Murray-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "864d1a2f-1529-4551-b5cb-e2e56a0acdaa",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Murray Rose",
+        "documentmodifiedwhen": "2021-12-14T08:53:36.234Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "22203E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Murray Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72375-71109",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:15.332Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Safiya-Monifa-Rose",
+        "nodeid": 71109,
+        "documentid": 72375,
+        "nodealias": "Safiya-Monifa-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7d4ec2b6-210c-471b-8c0a-968f1639e478",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Safiya Monifa Rose",
+        "documentmodifiedwhen": "2022-01-13T07:22:40.925Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65248V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Safiya Monifa Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M3C 0N5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82048-80776",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:10.222Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/007/Salina-April-Rose",
+        "nodeid": 80776,
+        "documentid": 82048,
+        "nodealias": "Salina-April-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "190fe526-c569-4981-adbb-964f96ca6bf0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Salina April Rose",
+        "documentmodifiedwhen": "2022-05-19T09:20:22.766Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06033",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Salina April Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82049-80777",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:11.247Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/007/Samantha-Caitlin-Irene-Rose",
+        "nodeid": 80777,
+        "documentid": 82049,
+        "nodealias": "Samantha-Caitlin-Irene-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "03a06c46-c76e-4187-9181-274a60e95363",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Samantha Caitlin Irene Rose",
+        "documentmodifiedwhen": "2021-09-21T09:00:01.574Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09310",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Samantha Caitlin Irene Rose",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72354-71088",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:12:39.296Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Stanley-Morton-Rose",
+        "nodeid": 71088,
+        "documentid": 72354,
+        "nodealias": "Stanley-Morton-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "79473088-b811-4318-9c3d-c29bb2244144",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stanley Morton Rose",
+        "documentmodifiedwhen": "2021-12-14T07:20:30.457Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "12594B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stanley Morton Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4P 1E2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "119195-116473",
+        "sys_site": "lso",
+        "sys_created": "2019-10-31T07:24:55.8Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Tanya-Michelle-Tobi-Rose",
+        "nodeid": 116473,
+        "documentid": 119195,
+        "nodealias": "Tanya-Michelle-Tobi-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d7e5ffc1-f96d-4cfb-8181-471a7192b65c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tanya Michelle Tobi Rose",
+        "documentmodifiedwhen": "2021-07-20T07:26:48.961Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P16059",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tanya Michelle Tobi Rose",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -81.2543334960938,
+                42.980827331543
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "N6A 5H3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82058-80786",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:22.118Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Wendy-Elizabeth-Rose",
+        "nodeid": 80786,
+        "documentid": 82058,
+        "nodealias": "Wendy-Elizabeth-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d5968cff-81c1-4251-a03e-834209f127d5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Wendy Elizabeth Rose",
+        "documentmodifiedwhen": "2020-02-20T08:33:31.901Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46719F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Wendy Elizabeth Rose",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82050-80778",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:18.115Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/William-Brian-Rose",
+        "nodeid": 80778,
+        "documentid": 82050,
+        "nodealias": "William-Brian-Rose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7dee51e8-1ed7-49e8-b28e-5779b7666f60",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "William Brian Rose",
+        "documentmodifiedwhen": "2021-12-15T07:22:41.605Z",
+        "skuname": null,
+        "memberprovincetext": "New York",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "15756H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "William Brian Rose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "10065",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "New York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72380-71114",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:24.759Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Catherine-Elaine-Rosebrugh",
+        "nodeid": 71114,
+        "documentid": 72380,
+        "nodealias": "Catherine-Elaine-Rosebrugh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "76707b19-ce53-48cf-8670-fcae46dcaa05",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Catherine Elaine Rosebrugh",
+        "documentmodifiedwhen": "2022-01-04T07:16:55.942Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "44655I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Catherine Elaine Rosebrugh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L1G 2B9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oshawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "137732-132342",
+        "sys_site": "lso",
+        "sys_created": "2022-04-30T07:29:35.486Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/015/Alain-John-Rosebush",
+        "nodeid": 132342,
+        "documentid": 137732,
+        "nodealias": "Alain-John-Rosebush",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a723db07-cd15-4284-9ca5-81999a8a447c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alain John Rosebush",
+        "documentmodifiedwhen": "2022-05-07T07:18:13.612Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18343",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alain John Rosebush",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72383-71117",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:33.008Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Jeffrey-Brent-Rosekat",
+        "nodeid": 71117,
+        "documentid": 72383,
+        "nodealias": "Jeffrey-Brent-Rosekat",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "47d9ffc7-248a-46fa-920e-bb41adb929f3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jeffrey Brent Rosekat",
+        "documentmodifiedwhen": "2022-01-20T07:16:33.183Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43352Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jeffrey Brent Rosekat",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5E 1J8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82059-80787",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:25.17Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Michael-Karol-Roseman",
+        "nodeid": 80787,
+        "documentid": 82059,
+        "nodealias": "Michael-Karol-Roseman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "89d7a092-7fee-41ec-bc15-9f5a9c81a42a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Karol Roseman",
+        "documentmodifiedwhen": "2021-11-05T07:42:10.005Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "29650A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Karol Roseman",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4690704345703,
+                43.9621925354004
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72381-71115",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:33.008Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/William-Dan-Rosemberg",
+        "nodeid": 71115,
+        "documentid": 72381,
+        "nodealias": "William-Dan-Rosemberg",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5175b56c-8336-4d56-9371-22a660838295",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "William Dan Rosemberg",
+        "documentmodifiedwhen": "2021-09-21T08:38:56.731Z",
+        "skuname": null,
+        "memberprovincetext": "New York",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72373K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "William Dan Rosemberg",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -74.0064468383789,
+                40.7235107421875
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "10013",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "New York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72382-71116",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:33.242Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Will-Calvin-Rosemond",
+        "nodeid": 71116,
+        "documentid": 72382,
+        "nodealias": "Will-Calvin-Rosemond",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c986a222-d7ce-405a-ab8e-229e9313e45e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Will Calvin Rosemond",
+        "documentmodifiedwhen": "2022-04-28T07:15:49.887Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72717N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Will Calvin Rosemond",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5R 1M2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72388-71122",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:35.843Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Allan-Charles-Rosen",
+        "nodeid": 71122,
+        "documentid": 72388,
+        "nodealias": "Allan-Charles-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f300dfd8-9251-4ddf-a4f5-55a9834317dc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Allan Charles Rosen",
+        "documentmodifiedwhen": "2021-12-14T07:58:00.169Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13312T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Allan Charles Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5C 2M6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82068-80796",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:40.786Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Allen-Duncan-Rosen",
+        "nodeid": 80796,
+        "documentid": 82068,
+        "nodealias": "Allen-Duncan-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fa0925ab-73dd-49ae-929e-b4be7a281541",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Allen Duncan Rosen",
+        "documentmodifiedwhen": "2021-11-05T07:52:59.657Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36893K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Allen Duncan Rosen",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72385-71118",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:33.539Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Avi-Rosen",
+        "nodeid": 71118,
+        "documentid": 72385,
+        "nodealias": "Avi-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "43e3fba0-d49b-450c-b00a-4f9be9fcc681",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Avi Rosen",
+        "documentmodifiedwhen": "2021-12-18T07:16:58.23Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Infractions punissables par proc\u00e9dure sommaire \u00e0 la Cour de justice de l'Ontario",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "\u00c9valuation de taxes fonci\u00e8res",
+            "Affaires relevant de l'annexe sur les indemnit\u00e9s d'accident l\u00e9gales (AIAL)",
+            "Droits de la personne",
+            "Location immobili\u00e8re",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Ontario Court of Justice - Summary Conviction Offences",
+            "Small Claims Court matters",
+            "Property Tax Assessment",
+            "Statutory Accident Benefits Schedule matters (SABS)",
+            "Human Rights",
+            "Landlord and Tenant",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08264",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Avi Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4J 7K8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Thornhill"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72391-71125",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:48.534Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Avra-Rosen",
+        "nodeid": 71125,
+        "documentid": 72391,
+        "nodealias": "Avra-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e6f14745-f004-422d-bdfd-af3ffc0741e1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Avra Rosen",
+        "documentmodifiedwhen": "2021-12-24T07:27:22.287Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27483O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Avra Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4V 1L5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82069-80797",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:41.255Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Daniel-Phillip-Rosen",
+        "nodeid": 80797,
+        "documentid": 82069,
+        "nodealias": "Daniel-Phillip-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ceaa4a5e-34d7-429e-af8b-35c0a5de6246",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniel Phillip Rosen",
+        "documentmodifiedwhen": "2022-01-15T07:25:06.988Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74768B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniel Phillip Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "V6A 4E3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vancouver"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72390-71124",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:47.924Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/David-Howard-Lyle-Rosen",
+        "nodeid": 71124,
+        "documentid": 72390,
+        "nodealias": "David-Howard-Lyle-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "813395ec-6ddc-41be-938c-b01b2d6e2e09",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Howard Lyle Rosen",
+        "documentmodifiedwhen": "2021-12-15T07:27:36.904Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "17576O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Howard Lyle Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 6K1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72397-71131",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:57.926Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Eric-Lorne-Rosen",
+        "nodeid": 71131,
+        "documentid": 72397,
+        "nodealias": "Eric-Lorne-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "334bea5d-d29f-47e4-bd86-c826cdab5d5b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eric Lorne Rosen",
+        "documentmodifiedwhen": "2021-12-23T07:20:29.243Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37993L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eric Lorne Rosen",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 2J6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72384-71119",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:34.445Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Gerald-Martin-Rosen",
+        "nodeid": 71119,
+        "documentid": 72384,
+        "nodealias": "Gerald-Martin-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "aa4bbe44-de61-44b2-bc51-e54b476c8266",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gerald Martin Rosen",
+        "documentmodifiedwhen": "2022-05-14T07:19:25.212Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "09622T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gerald Martin Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "N0H 2P0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Thornbury"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72396-71130",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:57.473Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Harris-Mathew-Rosen",
+        "nodeid": 71130,
+        "documentid": 72396,
+        "nodealias": "Harris-Mathew-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2aa5fd5a-81ac-4299-ba2d-cc3418a09006",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Harris Mathew Rosen",
+        "documentmodifiedwhen": "2022-07-05T07:17:34.363Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36197S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Harris Mathew Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2M 4K2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82062-80790",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:28.126Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Harvey-Michael-Rosen",
+        "nodeid": 80790,
+        "documentid": 82062,
+        "nodealias": "Harvey-Michael-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "80b4b16f-0513-4190-9ac0-1b390da372a4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Harvey Michael Rosen",
+        "documentmodifiedwhen": "2021-12-14T08:46:07.263Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "17080N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Harvey Michael Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82060-80788",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:26.475Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Irvin-Alan-Rosen",
+        "nodeid": 80788,
+        "documentid": 82060,
+        "nodealias": "Irvin-Alan-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bcb35f61-e0c6-4bef-9fb1-0656f14cbe32",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Irvin Alan Rosen",
+        "documentmodifiedwhen": "2021-12-14T08:22:58.588Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "07567J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Irvin Alan Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "D\u00e9c\u00e9d\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Deceased"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72408-71142",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:14:16.582Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Jason-Corey-Rosen",
+        "nodeid": 71142,
+        "documentid": 72408,
+        "nodealias": "Jason-Corey-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c931352c-3e1d-4b85-a18e-ac21b2e42778",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jason Corey Rosen",
+        "documentmodifiedwhen": "2022-01-21T07:17:07.939Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66453D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jason Corey Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 2J5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72402-71137",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:14:15.551Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Jason-Lorne-Rosen",
+        "nodeid": 71137,
+        "documentid": 72402,
+        "nodealias": "Jason-Lorne-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8ddc9e11-8f39-496f-b55d-162ab91d3542",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jason Lorne Rosen",
+        "documentmodifiedwhen": "2022-01-01T07:27:57.966Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47256I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jason Lorne Rosen",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5M 1M1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72404-71138",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:14:15.926Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Jennifer-Ashley-Rosen",
+        "nodeid": 71138,
+        "documentid": 72404,
+        "nodealias": "Jennifer-Ashley-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2ac83246-8e84-4d3c-af81-c060b57b1573",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Ashley Rosen",
+        "documentmodifiedwhen": "2022-01-22T07:16:22.55Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57558A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Ashley Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N1R 5T3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Cambridge"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72387-71121",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:35.592Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/John-Martin-Rosen",
+        "nodeid": 71121,
+        "documentid": 72387,
+        "nodealias": "John-Martin-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "17e5a71e-916c-4dd8-b0ca-e32cd51c585e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Martin Rosen",
+        "documentmodifiedwhen": "2021-10-20T07:16:37.601Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit criminel et quasi criminel"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Criminal/Quasi-Criminal Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "12128V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Martin Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3822631835938,
+                43.6515502929688
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2M5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82061-80789",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:26.46Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/007/Joshua-Rosen",
+        "nodeid": 80789,
+        "documentid": 82061,
+        "nodealias": "Joshua-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a7cb8bee-486a-4160-9a54-cdc05ec7ff95",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joshua Rosen",
+        "documentmodifiedwhen": "2021-09-21T09:40:08.323Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13322",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joshua Rosen",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72406-71139",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:14:15.973Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Joshua-David-Mitchell-Rosen",
+        "nodeid": 71139,
+        "documentid": 72406,
+        "nodealias": "Joshua-David-Mitchell-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ebe23774-93f9-4b45-b743-2fb6e5966d8a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joshua David Mitchell Rosen",
+        "documentmodifiedwhen": "2022-01-12T07:18:08.7Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66066C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joshua David Mitchell Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1G5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72411-71144",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:14:34.179Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Justin-Evan-Rosen",
+        "nodeid": 71144,
+        "documentid": 72411,
+        "nodealias": "Justin-Evan-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f149d0c9-4175-4ccc-95df-196439b4c873",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Justin Evan Rosen",
+        "documentmodifiedwhen": "2021-09-21T08:38:52.863Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72374G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Justin Evan Rosen",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.5553359985352,
+                43.7824821472168
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L4L 7Z4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Woodbridge"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72398-71132",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:58.005Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Karen-Melissa-Rosen",
+        "nodeid": 71132,
+        "documentid": 72398,
+        "nodealias": "Karen-Melissa-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0fba4e2d-df6b-4410-a5f1-53d90801d7cf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karen Melissa Rosen",
+        "documentmodifiedwhen": "2021-12-29T07:17:47.915Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38430F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karen Melissa Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4T 1L9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72400-71134",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:14:08.479Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Karen-Rochelle-Rosen",
+        "nodeid": 71134,
+        "documentid": 72400,
+        "nodealias": "Karen-Rochelle-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "992f4035-d32f-40e9-9472-4b7c86a444f8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karen Rochelle Rosen",
+        "documentmodifiedwhen": "2021-12-30T07:21:53.292Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "40637O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karen Rochelle Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1G8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82063-80791",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:28.931Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Laurance-Jeffrey-Rosen",
+        "nodeid": 80791,
+        "documentid": 82063,
+        "nodealias": "Laurance-Jeffrey-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ca645f44-3730-4242-b85e-6286507aa9e4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Laurance Jeffrey Rosen",
+        "documentmodifiedwhen": "2021-12-14T08:35:17.743Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "23870R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Laurance Jeffrey Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72403-71135",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:14:14.816Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Lonny-Jordan-Rosen",
+        "nodeid": 71135,
+        "documentid": 72403,
+        "nodealias": "Lonny-Jordan-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "355a3c94-da25-4ea1-a994-9ca5f6751085",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lonny Jordan Rosen",
+        "documentmodifiedwhen": "2021-12-30T07:21:53.845Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "40638K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lonny Jordan Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 1W7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82066-80792",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:34.644Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Marshall-Jeffery-M-Rosen",
+        "nodeid": 80792,
+        "documentid": 82066,
+        "nodealias": "Marshall-Jeffery-M-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "168ce99c-fa5a-4f5e-a309-075c8930ad7b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marshall Jeffery M Rosen",
+        "documentmodifiedwhen": "2021-12-14T08:40:49.572Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24217E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marshall Jeffery M Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72405-71140",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:14:16.004Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Matthew-Aaron-Rosen",
+        "nodeid": 71140,
+        "documentid": 72405,
+        "nodealias": "Matthew-Aaron-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "25c31eb7-cfdb-4cda-851d-c748a90e22c3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Matthew Aaron Rosen",
+        "documentmodifiedwhen": "2022-01-11T07:18:23.448Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66067V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Matthew Aaron Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 1R5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72393-71126",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:56.27Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Melissa-Anne-Rosen",
+        "nodeid": 71126,
+        "documentid": 72393,
+        "nodealias": "Melissa-Anne-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b9381f82-461b-4814-9217-df607f99df89",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Melissa Anne Rosen",
+        "documentmodifiedwhen": "2021-12-14T11:17:46.989Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "28631U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Melissa Anne Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72407-71141",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:14:16.286Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Michael-Ephraim-Rosen",
+        "nodeid": 71141,
+        "documentid": 72407,
+        "nodealias": "Michael-Ephraim-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e4715eec-e578-4eb6-bfbd-5924fc2de4ba",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Ephraim Rosen",
+        "documentmodifiedwhen": "2022-01-15T07:20:33.293Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68889M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Ephraim Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 4E3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72401-71136",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:14:15.238Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Michael-Robert-Rosen",
+        "nodeid": 71136,
+        "documentid": 72401,
+        "nodealias": "Michael-Robert-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "33674378-ca8b-415f-8aa1-e12cb7a01f2f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Robert Rosen",
+        "documentmodifiedwhen": "2022-01-01T07:22:51.891Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46193S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Robert Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5X 1H3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72399-71133",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:58.521Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Myer-Rosen",
+        "nodeid": 71133,
+        "documentid": 72399,
+        "nodealias": "Myer-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e6fb86d6-01ea-4c8d-b7fc-decfa8fdfed9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Myer Rosen",
+        "documentmodifiedwhen": "2021-09-21T08:09:42.432Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38431B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Myer Rosen",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4503936767578,
+                43.7417259216309
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M3H 2C6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82065-80793",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:35.488Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Nanette-Rosen",
+        "nodeid": 80793,
+        "documentid": 82065,
+        "nodealias": "Nanette-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "069d86ee-d030-4a0b-89a9-98ce4ca932b0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nanette Rosen",
+        "documentmodifiedwhen": "2021-12-14T09:42:55.025Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26338A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nanette Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116134-113746",
+        "sys_site": "lso",
+        "sys_created": "2019-06-27T07:26:40.135Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Neil-Howard-Rosen",
+        "nodeid": 113746,
+        "documentid": 116134,
+        "nodealias": "Neil-Howard-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4bb70053-5a4f-4ee7-81a5-d98e6d9c5d1d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Neil Howard Rosen",
+        "documentmodifiedwhen": "2022-01-17T07:23:29.811Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77130G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Neil Howard Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72394-71128",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:56.973Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Paul-Bradley-Rosen",
+        "nodeid": 71128,
+        "documentid": 72394,
+        "nodealias": "Paul-Bradley-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "995ef990-9907-407a-b021-e0f989656dcd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paul Bradley Rosen",
+        "documentmodifiedwhen": "2021-12-26T07:24:17.497Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "31273E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paul Bradley Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M6J 2S1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82067-80795",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:37.114Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Sandra-Elaine-Rosen",
+        "nodeid": 80795,
+        "documentid": 82067,
+        "nodealias": "Sandra-Elaine-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f707fd24-9510-4801-a839-6d7389448a4f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sandra Elaine Rosen",
+        "documentmodifiedwhen": "2020-02-20T08:13:34.805Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30083H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sandra Elaine Rosen",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72395-71129",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:57.27Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Scott-Andrew-Rosen",
+        "nodeid": 71129,
+        "documentid": 72395,
+        "nodealias": "Scott-Andrew-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bdf1e651-68cb-458f-a42e-fb05c548bb80",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Scott Andrew Rosen",
+        "documentmodifiedwhen": "2021-09-21T08:01:35.629Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "35660D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Scott Andrew Rosen",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "D\u00e9c\u00e9d\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Deceased"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72386-71120",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:35.014Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Solomon-Louis-Rosen",
+        "nodeid": 71120,
+        "documentid": 72386,
+        "nodealias": "Solomon-Louis-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ee875043-a324-4c14-b285-e4377e44cd49",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Solomon Louis Rosen",
+        "documentmodifiedwhen": "2022-04-02T07:18:07.11Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "10365N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Solomon Louis Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "M6B 3S7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72389-71123",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:38.536Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Stephen-Aaron-Rosen",
+        "nodeid": 71123,
+        "documentid": 72389,
+        "nodealias": "Stephen-Aaron-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3d4658d4-0007-4339-a5ef-09b2031bce74",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephen Aaron Rosen",
+        "documentmodifiedwhen": "2022-07-28T07:17:51.239Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "16129P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephen Aaron Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "D\u00e9c\u00e9d\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Deceased"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72392-71127",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:13:56.301Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Susan-Deborah-Rosen",
+        "nodeid": 71127,
+        "documentid": 72392,
+        "nodealias": "Susan-Deborah-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b03017d9-c0bf-46f6-86a6-b21dbce72efa",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Susan Deborah Rosen",
+        "documentmodifiedwhen": "2021-12-25T07:17:48.216Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30084D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Susan Deborah Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1G5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82070-80798",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:42.037Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Zachary-Lucas-Rosen",
+        "nodeid": 80798,
+        "documentid": 82070,
+        "nodealias": "Zachary-Lucas-Rosen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "15e3cfb1-373c-4806-a55e-8c701656139a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Zachary Lucas Rosen",
+        "documentmodifiedwhen": "2022-01-15T07:23:50.067Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75231Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Zachary Lucas Rosen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3P5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "115772-113393",
+        "sys_site": "lso",
+        "sys_created": "2019-06-20T07:34:46.19Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Samantha-Miriam-Rosen-Lawlor",
+        "nodeid": 113393,
+        "documentid": 115772,
+        "nodealias": "Samantha-Miriam-Rosen-Lawlor",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4d97e2c5-ba68-45a9-9fdf-739b4d7edef9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Samantha Miriam Rosen-Lawlor",
+        "documentmodifiedwhen": "2021-06-09T07:18:21.751Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76721G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Samantha Miriam Rosen-Lawlor",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.7019958496094,
+                45.4039268493652
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1S 4E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72409-71146",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:14:34.445Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Andre-Rosenbaum",
+        "nodeid": 71146,
+        "documentid": 72409,
+        "nodealias": "Andre-Rosenbaum",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "66baefbb-b5c0-4278-8aa9-eba823f10845",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andre Rosenbaum",
+        "documentmodifiedwhen": "2021-12-14T08:26:22.393Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "14954H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andre Rosenbaum",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "M5V 2A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72413-71147",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:14:35.335Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Brian-Sidney-Rosenbaum",
+        "nodeid": 71147,
+        "documentid": 72413,
+        "nodealias": "Brian-Sidney-Rosenbaum",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8c9d3284-4a82-484f-8141-721ed1699ffe",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brian Sidney Rosenbaum",
+        "documentmodifiedwhen": "2021-12-24T07:17:58.832Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25966L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brian Sidney Rosenbaum",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 2N9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "133820-129118",
+        "sys_site": "lso",
+        "sys_created": "2021-09-08T07:36:57.206Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/015/Chanelle-Emily-Rosenbaum",
+        "nodeid": 129118,
+        "documentid": 133820,
+        "nodealias": "Chanelle-Emily-Rosenbaum",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "182d74b7-600d-49ac-b008-4dd0726535df",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Chanelle Emily Rosenbaum",
+        "documentmodifiedwhen": "2021-11-16T07:17:04.479Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83390F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Chanelle Emily Rosenbaum",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5V 0M6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72412-71145",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:14:34.491Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/David-Charles-Rosenbaum",
+        "nodeid": 71145,
+        "documentid": 72412,
+        "nodealias": "David-Charles-Rosenbaum",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6137acbc-74c8-4b4a-b2f3-1a193ee1b26b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Charles Rosenbaum",
+        "documentmodifiedwhen": "2021-12-24T07:19:19.434Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25102F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Charles Rosenbaum",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72410-71143",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:14:34.601Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Harry-Rosenbaum",
+        "nodeid": 71143,
+        "documentid": 72410,
+        "nodealias": "Harry-Rosenbaum",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "282d7977-a0a7-463a-be36-282018417b4f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Harry Rosenbaum",
+        "documentmodifiedwhen": "2021-12-22T07:17:22.948Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "15757D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Harry Rosenbaum",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "82071-80799",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:02:45.037Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Jared-Samuel-Rosenbaum",
+        "nodeid": 80799,
+        "documentid": 82071,
+        "nodealias": "Jared-Samuel-Rosenbaum",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "36859b91-814d-482b-8e7e-bc3bd53ce84e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jared Samuel Rosenbaum",
+        "documentmodifiedwhen": "2021-09-21T08:59:25.815Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74769U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jared Samuel Rosenbaum",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -81.2445068359375,
+                42.9846153259277
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 3V8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "131645-127084",
+        "sys_site": "lso",
+        "sys_created": "2021-06-17T09:00:05.877Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Joshua-Aaron-Rosenbaum",
+        "nodeid": 127084,
+        "documentid": 131645,
+        "nodealias": "Joshua-Aaron-Rosenbaum",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4f95d8eb-99b5-4922-8bc1-638f7db0c59c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joshua Aaron Rosenbaum",
+        "documentmodifiedwhen": "2021-09-28T07:18:29.908Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82901H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joshua Aaron Rosenbaum",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3795166015625,
+                43.6481819152832
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5L 1A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "72416-71150",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T01:14:36.023Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Martin-Zev-Rosenbaum",
+        "nodeid": 71150,
+        "documentid": 72416,
+        "nodealias": "Martin-Zev-Rosenbaum",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "84e21457-f7bb-4bf6-bf4e-7b11b77801d7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Martin Zev Rosenbaum",
+        "documentmodifiedwhen": "2021-12-25T07:21:28.27Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "28862B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Martin Zev Rosenbaum",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 1T1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    }
+]

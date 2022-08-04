@@ -1,0 +1,5134 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "124324-120805",
+        "sys_site": "lso",
+        "sys_created": "2020-07-18T07:28:19.845Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Giorgio-Oliverio-Traini",
+        "nodeid": 120805,
+        "documentid": 124324,
+        "nodealias": "Giorgio-Oliverio-Traini",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e8b245c1-2ca1-49c6-a006-31e5d6290a35",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Giorgio Oliverio Traini",
+        "documentmodifiedwhen": "2021-09-21T08:44:51.905Z",
+        "skuname": null,
+        "memberprovincetext": "New York",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80505J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Giorgio Oliverio Traini",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -73.9801635742188,
+                40.7611045837402
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "10019",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "New York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53236-51962",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:29:03.599Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Ashley-Rose-Johnson-Trainor",
+        "nodeid": 51962,
+        "documentid": 53236,
+        "nodealias": "Ashley-Rose-Johnson-Trainor",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2eb2cc29-a9a2-4361-9a45-c47b53dc3718",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ashley Rose Johnson Trainor",
+        "documentmodifiedwhen": "2021-02-23T07:17:23.289Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "62764L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ashley Rose Johnson Trainor",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -73.590202331543,
+                45.4870223999023
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "H3Z 2B2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Westmount"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "28674-27807",
+        "sys_site": "lso",
+        "sys_created": "2018-07-13T11:38:20.056Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Cormac-Laurence-Trainor",
+        "nodeid": 27807,
+        "documentid": 28674,
+        "nodealias": "Cormac-Laurence-Trainor",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5d9d8d25-6764-4be7-a477-76dbf0b1f5b5",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Cormac Laurence Trainor",
+        "documentmodifiedwhen": "2022-01-08T07:23:47.291Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit commercial et corporatifes",
+            "Droit immobilier"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Corporate/Commercial Law",
+            "Real Estate Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58476R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Cormac Laurence Trainor",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K7K 6Y3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kingston"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53232-51960",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:29:02.036Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Jason-Joseph-Trainor",
+        "nodeid": 51960,
+        "documentid": 53232,
+        "nodealias": "Jason-Joseph-Trainor",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "20fbfd2a-5cb7-421d-ad68-56a6fa07185a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jason Joseph Trainor",
+        "documentmodifiedwhen": "2022-01-06T07:18:30.594Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47958W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jason Joseph Trainor",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1P 1H4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53239-51965",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:29:05.536Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Tanya-Lisa-Trak",
+        "nodeid": 51965,
+        "documentid": 53239,
+        "nodealias": "Tanya-Lisa-Trak",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c9094bc0-edb6-4b46-83fa-0f0b9a88cf95",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tanya Lisa Trak",
+        "documentmodifiedwhen": "2022-01-02T07:16:31.343Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47726W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tanya Lisa Trak",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "H7P 6B2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Laval"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "127590-123733",
+        "sys_site": "lso",
+        "sys_created": "2021-01-27T08:22:50.582Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Daniel-Tram",
+        "nodeid": 123733,
+        "documentid": 127590,
+        "nodealias": "Daniel-Tram",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5422ca5e-38cf-455f-a809-4a7a86f6bc63",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniel Tram",
+        "documentmodifiedwhen": "2022-02-25T07:18:41.397Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81294A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniel Tram",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5B 3C3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87112-85839",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:26:32.865Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Jeannette-Michelle-Elisabeth-Tramhel",
+        "nodeid": 85839,
+        "documentid": 87112,
+        "nodealias": "Jeannette-Michelle-Elisabeth-Tramhel",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "70325e0e-a697-4d8d-bd03-a476e7b6fe51",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jeannette Michelle Elisabeth Tramhel",
+        "documentmodifiedwhen": "2021-12-26T07:16:10.323Z",
+        "skuname": null,
+        "memberprovincetext": "District of Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "29340N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jeannette Michelle Elisabeth Tramhel",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "20006",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Washington"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53365-52099",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:26.369Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Andre-Tran",
+        "nodeid": 52099,
+        "documentid": 53365,
+        "nodealias": "Andre-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "33d6eb94-57a7-4389-aa5e-e6aa336811fb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andre Tran",
+        "documentmodifiedwhen": "2022-07-26T07:18:04.374Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63895N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andre Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "L6W 4T1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53259-51982",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:29:22.674Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Brandon-Tran",
+        "nodeid": 51982,
+        "documentid": 53259,
+        "nodealias": "Brandon-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ce66f74f-21f8-40f1-9224-32b18d7d2050",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brandon Tran",
+        "documentmodifiedwhen": "2022-05-14T07:20:20.881Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13903",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brandon Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53380-52107",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:31.153Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Cindy-Nhi-Tran",
+        "nodeid": 52107,
+        "documentid": 53380,
+        "nodealias": "Cindy-Nhi-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8a2435e7-e6da-4caa-86a5-5eb09ff57949",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Cindy Nhi Tran",
+        "documentmodifiedwhen": "2022-01-12T07:24:14.788Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67234T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Cindy Nhi Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4Z 3L3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53364-52089",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:26.213Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Claudia-A-Almeida-Tran",
+        "nodeid": 52089,
+        "documentid": 53364,
+        "nodealias": "Claudia-A-Almeida-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ae44141f-cb51-4ba5-aa91-9ace32a575b6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Claudia A. Almeida Tran",
+        "documentmodifiedwhen": "2022-06-25T07:15:52.862Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14132",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Claudia A. Almeida Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53386-52113",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:32.153Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Danny-Hien-Quang-Tran",
+        "nodeid": 52113,
+        "documentid": 53386,
+        "nodealias": "Danny-Hien-Quang-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8ab88f63-e332-40a3-ba95-812f9c8d6deb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Danny Hien Quang Tran",
+        "documentmodifiedwhen": "2022-06-09T07:15:54.234Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72082P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Danny Hien Quang Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L6M 3M3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oakville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "127591-123734",
+        "sys_site": "lso",
+        "sys_created": "2021-01-27T08:23:22.726Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Emily-Tran",
+        "nodeid": 123734,
+        "documentid": 127591,
+        "nodealias": "Emily-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e83f6690-984d-413a-abe9-549efdb5d27b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Emily Tran",
+        "documentmodifiedwhen": "2021-03-04T07:19:02.73Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81295T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Emily Tran",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6093444824219,
+                43.648323059082
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L4W 5N5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123499-119953",
+        "sys_site": "lso",
+        "sys_created": "2020-06-23T07:30:44.04Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Grace-Nguyen-Tran",
+        "nodeid": 119953,
+        "documentid": 123499,
+        "nodealias": "Grace-Nguyen-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d285a6d3-6000-47e6-ac54-f052de5dc209",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Grace Nguyen Tran",
+        "documentmodifiedwhen": "2022-01-17T07:31:25.972Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80327J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Grace Nguyen Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5C 1C4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53256-51983",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:29:22.705Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Hieu-Nhut-Tran",
+        "nodeid": 51983,
+        "documentid": 53256,
+        "nodealias": "Hieu-Nhut-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f81410d6-1be6-4633-b774-04c554267697",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hieu-Nhut Tran",
+        "documentmodifiedwhen": "2021-09-21T09:30:44.286Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13660",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hieu-Nhut Tran",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3568878173828,
+                43.6617469787598
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "M5A 2C3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "29256-28389",
+        "sys_site": "lso",
+        "sys_created": "2018-07-13T13:52:50.366Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Huyen-Bich-Thi-Tran",
+        "nodeid": 28389,
+        "documentid": 29256,
+        "nodealias": "Huyen-Bich-Thi-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "796f2dd0-d6de-4612-a904-1b1b91aa38bd",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Huyen Bich Thi Tran",
+        "documentmodifiedwhen": "2022-01-13T07:29:18.024Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit criminel et quasi criminel",
+            "Droit de la famille ou matrimonial"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Criminal/Quasi-Criminal Law",
+            "Family/Matrimonial Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71703B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Huyen Bich Thi Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K2J 3G5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Nepean"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53373-52097",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:26.228Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Huyen-Khanh-Nhi-Tran",
+        "nodeid": 52097,
+        "documentid": 53373,
+        "nodealias": "Huyen-Khanh-Nhi-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "33d7d16e-ec11-445e-a8f3-fced860f762d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Huyen Khanh Nhi Tran",
+        "documentmodifiedwhen": "2019-05-08T14:01:42.851Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14497",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Huyen Khanh Nhi Tran",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6677703857422,
+                43.6218605041504
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L4Z 2G7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "134110-129404",
+        "sys_site": "lso",
+        "sys_created": "2021-09-16T07:22:08.13Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Jackson-Tran",
+        "nodeid": 129404,
+        "documentid": 134110,
+        "nodealias": "Jackson-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a6f2c9d2-3fa2-4f56-af0a-01a499b47002",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jackson Tran",
+        "documentmodifiedwhen": "2022-05-28T07:38:15.291Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17737",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jackson Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87117-85841",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:26:43.305Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Jane-Tran",
+        "nodeid": 85841,
+        "documentid": 87117,
+        "nodealias": "Jane-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8ffa2011-ac1c-4de2-860d-bcb2fc144394",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jane Tran",
+        "documentmodifiedwhen": "2022-01-15T07:24:16.159Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74835V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jane Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5L 1A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53377-52104",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:28.182Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Leanne-Evelyn-Tran",
+        "nodeid": 52104,
+        "documentid": 53377,
+        "nodealias": "Leanne-Evelyn-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "92f4bef2-d292-4fad-995a-c85ee5eb8b8e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Leanne Evelyn Tran",
+        "documentmodifiedwhen": "2021-10-12T07:16:33.816Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65743O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Leanne Evelyn Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3901748657227,
+                43.6575164794922
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 1X5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130393-126027",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T12:04:00.539Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Leena-Tran",
+        "nodeid": 126027,
+        "documentid": 130393,
+        "nodealias": "Leena-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2c5f4036-263b-4e39-a0df-093c2710c2b9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Leena Tran",
+        "documentmodifiedwhen": "2022-07-25T07:15:54.276Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17469",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Leena Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Eligible to Provide Legal Services - No Proof of Insurance"
+        ],
+        "memberpostalcode": "M2N 6P4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "110251-108784",
+        "sys_site": "lso",
+        "sys_created": "2018-10-04T06:35:55.462Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Lien-Thi-Tran",
+        "nodeid": 108784,
+        "documentid": 110251,
+        "nodealias": "Lien-Thi-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ece6002e-afe2-4a48-b183-3b22df798ba3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lien Thi Tran",
+        "documentmodifiedwhen": "2022-01-15T07:31:24.035Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76092H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lien Thi Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4Y 2Z6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53381-52108",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:31.153Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Lily-Nguyen-Tran",
+        "nodeid": 52108,
+        "documentid": 53381,
+        "nodealias": "Lily-Nguyen-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8a689e8f-42e7-4157-9186-c4d9c54d278d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lily Nguyen Tran",
+        "documentmodifiedwhen": "2022-01-11T07:28:47.57Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67023D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lily Nguyen Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5M 1K6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53375-52102",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:28.01Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Linh-Thi-Ngoc-Tran",
+        "nodeid": 52102,
+        "documentid": 53375,
+        "nodealias": "Linh-Thi-Ngoc-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "50620a21-2761-4780-8ab4-ddfa52b06cfb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Linh Thi Ngoc Tran",
+        "documentmodifiedwhen": "2022-01-12T07:29:38.058Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64263S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Linh Thi Ngoc Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 1Z6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87116-85845",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:26:42.961Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Luan-Minh-Tran",
+        "nodeid": 85845,
+        "documentid": 87116,
+        "nodealias": "Luan-Minh-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "04fee394-ed5d-4cc4-9913-0b01a670f139",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Luan Minh Tran",
+        "documentmodifiedwhen": "2020-04-30T07:20:47.661Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74414I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Luan Minh Tran",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "120636-117557",
+        "sys_site": "lso",
+        "sys_created": "2020-02-04T08:05:16.416Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Monica-Tran",
+        "nodeid": 117557,
+        "documentid": 120636,
+        "nodealias": "Monica-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "be7ab8e3-85ba-49c5-920a-8415ba6c6a62",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Monica Tran",
+        "documentmodifiedwhen": "2022-03-08T07:17:23.689Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78888A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Monica Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4V 1N5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53382-52106",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:31.153Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Nancy-Ngoc-Mai-Thi-Tran",
+        "nodeid": 52106,
+        "documentid": 53382,
+        "nodealias": "Nancy-Ngoc-Mai-Thi-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4d529598-1104-4417-948d-16d5047ab56f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nancy Ngoc Mai-Thi Tran",
+        "documentmodifiedwhen": "2021-12-23T07:31:15.038Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68607T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nancy Ngoc Mai-Thi Tran",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5S 0A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "134007-129304",
+        "sys_site": "lso",
+        "sys_created": "2021-09-11T07:22:22.307Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Neo-Tran",
+        "nodeid": 129304,
+        "documentid": 134007,
+        "nodealias": "Neo-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ad1530bd-e574-4777-8369-53cb52d21a79",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Neo Tran",
+        "documentmodifiedwhen": "2022-01-09T07:31:54.551Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17734",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Neo Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "137276-131935",
+        "sys_site": "lso",
+        "sys_created": "2022-04-02T07:20:41.213Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/007/Ngoc-Hai-Tran",
+        "nodeid": 131935,
+        "documentid": 137276,
+        "nodealias": "Ngoc-Hai-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c0c6e8de-6213-4585-abea-a3fd54a6e51f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ngoc Hai Tran",
+        "documentmodifiedwhen": "2022-04-27T07:17:11.146Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84015F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ngoc Hai Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N1E 6Z8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Guelph"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53251-51974",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:29:17.783Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Phuong-Bao-Van-Vi-Tran",
+        "nodeid": 51974,
+        "documentid": 53251,
+        "nodealias": "Phuong-Bao-Van-Vi-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "39ca72b9-f908-47cf-a949-f05ea14e27e2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Phuong Bao Van Vi Tran",
+        "documentmodifiedwhen": "2021-12-19T07:17:07.961Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08686",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Phuong Bao Van Vi Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6C 1B9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "134022-129319",
+        "sys_site": "lso",
+        "sys_created": "2021-09-11T07:23:38.327Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Phuong-Kathleen-Tran",
+        "nodeid": 129319,
+        "documentid": 134022,
+        "nodealias": "Phuong-Kathleen-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7d80b92c-2b12-446b-96a9-5b29356dbc5b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Phuong Kathleen Tran",
+        "documentmodifiedwhen": "2021-12-16T07:30:51.683Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17736",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Phuong Kathleen Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "134023-129320",
+        "sys_site": "lso",
+        "sys_created": "2021-09-11T07:23:43.607Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Phuong-Le-Thanh-Tran",
+        "nodeid": 129320,
+        "documentid": 134023,
+        "nodealias": "Phuong-Le-Thanh-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cd6ee414-f27b-4647-b437-0be167b35ba7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Phuong Le Thanh Tran",
+        "documentmodifiedwhen": "2022-01-19T07:18:03.415Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17735",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Phuong Le Thanh Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M5A 0P6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "131725-127164",
+        "sys_site": "lso",
+        "sys_created": "2021-06-17T09:56:30.794Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Spencer-Ngoc-Tran",
+        "nodeid": 127164,
+        "documentid": 131725,
+        "nodealias": "Spencer-Ngoc-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "feaf3764-7bf7-4103-90bc-ff573b3e1e58",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Spencer Ngoc Tran",
+        "documentmodifiedwhen": "2022-04-19T07:16:44.818Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82967Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Spencer Ngoc Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6M 4A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "140048-134436",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T08:03:59.573Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/050/Steffi-Kay-Lam-Tran",
+        "nodeid": 134436,
+        "documentid": 140048,
+        "nodealias": "Steffi-Kay-Lam-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "56ab69c4-b017-4df6-9f82-d5c30d397e99",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Steffi Kay Lam Tran",
+        "documentmodifiedwhen": "2022-07-07T07:15:39.637Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84831V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Steffi Kay Lam Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118402-115776",
+        "sys_site": "lso",
+        "sys_created": "2019-09-19T07:23:48.48Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Stephanie-Tran",
+        "nodeid": 115776,
+        "documentid": 118402,
+        "nodealias": "Stephanie-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "76c406d8-35f6-40ea-bb77-bc40c2989676",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephanie Tran",
+        "documentmodifiedwhen": "2022-03-25T07:17:53.91Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15914",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephanie Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L5L 4X1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53360-52096",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:26.307Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Susan-Tran",
+        "nodeid": 52096,
+        "documentid": 53360,
+        "nodealias": "Susan-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3db696a1-d70a-4090-962d-c46a497e2320",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Susan Tran",
+        "documentmodifiedwhen": "2021-01-15T07:16:33.079Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60869F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Susan Tran",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.7024002075195,
+                45.420295715332
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0A5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53254-51973",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:29:17.799Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/T-Kim-C-Tran",
+        "nodeid": 51973,
+        "documentid": 53254,
+        "nodealias": "T-Kim-C-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cd00ffe4-6c6a-4452-bdcc-4fa45c79cbb9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "T Kim C Tran",
+        "documentmodifiedwhen": "2022-02-11T07:17:13.994Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09020",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "T Kim C Tran",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L5R 4H1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53238-51963",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:29:05.583Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Thanh-Tam-Tran",
+        "nodeid": 51963,
+        "documentid": 53238,
+        "nodealias": "Thanh-Tam-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b7dc9288-59e1-45cb-a8a9-e72ee97f4fcc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Thanh Tam Tran",
+        "documentmodifiedwhen": "2022-05-31T07:16:01.702Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07923",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Thanh Tam Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M9C 5K6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53252-51977",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:29:17.83Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Thi-Kim-Ngan-Tran",
+        "nodeid": 51977,
+        "documentid": 53252,
+        "nodealias": "Thi-Kim-Ngan-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "44ca41bf-d3d1-4183-9cd8-27c8ea9a3ceb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Thi Kim Ngan Tran",
+        "documentmodifiedwhen": "2021-12-19T07:20:22.767Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P10465",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Thi Kim Ngan Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M9B 6B7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87110-85838",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:26:32.615Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Thi-Ngoc-Thao-Tran",
+        "nodeid": 85838,
+        "documentid": 87110,
+        "nodealias": "Thi-Ngoc-Thao-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "59bb38c0-fce1-47db-bda8-2c5b308a3879",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Thi Ngoc Thao Tran",
+        "documentmodifiedwhen": "2022-03-29T07:18:34.635Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P10207",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Thi Ngoc Thao Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "M3J 3H7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130383-126017",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T12:03:15.628Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Thi-Kim-Phuong-Tran",
+        "nodeid": 126017,
+        "documentid": 130383,
+        "nodealias": "Thi-Kim-Phuong-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5fcf9a82-c18b-4ff7-9db0-51ddf7a92720",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Thi Kim Phuong Tran",
+        "documentmodifiedwhen": "2021-07-10T07:26:26.185Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17489",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Thi Kim Phuong Tran",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "124840-121284",
+        "sys_site": "lso",
+        "sys_created": "2020-08-31T09:02:19.14Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Thi-Uyen-Uyen-Tran",
+        "nodeid": 121284,
+        "documentid": 124840,
+        "nodealias": "Thi-Uyen-Uyen-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a5372b63-2e5c-46eb-89fe-b1f81da3ea7a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Thi Uy\u00ean Uy\u00ean Tran",
+        "documentmodifiedwhen": "2022-03-15T07:17:29.866Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80789R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Thi Uy\u00ean Uy\u00ean Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 2C8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53244-51967",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:29:17.783Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Thu-Huong-Tran",
+        "nodeid": 51967,
+        "documentid": 53244,
+        "nodealias": "Thu-Huong-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dcb246f7-b787-498a-a1eb-6c787886f8b1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Thu Huong Tran",
+        "documentmodifiedwhen": "2022-05-14T07:17:32.392Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09165",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Thu Huong Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L6Y 5S5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53361-52086",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:26.26Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Vinh-The-Tran",
+        "nodeid": 52086,
+        "documentid": 53361,
+        "nodealias": "Vinh-The-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f73e6cd8-c9d7-46e5-bc73-24aa944d9f8c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Vinh The Tran",
+        "documentmodifiedwhen": "2022-01-07T07:21:45.325Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57761C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Vinh The Tran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6G 1Z4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87111-85840",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:26:33.475Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Yen-Jenny-Tran",
+        "nodeid": 85840,
+        "documentid": 87111,
+        "nodealias": "Yen-Jenny-Tran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "567af68a-ba47-43a7-8589-4f19993e2aec",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Yen Jenny Tran",
+        "documentmodifiedwhen": "2020-02-20T09:43:12.137Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13854",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Yen Jenny Tran",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "133367-128750",
+        "sys_site": "lso",
+        "sys_created": "2021-07-28T07:19:24.199Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Jenny-Tran-Hanssen",
+        "nodeid": 128750,
+        "documentid": 133367,
+        "nodealias": "Jenny-Tran-Hanssen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dd74353c-f237-4bae-8d6e-4409348f93dd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jenny Tran Hanssen",
+        "documentmodifiedwhen": "2021-08-12T07:16:54.023Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83218I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jenny Tran Hanssen",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53392-52116",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:32.263Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Marie-Carolle-Michele-Tranchemontagne",
+        "nodeid": 52116,
+        "documentid": 53392,
+        "nodealias": "Marie-Carolle-Michele-Tranchemontagne",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f2570e1e-a53b-45ef-9278-755634c918f0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marie Carolle Michele Tranchemontagne",
+        "documentmodifiedwhen": "2022-07-13T07:18:09.978Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27737V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marie Carolle Michele Tranchemontagne",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "K2C 0P9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53391-52118",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:32.403Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Jordan-Daniel-Tranquada",
+        "nodeid": 52118,
+        "documentid": 53391,
+        "nodealias": "Jordan-Daniel-Tranquada",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f3ead5c7-6b2f-418d-a203-d89b722a8d36",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jordan Daniel Tranquada",
+        "documentmodifiedwhen": "2021-09-21T09:42:19.09Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P12797",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jordan Daniel Tranquada",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.5725479125977,
+                43.7126998901367
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "M9W 1R3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53394-52120",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:34.325Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Walter-Alfredo-William-Jr-Tranquilli",
+        "nodeid": 52120,
+        "documentid": 53394,
+        "nodealias": "Walter-Alfredo-William-Jr-Tranquilli",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "da0f4a87-bd6f-41c0-a501-6677985057bb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Walter Alfredo William Jr Tranquilli",
+        "documentmodifiedwhen": "2022-01-07T07:18:52.961Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56447J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Walter Alfredo William Jr Tranquilli",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N7G 2R4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Strathroy-caradoc"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53396-52122",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:35.957Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Leona-Marie-Tranter",
+        "nodeid": 52122,
+        "documentid": 53396,
+        "nodealias": "Leona-Marie-Tranter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6b135e6b-ea83-4d78-9379-e549cfd50848",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Leona Marie Tranter",
+        "documentmodifiedwhen": "2021-12-14T09:09:17.99Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "23920O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Leona Marie Tranter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M8Y 2L5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53399-52125",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:36.535Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Linda-Elizabeth-Tranter",
+        "nodeid": 52125,
+        "documentid": 53399,
+        "nodealias": "Linda-Elizabeth-Tranter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "26f32804-b829-4a44-b41d-f6cd9f50fd27",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Linda Elizabeth Tranter",
+        "documentmodifiedwhen": "2021-12-29T07:19:04.352Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38503B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Linda Elizabeth Tranter",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K7H 2Y2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Perth"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123506-119960",
+        "sys_site": "lso",
+        "sys_created": "2020-06-23T07:32:48.781Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Tiye-Mafanta-Traore",
+        "nodeid": 119960,
+        "documentid": 123506,
+        "nodealias": "Tiye-Mafanta-Traore",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "956362fd-c52d-4f35-85e9-ec86cd1ba5b0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tiye Mafanta Traore",
+        "documentmodifiedwhen": "2022-04-17T07:16:34.42Z",
+        "skuname": null,
+        "memberprovincetext": "New York",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80328F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tiye Mafanta Traore",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "10017",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "New York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87114-85842",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:26:43.602Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Menachem-Mendel-Trapedo",
+        "nodeid": 85842,
+        "documentid": 87114,
+        "nodealias": "Menachem-Mendel-Trapedo",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f9af2bc3-3e48-4d08-bd62-e5b7915b17f1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Menachem Mendel Trapedo",
+        "documentmodifiedwhen": "2019-05-09T14:17:08.437Z",
+        "skuname": null,
+        "memberprovincetext": "New York",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65272E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Menachem Mendel Trapedo",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -73.9691848754883,
+                40.757194519043
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "10022",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "New York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87115-85843",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:26:43.461Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Karen-Lynn-Tratner",
+        "nodeid": 85843,
+        "documentid": 87115,
+        "nodealias": "Karen-Lynn-Tratner",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "96253cf0-f10e-4d47-8cce-0a2fde41604c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karen Lynn Tratner",
+        "documentmodifiedwhen": "2021-11-05T07:42:41.424Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30139D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karen Lynn Tratner",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87113-85844",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:26:43.726Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Marley-Rachel-Tratner",
+        "nodeid": 85844,
+        "documentid": 87113,
+        "nodealias": "Marley-Rachel-Tratner",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ed012bd5-287e-496e-8385-e0a027667645",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marley Rachel Tratner",
+        "documentmodifiedwhen": "2020-06-02T07:19:24.741Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "73371G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marley Rachel Tratner",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53401-52126",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:39.113Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Alexandra-Jennifer-Tratnik",
+        "nodeid": 52126,
+        "documentid": 53401,
+        "nodealias": "Alexandra-Jennifer-Tratnik",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d5b3f0f0-4649-47e7-87ef-e89c9b07c151",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alexandra Jennifer Tratnik",
+        "documentmodifiedwhen": "2022-05-10T07:16:23.935Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60639U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alexandra Jennifer Tratnik",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "V6C 2T8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vancouver"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53404-52130",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:39.848Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Andrea-Jessica-Tratnik",
+        "nodeid": 52130,
+        "documentid": 53404,
+        "nodealias": "Andrea-Jessica-Tratnik",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d65c4cde-e4fd-4724-8c6a-d668bb13c59a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrea Jessica Tratnik",
+        "documentmodifiedwhen": "2022-01-10T07:22:54.036Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "62403M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrea Jessica Tratnik",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2K4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53407-52133",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:39.941Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Paula-Andrea-Trattner",
+        "nodeid": 52133,
+        "documentid": 53407,
+        "nodealias": "Paula-Andrea-Trattner",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a53c0622-2697-44db-b23c-4c9d8fb6c45b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paula Andrea Trattner",
+        "documentmodifiedwhen": "2021-12-31T07:23:22.571Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42153V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paula Andrea Trattner",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53417-52140",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:46.287Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Danielle-Lauren-Karo-Traub",
+        "nodeid": 52140,
+        "documentid": 53417,
+        "nodealias": "Danielle-Lauren-Karo-Traub",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3797d0db-d77a-4647-8cef-2f96ec2f0af8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Danielle Lauren Karo Traub",
+        "documentmodifiedwhen": "2022-01-07T07:25:52.286Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57278S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Danielle Lauren Karo Traub",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1N2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87118-85847",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:26:44.337Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Erika-Traub",
+        "nodeid": 85847,
+        "documentid": 87118,
+        "nodealias": "Erika-Traub",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "560d722c-3473-4a7e-9574-6da708948003",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Erika Traub",
+        "documentmodifiedwhen": "2020-12-31T07:16:11.796Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33528G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Erika Traub",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53412-52139",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:40.285Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Jennifer-June-Traub",
+        "nodeid": 52139,
+        "documentid": 53412,
+        "nodealias": "Jennifer-June-Traub",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b6a3cea6-a64a-485b-a59f-f1b09233feca",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer June Traub",
+        "documentmodifiedwhen": "2021-12-31T07:17:39.368Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43377H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer June Traub",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "V6C 3E8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vancouver"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53414-52141",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:46.255Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Samantha-Lee-Traub",
+        "nodeid": 52141,
+        "documentid": 53414,
+        "nodealias": "Samantha-Lee-Traub",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8d13a16e-5c92-4e88-8345-9dc81715b817",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Samantha Lee Traub",
+        "documentmodifiedwhen": "2022-01-02T07:22:01.056Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47959S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Samantha Lee Traub",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5A 1K6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53413-52138",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:40.082Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Sophie-Traub",
+        "nodeid": 52138,
+        "documentid": 53413,
+        "nodealias": "Sophie-Traub",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "637493d8-9f6f-4bdf-932a-e66886132566",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sophie Traub",
+        "documentmodifiedwhen": "2022-01-12T07:16:37.987Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "31325Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sophie Traub",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L5B 1M2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53408-52136",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:40.051Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Walter-Martin-Traub",
+        "nodeid": 52136,
+        "documentid": 53408,
+        "nodealias": "Walter-Martin-Traub",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7557b427-2a2c-4b46-b01a-18f35b798ca8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Walter Martin Traub",
+        "documentmodifiedwhen": "2021-12-14T07:57:47.805Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13300K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Walter Martin Traub",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 1V2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53419-52146",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:46.38Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Ben-Traurig",
+        "nodeid": 52146,
+        "documentid": 53419,
+        "nodealias": "Ben-Traurig",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e9027403-61a2-4109-beba-28b42a0ccd66",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ben Traurig",
+        "documentmodifiedwhen": "2022-03-30T07:17:17.152Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37350P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ben Traurig",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 3T4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87119-85846",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:26:44.29Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Christopher-Anthony-Travascio",
+        "nodeid": 85846,
+        "documentid": 87119,
+        "nodealias": "Christopher-Anthony-Travascio",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a9b616c5-98aa-4ffa-a078-2ecb9605ec7f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher Anthony Travascio",
+        "documentmodifiedwhen": "2022-07-28T07:16:02.046Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68294R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher Anthony Travascio",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1A4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53425-52150",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:46.865Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Helder-Manuel-De-Sousa-Travassos",
+        "nodeid": 52150,
+        "documentid": 53425,
+        "nodealias": "Helder-Manuel-De-Sousa-Travassos",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "235589c7-c657-4548-8432-fb11d1efc491",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Helder Manuel De Sousa Travassos",
+        "documentmodifiedwhen": "2021-12-21T07:18:45.434Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "23281V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Helder Manuel De Sousa Travassos",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3E5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53434-52154",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:53.896Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Donald-John-Travers",
+        "nodeid": 52154,
+        "documentid": 53434,
+        "nodealias": "Donald-John-Travers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "10c52941-235f-4193-99da-148ce5839f64",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Donald John Travers",
+        "documentmodifiedwhen": "2021-12-14T07:53:25.154Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "14595T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Donald John Travers",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N2J 2Z5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Waterloo"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53440-52165",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:59.443Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Evan-Clifford-Travers",
+        "nodeid": 52165,
+        "documentid": 53440,
+        "nodealias": "Evan-Clifford-Travers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "edc225fa-5e7e-4048-a3f7-7729fceefad8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Evan Clifford Travers",
+        "documentmodifiedwhen": "2020-06-03T07:15:48.982Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52057W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Evan Clifford Travers",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.7026443481445,
+                45.4177665710449
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0K1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87120-85848",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:26:45.6Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Jessica-Mary-Travers",
+        "nodeid": 85848,
+        "documentid": 87120,
+        "nodealias": "Jessica-Mary-Travers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6ed27811-3237-43e7-98d6-eab0ebf6f020",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jessica Mary Travers",
+        "documentmodifiedwhen": "2021-12-20T07:20:14.35Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Infractions punissables par proc\u00e9dure sommaire \u00e0 la Cour de justice de l'Ontario",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Location immobili\u00e8re"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Ontario Court of Justice - Summary Conviction Offences",
+            "Small Claims Court matters",
+            "Landlord and Tenant"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14025",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Jessica Mary Travers",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53430-52157",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:53.881Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Mark-James-Travers",
+        "nodeid": 52157,
+        "documentid": 53430,
+        "nodealias": "Mark-James-Travers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "eb87b042-3c95-4ff5-be52-fa387abf68e6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mark James Travers",
+        "documentmodifiedwhen": "2022-04-09T07:16:57.947Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37351L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mark James Travers",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53435-52163",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:53.943Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Patrick-Laurence-Travers",
+        "nodeid": 52163,
+        "documentid": 53435,
+        "nodealias": "Patrick-Laurence-Travers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c8d44be0-3e7f-4c9b-bffe-3b5657b25cdf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Patrick Laurence Travers",
+        "documentmodifiedwhen": "2022-01-01T07:19:14.175Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "44844V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Patrick Laurence Travers",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M9M 2Y9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53432-52161",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:53.974Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Susannah-May-Travers",
+        "nodeid": 52161,
+        "documentid": 53432,
+        "nodealias": "Susannah-May-Travers",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "441438d6-946a-4d92-b441-a26fed4de82b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Susannah May Travers",
+        "documentmodifiedwhen": "2020-02-20T08:45:19.768Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "48632H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Susannah May Travers",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53446-52171",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:59.49Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Kristina-Marie-Traversa",
+        "nodeid": 52171,
+        "documentid": 53446,
+        "nodealias": "Kristina-Marie-Traversa",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "81c5e669-b117-4ae8-a0dc-4874853e944d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kristina Marie Traversa",
+        "documentmodifiedwhen": "2021-12-19T07:24:16.429Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P10763",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kristina Marie Traversa",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M5H 1J8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53449-52174",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:59.631Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Alexandra-Teresa-Traverso",
+        "nodeid": 52174,
+        "documentid": 53449,
+        "nodealias": "Alexandra-Teresa-Traverso",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8c52aa65-40d1-412d-a10c-ec87bf4feb72",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alexandra Teresa Traverso",
+        "documentmodifiedwhen": "2021-12-20T07:19:20.138Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13796",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alexandra Teresa Traverso",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L4L 5Y9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Woodbridge"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53447-52173",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:30:59.443Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Amber-Lynn-Traverso",
+        "nodeid": 52173,
+        "documentid": 53447,
+        "nodealias": "Amber-Lynn-Traverso",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "63e21359-7f1b-4b8c-bb4e-d5d63e7a2c30",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amber Lynn Traverso",
+        "documentmodifiedwhen": "2022-04-14T07:16:18.02Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P12944",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amber Lynn Traverso",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L9W 4P8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Orangeville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53454-52179",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:31:03.628Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Chantal-Natalie-Traversy",
+        "nodeid": 52179,
+        "documentid": 53454,
+        "nodealias": "Chantal-Natalie-Traversy",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "87c83ad1-a6e1-4a91-bc34-d2677de16de0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Chantal Natalie Traversy",
+        "documentmodifiedwhen": "2021-09-21T09:02:47.411Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P10186",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Chantal Natalie Traversy",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.7277679443359,
+                44.3264961242676
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L4N 9Z2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Barrie"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53453-52180",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:31:03.862Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Philip-Jeffrey-Traversy",
+        "nodeid": 52180,
+        "documentid": 53453,
+        "nodealias": "Philip-Jeffrey-Traversy",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5f904e42-9b72-4bf8-9fd3-2a4a851694cc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Philip Jeffrey Traversy",
+        "documentmodifiedwhen": "2021-12-15T07:16:06.72Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "14596P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Philip Jeffrey Traversy",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87121-85849",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:26:47.678Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Ira-Thomas-Traves",
+        "nodeid": 85849,
+        "documentid": 87121,
+        "nodealias": "Ira-Thomas-Traves",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cceb6d28-7a19-40a9-8317-971b03a552b9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ira Thomas Traves",
+        "documentmodifiedwhen": "2021-03-03T07:17:04.346Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "17185G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ira Thomas Traves",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87122-85850",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:26:47.928Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Lindsay-Erin-Traves",
+        "nodeid": 85850,
+        "documentid": 87122,
+        "nodealias": "Lindsay-Erin-Traves",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "50295a54-1dc8-4842-8a80-e3d67104b2d8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lindsay Erin Traves",
+        "documentmodifiedwhen": "2021-07-08T07:16:36.314Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66123F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lindsay Erin Traves",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.6930160522461,
+                45.4205513000488
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K2P 1L4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53457-52183",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:31:04.237Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Robert-Warren-Traves",
+        "nodeid": 52183,
+        "documentid": 53457,
+        "nodealias": "Robert-Warren-Traves",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1fbf69d4-f14a-40e3-9f30-3c90526a3857",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Warren Traves",
+        "documentmodifiedwhen": "2021-12-24T07:19:26.842Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25164H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Warren Traves",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 4E3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87123-85851",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:26:52.048Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Chantelle-Sherice-Travis",
+        "nodeid": 85851,
+        "documentid": 87123,
+        "nodealias": "Chantelle-Sherice-Travis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6067d61b-da79-42d1-be9e-51307c99adb6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Chantelle Sherice Travis",
+        "documentmodifiedwhen": "2021-09-21T08:53:32.702Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08590",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Chantelle Sherice Travis",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87125-85852",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:26:52.297Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Elad-Haim-Travis",
+        "nodeid": 85852,
+        "documentid": 87125,
+        "nodealias": "Elad-Haim-Travis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d5927871-903d-4866-b385-d173673e9def",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Elad Haim Travis",
+        "documentmodifiedwhen": "2021-05-28T07:18:45.414Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "73996G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Elad Haim Travis",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3819046020508,
+                43.6485252380371
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1A4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53458-52184",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:31:08.428Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Gary-Mark-Travis",
+        "nodeid": 52184,
+        "documentid": 53458,
+        "nodealias": "Gary-Mark-Travis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5264627f-1072-4aaa-9fab-6ccc5d01d7f5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gary Mark Travis",
+        "documentmodifiedwhen": "2021-12-26T07:24:57.371Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30525I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gary Mark Travis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4W 3J5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53462-52185",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:31:08.428Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Jesse-Alexander-Travis",
+        "nodeid": 52185,
+        "documentid": 53462,
+        "nodealias": "Jesse-Alexander-Travis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f2fce8ad-7ad2-4191-b512-0f95c23c9c45",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jesse Alexander Travis",
+        "documentmodifiedwhen": "2022-01-13T07:24:05.407Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69251S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jesse Alexander Travis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 0A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "134015-129312",
+        "sys_site": "lso",
+        "sys_created": "2021-09-11T07:23:02.429Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Raffaele-Travisano",
+        "nodeid": 129312,
+        "documentid": 134015,
+        "nodealias": "Raffaele-Travisano",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9065fae9-f35e-45f2-9c61-4cb8a57a17bf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Raffaele Travisano",
+        "documentmodifiedwhen": "2022-03-20T07:17:07.685Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Italien"
+        ],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Italian"
+        ],
+        "membernumber": "P17733",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Raffaele Travisano",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "K1P 5N4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53463-52190",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:31:08.678Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Donna-Jean-Trayling",
+        "nodeid": 52190,
+        "documentid": 53463,
+        "nodealias": "Donna-Jean-Trayling",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8fd96804-f399-4b89-930e-a0300a66efa5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Donna Jean Trayling",
+        "documentmodifiedwhen": "2021-05-06T07:17:27.902Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46123O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Donna Jean Trayling",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53467-52193",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:31:08.944Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Elizabeth-May-Traynor",
+        "nodeid": 52193,
+        "documentid": 53467,
+        "nodealias": "Elizabeth-May-Traynor",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "649c9931-b377-4bcf-9c72-7e158ae73acc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Elizabeth May Traynor",
+        "documentmodifiedwhen": "2021-12-31T07:16:23.32Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43842S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Elizabeth May Traynor",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6B 3L1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87128-85857",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:27:05.003Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Kathleen-Anne-Traynor",
+        "nodeid": 85857,
+        "documentid": 87128,
+        "nodealias": "Kathleen-Anne-Traynor",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "90c68a99-ba4b-4dc4-9aec-5682c24afcc8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kathleen Anne Traynor",
+        "documentmodifiedwhen": "2021-11-05T07:52:24.03Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38504U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kathleen Anne Traynor",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -0.0990241020917892,
+                51.5151901245117
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "United Kingdom",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "EC4M7LS",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87130-85855",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:27:04.831Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Michael-Howard-Traynor",
+        "nodeid": 85855,
+        "documentid": 87130,
+        "nodealias": "Michael-Howard-Traynor",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "56b07a36-c22b-4930-9a7d-fa5a77aa4510",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Howard Traynor",
+        "documentmodifiedwhen": "2021-11-05T07:44:58.414Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30526E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Howard Traynor",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -89.2490768432617,
+                48.3865623474121
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "141405-135492",
+        "sys_site": "lso",
+        "sys_created": "2022-07-30T08:00:19.292Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/008/Sarah-Jean-Marie-Traynor",
+        "nodeid": 135492,
+        "documentid": 141405,
+        "nodealias": "Sarah-Jean-Marie-Traynor",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "293b4e07-d4ad-45f3-8781-d1494f8af8ba",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sarah Jean Marie Traynor",
+        "documentmodifiedwhen": "2022-07-30T08:00:19.292Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18632",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sarah Jean Marie Traynor",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87126-85854",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:26:53.891Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Stephanie-Marie-Wozasek-Traynor",
+        "nodeid": 85854,
+        "documentid": 87126,
+        "nodealias": "Stephanie-Marie-Wozasek-Traynor",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "487bb4c5-d323-4fa8-b7d7-4cecb3f1a887",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephanie Marie Wozasek Traynor",
+        "documentmodifiedwhen": "2020-02-20T08:23:20.478Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27565I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephanie Marie Wozasek Traynor",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87131-85856",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:27:04.831Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Scarlett-Miyala-Trazo",
+        "nodeid": 85856,
+        "documentid": 87131,
+        "nodealias": "Scarlett-Miyala-Trazo",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "903e2408-282d-4106-87d0-49bb44a45930",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Scarlett Miyala Trazo",
+        "documentmodifiedwhen": "2021-03-05T07:17:22.813Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit administratif",
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Affaires relevant de la Cour des petites cr\u00e9ances"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Administrative Law",
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Small Claims Court matters"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74415E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Scarlett Miyala Trazo",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.6928634643555,
+                45.4198608398438
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1P 1C3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130025-125659",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T08:37:42.174Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Hayden-Mackenzie-Trbizan",
+        "nodeid": 125659,
+        "documentid": 130025,
+        "nodealias": "Hayden-Mackenzie-Trbizan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dc3c172f-8038-41c4-9084-a5d460ca9fb9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hayden Mackenzie Trbizan",
+        "documentmodifiedwhen": "2022-05-03T07:19:14.83Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82042A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hayden Mackenzie Trbizan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4S 3B1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53470-52196",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:31:11.04Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Nenad-Trbojevic",
+        "nodeid": 52196,
+        "documentid": 53470,
+        "nodealias": "Nenad-Trbojevic",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b5faf773-0a91-479b-a084-34e21b4e535a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nenad Trbojevic",
+        "documentmodifiedwhen": "2022-01-03T07:20:03.177Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52990F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nenad Trbojevic",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L1G 0A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oshawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53473-52200",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:31:18.201Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Anna-Lorraine-Trbovich",
+        "nodeid": 52200,
+        "documentid": 53473,
+        "nodealias": "Anna-Lorraine-Trbovich",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d80c5ebb-3a3c-4003-ba65-88bcd7ba31d9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anna Lorraine Trbovich",
+        "documentmodifiedwhen": "2022-02-17T07:15:56.204Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50550B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anna Lorraine Trbovich",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 2N5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "141104-135191",
+        "sys_site": "lso",
+        "sys_created": "2022-07-30T07:30:50.247Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Jessica-Jean-Treagus",
+        "nodeid": 135191,
+        "documentid": 141104,
+        "nodealias": "Jessica-Jean-Treagus",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a44ac1ee-59b4-4564-a7bf-9c9bf019bfdb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jessica Jean Treagus",
+        "documentmodifiedwhen": "2022-07-30T07:30:50.247Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85721C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jessica Jean Treagus",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "109699-108289",
+        "sys_site": "lso",
+        "sys_created": "2018-09-23T14:38:45.555Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/David-Clayton-Trealout",
+        "nodeid": 108289,
+        "documentid": 109699,
+        "nodealias": "David-Clayton-Trealout",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "012c8439-c527-41f3-98b4-925d0c62175e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Clayton Trealout",
+        "documentmodifiedwhen": "2022-04-26T07:17:52.763Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14866",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Clayton Trealout",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L5B 2N5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53474-52202",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:31:18.31Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Andrew-Gerald-Treash",
+        "nodeid": 52202,
+        "documentid": 53474,
+        "nodealias": "Andrew-Gerald-Treash",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "00d95b93-1fb1-443f-8c81-93dd8b063a1f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew Gerald Treash",
+        "documentmodifiedwhen": "2022-01-04T07:29:45.565Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "53160W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew Gerald Treash",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M1T 3V4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "53573-52299",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:32:14.498Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Ronald-Victor-Trebb",
+        "nodeid": 52299,
+        "documentid": 53573,
+        "nodealias": "Ronald-Victor-Trebb",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9b794052-3610-43b5-92bc-cc5631c94d12",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ronald Victor Trebb",
+        "documentmodifiedwhen": "2021-12-15T07:26:00.038Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "16578S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ronald Victor Trebb",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P3C 1T7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Sudbury"
+        ]
+    }
+]

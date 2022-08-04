@@ -1,0 +1,5122 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102555-101283",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:00.667Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Alexander-Yuri-Monic",
+        "nodeid": 101283,
+        "documentid": 102555,
+        "nodealias": "Alexander-Yuri-Monic",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "14ef5b9f-9802-4d98-b972-28a37f094335",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alexander Yuri Monic",
+        "documentmodifiedwhen": "2022-01-06T07:30:02.503Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52003W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alexander Yuri Monic",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0H8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102551-101278",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:15:59.917Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Stacey-Ann-Margaret-Monic",
+        "nodeid": 101278,
+        "documentid": 102551,
+        "nodealias": "Stacey-Ann-Margaret-Monic",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dc44d9cf-89ac-4c2b-983e-4310f3f4c83a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stacey Ann-Margaret Monic",
+        "documentmodifiedwhen": "2021-03-09T07:17:24.47Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54997W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stacey Ann-Margaret Monic",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                16.3663425445557,
+                48.2101783752441
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Austria",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "A-1010",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vienna"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105215-103944",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:18:56.114Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Jean-Monetoile-Monice",
+        "nodeid": 103944,
+        "documentid": 105215,
+        "nodealias": "Jean-Monetoile-Monice",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d6b8fb0e-1315-4443-b316-ce783ab5b2a2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jean Monetoile Monice",
+        "documentmodifiedwhen": "2020-02-20T09:25:21.679Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11076",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jean Monetoile Monice",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "135587-130610",
+        "sys_site": "lso",
+        "sys_created": "2021-12-18T07:28:13.943Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/015/Manuel-Adolfo-Carmona-Monico",
+        "nodeid": 130610,
+        "documentid": 135587,
+        "nodealias": "Manuel-Adolfo-Carmona-Monico",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f3356f45-83b9-4c55-8a4b-23e8e041a101",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Manuel Adolfo Carmona Monico",
+        "documentmodifiedwhen": "2022-02-09T07:20:25.243Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Espagnol"
+        ],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Spanish"
+        ],
+        "membernumber": "P18194",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Manuel Adolfo Carmona Monico",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M1L 4S2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Scarborough"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102552-101279",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:15:59.839Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/011/Amanda-Natania-Moniz",
+        "nodeid": 101279,
+        "documentid": 102552,
+        "nodealias": "Amanda-Natania-Moniz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "04b7092c-ae57-42d2-90a3-0f8e76cee80c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amanda Natania Moniz",
+        "documentmodifiedwhen": "2021-12-18T07:24:54.338Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06082",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amanda Natania Moniz",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "N1G 5C5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Guelph"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105216-103945",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:18:56.223Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Andre-Joseph-Moniz",
+        "nodeid": 103945,
+        "documentid": 105216,
+        "nodealias": "Andre-Joseph-Moniz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "974bf35a-5fc1-4fb3-8af2-aa9ba10edc24",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andre Joseph Moniz",
+        "documentmodifiedwhen": "2021-12-30T07:20:51.839Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "40581S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andre Joseph Moniz",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105219-103947",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:18:56.192Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Ashley-Moniz",
+        "nodeid": 103947,
+        "documentid": 105219,
+        "nodealias": "Ashley-Moniz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bb1ce644-6318-464b-9c0a-0a707769a474",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ashley Moniz",
+        "documentmodifiedwhen": "2019-10-02T07:20:24.726Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09727",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ashley Moniz",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123586-120040",
+        "sys_site": "lso",
+        "sys_created": "2020-06-23T07:56:46.833Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Ashley-Roque-Moniz",
+        "nodeid": 120040,
+        "documentid": 123586,
+        "nodealias": "Ashley-Roque-Moniz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "caa80382-c2d4-40f4-8046-872d272e66f7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ashley Roque Moniz",
+        "documentmodifiedwhen": "2022-01-17T07:32:25.121Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80112J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ashley Roque Moniz",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M3J 1P3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102553-101281",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:00.23Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/011/Carina-Rafaela-Moniz",
+        "nodeid": 101281,
+        "documentid": 102553,
+        "nodealias": "Carina-Rafaela-Moniz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7feef344-57ce-4108-8a39-7f28fafb4270",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Carina Rafaela Moniz",
+        "documentmodifiedwhen": "2019-05-09T15:35:17.125Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07246",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Carina Rafaela Moniz",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6551818847656,
+                43.5212249755859
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L5K 2C9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102554-101282",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:00.589Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/011/Elizabeth-Ramos-Moniz",
+        "nodeid": 101282,
+        "documentid": 102554,
+        "nodealias": "Elizabeth-Ramos-Moniz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5674b09e-1163-45ed-807f-acf7a5e32042",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Elizabeth Ramos Moniz",
+        "documentmodifiedwhen": "2021-12-18T07:19:12.986Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07462",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Elizabeth Ramos Moniz",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L6W 4T1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102556-101284",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:01.339Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Emilie-Marguerite-Moniz",
+        "nodeid": 101284,
+        "documentid": 102556,
+        "nodealias": "Emilie-Marguerite-Moniz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fece254d-360a-43c7-9d3c-3191ac5c37ec",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "\u00c9milie Marguerite Moniz",
+        "documentmodifiedwhen": "2019-12-12T14:30:14.939Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63447G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "\u00c9milie Marguerite Moniz",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.6968765258789,
+                45.4208335876465
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0A6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102557-101285",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:02.346Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Beverly-Anne-Monk",
+        "nodeid": 101285,
+        "documentid": 102557,
+        "nodealias": "Beverly-Anne-Monk",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "678f9e42-0b88-4bba-b72a-69eb9133312a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Beverly Anne Monk",
+        "documentmodifiedwhen": "2022-07-28T07:15:28.853Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30794T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Beverly Anne Monk",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "127667-123810",
+        "sys_site": "lso",
+        "sys_created": "2021-01-27T09:05:12.604Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Brendan-Mark-Alan-Monk",
+        "nodeid": 123810,
+        "documentid": 127667,
+        "nodealias": "Brendan-Mark-Alan-Monk",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2c298cf1-51de-44cd-93f3-7ea5fc3f54aa",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brendan Mark Alan Monk",
+        "documentmodifiedwhen": "2022-06-23T07:16:55.388Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81216R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brendan Mark Alan Monk",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4X 1P9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102558-101286",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:04.654Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Stephen-Patrick-Monk",
+        "nodeid": 101286,
+        "documentid": 102558,
+        "nodealias": "Stephen-Patrick-Monk",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2d4e5578-6ffd-4726-93fe-e7ca4671719b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephen Patrick Monk",
+        "documentmodifiedwhen": "2021-02-24T07:16:15.976Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38360U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephen Patrick Monk",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3856048583984,
+                43.6700096130371
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4W 1A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102562-101290",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:10.086Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Alexandra-Monkhouse",
+        "nodeid": 101290,
+        "documentid": 102562,
+        "nodealias": "Alexandra-Monkhouse",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9ebab646-eb3f-4da2-a101-451f1b4b29ce",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alexandra Monkhouse",
+        "documentmodifiedwhen": "2021-12-23T07:30:54.234Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Roumain"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Romanian"
+        ],
+        "membernumber": "70390L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alexandra Monkhouse",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2W4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102560-101288",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:05.727Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Andrew-Harold-Monkhouse",
+        "nodeid": 101288,
+        "documentid": 102560,
+        "nodealias": "Andrew-Harold-Monkhouse",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "256f6afb-c1a0-45f1-aa20-d75c3ed97866",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew Harold Monkhouse",
+        "documentmodifiedwhen": "2022-01-11T07:18:46.047Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de l'emploi et droit du travail"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Employment/Labour Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64529L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew Harold Monkhouse",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2W4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102561-101289",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:10.071Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Natasha-Dawn-Monkman",
+        "nodeid": 101289,
+        "documentid": 102561,
+        "nodealias": "Natasha-Dawn-Monkman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8e2368e3-fe44-4b20-9450-52c69021e62a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Natasha Dawn Monkman",
+        "documentmodifiedwhen": "2022-01-04T07:31:09.949Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54369A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Natasha Dawn Monkman",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1K8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102563-101291",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:14.642Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Christian-Lacroix-Monnin",
+        "nodeid": 101291,
+        "documentid": 102563,
+        "nodealias": "Christian-Lacroix-Monnin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5d9fda8f-f11d-4ba0-a20c-3d3e91e7ed2f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christian Lacroix Monnin",
+        "documentmodifiedwhen": "2022-01-03T07:24:59.247Z",
+        "skuname": null,
+        "memberprovincetext": "Manitoba",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51844S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christian Lacroix Monnin",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "R3C 3Z3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Winnipeg"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102565-101293",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:15.142Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Marisa-Rachel-Denise-Monnin",
+        "nodeid": 101293,
+        "documentid": 102565,
+        "nodealias": "Marisa-Rachel-Denise-Monnin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8cc76380-1201-4dc5-b3e5-43c0e0873ab0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marisa Rachel Denise Monnin",
+        "documentmodifiedwhen": "2022-04-02T07:24:59.486Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "62599Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marisa Rachel Denise Monnin",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "K1A 0A6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102564-101292",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:15.173Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/William-Victor-Monopoli",
+        "nodeid": 101292,
+        "documentid": 102564,
+        "nodealias": "William-Victor-Monopoli",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b16dcc20-5199-482f-a8f0-ef0c7f2ca36c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "William Victor Monopoli",
+        "documentmodifiedwhen": "2021-12-14T10:52:59.399Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25659M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "William Victor Monopoli",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "129899-125533",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T07:24:50.25Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Priyanka-Monpara",
+        "nodeid": 125533,
+        "documentid": 129899,
+        "nodealias": "Priyanka-Monpara",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d758802f-e635-48ee-ae0f-9a789fa2fd83",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Priyanka Monpara",
+        "documentmodifiedwhen": "2022-04-27T07:17:31.189Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81885L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Priyanka Monpara",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 1H8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102568-101296",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:18.501Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Stephane-Asnot-Monpremier",
+        "nodeid": 101296,
+        "documentid": 102568,
+        "nodealias": "Stephane-Asnot-Monpremier",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "68cf93e1-005d-47ba-a2e7-ade7f9fbeaca",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephane Asnot Monpremier",
+        "documentmodifiedwhen": "2022-06-17T07:17:19.312Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45237R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephane Asnot Monpremier",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e (restriction \u00e0 la pratique)"
+        ],
+        "memberwebstatus": [
+            "In Private Practice (Practice Restricted)"
+        ],
+        "memberpostalcode": "K1G 5L1",
+        "membercurrentrestrictions": "Y",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105217-103946",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:18:56.395Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Brian-Michael-Monrad",
+        "nodeid": 103946,
+        "documentid": 105217,
+        "nodealias": "Brian-Michael-Monrad",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fcf14940-0e72-4398-80c0-1a55bf5c9220",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brian Michael Monrad",
+        "documentmodifiedwhen": "2021-09-21T08:04:27.626Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41275D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brian Michael Monrad",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102566-101294",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:18.157Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Charlotte-Jane-Monro",
+        "nodeid": 101294,
+        "documentid": 102566,
+        "nodealias": "Charlotte-Jane-Monro",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0fc0e4b5-2743-4efe-ac2d-68cf7997a7af",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Charlotte Jane Monro",
+        "documentmodifiedwhen": "2021-12-14T11:00:05.143Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25067F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Charlotte Jane Monro",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102567-101295",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:18.439Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Luis-Antonio-Monroy-Garcia",
+        "nodeid": 101295,
+        "documentid": 102567,
+        "nodealias": "Luis-Antonio-Monroy-Garcia",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "badcaf0c-962b-449d-9dab-e9de1a6a21b7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Luis Antonio Monroy Garcia",
+        "documentmodifiedwhen": "2022-01-02T07:23:20.512Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit criminel et quasi criminel",
+            "Droit de l'immigration"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Criminal/Quasi-Criminal Law",
+            "Immigration Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "48574I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Luis Antonio Monroy Garcia",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4P 1E2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102569-101297",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:20.192Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/011/Daniele-Maureen-Monsalvo",
+        "nodeid": 101297,
+        "documentid": 102569,
+        "nodealias": "Daniele-Maureen-Monsalvo",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "83d0cd03-17d5-4536-b26c-65a77ae39b31",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniele Maureen Monsalvo",
+        "documentmodifiedwhen": "2021-12-18T07:20:12.393Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07530",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniele Maureen Monsalvo",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L6W 4T1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118074-115460",
+        "sys_site": "lso",
+        "sys_created": "2019-09-07T07:22:17.361Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Danielle-Josephine-Monsegue",
+        "nodeid": 115460,
+        "documentid": 118074,
+        "nodealias": "Danielle-Josephine-Monsegue",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c6909fa4-33c2-47a0-bf6c-43aec33f4a2b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Danielle Josephine Monsegue",
+        "documentmodifiedwhen": "2022-07-02T07:15:30.339Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15770",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Danielle Josephine Monsegue",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M4V 3A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105218-103943",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:18:56.473Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Daniel-Monson",
+        "nodeid": 103943,
+        "documentid": 105218,
+        "nodealias": "Daniel-Monson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f037dd64-6618-4aa5-95df-e4fc73e46f4a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniel Monson",
+        "documentmodifiedwhen": "2022-05-28T07:22:11.399Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "07855Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniel Monson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102570-101298",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:21.114Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/011/Daniel-James-Monson",
+        "nodeid": 101298,
+        "documentid": 102570,
+        "nodealias": "Daniel-James-Monson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f4577ff7-cc1d-4654-aa00-83aa351171b3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniel James Monson",
+        "documentmodifiedwhen": "2021-03-14T07:20:12.096Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13031",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniel James Monson",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.8024444580078,
+                43.3659515380859
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L7M 1A6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Burlington"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102572-101300",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:27.821Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Jonathan-Joel-Monson",
+        "nodeid": 101300,
+        "documentid": 102572,
+        "nodealias": "Jonathan-Joel-Monson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b83d9c41-9946-4da7-bd50-f26a76fe0072",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jonathan Joel Monson",
+        "documentmodifiedwhen": "2021-12-27T07:22:02.026Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "34395H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jonathan Joel Monson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M3C 2K8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "127288-123470",
+        "sys_site": "lso",
+        "sys_created": "2021-01-21T07:20:22.583Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Michelle-Katalin-Mont",
+        "nodeid": 123470,
+        "documentid": 127288,
+        "nodealias": "Michelle-Katalin-Mont",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8f8971aa-a76b-4a72-be08-1c759dec629e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michelle Katalin Mont",
+        "documentmodifiedwhen": "2021-12-22T07:26:00.531Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17085",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michelle Katalin Mont",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5M 2B7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Streetsville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "134407-129682",
+        "sys_site": "lso",
+        "sys_created": "2021-09-28T07:23:55.616Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Katherine-Alexandra-Montagnese",
+        "nodeid": 129682,
+        "documentid": 134407,
+        "nodealias": "Katherine-Alexandra-Montagnese",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "140170b5-9ea3-48a1-b654-0b2447427713",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Katherine Alexandra Montagnese",
+        "documentmodifiedwhen": "2022-01-18T12:09:51.286Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83467I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Katherine Alexandra Montagnese",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M9B 6E5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Etobicoke"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102571-101299",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:27.821Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Andrew-John-Montague",
+        "nodeid": 101299,
+        "documentid": 102571,
+        "nodealias": "Andrew-John-Montague",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1c8c7f59-1839-4350-b8ed-b07058159b8a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew John Montague",
+        "documentmodifiedwhen": "2021-09-21T08:26:34.496Z",
+        "skuname": null,
+        "memberprovincetext": "Alberta",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60798B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew John Montague",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -114.064460754395,
+                51.0479164123535
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "T2P 3E3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Calgary"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105221-103950",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:05.39Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Christopher-Alan-Montague",
+        "nodeid": 103950,
+        "documentid": 105221,
+        "nodealias": "Christopher-Alan-Montague",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c171795f-0627-44f2-b6e2-64d778951187",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher Alan Montague",
+        "documentmodifiedwhen": "2021-12-14T08:36:32.38Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "18538S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher Alan Montague",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102573-101301",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:28.181Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Amanda-Caitlin-Montague-Reinholdt",
+        "nodeid": 101301,
+        "documentid": 102573,
+        "nodealias": "Amanda-Caitlin-Montague-Reinholdt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9cc99b32-2832-472f-8a51-619509d2de4b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amanda Caitlin Montague-Reinholdt",
+        "documentmodifiedwhen": "2022-01-10T07:16:58.743Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "62600E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amanda Caitlin Montague-Reinholdt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1P 5Z9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105227-103955",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:05.578Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Courtenay-Joanne-Montambault",
+        "nodeid": 103955,
+        "documentid": 105227,
+        "nodealias": "Courtenay-Joanne-Montambault",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "43eaa40a-0103-4f77-bed6-216203e1da14",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Courtenay Joanne Montambault",
+        "documentmodifiedwhen": "2021-09-21T08:57:36.276Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11376",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Courtenay Joanne Montambault",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139849-134237",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T07:45:57.189Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Melissa-Pierina-Montana",
+        "nodeid": 134237,
+        "documentid": 139849,
+        "nodealias": "Melissa-Pierina-Montana",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f011b713-725e-49cb-b8f8-9fb89744eadd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Melissa Pierina Montana",
+        "documentmodifiedwhen": "2022-07-07T07:18:41.385Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84778C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Melissa Pierina Montana",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102575-101303",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:28.65Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Monica-Sally-Montanaro",
+        "nodeid": 101303,
+        "documentid": 102575,
+        "nodealias": "Monica-Sally-Montanaro",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2cd4701a-2b7c-48a3-ad7c-49d576c495de",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Monica Sally Montanaro",
+        "documentmodifiedwhen": "2022-01-02T07:24:00.557Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50068N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Monica Sally Montanaro",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "H4P 2T4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Montreal"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102574-101302",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:28.337Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Sandra-Jean-Montanino",
+        "nodeid": 101302,
+        "documentid": 102574,
+        "nodealias": "Sandra-Jean-Montanino",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a7bc4a88-8fef-4276-a02b-609fb80df8a7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sandra Jean Montanino",
+        "documentmodifiedwhen": "2022-02-06T07:16:19.621Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43355E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sandra Jean Montanino",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "L6M 0E2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oakville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105224-103952",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:05.515Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Marjaneh-Montaseri",
+        "nodeid": 103952,
+        "documentid": 105224,
+        "nodealias": "Marjaneh-Montaseri",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8af1e42f-76f7-4da9-bf0e-b24ae12cfc18",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marjaneh Montaseri",
+        "documentmodifiedwhen": "2021-09-21T09:08:13.117Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07300",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marjaneh Montaseri",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102400-101128",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:12:18.959Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Mahnoosh-Montazeri",
+        "nodeid": 101128,
+        "documentid": 102400,
+        "nodealias": "Mahnoosh-Montazeri",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dc42497a-d26c-4c4f-873e-c7b74208a07a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mahnoosh Montazeri",
+        "documentmodifiedwhen": "2021-03-12T07:27:40.744Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72979S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mahnoosh Montazeri",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3778381347656,
+                43.6483459472656
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5E 1H5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102576-101304",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:29.009Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Jordi-Emanuel-Montblanch",
+        "nodeid": 101304,
+        "documentid": 102576,
+        "nodealias": "Jordi-Emanuel-Montblanch",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a5bfd513-4f8a-43a7-8b4e-313181a9996a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jordi Emanuel Montblanch",
+        "documentmodifiedwhen": "2021-12-23T07:28:49.834Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67178M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jordi Emanuel Montblanch",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "H3B 0A4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Montreal"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105223-103949",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:05.421Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/David-Michael-Montcalm",
+        "nodeid": 103949,
+        "documentid": 105223,
+        "nodealias": "David-Michael-Montcalm",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cd5e09e4-9499-48c7-9a00-6faab79ad225",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Michael Montcalm",
+        "documentmodifiedwhen": "2021-12-14T07:46:51.797Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "11012E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Michael Montcalm",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105220-103948",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:05.421Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Yvon-Richard-Montcalm",
+        "nodeid": 103948,
+        "documentid": 105220,
+        "nodealias": "Yvon-Richard-Montcalm",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "92fe6545-5a0e-49cf-ac66-67fb1e3ecd19",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Yvon Richard Montcalm",
+        "documentmodifiedwhen": "2021-03-12T07:28:06.713Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P03191",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Yvon Richard Montcalm",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105226-103954",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:05.515Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Robert-Leo-Monte",
+        "nodeid": 103954,
+        "documentid": 105226,
+        "nodealias": "Robert-Leo-Monte",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5ba1d674-0a28-4dd3-8f0f-3e6bae40b1b3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Leo Monte",
+        "documentmodifiedwhen": "2022-05-28T07:47:56.953Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "14449U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Leo Monte",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102577-101305",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:29.181Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Sabrina-Gina-Montefiore",
+        "nodeid": 101305,
+        "documentid": 102577,
+        "nodealias": "Sabrina-Gina-Montefiore",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "61ff8378-b3cf-4071-8e1c-80286366a4b6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sabrina Gina Montefiore",
+        "documentmodifiedwhen": "2022-06-23T07:15:10.228Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54810Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sabrina Gina Montefiore",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L2R 7N8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "St. Catharines"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102581-101310",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:37.06Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Brian-Isaac-Monteiro",
+        "nodeid": 101310,
+        "documentid": 102581,
+        "nodealias": "Brian-Isaac-Monteiro",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3a6e97f9-7c88-47e9-9d0f-91fd672e276c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brian Isaac Monteiro",
+        "documentmodifiedwhen": "2020-12-01T07:16:51.277Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59011J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brian Isaac Monteiro",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4091110229492,
+                43.7462768554688
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M2P 2B7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116619-114231",
+        "sys_site": "lso",
+        "sys_created": "2019-06-27T08:38:05.808Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Emma-Monteiro",
+        "nodeid": 114231,
+        "documentid": 116619,
+        "nodealias": "Emma-Monteiro",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b7d0a311-a7db-41f0-8790-b3373f96d13b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Emma Monteiro",
+        "documentmodifiedwhen": "2022-06-15T07:17:21.584Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77414S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Emma Monteiro",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N2L 6C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Waterloo"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102580-101308",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:36.607Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Luiza-Lourdes-Monteiro",
+        "nodeid": 101308,
+        "documentid": 102580,
+        "nodealias": "Luiza-Lourdes-Monteiro",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7bcf1162-5af0-4a1f-bf56-2f2b53dd10bb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Luiza Lourdes Monteiro",
+        "documentmodifiedwhen": "2021-09-21T07:55:30.176Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36004C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Luiza Lourdes Monteiro",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3881149291992,
+                43.6558113098145
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M5G 2P1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105225-103951",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:05.5Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Marie-Ann-Melro-Monteiro",
+        "nodeid": 103951,
+        "documentid": 105225,
+        "nodealias": "Marie-Ann-Melro-Monteiro",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "516e0262-ecb2-429d-8958-6045b1ff0b1e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marie Ann Melro Monteiro",
+        "documentmodifiedwhen": "2020-02-20T09:13:58.749Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06270",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marie Ann Melro Monteiro",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102578-101306",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:29.415Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/011/Marilyn-Jenny-Monteiro",
+        "nodeid": 101306,
+        "documentid": 102578,
+        "nodealias": "Marilyn-Jenny-Monteiro",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e7f69a55-6034-41e4-9bc8-1d72614353a6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marilyn Jenny Monteiro",
+        "documentmodifiedwhen": "2021-07-03T07:16:49.531Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Location immobili\u00e8re"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Small Claims Court matters",
+            "Landlord and Tenant"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07599",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Marilyn Jenny Monteiro",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3524551391602,
+                43.7571029663086
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M3B 2T3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "113185-111411",
+        "sys_site": "lso",
+        "sys_created": "2019-01-17T07:18:25.743Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Salome-Figueiredo-Monteiro",
+        "nodeid": 111411,
+        "documentid": 113185,
+        "nodealias": "Salome-Figueiredo-Monteiro",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0861ec3a-bd13-48cc-be35-bfb06b360c60",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Salome Figueiredo Monteiro",
+        "documentmodifiedwhen": "2021-12-20T07:17:56.817Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15298",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Salome Figueiredo Monteiro",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L5S 1V4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105229-103957",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:09.312Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Sandra-Monteiro",
+        "nodeid": 103957,
+        "documentid": 105229,
+        "nodealias": "Sandra-Monteiro",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3c932b49-6094-4155-84a2-bd75ee782a53",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sandra Monteiro",
+        "documentmodifiedwhen": "2021-03-14T07:17:51.402Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46688A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sandra Monteiro",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -2.23686242103577,
+                53.4708862304688
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "United Kingdom",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "M3 2NU",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Manchester"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102579-101307",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:36.45Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Sheila-Lovella-Monteiro",
+        "nodeid": 101307,
+        "documentid": 102579,
+        "nodealias": "Sheila-Lovella-Monteiro",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "60cc0983-3ebe-4d05-9937-ae494f62641d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sheila Lovella Monteiro",
+        "documentmodifiedwhen": "2022-01-04T07:19:13.857Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51741R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sheila Lovella Monteiro",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6P 2X6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102582-101309",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:36.966Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Tania-Luisa-Miranda-Monteiro",
+        "nodeid": 101309,
+        "documentid": 102582,
+        "nodealias": "Tania-Luisa-Miranda-Monteiro",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f5aa32e3-2ff4-4986-adb5-b0a31a14824a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tania Luisa Miranda Monteiro",
+        "documentmodifiedwhen": "2022-01-05T07:16:51.849Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47218B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tania Luisa Miranda Monteiro",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 1Y1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "112897-111150",
+        "sys_site": "lso",
+        "sys_created": "2018-12-20T07:18:37.234Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Yolanda-Andrew-Monteiro",
+        "nodeid": 111150,
+        "documentid": 112897,
+        "nodealias": "Yolanda-Andrew-Monteiro",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6fd68525-682c-4631-8e7c-c58d450062e3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Yolanda Andrew Monteiro",
+        "documentmodifiedwhen": "2021-03-26T07:20:37.532Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15171",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Yolanda Andrew Monteiro",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105231-103959",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:13.141Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Daniel-Wiley-Monteith",
+        "nodeid": 103959,
+        "documentid": 105231,
+        "nodealias": "Daniel-Wiley-Monteith",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e56bc558-6bfb-4f59-8baf-0287c700efb7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniel Wiley Monteith",
+        "documentmodifiedwhen": "2022-05-28T07:43:17.032Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "16076H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniel Wiley Monteith",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105234-103964",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:20.941Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Diane-Deborah-Stephanie-Monteith",
+        "nodeid": 103964,
+        "documentid": 105234,
+        "nodealias": "Diane-Deborah-Stephanie-Monteith",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b63c59bc-91e5-4035-9690-2333517c2caa",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Diane Deborah Stephanie Monteith",
+        "documentmodifiedwhen": "2020-02-20T08:32:07.517Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36438U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Diane Deborah Stephanie Monteith",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105230-103958",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:12.781Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/George-Smith-Monteith",
+        "nodeid": 103958,
+        "documentid": 105230,
+        "nodealias": "George-Smith-Monteith",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "53a1fd51-2b69-430d-8360-c42a608161fb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "George Smith Monteith",
+        "documentmodifiedwhen": "2021-12-14T08:11:08.707Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "15307E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "George Smith Monteith",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102584-101314",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:40.701Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Kimberly-Ann-Monteith",
+        "nodeid": 101314,
+        "documentid": 102584,
+        "nodealias": "Kimberly-Ann-Monteith",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "70274a7f-65a4-4633-b4fe-534f7aa4d94f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kimberly Ann Monteith",
+        "documentmodifiedwhen": "2021-09-21T08:22:06.802Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56028L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kimberly Ann Monteith",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102585-101312",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:40.389Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Laura-Leslie-Monteith",
+        "nodeid": 101312,
+        "documentid": 102585,
+        "nodealias": "Laura-Leslie-Monteith",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "15020acf-d71d-4734-8415-80250e5980a6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Laura Leslie Monteith",
+        "documentmodifiedwhen": "2022-07-13T07:18:49.5Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54370H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Laura Leslie Monteith",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0L5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102586-101313",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:40.404Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Maralynne-Anne-Monteith",
+        "nodeid": 101313,
+        "documentid": 102586,
+        "nodealias": "Maralynne-Anne-Monteith",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7533d2d9-9a34-4dde-acee-ea8b1a9e871d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Maralynne Anne Monteith",
+        "documentmodifiedwhen": "2021-12-17T07:27:48.222Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "20001K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Maralynne Anne Monteith",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1B7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "128911-124741",
+        "sys_site": "lso",
+        "sys_created": "2021-04-27T07:24:32.577Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Shenell-Monteith",
+        "nodeid": 124741,
+        "documentid": 128911,
+        "nodealias": "Shenell-Monteith",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7779e192-a0fd-4c12-89bf-e067f3d377af",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shenell Monteith",
+        "documentmodifiedwhen": "2022-01-19T07:18:04.802Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17378",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shenell Monteith",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M5G 1Z8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105228-103956",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:09.141Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Stephen-Charles-Monteith",
+        "nodeid": 103956,
+        "documentid": 105228,
+        "nodealias": "Stephen-Charles-Monteith",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c6ff2f59-3571-481e-bd4b-ce422dcccdf9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephen Charles Monteith",
+        "documentmodifiedwhen": "2022-05-28T07:29:20.156Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "12516S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephen Charles Monteith",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102583-101311",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:37.466Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/William-Russell-Monteith",
+        "nodeid": 101311,
+        "documentid": 102583,
+        "nodealias": "William-Russell-Monteith",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0df8e041-c4bb-4e3a-8c0e-03bcb543a5dc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "William Russell Monteith",
+        "documentmodifiedwhen": "2021-12-14T08:04:29.426Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13718B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "William Russell Monteith",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "D\u00e9c\u00e9d\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Deceased"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102587-101317",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:47.139Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Frank-Monteleone",
+        "nodeid": 101317,
+        "documentid": 102587,
+        "nodealias": "Frank-Monteleone",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cb714301-9f75-4ec2-8412-cf39d640b94b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Frank Monteleone",
+        "documentmodifiedwhen": "2021-12-22T07:16:49.795Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "18215D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Frank Monteleone",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102588-101316",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:46.936Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/011/Giuseppe-Monteleone",
+        "nodeid": 101316,
+        "documentid": 102588,
+        "nodealias": "Giuseppe-Monteleone",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fb25a5a0-dc89-4e78-9450-f92232ba5cf1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Giuseppe Monteleone",
+        "documentmodifiedwhen": "2021-12-16T07:22:13.787Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P03091",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Giuseppe Monteleone",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N9A 3H7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Windsor"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102589-101315",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:47.139Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Frank-Joseph-Montello",
+        "nodeid": 101315,
+        "documentid": 102589,
+        "nodealias": "Frank-Joseph-Montello",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d82704c7-283c-49a4-85c5-fd440d3b3e91",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Frank Joseph Montello",
+        "documentmodifiedwhen": "2022-06-12T07:15:18.812Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "08136N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Frank Joseph Montello",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102591-101319",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:47.765Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Kathleen-Marie-Montello",
+        "nodeid": 101319,
+        "documentid": 102591,
+        "nodealias": "Kathleen-Marie-Montello",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bfd07c60-af13-4cc0-b21f-52f730161611",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kathleen Marie Montello",
+        "documentmodifiedwhen": "2021-12-31T07:16:07.745Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43678T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kathleen Marie Montello",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N8X 1L4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Windsor"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102590-101318",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:47.703Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Melisa-Tommasina-Montemurro",
+        "nodeid": 101318,
+        "documentid": 102590,
+        "nodealias": "Melisa-Tommasina-Montemurro",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5f7e7d9e-a5c9-43c6-a4e5-74bc248677a4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Melisa Tommasina Montemurro",
+        "documentmodifiedwhen": "2022-01-04T07:21:51.194Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50829W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Melisa Tommasina Montemurro",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 1T3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105233-103961",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:20.957Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Lara-Silvia-Montero",
+        "nodeid": 103961,
+        "documentid": 105233,
+        "nodealias": "Lara-Silvia-Montero",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "482f6b33-9e79-4d18-8d4b-33fb7c4b657b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lara Silvia Montero",
+        "documentmodifiedwhen": "2021-09-21T08:10:56.502Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41542D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lara Silvia Montero",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "140983-135070",
+        "sys_site": "lso",
+        "sys_created": "2022-07-30T07:19:27.723Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/Carlos-Andres-Montero-Arias",
+        "nodeid": 135070,
+        "documentid": 140983,
+        "nodealias": "Carlos-Andres-Montero-Arias",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dc11e4ed-c85e-47a5-bc51-7ef602bee20e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Carlos Andres Montero Arias",
+        "documentmodifiedwhen": "2022-07-30T07:19:27.723Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85597C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Carlos Andres Montero Arias",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102592-101320",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:48.128Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/011/Yanira-E-Monterroza",
+        "nodeid": 101320,
+        "documentid": 102592,
+        "nodealias": "Yanira-E-Monterroza",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f3f0bf99-26a1-4f37-9c9c-9de683115321",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Yanira E Monterroza",
+        "documentmodifiedwhen": "2021-12-18T07:26:45.92Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de l'annexe sur les indemnit\u00e9s d'accident l\u00e9gales (AIAL)"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Statutory Accident Benefits Schedule matters (SABS)"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07886",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Yanira E Monterroza",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5T 2E7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102594-101322",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:48.878Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Christopher-James-Montes",
+        "nodeid": 101322,
+        "documentid": 102594,
+        "nodealias": "Christopher-James-Montes",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5121d33d-5a9c-4aef-ac44-0c372d4e1e78",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher James Montes",
+        "documentmodifiedwhen": "2022-01-07T07:20:51.519Z",
+        "skuname": null,
+        "memberprovincetext": "Alberta",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57212J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher James Montes",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "T2P 3Y7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Calgary"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102423-101151",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:12:45.376Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Juliet-Soraya-Montes",
+        "nodeid": 101151,
+        "documentid": 102423,
+        "nodealias": "Juliet-Soraya-Montes",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2bcef8b1-9f73-485e-9b93-7b327873c89c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Juliet Soraya Montes",
+        "documentmodifiedwhen": "2019-11-12T10:34:15.485Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60528R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Juliet Soraya Montes",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6411972045898,
+                43.600830078125
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4Z 1V9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102596-101324",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:52.925Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Ronald-Paule-Montes",
+        "nodeid": 101324,
+        "documentid": 102596,
+        "nodealias": "Ronald-Paule-Montes",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9aa66068-6868-4037-a441-a7263c29a4a7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ronald Paule Montes",
+        "documentmodifiedwhen": "2021-06-25T07:16:29.826Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70997P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ronald Paule Montes",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3829574584961,
+                43.6547393798828
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 2C8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102595-101323",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:52.815Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Jose-De-Jesus-Montes-Castilla",
+        "nodeid": 101323,
+        "documentid": 102595,
+        "nodealias": "Jose-De-Jesus-Montes-Castilla",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0167fe6a-04cd-4609-b52d-ff75de706c40",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jose De Jesus Montes Castilla",
+        "documentmodifiedwhen": "2022-01-11T07:24:06.886Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65215F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jose De Jesus Montes Castilla",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0H8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "140222-134611",
+        "sys_site": "lso",
+        "sys_created": "2022-07-01T07:20:40.667Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/015/Sonia-Alejandra-Montes-Figueroa",
+        "nodeid": 134611,
+        "documentid": 140222,
+        "nodealias": "Sonia-Alejandra-Montes-Figueroa",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b1df6913-47a5-4a9b-be86-70ea85cb439a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sonia Alejandra Montes Figueroa",
+        "documentmodifiedwhen": "2022-07-17T07:16:48.103Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18606",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sonia Alejandra Montes Figueroa",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Eligible to Provide Legal Services - No Proof of Insurance"
+        ],
+        "memberpostalcode": "M3B 3H9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102597-101325",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:55.777Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Adolfo-Martin-Montes-Guillen",
+        "nodeid": 101325,
+        "documentid": 102597,
+        "nodealias": "Adolfo-Martin-Montes-Guillen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0afc9e85-af74-422d-8d59-8c05a93b5e7e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Adolfo Martin Montes Guillen",
+        "documentmodifiedwhen": "2022-06-01T07:17:07.251Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Espagnol"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Spanish"
+        ],
+        "membernumber": "57515N",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Adolfo Martin Montes Guillen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4N 5J4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Barrie"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102598-101326",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:56.183Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/011/Nick-Albert-Montesano",
+        "nodeid": 101326,
+        "documentid": 102598,
+        "nodealias": "Nick-Albert-Montesano",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "08d0dfcc-83c5-4328-8951-597895dc843b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nick Albert Montesano",
+        "documentmodifiedwhen": "2021-12-16T07:16:59.29Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P02139",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nick Albert Montesano",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4C 3C7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Richmond Hill"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105235-103963",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:20.957Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Jules-Anthony-Monteyne",
+        "nodeid": 103963,
+        "documentid": 105235,
+        "nodealias": "Jules-Anthony-Monteyne",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f59449de-10f7-4a20-8b74-0e1e5441b572",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jules Anthony Monteyne",
+        "documentmodifiedwhen": "2021-08-21T07:17:08.806Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72980C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jules Anthony Monteyne",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3795166015625,
+                43.6481819152832
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5L 1A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123231-119756",
+        "sys_site": "lso",
+        "sys_created": "2020-06-16T10:01:19.492Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Amanda-Polley-Montgomery",
+        "nodeid": 119756,
+        "documentid": 123231,
+        "nodealias": "Amanda-Polley-Montgomery",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3189012f-9fad-418a-b4ff-0a31b633b3c2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amanda Polley Montgomery",
+        "documentmodifiedwhen": "2021-08-14T07:17:29.983Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "79705M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amanda Polley Montgomery",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4307632446289,
+                43.6531257629395
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6H 1A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105240-103968",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:26.319Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Anne-Elizabeth-Montgomery",
+        "nodeid": 103968,
+        "documentid": 105240,
+        "nodealias": "Anne-Elizabeth-Montgomery",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2de8c699-e645-43bd-9f51-cf3623e9e886",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anne Elizabeth Montgomery",
+        "documentmodifiedwhen": "2020-02-20T08:13:13.82Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "19629V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anne Elizabeth Montgomery",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102607-101335",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:17:12.92Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Barbara-Kathleen-Montgomery",
+        "nodeid": 101335,
+        "documentid": 102607,
+        "nodealias": "Barbara-Kathleen-Montgomery",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e14cb403-467b-478e-b70e-a1156c45fe60",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Barbara Kathleen Montgomery",
+        "documentmodifiedwhen": "2022-03-18T07:17:21.82Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56876B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Barbara Kathleen Montgomery",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L4K 5R6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vaughan"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105241-103969",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:26.898Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Brian-Anthony-Montgomery",
+        "nodeid": 103969,
+        "documentid": 105241,
+        "nodealias": "Brian-Anthony-Montgomery",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "276cdfee-abf8-413b-89af-02cc4c2ceffa",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brian Anthony Montgomery",
+        "documentmodifiedwhen": "2021-11-05T07:50:27.509Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36218G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brian Anthony Montgomery",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102600-101328",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:17:02.999Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Brian-Lyle-Montgomery",
+        "nodeid": 101328,
+        "documentid": 102600,
+        "nodealias": "Brian-Lyle-Montgomery",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c8cdca44-53f5-4ea9-9846-406264f90fe0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brian Lyle Montgomery",
+        "documentmodifiedwhen": "2021-12-22T07:17:42.759Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13719U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brian Lyle Montgomery",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P3C 2C1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Sudbury"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102602-101330",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:17:04.815Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Colleen-Elizabeth-Montgomery",
+        "nodeid": 101330,
+        "documentid": 102602,
+        "nodealias": "Colleen-Elizabeth-Montgomery",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d0bc863b-76a8-4d4d-92cc-4a8e5f4431ed",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Colleen Elizabeth Montgomery",
+        "documentmodifiedwhen": "2021-12-14T10:37:18.75Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "31204T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Colleen Elizabeth Montgomery",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102605-101333",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:17:12.451Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Debra-Lynn-Montgomery",
+        "nodeid": 101333,
+        "documentid": 102605,
+        "nodealias": "Debra-Lynn-Montgomery",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "092cd1a5-7e66-4b13-a09b-758fc79f0ff4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Debra Lynn Montgomery",
+        "documentmodifiedwhen": "2021-06-08T07:15:53.445Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32679U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Debra Lynn Montgomery",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116923-114521",
+        "sys_site": "lso",
+        "sys_created": "2019-06-28T07:47:05.557Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Douglas-Hugh-John-Montgomery",
+        "nodeid": 114521,
+        "documentid": 116923,
+        "nodealias": "Douglas-Hugh-John-Montgomery",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "373b1be9-cd45-43ba-ab5f-c04c82f46511",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Douglas Hugh John Montgomery",
+        "documentmodifiedwhen": "2022-01-17T07:24:17.077Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78082M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Douglas Hugh John Montgomery",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5V 3H1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102606-101334",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:17:12.842Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Dwight-Robert-Lee-Montgomery",
+        "nodeid": 101334,
+        "documentid": 102606,
+        "nodealias": "Dwight-Robert-Lee-Montgomery",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "21ed796b-fbdf-4f41-b25c-b5abda0ae5f5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Dwight Robert Lee Montgomery",
+        "documentmodifiedwhen": "2022-01-08T07:18:33.673Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58096W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Dwight Robert Lee Montgomery",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K8A 3J7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Pembroke"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105239-103966",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:21.625Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Franklin-Walter-Montgomery",
+        "nodeid": 103966,
+        "documentid": 105239,
+        "nodealias": "Franklin-Walter-Montgomery",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c9b65a86-9f35-4cda-8284-eaa45f19e098",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Franklin Walter Montgomery",
+        "documentmodifiedwhen": "2021-12-18T07:15:41.38Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "11637E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Franklin Walter Montgomery",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102608-101336",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:17:13.389Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Jena-Candice-Montgomery",
+        "nodeid": 101336,
+        "documentid": 102608,
+        "nodealias": "Jena-Candice-Montgomery",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a88160cf-b572-4c26-89ed-0e228a544e61",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jena Candice Montgomery",
+        "documentmodifiedwhen": "2020-01-02T07:32:22.104Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63448C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jena Candice Montgomery",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.6964111328125,
+                45.4200897216797
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1P 5J6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102603-101331",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:17:04.815Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/John-William-Montgomery",
+        "nodeid": 101331,
+        "documentid": 102603,
+        "nodealias": "John-William-Montgomery",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c983c419-8b81-433b-b31b-4c43d8c018f8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John William Montgomery",
+        "documentmodifiedwhen": "2021-12-26T07:21:52.562Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "31984Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John William Montgomery",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L1N 4P7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Whitby"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102601-101329",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:17:04.156Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Joseph-Randal-Montgomery",
+        "nodeid": 101329,
+        "documentid": 102601,
+        "nodealias": "Joseph-Randal-Montgomery",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "37e15589-add9-4351-88b9-95f14415a9c7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joseph Randal Montgomery",
+        "documentmodifiedwhen": "2021-12-25T07:28:51.379Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "29607C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joseph Randal Montgomery",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 5M4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "102599-101327",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T01:16:58.428Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/011/Megan-Nicole-Montgomery",
+        "nodeid": 101327,
+        "documentid": 102599,
+        "nodealias": "Megan-Nicole-Montgomery",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2d224c46-7907-47d8-a26d-7b38ae1512f0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Megan Nicole Montgomery",
+        "documentmodifiedwhen": "2021-12-20T07:17:00.606Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13141",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Megan Nicole Montgomery",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L6W 4T8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105238-103967",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:21.656Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Paul-Evans-Montgomery",
+        "nodeid": 103967,
+        "documentid": 105238,
+        "nodealias": "Paul-Evans-Montgomery",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "819e1800-2ac1-4be8-8ec2-554ba0c4d33a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paul Evans Montgomery",
+        "documentmodifiedwhen": "2021-12-14T08:04:34.966Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13720E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paul Evans Montgomery",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105232-103960",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:20.973Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Robert-Stanley-Montgomery",
+        "nodeid": 103960,
+        "documentid": 105232,
+        "nodealias": "Robert-Stanley-Montgomery",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "aaff4887-a8a5-470a-a314-ca56ded3c654",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Stanley Montgomery",
+        "documentmodifiedwhen": "2021-12-14T08:31:12.933Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "07488D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Stanley Montgomery",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118229-115632",
+        "sys_site": "lso",
+        "sys_created": "2019-09-12T07:30:37.265Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Samantha-Leanne-Montgomery",
+        "nodeid": 115632,
+        "documentid": 118229,
+        "nodealias": "Samantha-Leanne-Montgomery",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9e919153-107d-4576-9371-f77c29d06d9d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Samantha Leanne Montgomery",
+        "documentmodifiedwhen": "2019-10-10T07:21:45.696Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15807",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Samantha Leanne Montgomery",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6966018676758,
+                43.4427490234375
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L6K 3W7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oakville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105244-103973",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:33.694Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Seth-Drummond-Montgomery",
+        "nodeid": 103973,
+        "documentid": 105244,
+        "nodealias": "Seth-Drummond-Montgomery",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a64616cf-abfd-450a-ba53-77ebd9c70713",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Seth Drummond Montgomery",
+        "documentmodifiedwhen": "2020-02-20T08:47:25.903Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50503T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Seth Drummond Montgomery",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105243-103971",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:19:30.411Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Stephanie-Lauren-Montgomery",
+        "nodeid": 103971,
+        "documentid": 105243,
+        "nodealias": "Stephanie-Lauren-Montgomery",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5a2f2794-75f0-4f64-bf0b-546e8b914764",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephanie Lauren Montgomery",
+        "documentmodifiedwhen": "2022-03-27T07:15:39.332Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45746L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephanie Lauren Montgomery",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "N6J 1Y5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    }
+]

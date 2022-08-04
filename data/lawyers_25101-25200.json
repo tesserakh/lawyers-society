@@ -1,0 +1,5118 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89244-87972",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:30:01.208Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Randolph-Alexander-Gass",
+        "nodeid": 87972,
+        "documentid": 89244,
+        "nodealias": "Randolph-Alexander-Gass",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9a70bd45-eee2-4de2-8021-a0f77614baa9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Randolph Alexander Gass",
+        "documentmodifiedwhen": "2021-11-05T07:45:09.403Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30660R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Randolph Alexander Gass",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23957-23100",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:18:20.003Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Miranda-Emily-Rose-Gass-Donnelly",
+        "nodeid": 23100,
+        "documentid": 23957,
+        "nodealias": "Miranda-Emily-Rose-Gass-Donnelly",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "55d315cf-8497-4f56-9d43-475f6927730c",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Miranda Emily Rose Gass-Donnelly",
+        "documentmodifiedwhen": "2020-06-16T07:16:04.333Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52526R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Miranda Emily Rose Gass-Donnelly",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23958-23101",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:18:34.577Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Samir-Gassanov",
+        "nodeid": 23101,
+        "documentid": 23958,
+        "nodealias": "Samir-Gassanov",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "82accff1-835e-4efa-8c7b-6a4407954bee",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Samir Gassanov",
+        "documentmodifiedwhen": "2021-10-13T07:15:38.226Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "53701R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Samir Gassanov",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3819274902344,
+                43.6450538635254
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 1E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23959-23102",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:19:12.715Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Jasmine-Constance-Gassi-Harnden",
+        "nodeid": 23102,
+        "documentid": 23959,
+        "nodealias": "Jasmine-Constance-Gassi-Harnden",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "576de252-6c00-4e89-82c5-57caea40bc6d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jasmine Constance Gassi Harnden",
+        "documentmodifiedwhen": "2022-04-13T07:15:51.169Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71566T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jasmine Constance Gassi Harnden",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P6A 2J8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Sault Ste Marie"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89246-87974",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:30:01.302Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Jennifer-Catherine-Gassowski",
+        "nodeid": 87974,
+        "documentid": 89246,
+        "nodealias": "Jennifer-Catherine-Gassowski",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "14beba75-cd80-4b5d-abb7-08101cbb156d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Catherine Gassowski",
+        "documentmodifiedwhen": "2021-09-21T09:14:15.758Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08043",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Catherine Gassowski",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23960-23103",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:19:27.767Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Paul-Francis-Gastaldi",
+        "nodeid": 23103,
+        "documentid": 23960,
+        "nodealias": "Paul-Francis-Gastaldi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "40925cf6-0b64-45e6-b9be-eae64500edaf",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paul Francis Gastaldi",
+        "documentmodifiedwhen": "2021-12-15T07:20:19.846Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit commercial et corporatifes",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Corporate/Commercial Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "17768P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paul Francis Gastaldi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L9R 1V6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Alliston"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89250-87978",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:30:06.708Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Cheryl-Gaster",
+        "nodeid": 87978,
+        "documentid": 89250,
+        "nodealias": "Cheryl-Gaster",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "01c04587-b9d4-47c9-81c8-52e9c7a222d7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Cheryl Gaster",
+        "documentmodifiedwhen": "2020-02-20T08:30:10.09Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "34969S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Cheryl Gaster",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23961-23104",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:19:41.28Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Charles-Munro-Gastle",
+        "nodeid": 23104,
+        "documentid": 23961,
+        "nodealias": "Charles-Munro-Gastle",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b3e82d07-5369-4436-91d9-d78bedab882a",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Charles Munro Gastle",
+        "documentmodifiedwhen": "2021-12-24T07:22:00.193Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26906M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Charles Munro Gastle",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M1E 3J6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23962-23105",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:19:53.977Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Heather-Megan-Gastle",
+        "nodeid": 23105,
+        "documentid": 23962,
+        "nodealias": "Heather-Megan-Gastle",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "93255db7-75cf-4435-97fe-b38691fe8187",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Heather Megan Gastle",
+        "documentmodifiedwhen": "2022-01-13T07:32:44.436Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71292B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Heather Megan Gastle",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M1E 3J6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23963-23106",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:20:06.77Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Andrew-Lawrence-Gaston",
+        "nodeid": 23106,
+        "documentid": 23963,
+        "nodealias": "Andrew-Lawrence-Gaston",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6102ed85-c60b-47bb-8c62-f4c735134815",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew Lawrence Gaston",
+        "documentmodifiedwhen": "2021-12-20T07:19:45.358Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13693",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew Lawrence Gaston",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L9R 1V9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Alliston"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23964-23107",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:20:20.148Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Melissa-Lori-Gaston",
+        "nodeid": 23107,
+        "documentid": 23964,
+        "nodealias": "Melissa-Lori-Gaston",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8c24ab51-14c4-49df-9b53-b564cc7874f9",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Melissa Lori Gaston",
+        "documentmodifiedwhen": "2021-06-15T07:15:39.761Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41012C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Melissa Lori Gaston",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23965-23108",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:20:34.265Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Paula-Sofia-Gatdula-Chico",
+        "nodeid": 23108,
+        "documentid": 23965,
+        "nodealias": "Paula-Sofia-Gatdula-Chico",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "21a47648-d8e7-4da0-aed3-e2dc836181c1",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paula Sofia Gatdula Chico",
+        "documentmodifiedwhen": "2021-12-20T07:20:20.684Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14005",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paula Sofia Gatdula Chico",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M5J 1R7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23966-23109",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:20:48.334Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Daniela-Valerica-Gatea",
+        "nodeid": 23109,
+        "documentid": 23966,
+        "nodealias": "Daniela-Valerica-Gatea",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "27933e03-f9d3-483b-adc2-9bf5f3ad0384",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniela Valerica Gatea",
+        "documentmodifiedwhen": "2019-05-07T16:07:03.827Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Italien",
+            "Roumain"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Italian",
+            "Romanian"
+        ],
+        "membernumber": "52527N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniela Valerica Gatea",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.457160949707,
+                43.9159240722656
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4E 4T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Richmond Hill"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89249-87977",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:30:07.286Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Robert-Gerald-Gateman",
+        "nodeid": 87977,
+        "documentid": 89249,
+        "nodealias": "Robert-Gerald-Gateman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f94e7fdf-7243-414e-8576-730e1681c547",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Gerald Gateman",
+        "documentmodifiedwhen": "2021-03-17T07:16:14.892Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30231C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Gerald Gateman",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23967-23110",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:21:02.361Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Anthony-Hugh-Gatensby",
+        "nodeid": 23110,
+        "documentid": 23967,
+        "nodealias": "Anthony-Hugh-Gatensby",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "67116dc1-8a58-40da-a82a-b7a7015b378a",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anthony Hugh Gatensby",
+        "documentmodifiedwhen": "2022-03-11T07:17:31.135Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68970V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anthony Hugh Gatensby",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5C 3G5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23968-23111",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:21:16.128Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Robert-Michael-Gater",
+        "nodeid": 23111,
+        "documentid": 23968,
+        "nodealias": "Robert-Michael-Gater",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bfbd85b2-e618-4fe8-81fd-79971b5a4cd6",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Michael Gater",
+        "documentmodifiedwhen": "2022-06-17T07:19:21.406Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13675",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Michael Gater",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "K1R 6H4",
+        "membercurrentrestrictions": "Y",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139866-134254",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T07:47:23.385Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Melody-Gateretse",
+        "nodeid": 134254,
+        "documentid": 139866,
+        "nodealias": "Melody-Gateretse",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "63ecfcf8-6922-465f-abd8-7d2d0a11e1e7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Melody Gateretse",
+        "documentmodifiedwhen": "2022-07-07T07:18:58.886Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84732E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Melody Gateretse",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139540-133928",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T07:23:30.824Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/047/Alexandria-Lilly-Gates",
+        "nodeid": 133928,
+        "documentid": 139540,
+        "nodealias": "Alexandria-Lilly-Gates",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cf54c0b0-4ee2-4815-bc71-346a2fcd5386",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alexandria Lilly Gates",
+        "documentmodifiedwhen": "2022-07-30T07:44:43.685Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85064N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alexandria Lilly Gates",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23973-23116",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:22:29.219Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Amy-Elizabeth-Agnos-Gates",
+        "nodeid": 23116,
+        "documentid": 23973,
+        "nodealias": "Amy-Elizabeth-Agnos-Gates",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8c79d81d-073a-4a6e-ab2c-c918dd3c7dad",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amy Elizabeth Agnos Gates",
+        "documentmodifiedwhen": "2022-02-23T07:24:01.491Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65894Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amy Elizabeth Agnos Gates",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "M4R 1A3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23969-23112",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:21:32.501Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Arlan-Winston-Garrett-Gates",
+        "nodeid": 23112,
+        "documentid": 23969,
+        "nodealias": "Arlan-Winston-Garrett-Gates",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "989ca05c-348a-426f-87c2-9549b297ab74",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Arlan Winston Garrett Gates",
+        "documentmodifiedwhen": "2022-01-01T07:22:16.267Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45657L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Arlan Winston Garrett Gates",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2T3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89248-87976",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:30:07.49Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Danielle-Marie-Gates",
+        "nodeid": 87976,
+        "documentid": 89248,
+        "nodealias": "Danielle-Marie-Gates",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "51e9c20c-00e4-46cb-a3bc-6c9ea04e3acf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Danielle Marie Gates",
+        "documentmodifiedwhen": "2021-09-21T09:11:58.314Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07520",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Danielle Marie Gates",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89252-87980",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:30:13.131Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Douglas-Laidlaw-Gates",
+        "nodeid": 87980,
+        "documentid": 89252,
+        "nodealias": "Douglas-Laidlaw-Gates",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e937634f-a160-4ed5-87b0-2d8c19ce2d6a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Douglas Laidlaw Gates",
+        "documentmodifiedwhen": "2022-05-28T07:44:16.387Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "14240H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Douglas Laidlaw Gates",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89254-87982",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:30:13.131Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Gordon-Dinnick-Gates",
+        "nodeid": 87982,
+        "documentid": 89254,
+        "nodealias": "Gordon-Dinnick-Gates",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f393b1b1-d2ef-41c6-aca0-fd68f5c2e542",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gordon Dinnick Gates",
+        "documentmodifiedwhen": "2021-09-21T07:34:37.235Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27300P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gordon Dinnick Gates",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "129004-124834",
+        "sys_site": "lso",
+        "sys_created": "2021-04-27T07:29:34.785Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Jackson-Alexander-Gates",
+        "nodeid": 124834,
+        "documentid": 129004,
+        "nodealias": "Jackson-Alexander-Gates",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c1978f69-b2b2-4f2a-8c3c-e7259624a05d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jackson Alexander Gates",
+        "documentmodifiedwhen": "2022-06-08T07:19:26.903Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17249",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jackson Alexander Gates",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L8L 2P7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116032-113647",
+        "sys_site": "lso",
+        "sys_created": "2019-06-22T07:29:52.743Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Jaclyn-Elizabeth-Gates",
+        "nodeid": 113647,
+        "documentid": 116032,
+        "nodealias": "Jaclyn-Elizabeth-Gates",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "781e894c-0192-4c2a-9a87-339da8231c24",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jaclyn Elizabeth Gates",
+        "documentmodifiedwhen": "2022-01-16T07:18:36.968Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76814N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jaclyn Elizabeth Gates",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L8N 3P6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23974-23117",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:22:41.877Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Kelly-Marie-Gates",
+        "nodeid": 23117,
+        "documentid": 23974,
+        "nodealias": "Kelly-Marie-Gates",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "443d1d07-6470-4b04-ba8c-8a99e8f3cfbd",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kelly Marie Gates",
+        "documentmodifiedwhen": "2022-01-14T07:31:33.222Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72561E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kelly Marie Gates",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4B 3P8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Richmond Hill"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "117448-115046",
+        "sys_site": "lso",
+        "sys_created": "2019-06-29T07:26:32.373Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Nathan-Laurence-Gates",
+        "nodeid": 115046,
+        "documentid": 117448,
+        "nodealias": "Nathan-Laurence-Gates",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "90ebbe73-a272-4ef2-8731-d8e9f87f26ef",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nathan Laurence Gates",
+        "documentmodifiedwhen": "2022-06-01T07:16:59.743Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78231D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nathan Laurence Gates",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23970-23113",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:21:45.573Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Robert-Douglas-Richard-Gates",
+        "nodeid": 23113,
+        "documentid": 23970,
+        "nodealias": "Robert-Douglas-Richard-Gates",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2d5a9f3c-9a1e-4851-b214-09e4c1cd625c",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Douglas Richard Gates",
+        "documentmodifiedwhen": "2022-01-06T07:24:07.778Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47140C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Douglas Richard Gates",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M7A 1Y7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23971-23114",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:22:00.412Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Vivian-Carol-Gloria-Gates",
+        "nodeid": 23114,
+        "documentid": 23971,
+        "nodealias": "Vivian-Carol-Gloria-Gates",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "044912b7-04a8-4d9e-a054-4c768487498d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Vivian Carol Gloria Gates",
+        "documentmodifiedwhen": "2022-06-28T07:15:57.807Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51936G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Vivian Carol Gloria Gates",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "K1Z 6W4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23975-23118",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:22:56.372Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Aida-Gatfield",
+        "nodeid": 23118,
+        "documentid": 23975,
+        "nodealias": "Aida-Gatfield",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9778fd36-3567-4069-971f-e58395d40336",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Aida Gatfield",
+        "documentmodifiedwhen": "2021-12-31T07:17:12.712Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43799Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Aida Gatfield",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N0M 1C0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Arva"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89255-87981",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:30:13.459Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Brian-Rene-Gatien",
+        "nodeid": 87981,
+        "documentid": 89255,
+        "nodealias": "Brian-Rene-Gatien",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3a2a4ba3-70d3-4fcd-b073-206563a63548",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brian Rene Gatien",
+        "documentmodifiedwhen": "2020-02-20T08:09:44.625Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "19883M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brian Rene Gatien",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23976-23119",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:23:09.064Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Maurice-Henri-Gatien",
+        "nodeid": 23119,
+        "documentid": 23976,
+        "nodealias": "Maurice-Henri-Gatien",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2889bf80-9748-4881-b72d-d01512d0bc85",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Maurice Henri Gatien",
+        "documentmodifiedwhen": "2021-12-14T07:38:07.073Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "12391K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Maurice Henri Gatien",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K6J 1G2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Cornwall"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "133960-129257",
+        "sys_site": "lso",
+        "sys_created": "2021-09-11T07:17:56.751Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Rebecca-Sheldon-Gatjens",
+        "nodeid": 129257,
+        "documentid": 133960,
+        "nodealias": "Rebecca-Sheldon-Gatjens",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3a3fce38-b0bf-4f5f-ad8e-c20eff0395c9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rebecca Sheldon Gatjens",
+        "documentmodifiedwhen": "2022-05-10T07:19:36.417Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17771",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rebecca Sheldon Gatjens",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L8N 3W4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23978-23121",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:23:28.819Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/James-Christian-Gatley",
+        "nodeid": 23121,
+        "documentid": 23978,
+        "nodealias": "James-Christian-Gatley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7c0da3d7-3072-4f2e-8a39-3db2c14026e6",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "James Christian Gatley",
+        "documentmodifiedwhen": "2021-12-29T07:22:12.374Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37808J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "James Christian Gatley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2S5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23979-23122",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:23:41.754Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Anna-Vladimirovna-Gatova",
+        "nodeid": 23122,
+        "documentid": 23979,
+        "nodealias": "Anna-Vladimirovna-Gatova",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b6d54b7d-43e8-473a-bcf4-4fee0e99cf51",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anna Vladimirovna Gatova",
+        "documentmodifiedwhen": "2022-01-04T07:29:17.514Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54268O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anna Vladimirovna Gatova",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 1J5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23980-23123",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:23:53.871Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Tara-Christine-Gatten",
+        "nodeid": 23123,
+        "documentid": 23980,
+        "nodealias": "Tara-Christine-Gatten",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7f33d7f7-8cf2-4bb0-94a0-25bfebd8960f",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tara Christine Gatten",
+        "documentmodifiedwhen": "2022-04-06T07:17:27.477Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43800E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tara Christine Gatten",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N8Y 1C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Windsor"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89253-87983",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:30:13.709Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Tyne-Marita-Gatten",
+        "nodeid": 87983,
+        "documentid": 89253,
+        "nodealias": "Tyne-Marita-Gatten",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "909a1f36-a18f-4b7f-a964-baa2fec9d164",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tyne Marita Gatten",
+        "documentmodifiedwhen": "2019-06-27T07:16:39.802Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74554U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tyne Marita Gatten",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3246383666992,
+                43.8477668762207
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L6G 0G1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88247-86975",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:59:51.389Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/043/Justin-Gino-Gattesco",
+        "nodeid": 86975,
+        "documentid": 88247,
+        "nodealias": "Justin-Gino-Gattesco",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b2db9dc0-5330-4726-8524-de1c85ed3313",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Justin Gino Gattesco",
+        "documentmodifiedwhen": "2022-08-03T07:18:15.328Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75473K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Justin Gino Gattesco",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L7L 6W6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Burlington"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23981-23124",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:24:08.969Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Alfredo-Romeo-Gatti",
+        "nodeid": 23124,
+        "documentid": 23981,
+        "nodealias": "Alfredo-Romeo-Gatti",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d1191c2d-e608-422e-89bb-7a0f4af8111d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alfredo Romeo Gatti",
+        "documentmodifiedwhen": "2021-12-14T07:24:02.186Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "10027N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alfredo Romeo Gatti",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N9A 4K4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Windsor"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23982-23125",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:24:22.101Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Dante-Darryl-Gatti",
+        "nodeid": 23125,
+        "documentid": 23982,
+        "nodealias": "Dante-Darryl-Gatti",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "56f87425-72ea-4dcc-a3ee-85cce9723948",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Dante Darryl Gatti",
+        "documentmodifiedwhen": "2021-12-27T07:18:22.651Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33259O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Dante Darryl Gatti",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N9A 6T3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Windsor"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "133208-128634",
+        "sys_site": "lso",
+        "sys_created": "2021-07-15T07:36:03.754Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Sarah-Ann-Gatti",
+        "nodeid": 128634,
+        "documentid": 133208,
+        "nodealias": "Sarah-Ann-Gatti",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "19dfb12d-d6a9-410c-a600-0cc697029b81",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sarah Ann Gatti",
+        "documentmodifiedwhen": "2022-01-18T12:10:26.067Z",
+        "skuname": null,
+        "memberprovincetext": "Massachusetts",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83168L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sarah Ann Gatti",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "02116",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Boston"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89258-87984",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:30:18.522Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Concetta-Melissa-Gatto",
+        "nodeid": 87984,
+        "documentid": 89258,
+        "nodealias": "Concetta-Melissa-Gatto",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8a03796e-7bee-4b19-9696-bd6a46b34328",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Concetta Melissa Gatto",
+        "documentmodifiedwhen": "2021-09-21T09:25:42.288Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05737",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Concetta Melissa Gatto",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89256-87986",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:30:18.538Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Daniel-Joseph-Gatto",
+        "nodeid": 87986,
+        "documentid": 89256,
+        "nodealias": "Daniel-Joseph-Gatto",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3842e013-f8a7-4d2c-963a-5f62972828b4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniel Joseph Gatto",
+        "documentmodifiedwhen": "2022-01-27T07:17:11.424Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "73836G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniel Joseph Gatto",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 0E7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23983-23126",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:24:36.199Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Gennaro-Gerald-Gatto",
+        "nodeid": 23126,
+        "documentid": 23983,
+        "nodealias": "Gennaro-Gerald-Gatto",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d7c50d45-558c-4b28-a9ad-55550f9b138d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gennaro Gerald Gatto",
+        "documentmodifiedwhen": "2021-12-21T07:17:01.98Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "23711N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gennaro Gerald Gatto",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L9G 2B3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ancaster"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89257-87985",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:30:18.912Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/William-Eugene-Gatward",
+        "nodeid": 87985,
+        "documentid": 89257,
+        "nodealias": "William-Eugene-Gatward",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4f03be7b-6242-47ae-9eff-39319bd9c77a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "William Eugene Gatward",
+        "documentmodifiedwhen": "2021-11-06T07:15:28.09Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "19511A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "William Eugene Gatward",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -0.108493901789188,
+                51.5121726989746
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "United Kingdom",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "EC4Y 7DX",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23984-23127",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:24:48.792Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Hayley-Elizabeth-Gaucher",
+        "nodeid": 23127,
+        "documentid": 23984,
+        "nodealias": "Hayley-Elizabeth-Gaucher",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "39dd292e-6b60-4b36-a166-90618e98e3ef",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hayley Elizabeth Gaucher",
+        "documentmodifiedwhen": "2022-01-13T07:26:44.694Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70590O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hayley Elizabeth Gaucher",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K2P 2L8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "114049-112037",
+        "sys_site": "lso",
+        "sys_created": "2019-03-15T07:21:05.664Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Deborah-Ann-Michelle-Joan-Gauci-Tozzo",
+        "nodeid": 112037,
+        "documentid": 114049,
+        "nodealias": "Deborah-Ann-Michelle-Joan-Gauci-Tozzo",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d8a77267-52c5-450d-9476-7c70f75c1c01",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Deborah-Ann Michelle Joan Gauci Tozzo",
+        "documentmodifiedwhen": "2021-12-22T07:29:27.889Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15394",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Deborah-Ann Michelle Joan Gauci Tozzo",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M7A 2S9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23986-23129",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:25:16.067Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Clare-Marie-Gaudet",
+        "nodeid": 23129,
+        "documentid": 23986,
+        "nodealias": "Clare-Marie-Gaudet",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7cd33b10-80a9-43a6-80c7-9080e5175b24",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Clare Marie Gaudet",
+        "documentmodifiedwhen": "2022-05-17T07:16:17.613Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26187R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Clare Marie Gaudet",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4N 1G7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23987-23130",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:25:30.267Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Grace-Elizabeth-Gaudet",
+        "nodeid": 23130,
+        "documentid": 23987,
+        "nodealias": "Grace-Elizabeth-Gaudet",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0f172b48-6ade-4e66-bce6-62a5b5e018f0",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Grace Elizabeth Gaudet",
+        "documentmodifiedwhen": "2021-12-27T07:23:35.85Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit criminel et quasi criminel",
+            "Droit de la famille ou matrimonial",
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Infractions punissables par proc\u00e9dure sommaire \u00e0 la Cour de justice de l'Ontario"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Criminal/Quasi-Criminal Law",
+            "Family/Matrimonial Law",
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Ontario Court of Justice - Summary Conviction Offences"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32561W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Grace Elizabeth Gaudet",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 1H2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23988-23131",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:25:43.072Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Michael-Sean-Gaudet",
+        "nodeid": 23131,
+        "documentid": 23988,
+        "nodealias": "Michael-Sean-Gaudet",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c2cfa31a-ee1f-4fdd-a86c-ab3861f545d4",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Sean Gaudet",
+        "documentmodifiedwhen": "2021-12-28T07:26:24.921Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "35204R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Sean Gaudet",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 1T1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23985-23128",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:25:01.434Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Remi-Marc-Joseph-Gaudet",
+        "nodeid": 23128,
+        "documentid": 23985,
+        "nodealias": "Remi-Marc-Joseph-Gaudet",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "81376da6-aa95-4f55-bdbc-7ea5fd3608a6",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Remi Marc Joseph Gaudet",
+        "documentmodifiedwhen": "2021-12-18T07:16:48.463Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "\u00c9valuation de taxes fonci\u00e8res",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Small Claims Court matters",
+            "Property Tax Assessment",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06991",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Remi Marc Joseph Gaudet",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 1H2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23989-23132",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:25:56.642Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Shannon-Marie-Gaudet",
+        "nodeid": 23132,
+        "documentid": 23989,
+        "nodealias": "Shannon-Marie-Gaudet",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9ffe1cd5-c9b3-4517-839e-b2e5f37a1ef0",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shannon Marie Gaudet",
+        "documentmodifiedwhen": "2022-01-10T07:29:37.364Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61855P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shannon Marie Gaudet",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3P5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23990-23133",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:26:11.437Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Susan-Margaret-Gaudi",
+        "nodeid": 23133,
+        "documentid": 23990,
+        "nodealias": "Susan-Margaret-Gaudi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "90debcc8-bafb-4bb3-87fd-5c4b365b17ae",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Susan Margaret Gaudi",
+        "documentmodifiedwhen": "2021-03-03T07:19:19.716Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42240G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Susan Margaret Gaudi",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4276504516602,
+                43.6477661132813
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6J 3J6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23992-23135",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:26:38.532Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Albert-Roberto-Gaudio",
+        "nodeid": 23135,
+        "documentid": 23992,
+        "nodealias": "Albert-Roberto-Gaudio",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c53f5f98-f7c6-4e56-ba43-436e20a17c16",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Albert Roberto Gaudio",
+        "documentmodifiedwhen": "2022-05-14T07:24:49.267Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68736S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Albert Roberto Gaudio",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M9A 4K5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Etobicoke"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23991-23134",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:26:26.149Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Daniela-Veronica-Gaudio",
+        "nodeid": 23134,
+        "documentid": 23991,
+        "nodealias": "Daniela-Veronica-Gaudio",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "32842e72-d01f-4ff7-8442-4f6417a70a1b",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniela Veronica Gaudio",
+        "documentmodifiedwhen": "2021-12-19T07:23:05.883Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11123",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniela Veronica Gaudio",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M2N 0G3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23993-23136",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:26:51.338Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Stephen-Jean-Gaudreau",
+        "nodeid": 23136,
+        "documentid": 23993,
+        "nodealias": "Stephen-Jean-Gaudreau",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a0b3b752-ff29-4092-a781-7a3346f55704",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephen Jean Gaudreau",
+        "documentmodifiedwhen": "2022-01-11T07:31:24.372Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65895M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephen Jean Gaudreau",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5C 3G5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "40776-39512",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T05:06:07.2Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Nicole-Marie-Rose-Gaudreault",
+        "nodeid": 39512,
+        "documentid": 40776,
+        "nodealias": "Nicole-Marie-Rose-Gaudreault",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4f8654b0-f6fb-488d-801c-19828ae06f3b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nicole Marie-Rose Gaudreault",
+        "documentmodifiedwhen": "2020-11-04T07:23:58.832Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P10888",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nicole Marie-Rose Gaudreault",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.275505065918,
+                43.1743392944336
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L2W 1A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "St. Catharines"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23994-23137",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:27:05.811Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Jean-Francois-Gaudreault-DesBiens",
+        "nodeid": 23137,
+        "documentid": 23994,
+        "nodealias": "Jean-Francois-Gaudreault-DesBiens",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6eff2cef-96c5-4e20-96a3-180760ac362b",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jean-Francois Gaudreault-DesBiens",
+        "documentmodifiedwhen": "2022-01-03T07:22:44.868Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51657U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jean-Francois Gaudreault-DesBiens",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "H3C 3J7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Montreal"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23995-23138",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:27:19.584Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Aaron-David-Gauer",
+        "nodeid": 23138,
+        "documentid": 23995,
+        "nodealias": "Aaron-David-Gauer",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "059c9bc5-388f-4a83-9ded-cf66d4712a50",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Aaron David Gauer",
+        "documentmodifiedwhen": "2022-06-17T07:28:02.118Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "73204A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Aaron David Gauer",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "D\u00e9c\u00e9d\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Deceased"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89260-87988",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:30:25.777Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Danielle-Tamara-Gauer",
+        "nodeid": 87988,
+        "documentid": 89260,
+        "nodealias": "Danielle-Tamara-Gauer",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "afb3a3a6-c3c4-402d-bcb8-47eaa455d63e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Danielle Tamara Gauer",
+        "documentmodifiedwhen": "2022-05-13T07:17:25.591Z",
+        "skuname": null,
+        "memberprovincetext": "Florida",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65896I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Danielle Tamara Gauer",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "33131-2126",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Miami"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89261-87990",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:30:25.808Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Andrew-Ian-Gaughan",
+        "nodeid": 87990,
+        "documentid": 89261,
+        "nodealias": "Andrew-Ian-Gaughan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3f4587a8-0127-4618-a5f9-48d5a73c3fb1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew Ian Gaughan",
+        "documentmodifiedwhen": "2021-12-27T07:23:21.326Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "34279N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew Ian Gaughan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United Kingdom",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "LS10 1DJ",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Leeds"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23996-23139",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:27:32.251Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Robert-Craig-Gauld",
+        "nodeid": 23139,
+        "documentid": 23996,
+        "nodealias": "Robert-Craig-Gauld",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a00b7ea2-43e5-45a2-96d3-71bfe857eee8",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Craig Gauld",
+        "documentmodifiedwhen": "2021-12-14T08:50:36.803Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "18061J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Craig Gauld",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "N6G 4X8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23998-23141",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:28:02.241Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Civita-Maria-Gauley",
+        "nodeid": 23141,
+        "documentid": 23998,
+        "nodealias": "Civita-Maria-Gauley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "94b13733-2294-4ae4-87ce-ca8694d2f2fd",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Civita Maria Gauley",
+        "documentmodifiedwhen": "2022-02-04T07:17:28.733Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61502S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Civita Maria Gauley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L2R 6Z1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "St Catharines"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23997-23140",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:27:47.056Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Tracey-Linetta-Dorisanne-Gauley",
+        "nodeid": 23140,
+        "documentid": 23997,
+        "nodealias": "Tracey-Linetta-Dorisanne-Gauley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e95ce3d2-6bc1-42a9-8c32-6b4f3e0a588d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tracey Linetta Dorisanne Gauley",
+        "documentmodifiedwhen": "2021-12-19T07:17:47.515Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08735",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tracey Linetta Dorisanne Gauley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L5R 3L5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89262-87989",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:30:26.027Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/William-John-Gauley",
+        "nodeid": 87989,
+        "documentid": 89262,
+        "nodealias": "William-John-Gauley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a57711ed-b55a-43f5-8250-c5ec907357b1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "William John Gauley",
+        "documentmodifiedwhen": "2021-09-21T09:25:26.299Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05884",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "William John Gauley",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "23999-23142",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:28:15.762Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Marie-Marguerite-Lyne-Gaulin",
+        "nodeid": 23142,
+        "documentid": 23999,
+        "nodealias": "Marie-Marguerite-Lyne-Gaulin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7d26529f-d642-4831-9354-77a69563d9a1",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marie Marguerite Lyne Gaulin",
+        "documentmodifiedwhen": "2021-12-30T07:23:32.463Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit fiscal"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Tax Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "40199U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marie Marguerite Lyne Gaulin",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2T3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89263-87991",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:30:27.918Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Robert-Gaulin",
+        "nodeid": 87991,
+        "documentid": 89263,
+        "nodealias": "Robert-Gaulin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "268ea8eb-d4bb-4898-974d-46b14828a7b7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Gaulin",
+        "documentmodifiedwhen": "2021-12-14T08:08:48.621Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "08346K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Gaulin",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24000-23143",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:28:29.248Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Zachary-Andrew-Gaulin",
+        "nodeid": 23143,
+        "documentid": 24000,
+        "nodealias": "Zachary-Andrew-Gaulin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f28d62c9-0646-4138-a804-da546a5ee4c0",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Zachary Andrew Gaulin",
+        "documentmodifiedwhen": "2022-01-10T07:20:17.373Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63381Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Zachary Andrew Gaulin",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K2B 7G3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89264-87992",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:30:32.7Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Catherine-Ann-Gaulton",
+        "nodeid": 87992,
+        "documentid": 89264,
+        "nodealias": "Catherine-Ann-Gaulton",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e27e1d8f-99c8-4d77-9142-8a2af07377ec",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Catherine Ann Gaulton",
+        "documentmodifiedwhen": "2020-04-30T07:23:40.576Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "73673O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Catherine Ann Gaulton",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "119015-116331",
+        "sys_site": "lso",
+        "sys_created": "2019-10-05T07:16:04.215Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Jack-Alan-Gaum",
+        "nodeid": 116331,
+        "documentid": 119015,
+        "nodealias": "Jack-Alan-Gaum",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "360e522d-f534-4fe6-a805-16cc1117e79c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jack Alan Gaum",
+        "documentmodifiedwhen": "2021-12-14T07:25:04.594Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "12887L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jack Alan Gaum",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89265-87993",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:30:33.309Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Thomas-Daniel-Nelson-Gaum",
+        "nodeid": 87993,
+        "documentid": 89265,
+        "nodealias": "Thomas-Daniel-Nelson-Gaum",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "15f8a5b5-b61f-4ebf-af05-4990a5268196",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Thomas Daniel Nelson Gaum",
+        "documentmodifiedwhen": "2021-12-14T07:25:04.102Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "12888H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Thomas Daniel Nelson Gaum",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24002-23145",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:28:57.183Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Gerald-Alan-Gaunt",
+        "nodeid": 23145,
+        "documentid": 24002,
+        "nodealias": "Gerald-Alan-Gaunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4d51ee10-86e3-46a0-9815-b0d0e379f218",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gerald Alan Gaunt",
+        "documentmodifiedwhen": "2022-01-07T07:16:25.712Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56541A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gerald Alan Gaunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "V6E 0C5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vancouver"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24004-23147",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:29:25.303Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Narinder-Kumar-Gaur",
+        "nodeid": 23147,
+        "documentid": 24004,
+        "nodealias": "Narinder-Kumar-Gaur",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cdd26d6d-44c6-4e0f-8478-bcb1f821014f",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Narinder Kumar Gaur",
+        "documentmodifiedwhen": "2021-09-18T07:16:00.118Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67755W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Narinder Kumar Gaur",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.642578125,
+                43.7053337097168
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4T 4J3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24003-23146",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:29:10.122Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Varinder-Kumar-Gaur",
+        "nodeid": 23146,
+        "documentid": 24003,
+        "nodealias": "Varinder-Kumar-Gaur",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0bb1b4e0-a7e9-4b5d-b927-c4aef505df95",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Varinder Kumar Gaur",
+        "documentmodifiedwhen": "2022-07-26T07:16:07.088Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "44924A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Varinder Kumar Gaur",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4L 4G9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Woodbridge"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "125992-122185",
+        "sys_site": "lso",
+        "sys_created": "2020-11-03T08:11:01.13Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Vikas-Gaur",
+        "nodeid": 122185,
+        "documentid": 125992,
+        "nodealias": "Vikas-Gaur",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9a4ee52a-5b72-4ed5-aa4e-5aeb159a8e3e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Vikas Gaur",
+        "documentmodifiedwhen": "2022-01-17T07:27:52.685Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80900M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Vikas Gaur",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4K 4R9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vaughan"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24005-23148",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:29:39.323Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Aashima-Gautam",
+        "nodeid": 23148,
+        "documentid": 24005,
+        "nodealias": "Aashima-Gautam",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2bed6d25-ae5f-4739-a460-9db348459d64",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Aashima Gautam",
+        "documentmodifiedwhen": "2022-05-28T07:39:41.032Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11886",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Aashima Gautam",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L4H 0R9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Woodbridge"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "127508-123651",
+        "sys_site": "lso",
+        "sys_created": "2021-01-27T07:35:28.803Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Abhay-Gautam",
+        "nodeid": 123651,
+        "documentid": 127508,
+        "nodealias": "Abhay-Gautam",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1c11f06b-2767-40d3-a20f-5b34301891e6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Abhay Gautam",
+        "documentmodifiedwhen": "2022-01-17T07:28:09.992Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81144R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Abhay Gautam",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L9T 1Y8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Milton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24006-23149",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:29:51.766Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Sheel-Bhadra-Gautam",
+        "nodeid": 23149,
+        "documentid": 24006,
+        "nodealias": "Sheel-Bhadra-Gautam",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dc3e0643-c150-4440-835a-89f6497db959",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sheel Bhadra Gautam",
+        "documentmodifiedwhen": "2021-09-21T08:28:21.398Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64394J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sheel Bhadra Gautam",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.5760192871094,
+                43.7318687438965
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M9W 4L7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Etobicoke"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "131180-126699",
+        "sys_site": "lso",
+        "sys_created": "2021-06-09T07:57:45.089Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Uttra-Gautam",
+        "nodeid": 126699,
+        "documentid": 131180,
+        "nodealias": "Uttra-Gautam",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9d9dc7df-62f0-4310-b4c0-dcdd618edb39",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Uttra Gautam",
+        "documentmodifiedwhen": "2021-07-10T07:22:12.473Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82461V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Uttra Gautam",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3889694213867,
+                43.6460876464844
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 3C6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24007-23150",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:30:06.816Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Vikas-Gautam",
+        "nodeid": 23150,
+        "documentid": 24007,
+        "nodealias": "Vikas-Gautam",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4a31adbd-71d7-4ae6-b57b-14a9d3a30723",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Vikas Gautam",
+        "documentmodifiedwhen": "2021-12-21T07:30:02.118Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67132O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Vikas Gautam",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L7A 1B2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "124858-121302",
+        "sys_site": "lso",
+        "sys_created": "2020-08-31T09:11:07.958Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Yogesh-Gautam",
+        "nodeid": 121302,
+        "documentid": 124858,
+        "nodealias": "Yogesh-Gautam",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "35f56f4a-1a81-4885-a0e4-161ef0415614",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Yogesh Gautam",
+        "documentmodifiedwhen": "2022-01-17T07:26:03.98Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Gujarati",
+            "Hindi",
+            "Ourdou"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Gujarati",
+            "Hindi",
+            "Urdu"
+        ],
+        "membernumber": "80616M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Yogesh Gautam",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M3J 3K6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24008-23151",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:30:22.224Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Michael-Gauthey",
+        "nodeid": 23151,
+        "documentid": 24008,
+        "nodealias": "Michael-Gauthey",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c284c6f0-67e9-4bdc-9899-8f328ec892bb",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Gauthey",
+        "documentmodifiedwhen": "2021-12-23T07:29:32.048Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61503O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Gauthey",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 2M4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24014-23157",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:32:10.165Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Aimee-Marie-Anne-Gauthier",
+        "nodeid": 23157,
+        "documentid": 24014,
+        "nodealias": "Aimee-Marie-Anne-Gauthier",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1c4367da-3e98-4376-a9c6-8977a8667758",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Aimee Marie-Anne Gauthier",
+        "documentmodifiedwhen": "2021-12-25T07:26:05.158Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "29870O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Aimee Marie-Anne Gauthier",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L6W 4T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24028-23171",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:35:16.458Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Aysegul-Cigdem-Gauthier",
+        "nodeid": 23171,
+        "documentid": 24028,
+        "nodealias": "Aysegul-Cigdem-Gauthier",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a7f56883-dcd9-4a28-9d51-ed3c1c9e88b1",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Aysegul Cigdem Gauthier",
+        "documentmodifiedwhen": "2022-01-09T07:25:04.764Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61382N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Aysegul Cigdem Gauthier",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "H2V 2S4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Montreal"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "115643-113264",
+        "sys_site": "lso",
+        "sys_created": "2019-06-20T07:20:53.512Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Catherine-Patricia-Marie-Gauthier",
+        "nodeid": 113264,
+        "documentid": 115643,
+        "nodealias": "Catherine-Patricia-Marie-Gauthier",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "11dc12b3-474c-423c-91cb-a16b96f3516d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Catherine Patricia Marie Gauthier",
+        "documentmodifiedwhen": "2022-03-31T07:18:16.848Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76592D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Catherine Patricia Marie Gauthier",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "K1A 1H3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Gatineau"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116416-114028",
+        "sys_site": "lso",
+        "sys_created": "2019-06-27T08:05:55.667Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Chelsey-Therese-Gauthier",
+        "nodeid": 114028,
+        "documentid": 116416,
+        "nodealias": "Chelsey-Therese-Gauthier",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ebe82b75-3c34-4e29-8c90-5120240077df",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Chelsey Th\u00e9r\u00e8se Gauthier",
+        "documentmodifiedwhen": "2022-02-25T07:18:56.59Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la famille ou matrimonial"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Family/Matrimonial Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77312N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Chelsey Th\u00e9r\u00e8se Gauthier",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L2R 6Z1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "St Catharines"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24009-23152",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:30:36.138Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Cinzia-Gauthier",
+        "nodeid": 23152,
+        "documentid": 24009,
+        "nodealias": "Cinzia-Gauthier",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0ae299ce-1e2e-42e8-9d36-90553c72db0e",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Cinzia Gauthier",
+        "documentmodifiedwhen": "2021-09-21T09:12:48.083Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05011",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Cinzia Gauthier",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.870246887207,
+                43.2567863464355
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L8P 4R5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89271-87998",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:30:40.578Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Eleonore-Marie-Jeanne-Gauthier",
+        "nodeid": 87998,
+        "documentid": 89271,
+        "nodealias": "Eleonore-Marie-Jeanne-Gauthier",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1cdf9dbc-d11e-417c-b8a0-f69b9956ba3e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eleonore Marie Jeanne Gauthier",
+        "documentmodifiedwhen": "2020-02-20T09:04:15.791Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72562A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eleonore Marie Jeanne Gauthier",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118533-115892",
+        "sys_site": "lso",
+        "sys_created": "2019-09-26T07:31:38.46Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Gina-Ashley-Grace-Gauthier",
+        "nodeid": 115892,
+        "documentid": 118533,
+        "nodealias": "Gina-Ashley-Grace-Gauthier",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2f5a5d04-b46c-48c0-afe1-7931da0fc7b2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gina Ashley Grace Gauthier",
+        "documentmodifiedwhen": "2022-03-18T07:17:19.617Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Indemnit\u00e9s d'accidents du travail",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Location immobili\u00e8re"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Workers' Compensation",
+            "Small Claims Court matters",
+            "Landlord and Tenant"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15970",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gina Ashley Grace Gauthier",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K4K 1L5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Rockland"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24013-23156",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:31:57.314Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Gordon-Faulconer-Gauthier",
+        "nodeid": 23156,
+        "documentid": 24013,
+        "nodealias": "Gordon-Faulconer-Gauthier",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ea8b7cd0-0312-48fb-a0d1-e054c5f25c83",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gordon Faulconer Gauthier",
+        "documentmodifiedwhen": "2021-12-15T07:22:10.466Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la construction",
+            "Droit commercial et corporatifes",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies",
+            "Location immobili\u00e8re"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Construction Law",
+            "Corporate/Commercial Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law",
+            "Landlord and Tenant"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "16254H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gordon Faulconer Gauthier",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K6J 1G2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Cornwall"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24023-23166",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:34:07.657Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Jacob-Michel-Gauthier",
+        "nodeid": 23166,
+        "documentid": 24023,
+        "nodealias": "Jacob-Michel-Gauthier",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9ebcc634-2885-4f18-ba80-5f9865f52230",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jacob Michel Gauthier",
+        "documentmodifiedwhen": "2022-01-03T07:24:20.268Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51937C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jacob Michel Gauthier",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P3C 1X2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Sudbury"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24012-23155",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:31:43.437Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Jacques-Paul-Joseph-Gauthier",
+        "nodeid": 23155,
+        "documentid": 24012,
+        "nodealias": "Jacques-Paul-Joseph-Gauthier",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "84180fbb-13ea-4776-85e5-152748dd128d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jacques Paul Joseph Gauthier",
+        "documentmodifiedwhen": "2021-12-15T07:23:30.225Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "15960F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jacques Paul Joseph Gauthier",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5S 1M2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89270-87999",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:30:40.328Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Jane-Ann-Gauthier",
+        "nodeid": 87999,
+        "documentid": 89270,
+        "nodealias": "Jane-Ann-Gauthier",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "81137c2d-6a43-4362-8498-80b171c075e6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jane Ann Gauthier",
+        "documentmodifiedwhen": "2021-12-14T09:52:23.45Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "31595A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jane Ann Gauthier",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24029-23172",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:35:29.923Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Jean-Francois-Joseph-Antoine-Gauthier",
+        "nodeid": 23172,
+        "documentid": 24029,
+        "nodealias": "Jean-Francois-Joseph-Antoine-Gauthier",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c2a7bf02-bbf6-44a3-8792-8c24df866b27",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jean-Fran\u00e7ois Joseph Antoine Gauthier",
+        "documentmodifiedwhen": "2022-01-12T07:21:09.539Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67495F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jean-Fran\u00e7ois Joseph Antoine Gauthier",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 1K3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24015-23158",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:32:22.256Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Joseph-Benoit-Eugene-Pierre-Gauthier",
+        "nodeid": 23158,
+        "documentid": 24015,
+        "nodealias": "Joseph-Benoit-Eugene-Pierre-Gauthier",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7a10e87a-25c5-4890-bc71-e13d7313a4e5",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joseph Benoit Eugene Pierre Gauthier",
+        "documentmodifiedwhen": "2022-06-17T07:26:36.656Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "31680Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joseph Benoit Eugene Pierre Gauthier",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e)"
+        ],
+        "memberwebstatus": [
+            "Suspended"
+        ],
+        "memberpostalcode": "K6A 1R2",
+        "membercurrentrestrictions": "Y",
+        "membercity": [
+            "Hawkesbury"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24020-23163",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:33:25.217Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Joseph-Philippe-Christian-Gauthier",
+        "nodeid": 23163,
+        "documentid": 24020,
+        "nodealias": "Joseph-Philippe-Christian-Gauthier",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "690b226c-3d0a-494a-ab6a-946c72d19782",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joseph Philippe Christian Gauthier",
+        "documentmodifiedwhen": "2022-05-07T07:16:42.307Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45658H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joseph Philippe Christian Gauthier",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "V6C 2X8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vancouver"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24022-23165",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:33:53.694Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Kathryn-Elizabeth-Gauthier",
+        "nodeid": 23165,
+        "documentid": 24022,
+        "nodealias": "Kathryn-Elizabeth-Gauthier",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9b3f7080-2a06-4669-af07-3a202f40302e",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kathryn Elizabeth Gauthier",
+        "documentmodifiedwhen": "2022-02-02T07:16:36.266Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50441N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kathryn Elizabeth Gauthier",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1K 3B0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24024-23167",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:34:21.273Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Marc-Gilles-Joseph-Gauthier",
+        "nodeid": 23167,
+        "documentid": 24024,
+        "nodealias": "Marc-Gilles-Joseph-Gauthier",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "be8149b9-10bc-4fd3-b95e-5d1adbd8db46",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marc Gilles Joseph Gauthier",
+        "documentmodifiedwhen": "2022-05-18T07:16:30.635Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54906L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marc Gilles Joseph Gauthier",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K6A 1A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hawkesbury"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24025-23168",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:34:34.858Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Marc-Andre-Gauthier",
+        "nodeid": 23168,
+        "documentid": 24025,
+        "nodealias": "Marc-Andre-Gauthier",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ffc645bd-2efd-4abf-a125-519e43d7c0b4",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marc-Andr\u00e9 Gauthier",
+        "documentmodifiedwhen": "2021-12-23T07:24:52.504Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58038E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marc-Andr\u00e9 Gauthier",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1G 3H6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "24016-23159",
+        "sys_site": "lso",
+        "sys_created": "2018-07-09T02:32:34.861Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/002/Marie-Josee-Gauthier",
+        "nodeid": 23159,
+        "documentid": 24016,
+        "nodealias": "Marie-Josee-Gauthier",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2eab800a-859b-48e8-9779-3973d34ca90b",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marie Josee Gauthier",
+        "documentmodifiedwhen": "2021-12-23T07:17:02.749Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la famille ou matrimonial",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Family/Matrimonial Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36375S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marie Josee Gauthier",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K4K 1L5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Rockland"
+        ]
+    }
+]

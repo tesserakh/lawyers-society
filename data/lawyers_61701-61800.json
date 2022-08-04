@@ -1,0 +1,5128 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "81759-80487",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:54:18.953Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/031/Neil-Cameron-Rigby",
+        "nodeid": 80487,
+        "documentid": 81759,
+        "nodealias": "Neil-Cameron-Rigby",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "12b4e736-17be-48ef-a206-b56830ba3105",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Neil Cameron Rigby",
+        "documentmodifiedwhen": "2021-09-21T08:08:14.391Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42105U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Neil Cameron Rigby",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -0.109562002122402,
+                51.5159072875977
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "United Kingdom",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "EC4A 1AY",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71685-70419",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:53:48.013Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Stephen-Charles-Ernest-Rigby",
+        "nodeid": 70419,
+        "documentid": 71685,
+        "nodealias": "Stephen-Charles-Ernest-Rigby",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5e14ff82-123d-4170-935d-ca12e411e076",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephen Charles Ernest Rigby",
+        "documentmodifiedwhen": "2022-04-01T07:19:05.537Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32435L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephen Charles Ernest Rigby",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4W 3B2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71688-70420",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:53:56.412Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Warren-Murray-Rigby",
+        "nodeid": 70420,
+        "documentid": 71688,
+        "nodealias": "Warren-Murray-Rigby",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3904e60d-2df2-4e65-b8c8-0a5bf63197f8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Warren Murray Rigby",
+        "documentmodifiedwhen": "2022-01-16T07:16:43.877Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66445B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Warren Murray Rigby",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6R 2H9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71687-70421",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:53:56.756Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Adrienne-Sarah-Rigg",
+        "nodeid": 70421,
+        "documentid": 71687,
+        "nodealias": "Adrienne-Sarah-Rigg",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "eb0c0638-94aa-4816-89a2-5bbcf88901e6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Adrienne Sarah Rigg",
+        "documentmodifiedwhen": "2022-01-12T07:23:48.185Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66446U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Adrienne Sarah Rigg",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0R2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "81760-80488",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:54:20.297Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/031/Robert-Peter-Riggin",
+        "nodeid": 80488,
+        "documentid": 81760,
+        "nodealias": "Robert-Peter-Riggin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "07523935-ee88-497b-b5c0-175065b67780",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Peter Riggin",
+        "documentmodifiedwhen": "2022-05-28T07:23:59.506Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "07586B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Peter Riggin",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71686-70422",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:53:57.068Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Camille-Elaine-Catherine-Riggs",
+        "nodeid": 70422,
+        "documentid": 71686,
+        "nodealias": "Camille-Elaine-Catherine-Riggs",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d09af908-0aaa-44e2-af32-bd7b2fd3cd83",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Camille Elaine Catherine Riggs",
+        "documentmodifiedwhen": "2021-12-27T07:18:49.731Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la famille ou matrimonial"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Family/Matrimonial Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "34128L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Camille Elaine Catherine Riggs",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6B 3L1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71690-70424",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:53:57.688Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Kathleen-Eleanor-Louise-Riggs",
+        "nodeid": 70424,
+        "documentid": 71690,
+        "nodealias": "Kathleen-Eleanor-Louise-Riggs",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "831c75ec-59bd-4828-a6d5-4b8759cb712f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kathleen Eleanor Louise Riggs",
+        "documentmodifiedwhen": "2021-09-21T08:14:07.124Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46976H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kathleen Eleanor Louise Riggs",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4280166625977,
+                43.6865043640137
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M6C 2X2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71689-70423",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:53:57.657Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Susannah-Helen-Riggs",
+        "nodeid": 70423,
+        "documentid": 71689,
+        "nodealias": "Susannah-Helen-Riggs",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1d9c8612-8147-41a4-841c-1b17ba7132db",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Susannah Helen Riggs",
+        "documentmodifiedwhen": "2022-03-20T07:15:40.787Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37985J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Susannah Helen Riggs",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M6J 3L9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71691-70425",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:53:58.11Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Andrea-Danielle-Rigobon",
+        "nodeid": 70425,
+        "documentid": 71691,
+        "nodealias": "Andrea-Danielle-Rigobon",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "29e464cc-d42c-4044-9e1c-4e17eee6f67b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrea Danielle Rigobon",
+        "documentmodifiedwhen": "2022-05-14T07:15:38.153Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60259C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrea Danielle Rigobon",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M5G 2N7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71692-70426",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:53:58.22Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Walter-Eugenio-Rigobon",
+        "nodeid": 70426,
+        "documentid": 71692,
+        "nodealias": "Walter-Eugenio-Rigobon",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "85cb7250-a591-4c12-b6eb-9a73c1b7b646",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Walter Eugenio Rigobon",
+        "documentmodifiedwhen": "2021-12-21T07:28:29.543Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "22195V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Walter Eugenio Rigobon",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4K 0H9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vaughan"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71693-70427",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:53:58.782Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Damiano-Giuseppe-Rigolo",
+        "nodeid": 70427,
+        "documentid": 71693,
+        "nodealias": "Damiano-Giuseppe-Rigolo",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "334d6925-ee15-415c-b52e-d7318747f340",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Damiano Giuseppe Rigolo",
+        "documentmodifiedwhen": "2021-12-30T07:19:36.635Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "39250B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Damiano Giuseppe Rigolo",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71695-70429",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:06.828Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Jonathan-Peter-Riina",
+        "nodeid": 70429,
+        "documentid": 71695,
+        "nodealias": "Jonathan-Peter-Riina",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ff530cb7-030f-4825-82b0-40522dfa1b4d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jonathan Peter Riina",
+        "documentmodifiedwhen": "2022-01-10T07:28:50.774Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63200J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jonathan Peter Riina",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L4K 4B4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Concord"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "40215-38951",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T04:44:41.9Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/014/Anna-Katarzyna-Riis",
+        "nodeid": 38951,
+        "documentid": 40215,
+        "nodealias": "Anna-Katarzyna-Riis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8b30a23e-e535-460a-a5aa-14276735a3ef",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anna Katarzyna Riis",
+        "documentmodifiedwhen": "2021-03-31T12:15:31.1Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71732K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anna Katarzyna Riis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3833770751953,
+                43.6468276977539
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 1S9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71694-70428",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:06.828Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Nils-Petter-Riis",
+        "nodeid": 70428,
+        "documentid": 71694,
+        "nodealias": "Nils-Petter-Riis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "13298d8a-d81d-4344-b134-77ed799ef1b5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nils Petter Riis",
+        "documentmodifiedwhen": "2021-12-31T07:21:13.615Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "44016T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nils Petter Riis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M7A 1Y6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71696-70430",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:07.406Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Mohamod-Ibrahim-Rijal",
+        "nodeid": 70430,
+        "documentid": 71696,
+        "nodealias": "Mohamod-Ibrahim-Rijal",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "53da1a16-ad5f-43d8-aa5c-875fbf642264",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mohamod Ibrahim Rijal",
+        "documentmodifiedwhen": "2022-05-18T07:16:25.428Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08774",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mohamod Ibrahim Rijal",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M4W 1A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80096-78824",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:12:07.009Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Alycia-Cassandra-Riley",
+        "nodeid": 78824,
+        "documentid": 80096,
+        "nodealias": "Alycia-Cassandra-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a9ca66f6-70ce-49db-9a52-17ffe5fa0121",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alycia Cassandra Riley",
+        "documentmodifiedwhen": "2022-03-24T07:18:21.38Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74759D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alycia Cassandra Riley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1G5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71701-70435",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:08.656Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Austin-Peter-Riley",
+        "nodeid": 70435,
+        "documentid": 71701,
+        "nodealias": "Austin-Peter-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a0e29c5c-6d9f-4c36-a440-950096f80a6c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Austin Peter Riley",
+        "documentmodifiedwhen": "2021-12-15T07:24:51.025Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit de l'emploi et droit du travail"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Employment/Labour Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "17073H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Austin Peter Riley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 1Z8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71707-70440",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:20.271Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Christine-Anne-Riley",
+        "nodeid": 70440,
+        "documentid": 71707,
+        "nodealias": "Christine-Anne-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "afe4c7f9-428b-46eb-94e7-2158712dd308",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christine Anne Riley",
+        "documentmodifiedwhen": "2021-12-21T07:28:17.623Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "22360Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christine Anne Riley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "N9A 1J2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Windsor"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "131648-127087",
+        "sys_site": "lso",
+        "sys_created": "2021-06-17T09:02:07.382Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Colton-Alec-Riley",
+        "nodeid": 127087,
+        "documentid": 131648,
+        "nodealias": "Colton-Alec-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "533e32dd-924e-4493-8913-4cdf35124c40",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Colton Alec Riley",
+        "documentmodifiedwhen": "2021-09-18T07:17:12.626Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82898E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Colton Alec Riley",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3815765380859,
+                43.6479454040527
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 0A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71702-70436",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:12.603Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/James-Albert-Riley",
+        "nodeid": 70436,
+        "documentid": 71702,
+        "nodealias": "James-Albert-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "af8108ac-7990-47a0-a8e5-9527e8d85f35",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "James Albert Riley",
+        "documentmodifiedwhen": "2021-12-17T07:26:53.134Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "18569T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "James Albert Riley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 2T3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71703-70437",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:14.505Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/James-Michael-Riley",
+        "nodeid": 70437,
+        "documentid": 71703,
+        "nodealias": "James-Michael-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ef281909-1f3d-49a8-a056-c5c7939fd109",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "James Michael Riley",
+        "documentmodifiedwhen": "2021-12-17T07:18:06.032Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21092J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "James Michael Riley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5X 2A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71700-70434",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:08.438Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/James-Thornton-Riley",
+        "nodeid": 70434,
+        "documentid": 71700,
+        "nodealias": "James-Thornton-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f57dbadf-34e4-485f-8570-3aa58ef901bd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "James Thornton Riley",
+        "documentmodifiedwhen": "2021-12-14T08:04:37.173Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13775A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "James Thornton Riley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M3C 3N4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71705-70439",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:20.287Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/John-Patrick-Riley",
+        "nodeid": 70439,
+        "documentid": 71705,
+        "nodealias": "John-Patrick-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fa222dca-77f4-42d7-909f-65cd06183a3f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Patrick Riley",
+        "documentmodifiedwhen": "2021-12-14T11:24:33.989Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "29071V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Patrick Riley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "81773-80501",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:54:46.666Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/031/John-Thomas-Joseph-Riley",
+        "nodeid": 80501,
+        "documentid": 81773,
+        "nodealias": "John-Thomas-Joseph-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "392f07e9-bcc2-418a-956c-558e20b4a438",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Thomas Joseph Riley",
+        "documentmodifiedwhen": "2021-12-14T09:42:56.191Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26335M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Thomas Joseph Riley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71709-70443",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:21.443Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Katharine-Elizabeth-Riley",
+        "nodeid": 70443,
+        "documentid": 71709,
+        "nodealias": "Katharine-Elizabeth-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "23c40506-d945-485a-81d9-37d9b8ba7a76",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Katharine Elizabeth Riley",
+        "documentmodifiedwhen": "2021-09-21T08:35:21.709Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68885F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Katharine Elizabeth Riley",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.7055511474609,
+                45.4219741821289
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "K1A 0J1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71708-70442",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:21.302Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Martin-Boyle-Riley",
+        "nodeid": 70442,
+        "documentid": 71708,
+        "nodealias": "Martin-Boyle-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5a11a61d-e0c4-49e4-88fe-36a6e6c97322",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Martin Boyle Riley",
+        "documentmodifiedwhen": "2022-01-12T07:21:39.163Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67379L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Martin Boyle Riley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N7T 6Y4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Sarnia"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71698-70433",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:08.125Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Natalie-Gretchen-Riley",
+        "nodeid": 70433,
+        "documentid": 71698,
+        "nodealias": "Natalie-Gretchen-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "93f3af13-9b3d-476a-97a9-b9148b3cadc6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Natalie Gretchen Riley",
+        "documentmodifiedwhen": "2022-04-22T07:16:28.905Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07902",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Natalie Gretchen Riley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "P1A 2G8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North Bay"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71706-70441",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:21.037Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Neil-Walter-Riley",
+        "nodeid": 70441,
+        "documentid": 71706,
+        "nodealias": "Neil-Walter-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9d825061-542c-4ea1-ac35-8e51323fc3af",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Neil Walter Riley",
+        "documentmodifiedwhen": "2021-04-02T07:20:16.281Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60566B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Neil Walter Riley",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6847229003906,
+                44.392505645752
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L4M 3P2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Barrie"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71704-70438",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:20.802Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Paul-Anthony-Riley",
+        "nodeid": 70438,
+        "documentid": 71704,
+        "nodealias": "Paul-Anthony-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a34b1fff-0f88-4473-8e6a-e324f7dff12c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paul Anthony Riley",
+        "documentmodifiedwhen": "2022-04-09T07:16:55.322Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49412E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paul Anthony Riley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5R 3K5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "136774-131473",
+        "sys_site": "lso",
+        "sys_created": "2022-02-27T07:37:28.851Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/030/Philip-Bruce-Riley",
+        "nodeid": 131473,
+        "documentid": 136774,
+        "nodealias": "Philip-Bruce-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "95153a82-a8f4-43d9-8081-289fba3a35b5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Philip Bruce Riley",
+        "documentmodifiedwhen": "2022-07-30T08:01:04.742Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83815G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Philip Bruce Riley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L2R 7C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "St Catharines"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71697-70431",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:07.5Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Philip-Bruce-Riley",
+        "nodeid": 70431,
+        "documentid": 71697,
+        "nodealias": "Philip-Bruce-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dbc3019d-9ffd-49a8-9b65-f84f91cc9dc1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Philip Bruce Riley",
+        "documentmodifiedwhen": "2022-03-11T07:16:04.648Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07461",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Philip Bruce Riley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked"
+        ],
+        "memberpostalcode": "L3B 3X7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Welland"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71711-70445",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:22.13Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Richard-Lukas-Riley",
+        "nodeid": 70445,
+        "documentid": 71711,
+        "nodealias": "Richard-Lukas-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f7d8acd5-fc2a-450f-a215-58ae32a71301",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Richard Lukas Riley",
+        "documentmodifiedwhen": "2022-01-14T07:21:40.79Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72713G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Richard Lukas Riley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "L8S 4L8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "81771-80499",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:54:42.181Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/031/Robert-Keith-Riley",
+        "nodeid": 80499,
+        "documentid": 81771,
+        "nodealias": "Robert-Keith-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2d9048c6-5bd0-43a7-b6a2-0169c7990c72",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Keith Riley",
+        "documentmodifiedwhen": "2021-12-14T10:36:20.472Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24427B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Keith Riley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "91330-90056",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:27:20.969Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Tina-Mae-Riley",
+        "nodeid": 90056,
+        "documentid": 91330,
+        "nodealias": "Tina-Mae-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6a3b238c-a8fb-49c7-9b23-4c191b985cdc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tina Mae Riley",
+        "documentmodifiedwhen": "2022-07-07T07:29:38.484Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32890B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tina Mae Riley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4V 3A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71710-70444",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:22.037Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Victoria-Juliette-Riley",
+        "nodeid": 70444,
+        "documentid": 71710,
+        "nodealias": "Victoria-Juliette-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e711328a-eb7f-427a-95db-97912048395d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Victoria Juliette Riley",
+        "documentmodifiedwhen": "2022-06-08T07:18:40.171Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68886B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Victoria Juliette Riley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M5J 2P1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "81767-80495",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:54:36.748Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/031/William-Leo-Riley",
+        "nodeid": 80495,
+        "documentid": 81767,
+        "nodealias": "William-Leo-Riley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "917b2781-ab46-45ba-a312-05b34d42abc0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "William Leo Riley",
+        "documentmodifiedwhen": "2022-04-12T07:17:54.449Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "12119A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "William Leo Riley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "124894-121338",
+        "sys_site": "lso",
+        "sys_created": "2020-08-31T09:30:03.53Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Toby-Piper-Riley-Thompson",
+        "nodeid": 121338,
+        "documentid": 124894,
+        "nodealias": "Toby-Piper-Riley-Thompson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "40e2aecd-7bce-4d44-a770-07ce22f63502",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Toby Piper Riley Thompson",
+        "documentmodifiedwhen": "2021-09-21T08:44:05.081Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80739B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Toby Piper Riley Thompson",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "117439-115037",
+        "sys_site": "lso",
+        "sys_created": "2019-06-29T07:24:29.704Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Erin-Eileen-Riley-Oettl",
+        "nodeid": 115037,
+        "documentid": 117439,
+        "nodealias": "Erin-Eileen-Riley-Oettl",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "72914396-b626-4740-9450-8731d0b5f2b0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Erin Eileen Riley-Oettl",
+        "documentmodifiedwhen": "2020-02-20T09:17:42.042Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78241U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Erin Eileen Riley-Oettl",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "81774-80502",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:54:48.182Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/007/Bianca-Katlin-Rill",
+        "nodeid": 80502,
+        "documentid": 81774,
+        "nodealias": "Bianca-Katlin-Rill",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0101a29f-baa3-43b2-95ef-9c340a467435",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Bianca Katlin Rill",
+        "documentmodifiedwhen": "2019-05-08T16:09:09.411Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09314",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Bianca Katlin Rill",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71713-70446",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:32.543Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Haejun-Rim",
+        "nodeid": 70446,
+        "documentid": 71713,
+        "nodealias": "Haejun-Rim",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "25f0f53d-b34c-425a-8833-de0a927326dc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Haejun Rim",
+        "documentmodifiedwhen": "2019-05-08T15:23:13.135Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75226C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Haejun Rim",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.725471496582,
+                43.6612434387207
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L6W 4T1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130817-126406",
+        "sys_site": "lso",
+        "sys_created": "2021-06-01T09:47:45.737Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Joshua-Jiyong-Rim",
+        "nodeid": 126406,
+        "documentid": 130817,
+        "nodealias": "Joshua-Jiyong-Rim",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e29e1ae5-69c1-4cd0-9d36-5c0dfa306182",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joshua Jiyong Rim",
+        "documentmodifiedwhen": "2022-01-08T07:34:23.312Z",
+        "skuname": null,
+        "memberprovincetext": "New York",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82336G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joshua Jiyong Rim",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "10019",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "New York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118942-116260",
+        "sys_site": "lso",
+        "sys_created": "2019-09-27T08:14:38.113Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Sarah-Ann-Rimbach",
+        "nodeid": 116260,
+        "documentid": 118942,
+        "nodealias": "Sarah-Ann-Rimbach",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "458799d6-2fdb-4706-b192-7858e1ddf7e9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sarah Ann Rimbach",
+        "documentmodifiedwhen": "2022-02-23T07:32:47.448Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78464W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sarah Ann Rimbach",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K2P 0L6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71712-70447",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:32.622Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Arlene-Rachel-Rimer",
+        "nodeid": 70447,
+        "documentid": 71712,
+        "nodealias": "Arlene-Rachel-Rimer",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5cd1394f-6e1a-4b38-8123-2e89a63a7a08",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Arlene Rachel Rimer",
+        "documentmodifiedwhen": "2022-01-02T07:19:00.201Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50153G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Arlene Rachel Rimer",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2R 1L7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "133042-128469",
+        "sys_site": "lso",
+        "sys_created": "2021-07-05T09:48:45.547Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Jaimee-Lianne-Rimer",
+        "nodeid": 128469,
+        "documentid": 133042,
+        "nodealias": "Jaimee-Lianne-Rimer",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c310f189-68ab-43c1-8e11-345a9473a9af",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jaimee Lianne Rimer",
+        "documentmodifiedwhen": "2022-05-31T07:15:57.925Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83071U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jaimee Lianne Rimer",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1P 6L2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71717-70451",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:33.84Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Philip-Michael-Rimer",
+        "nodeid": 70451,
+        "documentid": 71717,
+        "nodealias": "Philip-Michael-Rimer",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2016a092-0702-4208-bc45-80f580b3c550",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Philip Michael Rimer",
+        "documentmodifiedwhen": "2022-01-13T07:15:47.576Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Enjeux juridiques autochtones",
+            "Droit de la faillite et de l'insolvabilit\u00e9",
+            "Droit de la construction",
+            "Droit immobilier"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Indigenous Legal Issues",
+            "Bankruptcy and Insolvency Law",
+            "Construction Law",
+            "Real Estate Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "23865D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Philip Michael Rimer",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1P 1H4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71714-70448",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:32.981Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Sarah-Elizabeth-Rimmington",
+        "nodeid": 70448,
+        "documentid": 71714,
+        "nodealias": "Sarah-Elizabeth-Rimmington",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8551a986-78ce-4dd3-ab5e-a5991afc70fb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sarah Elizabeth Rimmington",
+        "documentmodifiedwhen": "2022-05-28T07:32:36.459Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45712W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sarah Elizabeth Rimmington",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M5G 2K8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71716-70450",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:33.747Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Sean-Corey-Rimoin",
+        "nodeid": 70450,
+        "documentid": 71716,
+        "nodealias": "Sean-Corey-Rimoin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "114acf63-ccef-41ec-9378-37e822cc7ac0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sean Corey Rimoin",
+        "documentmodifiedwhen": "2022-01-04T07:18:26.499Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47252B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sean Corey Rimoin",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M3C 3E9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71722-70454",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:42.538Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Andrea-Richard-Rinaldi",
+        "nodeid": 70454,
+        "documentid": 71722,
+        "nodealias": "Andrea-Richard-Rinaldi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b883bca4-9213-40bc-a3b6-030e9ab3bba2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrea Richard Rinaldi",
+        "documentmodifiedwhen": "2022-01-09T07:18:37.528Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59931W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrea Richard Rinaldi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 3C7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71718-70452",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:34.514Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Giovanni-Rinaldi",
+        "nodeid": 70452,
+        "documentid": 71718,
+        "nodealias": "Giovanni-Rinaldi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9360c484-96d4-4691-8c60-6e183c8deef9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Giovanni Rinaldi",
+        "documentmodifiedwhen": "2021-12-31T07:28:55.453Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43161L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Giovanni Rinaldi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M3J 2V5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71715-70449",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:33.309Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Luisa-Emilia-Addolorata-Rinaldi",
+        "nodeid": 70449,
+        "documentid": 71715,
+        "nodealias": "Luisa-Emilia-Addolorata-Rinaldi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "78c93ad8-f363-4854-b187-1051bf1e6ea4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Luisa Emilia Addolorata Rinaldi",
+        "documentmodifiedwhen": "2021-12-28T07:18:53.591Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "35848J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Luisa Emilia Addolorata Rinaldi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5E 1G4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "81778-80505",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:54:53.518Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/007/Victor-Anthony-Rinaldi",
+        "nodeid": 80505,
+        "documentid": 81778,
+        "nodealias": "Victor-Anthony-Rinaldi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "084c7e6f-1662-40a3-9eaa-a8b60178b672",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Victor Anthony Rinaldi",
+        "documentmodifiedwhen": "2020-02-20T09:26:49.288Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13001",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Victor Anthony Rinaldi",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71719-70453",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:34.905Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Vince-Augusto-Rinaldi",
+        "nodeid": 70453,
+        "documentid": 71719,
+        "nodealias": "Vince-Augusto-Rinaldi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a662fa7d-8005-4332-a319-3574b17295bc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Vince Augusto Rinaldi",
+        "documentmodifiedwhen": "2021-02-12T07:17:33.585Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43560V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Vince Augusto Rinaldi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.794563293457,
+                43.3446388244629
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L7R 4E2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Burlington"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71720-70458",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:42.725Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/David-Andrea-Rinaldo",
+        "nodeid": 70458,
+        "documentid": 71720,
+        "nodealias": "David-Andrea-Rinaldo",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e19409c0-1b26-4678-b1fd-4915ecd563da",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Andrea Rinaldo",
+        "documentmodifiedwhen": "2022-01-06T07:19:24.926Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41935D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Andrea Rinaldo",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L5R 3L5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71724-70457",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:42.538Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Karin-Elona-Rinas",
+        "nodeid": 70457,
+        "documentid": 71724,
+        "nodealias": "Karin-Elona-Rinas",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a35530e1-63a5-4489-b797-9dfe7be43f02",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karin Elona Rinas",
+        "documentmodifiedwhen": "2021-12-25T07:15:33.697Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "28625K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karin Elona Rinas",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71723-70455",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:42.835Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Stefan-Karl-Edward-Rinas",
+        "nodeid": 70455,
+        "documentid": 71723,
+        "nodealias": "Stefan-Karl-Edward-Rinas",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "17a99dee-736d-475b-bfd4-bafec2aa2a5e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stefan Karl Edward Rinas",
+        "documentmodifiedwhen": "2022-01-14T07:18:17.316Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70730H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stefan Karl Edward Rinas",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4M 1H7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "81779-80507",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:54:57.773Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/031/Wilhelm-Ludwig-Rinas",
+        "nodeid": 80507,
+        "documentid": 81779,
+        "nodealias": "Wilhelm-Ludwig-Rinas",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3f6ce172-b22f-48ce-833a-88dacabb14f4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Wilhelm Ludwig Rinas",
+        "documentmodifiedwhen": "2021-12-30T07:20:29.281Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "39819V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Wilhelm Ludwig Rinas",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "81781-80509",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:54:59.445Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/007/Laura-Elena-Rincon-Ceballos",
+        "nodeid": 80509,
+        "documentid": 81781,
+        "nodealias": "Laura-Elena-Rincon-Ceballos",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6f9eee2b-b778-4110-bb68-3a27948a9486",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Laura Elena Rincon Ceballos",
+        "documentmodifiedwhen": "2020-02-20T09:23:31.475Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11581",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Laura Elena Rincon Ceballos",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "81780-80508",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:54:59.163Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/031/Juan-Pablo-Rincon-Castro",
+        "nodeid": 80508,
+        "documentid": 81780,
+        "nodealias": "Juan-Pablo-Rincon-Castro",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "efe3a038-fb10-45ea-a68b-01c05723b422",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Juan Pablo Rinc\u00f3n Castro",
+        "documentmodifiedwhen": "2020-04-30T07:18:56.31Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67206G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Juan Pablo Rinc\u00f3n Castro",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71721-70456",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:42.772Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Lyda-Marcela-Rincon-Castro",
+        "nodeid": 70456,
+        "documentid": 71721,
+        "nodealias": "Lyda-Marcela-Rincon-Castro",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6582494d-2bad-45cb-b205-af086d1a05b2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lyda Marcela Rinc\u00f3n Castro",
+        "documentmodifiedwhen": "2022-01-10T07:22:33.15Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63838O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lyda Marcela Rinc\u00f3n Castro",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L8P 1T3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71725-70459",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:43.475Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Harpreet-Kumar-Rindi",
+        "nodeid": 70459,
+        "documentid": 71725,
+        "nodealias": "Harpreet-Kumar-Rindi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e7a5ecda-f56b-4ff6-9084-6fc6ed6a1007",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Harpreet Kumar Rindi",
+        "documentmodifiedwhen": "2022-01-14T07:21:30.992Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "73602O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Harpreet Kumar Rindi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4K 0G7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vaughan"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71727-70461",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:44.319Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Christine-Rhonda-Ring",
+        "nodeid": 70461,
+        "documentid": 71727,
+        "nodealias": "Christine-Rhonda-Ring",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "543aa6ed-9d89-4365-8680-98e796d4d92f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christine Rhonda Ring",
+        "documentmodifiedwhen": "2021-12-28T07:20:09.514Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36887A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christine Rhonda Ring",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 3T9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71731-70465",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:54.181Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Dean-Fredrick-Ring",
+        "nodeid": 70465,
+        "documentid": 71731,
+        "nodealias": "Dean-Fredrick-Ring",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "486e96ed-b641-4ab2-b33b-7d75f4d552e1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Dean Fredrick Ring",
+        "documentmodifiedwhen": "2022-02-15T07:16:47.487Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "48154O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Dean Fredrick Ring",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L4M 3P2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Barrie"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71728-70462",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:47.774Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Tammy-Renee-Ring",
+        "nodeid": 70462,
+        "documentid": 71728,
+        "nodealias": "Tammy-Renee-Ring",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cf319a4e-43b4-405f-8e2f-5955f39c63f8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tammy Renee Ring",
+        "documentmodifiedwhen": "2021-12-30T07:19:40.179Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "39252Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tammy Renee Ring",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3P5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71729-70463",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:54.149Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Ryan-Norman-Ringer",
+        "nodeid": 70463,
+        "documentid": 71729,
+        "nodealias": "Ryan-Norman-Ringer",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "30a89948-9d7c-4caa-b3e7-75c9447ac0ca",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ryan Norman Ringer",
+        "documentmodifiedwhen": "2022-01-14T07:31:00.829Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72044I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ryan Norman Ringer",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1P 5S9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "134381-129656",
+        "sys_site": "lso",
+        "sys_created": "2021-09-28T07:21:30.777Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/019/Gregory-John-Ringkamp",
+        "nodeid": 129656,
+        "documentid": 134381,
+        "nodealias": "Gregory-John-Ringkamp",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "eb07b3a0-0ac1-414f-82d3-d5a431436edf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gregory John Ringkamp",
+        "documentmodifiedwhen": "2021-12-23T07:32:11.142Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83479R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gregory John Ringkamp",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 2N5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "81787-80515",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:55:08.86Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/031/Scott-Douglas-Ringler",
+        "nodeid": 80515,
+        "documentid": 81787,
+        "nodealias": "Scott-Douglas-Ringler",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1be775af-d59e-45f9-97cb-277c72c61e09",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Scott Douglas Ringler",
+        "documentmodifiedwhen": "2021-11-05T07:38:50.738Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33451D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Scott Douglas Ringler",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -116.989860534668,
+                32.5084266662598
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "81788-80516",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:55:08.938Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/031/Julia-Ann-Ringma",
+        "nodeid": 80516,
+        "documentid": 81788,
+        "nodealias": "Julia-Ann-Ringma",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b1fb080c-5841-4cca-b104-b92120ba7548",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Julia Ann Ringma",
+        "documentmodifiedwhen": "2021-12-14T09:42:23.144Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26554H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Julia Ann Ringma",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "81791-80519",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:55:12.274Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/031/Florence-Cheryl-Margaret-Ringor",
+        "nodeid": 80519,
+        "documentid": 81791,
+        "nodealias": "Florence-Cheryl-Margaret-Ringor",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ad27a877-2464-4148-b111-ed3ae0a23643",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Florence Cheryl Margaret Ringor",
+        "documentmodifiedwhen": "2021-12-28T07:30:02.293Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36466K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Florence Cheryl Margaret Ringor",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71730-70464",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:54.321Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Joanna-Jane-Ringrose",
+        "nodeid": 70464,
+        "documentid": 71730,
+        "nodealias": "Joanna-Jane-Ringrose",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7a2beb3a-5b9a-4516-b126-ae9700fd1eb9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joanna Jane Ringrose",
+        "documentmodifiedwhen": "2021-12-26T07:26:34.052Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "31384H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joanna Jane Ringrose",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6J 5Y4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oakville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71732-70467",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:55.087Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Vicky-Marie-Ringuette",
+        "nodeid": 70467,
+        "documentid": 71732,
+        "nodealias": "Vicky-Marie-Ringuette",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b1092d6f-eac7-4893-bedb-ee8356ecaeff",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Vicky Marie Ringuette",
+        "documentmodifiedwhen": "2020-09-05T07:16:06.017Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "R\u00e8glement extrajudiciaire des diff\u00e9rends (RAD)/ Services de m\u00e9diation",
+            "Droit de la famille ou matrimonial"
+        ],
+        "memberareasofservicenamesenglish": [
+            "ADR/Mediation Services",
+            "Family/Matrimonial Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50522L",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Vicky Marie Ringuette",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.8044967651367,
+                43.1208343505859
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L0R 1C0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Binbrook"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71733-70466",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:54.79Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Laura-Anna-Marijke-Rinke-Vanderwoude",
+        "nodeid": 70466,
+        "documentid": 71733,
+        "nodealias": "Laura-Anna-Marijke-Rinke-Vanderwoude",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "efe56087-b963-4995-bc49-37d1c08aa01a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Laura Anna-Marijke Rinke-Vanderwoude",
+        "documentmodifiedwhen": "2021-09-21T09:25:52.867Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70433C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Laura Anna-Marijke Rinke-Vanderwoude",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3871459960938,
+                43.6654853820801
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5S 3A6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71734-70468",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:55.259Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Inga-Karin-Rinne",
+        "nodeid": 70468,
+        "documentid": 71734,
+        "nodealias": "Inga-Karin-Rinne",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3c44569a-87b2-4ddf-a453-6029f4ba5705",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Inga Karin Rinne",
+        "documentmodifiedwhen": "2022-03-30T07:16:35.132Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "18947W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Inga Karin Rinne",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130279-125913",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T11:11:15.169Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Andrew-James-Rintoul",
+        "nodeid": 125913,
+        "documentid": 130279,
+        "nodealias": "Andrew-James-Rintoul",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ac3131b5-a35c-469f-a3e8-732229e952d4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew James Rintoul",
+        "documentmodifiedwhen": "2022-05-12T07:17:20.258Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81955T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew James Rintoul",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71736-70470",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:57.416Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Kirk-Alfred-John-Rintoul",
+        "nodeid": 70470,
+        "documentid": 71736,
+        "nodealias": "Kirk-Alfred-John-Rintoul",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "90377125-c925-4532-b219-58e35a7e4a55",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kirk Alfred John Rintoul",
+        "documentmodifiedwhen": "2021-12-27T07:19:17.22Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "34129H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kirk Alfred John Rintoul",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M9W 5L7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "81793-80521",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:55:20.128Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/031/Liana-Margaret-Rintoul",
+        "nodeid": 80521,
+        "documentid": 81793,
+        "nodealias": "Liana-Margaret-Rintoul",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8c26301b-ec00-405b-955a-04045a2f04a7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Liana Margaret Rintoul",
+        "documentmodifiedwhen": "2022-01-06T07:26:28.252Z",
+        "skuname": null,
+        "memberprovincetext": "Nova Scotia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47253U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Liana Margaret Rintoul",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "B1P 4T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Sydney"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71735-70469",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:54:56.994Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Margaret-Ellen-Rintoul",
+        "nodeid": 70469,
+        "documentid": 71735,
+        "nodealias": "Margaret-Ellen-Rintoul",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bf44b8a3-c3f6-49c9-a9e5-12456d77e7d3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Margaret Ellen Rintoul",
+        "documentmodifiedwhen": "2021-12-17T07:24:30.489Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "18103E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Margaret Ellen Rintoul",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5C 3G5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71738-70471",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:55:05.577Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Penny-Lynn-Marie-Rintoul",
+        "nodeid": 70471,
+        "documentid": 71738,
+        "nodealias": "Penny-Lynn-Marie-Rintoul",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c9111ecf-2168-42ae-bb2a-8800a3cc220e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Penny-Lynn Marie Rintoul",
+        "documentmodifiedwhen": "2021-12-27T07:19:58.542Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "34142A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Penny-Lynn Marie Rintoul",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5B 1M5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71737-70472",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:55:05.609Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Aaron-Jason-Rinzler",
+        "nodeid": 70472,
+        "documentid": 71737,
+        "nodealias": "Aaron-Jason-Rinzler",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3cda8a74-1c82-410e-a668-2a82fabd8f4f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Aaron Jason Rinzler",
+        "documentmodifiedwhen": "2022-01-02T07:18:32.805Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46718J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Aaron Jason Rinzler",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 2M4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "81794-80522",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:55:25.488Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/007/Joseph-Louis-Roland-Riopel",
+        "nodeid": 80522,
+        "documentid": 81794,
+        "nodealias": "Joseph-Louis-Roland-Riopel",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "06c02231-45b0-4c1b-99a6-55a4e7aedd3f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joseph Louis Roland Riopel",
+        "documentmodifiedwhen": "2021-09-21T08:46:55.712Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P01862",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joseph Louis Roland Riopel",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "128392-124374",
+        "sys_site": "lso",
+        "sys_created": "2021-03-30T07:39:59.661Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Alexandre-Marcel-Riopelle",
+        "nodeid": 124374,
+        "documentid": 128392,
+        "nodealias": "Alexandre-Marcel-Riopelle",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2cd0e519-8a54-454a-9075-7fa8d008d656",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alexandre Marcel Riopelle",
+        "documentmodifiedwhen": "2022-01-18T12:02:16.732Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81415B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alexandre Marcel Riopelle",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K2P 2K1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71739-70473",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:55:06.265Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Robert-Marc-Riopelle",
+        "nodeid": 70473,
+        "documentid": 71739,
+        "nodealias": "Robert-Marc-Riopelle",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7ef02265-8aa7-4d93-8e6e-1c91499c8a90",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Marc Riopelle",
+        "documentmodifiedwhen": "2021-12-23T07:19:57.322Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38923S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Marc Riopelle",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K4A 0N9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Orleans"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "81795-80525",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:55:28.716Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/007/Teresa-Ann-Riopelle",
+        "nodeid": 80525,
+        "documentid": 81795,
+        "nodealias": "Teresa-Ann-Riopelle",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e5812dfc-6188-43db-ad41-8ab9d3e96725",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Teresa Ann Riopelle",
+        "documentmodifiedwhen": "2020-02-20T09:32:41.679Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06558",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Teresa Ann Riopelle",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71740-70474",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:55:06.515Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Jennifer-Mary-Riordan",
+        "nodeid": 70474,
+        "documentid": 71740,
+        "nodealias": "Jennifer-Mary-Riordan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b4e0d2be-a069-41ea-840a-7f3f06f59fba",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Mary Riordan",
+        "documentmodifiedwhen": "2022-04-18T07:15:19.104Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50247J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Mary Riordan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 0E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "81801-80529",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:55:34.635Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/031/Donald-Allan-Riou",
+        "nodeid": 80529,
+        "documentid": 81801,
+        "nodealias": "Donald-Allan-Riou",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1e629459-45e6-4b9b-8688-61739e24ba23",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Donald Allan Riou",
+        "documentmodifiedwhen": "2021-12-14T07:21:28.152Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "10110O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Donald Allan Riou",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "127560-123703",
+        "sys_site": "lso",
+        "sys_created": "2021-01-27T08:05:51.631Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Alison-Taylor-Rioux",
+        "nodeid": 123703,
+        "documentid": 127560,
+        "nodealias": "Alison-Taylor-Rioux",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "515e24b4-bb1e-473c-b95e-e9ccd6f2cbd1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alison Taylor Rioux",
+        "documentmodifiedwhen": "2022-03-24T07:17:49.882Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81256Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alison Taylor Rioux",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L3P 2R3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71742-70476",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:55:07.093Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Diane-Marie-Rioux",
+        "nodeid": 70476,
+        "documentid": 71742,
+        "nodealias": "Diane-Marie-Rioux",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4595b178-c39e-4657-9021-5fcc3badbd67",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Diane Marie Rioux",
+        "documentmodifiedwhen": "2021-12-23T07:26:02.102Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59204G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Diane Marie Rioux",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P3C 1T7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Sudbury"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71741-70475",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:55:06.952Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Jean-Claude-Joseph-Rioux",
+        "nodeid": 70475,
+        "documentid": 71741,
+        "nodealias": "Jean-Claude-Joseph-Rioux",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e7ec737b-f808-4e94-9448-2e965ec616a4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jean-Claude Joseph Rioux",
+        "documentmodifiedwhen": "2022-01-01T07:18:16.218Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45032L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jean-Claude Joseph Rioux",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2N7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "136773-131472",
+        "sys_site": "lso",
+        "sys_created": "2022-02-27T07:37:23.214Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/030/Rachelle-Rita-Rioux",
+        "nodeid": 131472,
+        "documentid": 136773,
+        "nodealias": "Rachelle-Rita-Rioux",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0e7e1f12-23fd-4871-bedf-fe4bd6198811",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rachelle Rita Rioux",
+        "documentmodifiedwhen": "2022-07-27T07:16:01.587Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83816C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rachelle Rita Rioux",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1A 0J1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71743-70477",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:55:07.749Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Eytan-Benjamin-Rip",
+        "nodeid": 70477,
+        "documentid": 71743,
+        "nodealias": "Eytan-Benjamin-Rip",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ba573af1-bc1c-4bf2-b8db-c4cb75573c91",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eytan Benjamin Rip",
+        "documentmodifiedwhen": "2022-01-03T07:28:05.157Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51400G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eytan Benjamin Rip",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1P 6L2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "81802-80532",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:55:39.998Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/031/Gerald-Joseph-Rip",
+        "nodeid": 80532,
+        "documentid": 81802,
+        "nodealias": "Gerald-Joseph-Rip",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d0c4f316-ce39-4f17-b55f-a390485b9ce5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gerald Joseph Rip",
+        "documentmodifiedwhen": "2021-09-21T07:28:52.363Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13777P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gerald Joseph Rip",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71744-70478",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:55:08.249Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Liliana-Ripandelli",
+        "nodeid": 70478,
+        "documentid": 71744,
+        "nodealias": "Liliana-Ripandelli",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "afbf1a75-6292-4916-92c9-14bfe6b822ff",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Liliana Ripandelli",
+        "documentmodifiedwhen": "2022-01-09T07:19:23.746Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60570T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Liliana Ripandelli",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 3S8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71746-70480",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:55:16.58Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Adrienne-Maria-Ripepi",
+        "nodeid": 70480,
+        "documentid": 71746,
+        "nodealias": "Adrienne-Maria-Ripepi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "263b8f78-8fb7-4895-8153-7efeedc66edd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Adrienne Maria Ripepi",
+        "documentmodifiedwhen": "2022-01-01T07:29:15.901Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45117Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Adrienne Maria Ripepi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N6A 4L9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "81805-80534",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:55:42.799Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/031/John-Isaac-Ripley",
+        "nodeid": 80534,
+        "documentid": 81805,
+        "nodealias": "John-Isaac-Ripley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "da38896e-5c2a-46ef-b36f-9cfcd80a7f10",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Isaac Ripley",
+        "documentmodifiedwhen": "2022-05-25T14:23:09.94Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51136R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Isaac Ripley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71747-70479",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:55:16.549Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Marina-Huguette-Ripoche",
+        "nodeid": 70479,
+        "documentid": 71747,
+        "nodealias": "Marina-Huguette-Ripoche",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b4f6deb1-0592-4431-bad8-e8e655181716",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marina Huguette Ripoche",
+        "documentmodifiedwhen": "2022-01-10T07:19:19.485Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "62958E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marina Huguette Ripoche",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 3T9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71745-70481",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:55:16.986Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Carlos-Frederick-Rippell",
+        "nodeid": 70481,
+        "documentid": 71745,
+        "nodealias": "Carlos-Frederick-Rippell",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "15871029-87a9-4fc1-bf07-4e6334202a54",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Carlos Frederick Rippell",
+        "documentmodifiedwhen": "2022-01-01T07:31:01.66Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45785O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Carlos Frederick Rippell",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 1Y8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71748-70482",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:55:17.361Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Daniel-Rippes-Alfonso",
+        "nodeid": 70482,
+        "documentid": 71748,
+        "nodealias": "Daniel-Rippes-Alfonso",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fce0501b-91ba-4a6a-ad0c-174f98ce6f66",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniel Rippes Alfonso",
+        "documentmodifiedwhen": "2022-07-23T07:15:56.657Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Espagnol"
+        ],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Spanish"
+        ],
+        "membernumber": "P07162",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniel Rippes Alfonso",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "M3M 1A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "81810-80538",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:55:51.774Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/031/Colin-Jay-Ripsman",
+        "nodeid": 80538,
+        "documentid": 81810,
+        "nodealias": "Colin-Jay-Ripsman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "35c5f3c8-e8d7-4307-80df-1679425a48f7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Colin Jay Ripsman",
+        "documentmodifiedwhen": "2021-12-14T10:35:14.227Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32020I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Colin Jay Ripsman",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123693-120147",
+        "sys_site": "lso",
+        "sys_created": "2020-06-23T08:29:16.693Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Jeffrey-Robert-Risdon",
+        "nodeid": 120147,
+        "documentid": 123693,
+        "nodealias": "Jeffrey-Robert-Risdon",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2a98fc18-2d96-498a-b8c9-c6db2116a891",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jeffrey Robert Risdon",
+        "documentmodifiedwhen": "2020-11-03T07:38:39.005Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80208E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jeffrey Robert Risdon",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -81.2543792724609,
+                42.9853935241699
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 4G4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "71749-70483",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T00:55:17.721Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/016/Alan-Jeffrey-Risen",
+        "nodeid": 70483,
+        "documentid": 71749,
+        "nodealias": "Alan-Jeffrey-Risen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a0b4b112-ca07-4fe9-94fd-b672da0ee1c6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alan Jeffrey Risen",
+        "documentmodifiedwhen": "2021-12-15T07:27:38.145Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "17574W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alan Jeffrey Risen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L1H 4G4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oshawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "112806-111063",
+        "sys_site": "lso",
+        "sys_created": "2018-12-18T07:18:39.766Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Fathima-Rizna-Rishafy",
+        "nodeid": 111063,
+        "documentid": 112806,
+        "nodealias": "Fathima-Rizna-Rishafy",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3778c3fe-f27a-4666-95da-f4d44c6ffda7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Fathima Rizna Rishafy",
+        "documentmodifiedwhen": "2022-04-02T07:25:32.026Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Droits de la personne",
+            "Location immobili\u00e8re",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Small Claims Court matters",
+            "Human Rights",
+            "Landlord and Tenant",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [
+            "Tamoul"
+        ],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Tamil"
+        ],
+        "membernumber": "P15152",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Fathima Rizna Rishafy",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M1B 3C6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Scarborough"
+        ]
+    }
+]

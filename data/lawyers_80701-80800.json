@@ -1,0 +1,5230 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89652-88382",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:40:03.901Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Robert-Glenn-Yeoman",
+        "nodeid": 88382,
+        "documentid": 89652,
+        "nodealias": "Robert-Glenn-Yeoman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "af82919b-3a67-4a54-a0f7-b02d7a10b37f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Glenn Yeoman",
+        "documentmodifiedwhen": "2021-12-14T09:03:49.655Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21486F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Glenn Yeoman",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "114054-112042",
+        "sys_site": "lso",
+        "sys_created": "2019-03-21T07:18:54.29Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Amanda-Victoria-Yeretsian",
+        "nodeid": 112042,
+        "documentid": 114054,
+        "nodealias": "Amanda-Victoria-Yeretsian",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c68d1408-21e6-42da-bead-15d1620dce62",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amanda Victoria Yeretsian",
+        "documentmodifiedwhen": "2022-02-25T07:20:35.726Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15445",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amanda Victoria Yeretsian",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M1R 2A8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Scarborough"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61408-60134",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:09.492Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Christopher-Nubar-Yeretsian",
+        "nodeid": 60134,
+        "documentid": 61408,
+        "nodealias": "Christopher-Nubar-Yeretsian",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "61af1525-ebaf-4b31-b074-97bfc8f16900",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher Nubar Yeretsian",
+        "documentmodifiedwhen": "2021-05-21T07:17:36.612Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70502O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher Nubar Yeretsian",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3795166015625,
+                43.6481819152832
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5L 1A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123896-120350",
+        "sys_site": "lso",
+        "sys_created": "2020-06-23T09:35:05.933Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Kristina-Michelle-Yeretsian",
+        "nodeid": 120350,
+        "documentid": 123896,
+        "nodealias": "Kristina-Michelle-Yeretsian",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4c3e2cc0-5dd1-4161-b1f6-e23b2db0a313",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kristina Michelle Yeretsian",
+        "documentmodifiedwhen": "2021-11-19T07:16:27.928Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80390S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kristina Michelle Yeretsian",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0H9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "26323-25460",
+        "sys_site": "lso",
+        "sys_created": "2018-07-12T12:16:55.928Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Lidiya-Yuriyevna-Yermakova",
+        "nodeid": 25460,
+        "documentid": 26323,
+        "nodealias": "Lidiya-Yuriyevna-Yermakova",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e724e566-c57b-4caf-a767-88673ca928f9",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lidiya Yuriyevna Yermakova",
+        "documentmodifiedwhen": "2022-01-11T07:24:46.809Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66150W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lidiya Yuriyevna Yermakova",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3P5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61410-60136",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:12.414Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Corey-Alexander-Yermus",
+        "nodeid": 60136,
+        "documentid": 61410,
+        "nodealias": "Corey-Alexander-Yermus",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "412ebb27-94f7-4466-acb1-b14688fb5895",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Corey Alexander Yermus",
+        "documentmodifiedwhen": "2022-01-12T07:32:22.535Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68953V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Corey Alexander Yermus",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1A4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61409-60135",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:12.321Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Michael-Alexander-Yermus",
+        "nodeid": 60135,
+        "documentid": 61409,
+        "nodealias": "Michael-Alexander-Yermus",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "148229fb-0f45-4a20-bb8b-94bd448d4238",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Alexander Yermus",
+        "documentmodifiedwhen": "2022-01-02T07:22:58.274Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49717A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Alexander Yermus",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 6P4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61412-60138",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:15.618Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Kelly-Gay-Yerxa",
+        "nodeid": 60138,
+        "documentid": 61412,
+        "nodealias": "Kelly-Gay-Yerxa",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "720c9d5c-6720-40af-8a4e-7e5b882f5777",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kelly Gay Yerxa",
+        "documentmodifiedwhen": "2021-12-25T07:21:21.07Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "28895R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kelly Gay Yerxa",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N1R 5W8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Cambridge"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61414-60140",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:16.18Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/David-Peter-Yerzy",
+        "nodeid": 60140,
+        "documentid": 61414,
+        "nodealias": "David-Peter-Yerzy",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3c7febca-eda8-4471-a82a-8132b0227d72",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Peter Yerzy",
+        "documentmodifiedwhen": "2021-12-25T07:26:17.187Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "29745W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Peter Yerzy",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 0J6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61419-60146",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:18.805Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Berna-Yesilkaya",
+        "nodeid": 60146,
+        "documentid": 61419,
+        "nodealias": "Berna-Yesilkaya",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "de1373b3-9fc6-481d-9b52-65a62eee61b0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Berna Yesilkaya",
+        "documentmodifiedwhen": "2022-01-09T07:31:38.22Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07453",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Berna Yesilkaya",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M5J 0E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "124810-121254",
+        "sys_site": "lso",
+        "sys_created": "2020-08-31T08:47:41.79Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Maryam-Halimat-Yesufu",
+        "nodeid": 121254,
+        "documentid": 124810,
+        "nodealias": "Maryam-Halimat-Yesufu",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c59883e0-93b2-4085-981e-6607fd36c37f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Maryam Halimat Yesufu",
+        "documentmodifiedwhen": "2022-01-17T07:25:28.963Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80802O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Maryam Halimat Yesufu",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 2S5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61418-60147",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:18.805Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Zimra-Tikvah-Yetnikoff",
+        "nodeid": 60147,
+        "documentid": 61418,
+        "nodealias": "Zimra-Tikvah-Yetnikoff",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "81419020-6c29-4178-b8aa-6fb831ac20fc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Zimra Tikvah Yetnikoff",
+        "documentmodifiedwhen": "2022-01-04T07:26:06.568Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54475A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Zimra Tikvah Yetnikoff",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4R 1A3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61425-60152",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:20.805Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Alexander-Shuyan-Yeung",
+        "nodeid": 60152,
+        "documentid": 61425,
+        "nodealias": "Alexander-Shuyan-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8edfe6bb-8c48-493d-9036-decbaac01a5d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alexander Shuyan Yeung",
+        "documentmodifiedwhen": "2021-12-31T07:26:08.113Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41967A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alexander Shuyan Yeung",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4B 3P8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Richmond Hill"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "141120-135207",
+        "sys_site": "lso",
+        "sys_created": "2022-07-30T07:32:34.477Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Andrea-Oi-Shun-Yeung",
+        "nodeid": 135207,
+        "documentid": 141120,
+        "nodealias": "Andrea-Oi-Shun-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "33066d21-7247-4d46-9f3e-1331403875bc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrea Oi Shun Yeung",
+        "documentmodifiedwhen": "2022-07-30T07:32:34.477Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85754S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrea Oi Shun Yeung",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89668-88399",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:40:28.609Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Cheuk-Kin-Keith-Yeung",
+        "nodeid": 88399,
+        "documentid": 89668,
+        "nodealias": "Cheuk-Kin-Keith-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "03692a48-5d1a-49a9-b171-7634d772bd99",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Cheuk Kin Keith Yeung",
+        "documentmodifiedwhen": "2022-01-15T07:23:43.691Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75320Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Cheuk Kin Keith Yeung",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6H 5S4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oakville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89663-88391",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:40:16.028Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Chi-Wai-Yeung",
+        "nodeid": 88391,
+        "documentid": 89663,
+        "nodealias": "Chi-Wai-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a7bee1f3-8bc8-4eca-9ade-7a037a2506a0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Chi Wai Yeung",
+        "documentmodifiedwhen": "2021-09-21T07:57:33.344Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33850N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Chi Wai Yeung",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -81.2737350463867,
+                43.0095977783203
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61446-60168",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:27.306Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Cornelia-Oi-Yin-Yeung",
+        "nodeid": 60168,
+        "documentid": 61446,
+        "nodealias": "Cornelia-Oi-Yin-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7c051896-460f-4760-8f4a-2db266323172",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Cornelia Oi-Yin Yeung",
+        "documentmodifiedwhen": "2019-05-08T14:24:43.789Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67247B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Cornelia Oi-Yin Yeung",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3825378417969,
+                43.6500053405762
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 0B3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61434-60160",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:23.399Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Diana-Frances-T-Yeung",
+        "nodeid": 60160,
+        "documentid": 61434,
+        "nodealias": "Diana-Frances-T-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a086e5e8-4e04-4339-abdb-8564140805bf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Diana Frances T. Yeung",
+        "documentmodifiedwhen": "2020-09-03T07:16:30.375Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57617S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Diana Frances T. Yeung",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3816680908203,
+                43.6486129760742
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "M5X 1B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "137289-131948",
+        "sys_site": "lso",
+        "sys_created": "2022-04-02T07:21:56.945Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Felice-Man-Jing-Yeung",
+        "nodeid": 131948,
+        "documentid": 137289,
+        "nodealias": "Felice-Man-Jing-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8246e39e-ed9c-46fa-b1f1-080efce16b3a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Felice Man-Jing Yeung",
+        "documentmodifiedwhen": "2022-07-21T07:15:59.55Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84024D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Felice Man-Jing Yeung",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 1Y7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61431-60157",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:22.102Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Hoi-Wai-Yeung",
+        "nodeid": 60157,
+        "documentid": 61431,
+        "nodealias": "Hoi-Wai-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5898134f-f3ab-4d49-9311-7cbf7de9fc3c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hoi Wai Yeung",
+        "documentmodifiedwhen": "2021-08-14T07:16:54.914Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56991W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hoi Wai Yeung",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3549423217773,
+                43.8331871032715
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L3R 2N7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "114080-112068",
+        "sys_site": "lso",
+        "sys_created": "2019-03-21T07:20:59.308Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Joey-Yeung",
+        "nodeid": 112068,
+        "documentid": 114080,
+        "nodealias": "Joey-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0439a9a9-05cf-4b13-ad88-8880b9854741",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joey Yeung",
+        "documentmodifiedwhen": "2022-02-25T07:20:34.829Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Cantonais",
+            "Mandarin"
+        ],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Cantonese",
+            "Mandarin"
+        ],
+        "membernumber": "P15415",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joey Yeung",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M5G 2J3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89669-88397",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:40:27.885Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Ka-Fai-Yeung",
+        "nodeid": 88397,
+        "documentid": 89669,
+        "nodealias": "Ka-Fai-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2dc17e85-f538-401e-8256-acd07da03753",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ka Fai Yeung",
+        "documentmodifiedwhen": "2020-02-20T08:43:32.392Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54684B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ka Fai Yeung",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61422-60149",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:20.774Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Kai-Kwong-Yeung",
+        "nodeid": 60149,
+        "documentid": 61422,
+        "nodealias": "Kai-Kwong-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3bd5d73b-db29-417d-8f96-0efefc1ef968",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kai Kwong Yeung",
+        "documentmodifiedwhen": "2021-12-16T07:21:03.426Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de l'annexe sur les indemnit\u00e9s d'accident l\u00e9gales (AIAL)"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Statutory Accident Benefits Schedule matters (SABS)"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P02499",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kai Kwong Yeung",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M1S 1S6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "126445-122597",
+        "sys_site": "lso",
+        "sys_created": "2020-12-01T08:14:52.002Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Kwan-Yiu-Yeung",
+        "nodeid": 122597,
+        "documentid": 126445,
+        "nodealias": "Kwan-Yiu-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ca5dcf5c-72e2-4b01-9f28-c567d902ab15",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kwan Yiu Yeung",
+        "documentmodifiedwhen": "2022-03-16T07:16:54.9Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P16767",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kwan Yiu Yeung",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "K1P 6L2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61436-60163",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:24.54Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Lianna-Yeung",
+        "nodeid": 60163,
+        "documentid": 61436,
+        "nodealias": "Lianna-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0f6f81d2-8d99-4326-920f-06f7bde26333",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lianna Yeung",
+        "documentmodifiedwhen": "2019-05-08T14:24:40.182Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60667K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lianna Yeung",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4164047241211,
+                43.7801780700684
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M2M 4G3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130650-126239",
+        "sys_site": "lso",
+        "sys_created": "2021-06-01T08:01:30.776Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Rex-Romolo-Yeung",
+        "nodeid": 126239,
+        "documentid": 130650,
+        "nodealias": "Rex-Romolo-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "02c2a8f7-a247-4f66-b678-4889144a26c0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rex Romolo Yeung",
+        "documentmodifiedwhen": "2022-01-18T12:11:40.472Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82381T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rex Romolo Yeung",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4W 3J5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61428-60154",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:20.868Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Sandy-Pui-Shan-Yeung",
+        "nodeid": 60154,
+        "documentid": 61428,
+        "nodealias": "Sandy-Pui-Shan-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5bca26b2-f977-4e6e-94ee-c3fffa2882cd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sandy Pui Shan Yeung",
+        "documentmodifiedwhen": "2022-01-02T07:24:19.552Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "48201A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sandy Pui Shan Yeung",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89664-88392",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:40:16.528Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Sze-John-Yeung",
+        "nodeid": 88392,
+        "documentid": 89664,
+        "nodealias": "Sze-John-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5cf1f041-640e-4ae6-b8d9-74f1056865bd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sze John Yeung",
+        "documentmodifiedwhen": "2021-06-02T07:15:57.164Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "40725S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sze John Yeung",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                114.171722412109,
+                22.2746391296387
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Hong Kong",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "NA",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hong Kong"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61445-60167",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:27.29Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Tin-Yat-Amy-Yeung",
+        "nodeid": 60167,
+        "documentid": 61445,
+        "nodealias": "Tin-Yat-Amy-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0fe758ab-fa44-4db2-aa0c-b1cd11a43f63",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tin Yat Amy Yeung",
+        "documentmodifiedwhen": "2022-01-15T07:21:20.622Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69313B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tin Yat Amy Yeung",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4P 2C9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61423-60151",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:20.805Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Vanessa-May-Kay-Yeung",
+        "nodeid": 60151,
+        "documentid": 61423,
+        "nodealias": "Vanessa-May-Kay-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4184ef20-8c69-4b74-9d6f-bc068bdd8afb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Vanessa May Kay Yeung",
+        "documentmodifiedwhen": "2021-12-31T07:28:04.003Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43198L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Vanessa May Kay Yeung",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5X 1A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61444-60166",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:27.321Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Veronica-Holly-Yeung",
+        "nodeid": 60166,
+        "documentid": 61444,
+        "nodealias": "Veronica-Holly-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6fed77b6-ec23-46da-8bf7-6d1c349e1224",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Veronica Holly Yeung",
+        "documentmodifiedwhen": "2021-07-05T10:12:45.394Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70798I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Veronica Holly Yeung",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3265228271484,
+                43.8387222290039
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L3R 9X9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89661-88385",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:40:15.716Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Wai-Kin-Yeung",
+        "nodeid": 88385,
+        "documentid": 89661,
+        "nodealias": "Wai-Kin-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "76ab87ff-d36f-4305-847b-5b662f070fef",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Wai Kin Yeung",
+        "documentmodifiedwhen": "2020-02-20T09:36:16.434Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08702",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Wai Kin Yeung",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61449-60175",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:27.384Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Yue-Wai-Wesley-Yeung",
+        "nodeid": 60175,
+        "documentid": 61449,
+        "nodealias": "Yue-Wai-Wesley-Yeung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3e771ca2-6f83-456a-833b-b7804c0bbdb5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Yue Wai Wesley Yeung",
+        "documentmodifiedwhen": "2021-08-27T07:16:14.54Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71489F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Yue Wai Wesley Yeung",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3775405883789,
+                43.6440048217773
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 0E7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61451-60178",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:31.321Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Daphne-Li-Ee-Yew",
+        "nodeid": 60178,
+        "documentid": 61451,
+        "nodealias": "Daphne-Li-Ee-Yew",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2e7bef2d-86e9-48fb-b4db-affbd41b73c7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daphne Li Ee Yew",
+        "documentmodifiedwhen": "2022-01-04T07:26:07.106Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54476T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daphne Li Ee Yew",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "V7X 1J1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vancouver"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89673-88402",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:40:29.305Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Lily-K-Yew",
+        "nodeid": 88402,
+        "documentid": 89673,
+        "nodealias": "Lily-K-Yew",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c79a7994-67d7-4b93-aeac-298ad330187c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lily K Yew",
+        "documentmodifiedwhen": "2021-11-05T07:50:47.39Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36277U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lily K Yew",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89676-88404",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:40:32.922Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Darlene-Anne-Yewer",
+        "nodeid": 88404,
+        "documentid": 89676,
+        "nodealias": "Darlene-Anne-Yewer",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b0865e58-95ee-43b9-b300-2e5ca1674c5c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Darlene Anne Yewer",
+        "documentmodifiedwhen": "2021-12-14T09:05:14.402Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21917Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Darlene Anne Yewer",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61461-60182",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:31.321Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Karen-Andrea-Yhap",
+        "nodeid": 60182,
+        "documentid": 61461,
+        "nodealias": "Karen-Andrea-Yhap",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "faf47a5f-e4ec-40a9-93ee-2d40f7caf76c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karen Andrea Yhap",
+        "documentmodifiedwhen": "2021-12-18T07:21:45.074Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07093",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karen Andrea Yhap",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M9W 7J4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61458-60188",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:31.368Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Allen-Yi",
+        "nodeid": 60188,
+        "documentid": 61458,
+        "nodealias": "Allen-Yi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "708e5fd3-5594-4a76-a759-db7433e92157",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Allen Yi",
+        "documentmodifiedwhen": "2022-01-03T07:25:03.866Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51469D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Allen Yi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 2T3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89683-88408",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:40:41.618Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Cindy-Yi",
+        "nodeid": 88408,
+        "documentid": 89683,
+        "nodealias": "Cindy-Yi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e995c028-705e-4b5b-bf79-f499a0616c74",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Cindy Yi",
+        "documentmodifiedwhen": "2022-02-16T07:17:06.373Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit administratif",
+            "Droit commercial et corporatifes",
+            "Droit immobilier",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Administrative Law",
+            "Corporate/Commercial Law",
+            "Real Estate Law",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [
+            "Mandarin"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Mandarin"
+        ],
+        "membernumber": "71114F",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Cindy Yi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 2A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61467-60192",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:34.65Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/David-Ming-Chung-Yi",
+        "nodeid": 60192,
+        "documentid": 61467,
+        "nodealias": "David-Ming-Chung-Yi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5506f256-bb7d-4f51-9eef-16e07c37e815",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Ming Chung Yi",
+        "documentmodifiedwhen": "2022-03-14T07:16:21.728Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64678V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Ming Chung Yi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1E7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123897-120351",
+        "sys_site": "lso",
+        "sys_created": "2020-06-23T09:35:25.561Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Eunji-Yi",
+        "nodeid": 120351,
+        "documentid": 123897,
+        "nodealias": "Eunji-Yi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "44751556-6054-445c-abd5-89c29bae19dc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eunji Yi",
+        "documentmodifiedwhen": "2020-07-08T07:20:02.552Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80391O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eunji Yi",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61459-60184",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:31.368Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Hyun-Soo-Yi",
+        "nodeid": 60184,
+        "documentid": 61459,
+        "nodealias": "Hyun-Soo-Yi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "958eccd2-a645-4b1a-8b84-9cb92f332631",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hyun Soo Yi",
+        "documentmodifiedwhen": "2021-12-24T07:21:03.149Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25197A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hyun Soo Yi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6G 1K9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89678-88406",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:40:36.26Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Hyun-Mi-Yi",
+        "nodeid": 88406,
+        "documentid": 89678,
+        "nodealias": "Hyun-Mi-Yi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "58fe3936-8d04-4fb0-9ec5-a4182c8685a0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hyun-Mi Yi",
+        "documentmodifiedwhen": "2021-11-05T07:42:30.788Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30174W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hyun-Mi Yi",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61462-60189",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:31.4Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Rosa-Yi",
+        "nodeid": 60189,
+        "documentid": 61462,
+        "nodealias": "Rosa-Yi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "62515a94-8967-43a2-8e22-aca8347722a3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rosa Yi",
+        "documentmodifiedwhen": "2022-04-05T07:17:07.273Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "62443L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rosa Yi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "L4K 0C5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Concord"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61469-60193",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:34.665Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Sangkil-Yi",
+        "nodeid": 60193,
+        "documentid": 61469,
+        "nodealias": "Sangkil-Yi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3ae3024f-a6c6-4bb6-a2b2-a69646fc234d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sangkil Yi",
+        "documentmodifiedwhen": "2022-07-07T07:31:44.063Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63917U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sangkil Yi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2M 3W2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "128870-124700",
+        "sys_site": "lso",
+        "sys_created": "2021-04-27T07:21:34.293Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Yan-Yi",
+        "nodeid": 124700,
+        "documentid": 128870,
+        "nodealias": "Yan-Yi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "78902ed3-3f9c-4853-ace4-ed07ba07ce15",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Yan Yi",
+        "documentmodifiedwhen": "2021-05-20T07:17:57.108Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17339",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Yan Yi",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "115414-113097",
+        "sys_site": "lso",
+        "sys_created": "2019-05-25T07:17:08.651Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Zhang-Koen-Yi",
+        "nodeid": 113097,
+        "documentid": 115414,
+        "nodealias": "Zhang-Koen-Yi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1b2d9a52-415e-4019-8e14-00fa0404763d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Zhang Koen Yi",
+        "documentmodifiedwhen": "2022-05-28T07:39:07.864Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76487W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Zhang Koen Yi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89679-88410",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:40:41.852Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Claire-Yee-Mai-Yick",
+        "nodeid": 88410,
+        "documentid": 89679,
+        "nodealias": "Claire-Yee-Mai-Yick",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "52500949-b480-4aed-bc72-799ed0c7aa67",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Claire Yee Mai Yick",
+        "documentmodifiedwhen": "2021-09-21T08:33:11.976Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66151S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Claire Yee Mai Yick",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -123.36988067627,
+                48.4180755615234
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "V8V 1T7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Victoria"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61466-60196",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:34.868Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Harriet-Nayiga-Yiga",
+        "nodeid": 60196,
+        "documentid": 61466,
+        "nodealias": "Harriet-Nayiga-Yiga",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "20ca5193-b444-428f-bae7-92aed29a329a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Harriet Nayiga Yiga",
+        "documentmodifiedwhen": "2020-07-14T07:18:44.926Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72782O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Harriet Nayiga Yiga",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.422607421875,
+                43.6365127563477
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6K 3H5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61475-60203",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:36.589Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Charles-Yih",
+        "nodeid": 60203,
+        "documentid": 61475,
+        "nodealias": "Charles-Yih",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e3063d29-14e8-4ab4-8545-62c53fa26740",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Charles Yih",
+        "documentmodifiedwhen": "2021-01-10T07:17:16.931Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47589R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Charles Yih",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -81.2534332275391,
+                42.9831352233887
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N6A 6A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89684-88411",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:40:41.93Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Kerrie-Kar-Wai-Yim",
+        "nodeid": 88411,
+        "documentid": 89684,
+        "nodealias": "Kerrie-Kar-Wai-Yim",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "08942a3f-6319-4f62-8109-4d9f6ef405aa",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kerrie Kar Wai Yim",
+        "documentmodifiedwhen": "2021-09-17T07:23:48.883Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14405",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kerrie Kar Wai Yim",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3815765380859,
+                43.6479454040527
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1K8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "125972-122165",
+        "sys_site": "lso",
+        "sys_created": "2020-11-03T08:00:13.312Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Tiffany-Yim",
+        "nodeid": 122165,
+        "documentid": 125972,
+        "nodealias": "Tiffany-Yim",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ea76a2f3-ec59-4209-898e-93f312658f08",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tiffany Yim",
+        "documentmodifiedwhen": "2021-08-21T07:17:46.445Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80990E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tiffany Yim",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -80.5275115966797,
+                43.4867057800293
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N2J 2Z5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Waterloo"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89688-88416",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:40:45.644Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Hong-Xing-Yin",
+        "nodeid": 88416,
+        "documentid": 89688,
+        "nodealias": "Hong-Xing-Yin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "12fc23e5-0be3-4c32-9271-d74b528637db",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hong Xing Yin",
+        "documentmodifiedwhen": "2022-04-23T07:17:34.876Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P12715",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hong Xing Yin",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5J 3G6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89687-88415",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:40:45.581Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Xiaowei-Yin",
+        "nodeid": 88415,
+        "documentid": 89687,
+        "nodealias": "Xiaowei-Yin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8de29d07-729b-4510-b017-1bdafe0b7005",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Xiaowei Yin",
+        "documentmodifiedwhen": "2020-02-20T09:11:56.534Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P02722",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Xiaowei Yin",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139552-133940",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T07:24:36.488Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/047/Katherine-Jamie-Chia-Ling-Ying",
+        "nodeid": 133940,
+        "documentid": 139552,
+        "nodealias": "Katherine-Jamie-Chia-Ling-Ying",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "172b2dd9-9614-4a0e-b095-c17c5556f2aa",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Katherine Jamie Chia-Ling Ying",
+        "documentmodifiedwhen": "2022-07-07T07:22:22.436Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85017I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Katherine Jamie Chia-Ling Ying",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61531-60257",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:58.402Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Rebecca-Jehanne-Ying",
+        "nodeid": 60257,
+        "documentid": 61531,
+        "nodealias": "Rebecca-Jehanne-Ying",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "819aa4db-1926-413b-980b-b4a266b34fc0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rebecca Jehanne Ying",
+        "documentmodifiedwhen": "2022-01-12T07:19:23.563Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67986D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rebecca Jehanne Ying",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6S 4W3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61533-60259",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:58.512Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Joel-Richard-Yinger",
+        "nodeid": 60259,
+        "documentid": 61533,
+        "nodealias": "Joel-Richard-Yinger",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "11c8d79d-5eb4-4d60-9f35-e183e29dd1c9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joel Richard Yinger",
+        "documentmodifiedwhen": "2022-01-14T07:17:15.926Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70799E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joel Richard Yinger",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N3S 7N8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brantford"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61535-60261",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:58.652Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Demetrios-Yiokaris",
+        "nodeid": 60261,
+        "documentid": 61535,
+        "nodealias": "Demetrios-Yiokaris",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f7729e4a-82bb-483d-a248-7f6373de2e31",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Demetrios Yiokaris",
+        "documentmodifiedwhen": "2022-01-01T07:31:06.109Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45852L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Demetrios Yiokaris",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3R3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61534-60260",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:58.652Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/John-Yiokaris",
+        "nodeid": 60260,
+        "documentid": 61534,
+        "nodealias": "John-Yiokaris",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c5b6ed54-cdd1-4179-8155-c9eb49350115",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Yiokaris",
+        "documentmodifiedwhen": "2021-12-31T07:28:03.395Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43199H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Yiokaris",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 1Z8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61539-60266",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:59.996Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Althea-Chor-Ki-Yip",
+        "nodeid": 60266,
+        "documentid": 61539,
+        "nodealias": "Althea-Chor-Ki-Yip",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5b356bcf-5aa6-42f0-a30a-8bef0d5a5e90",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Althea Chor Ki Yip",
+        "documentmodifiedwhen": "2022-01-14T07:27:36.837Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72445K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Althea Chor Ki Yip",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M9W 6V7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "124060-120510",
+        "sys_site": "lso",
+        "sys_created": "2020-06-27T07:27:02.432Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Andy-Man-kit-Yip",
+        "nodeid": 120510,
+        "documentid": 124060,
+        "nodealias": "Andy-Man-kit-Yip",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "71a77cf6-0587-4374-bffe-6021d8a7d46b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andy Man-kit Yip",
+        "documentmodifiedwhen": "2021-11-20T07:16:05.341Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80480O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andy Man-kit Yip",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L3R 0E1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89689-88417",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:40:46.113Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Anissa-Kar-Mei-Yip",
+        "nodeid": 88417,
+        "documentid": 89689,
+        "nodealias": "Anissa-Kar-Mei-Yip",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "46f65a1b-3e05-4643-a1fd-8e937f5304d8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anissa Kar Mei Yip",
+        "documentmodifiedwhen": "2020-02-20T08:39:10.244Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "40726O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anissa Kar Mei Yip",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "134907-129999",
+        "sys_site": "lso",
+        "sys_created": "2021-10-30T07:16:00.679Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/014/Elizabeth-Hau-Wan-Yip",
+        "nodeid": 129999,
+        "documentid": 134907,
+        "nodealias": "Elizabeth-Hau-Wan-Yip",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4e1ee20f-5b08-41e6-9c0f-4a428aa25f3a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Elizabeth Hau Wan Yip",
+        "documentmodifiedwhen": "2022-04-02T07:19:28.208Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30175S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Elizabeth Hau Wan Yip",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "V6B 4N7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vancouver"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61536-60262",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:58.824Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Juliette-Mei-Van-Yip",
+        "nodeid": 60262,
+        "documentid": 61536,
+        "nodealias": "Juliette-Mei-Van-Yip",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ffe22589-d86f-460f-a2a7-0795ef163272",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Juliette Mei Van Yip",
+        "documentmodifiedwhen": "2021-12-23T07:25:20.813Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59623E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Juliette Mei Van Yip",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L5N 0B9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61540-60265",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:32:59.965Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Ka-Wun-Yip",
+        "nodeid": 60265,
+        "documentid": 61540,
+        "nodealias": "Ka-Wun-Yip",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e26f6eb4-8c2a-465f-abc9-584c07ff7493",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ka Wun Yip",
+        "documentmodifiedwhen": "2022-01-11T07:27:43.066Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64763O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ka Wun Yip",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 1H8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "28765-27898",
+        "sys_site": "lso",
+        "sys_created": "2018-07-13T11:57:34.264Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/041/Kevin-Ho-Tung-Yip",
+        "nodeid": 27898,
+        "documentid": 28765,
+        "nodealias": "Kevin-Ho-Tung-Yip",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b380a869-3148-4ba3-a646-f8f34f01a4bb",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kevin Ho-Tung Yip",
+        "documentmodifiedwhen": "2022-01-04T07:26:07.709Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit commercial et corporatifes",
+            "Droit fiscal"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Corporate/Commercial Law",
+            "Tax Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54477P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kevin Ho-Tung Yip",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139553-133941",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T07:24:42.137Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/047/Krista-Nicole-Yip-Chuck",
+        "nodeid": 133941,
+        "documentid": 139553,
+        "nodealias": "Krista-Nicole-Yip-Chuck",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b9429206-86d0-4ee6-b4b8-04b125e5c1d3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Krista Nicole Yip-Chuck",
+        "documentmodifiedwhen": "2022-07-07T07:22:23.009Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85018E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Krista Nicole Yip-Chuck",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61541-60268",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:33:02.356Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Lai-Fan-Yip-Leung",
+        "nodeid": 60268,
+        "documentid": 61541,
+        "nodealias": "Lai-Fan-Yip-Leung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "caf004d5-488f-4f18-bf8d-e11cbc3b12e9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lai-Fan Yip-Leung",
+        "documentmodifiedwhen": "2021-09-21T09:05:17.794Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06667",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lai-Fan Yip-Leung",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3503875732422,
+                43.8143119812012
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L3R 6G2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61542-60267",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:33:02.341Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Amelia-Yok-Hing-Yiu",
+        "nodeid": 60267,
+        "documentid": 61542,
+        "nodealias": "Amelia-Yok-Hing-Yiu",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3b9ddc28-a9e7-4863-8fa9-fa22c5b8e699",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amelia Yok Hing Yiu",
+        "documentmodifiedwhen": "2022-01-04T07:28:03.78Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54185B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amelia Yok Hing Yiu",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L1N 4L3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Whitby"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "117378-114976",
+        "sys_site": "lso",
+        "sys_created": "2019-06-28T09:21:39.822Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Cadie-Stephanie-Yiu",
+        "nodeid": 114976,
+        "documentid": 117378,
+        "nodealias": "Cadie-Stephanie-Yiu",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "12c6025b-35fe-4e96-92ca-12747b075481",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Cadie Stephanie Yiu",
+        "documentmodifiedwhen": "2020-10-06T07:19:53.747Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77872T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Cadie Stephanie Yiu",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3860626220703,
+                43.6455955505371
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5V 3J7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123049-119574",
+        "sys_site": "lso",
+        "sys_created": "2020-06-16T09:07:36.964Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Clifton-Yiu",
+        "nodeid": 119574,
+        "documentid": 123049,
+        "nodealias": "Clifton-Yiu",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4cedad6d-bbfc-4a79-9561-62ce5ea633f4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Clifton Yiu",
+        "documentmodifiedwhen": "2022-01-17T07:29:13.919Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "79860J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Clifton Yiu",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2R2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89690-88418",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:40:48.644Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Clifton-Yiu",
+        "nodeid": 88418,
+        "documentid": 89690,
+        "nodealias": "Clifton-Yiu",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c6f85330-6c4f-40d3-bc43-a916542e8031",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Clifton Yiu",
+        "documentmodifiedwhen": "2021-09-21T09:37:41.947Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11710",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Clifton Yiu",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3804626464844,
+                43.6503028869629
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "M5H 2R2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "112676-110957",
+        "sys_site": "lso",
+        "sys_created": "2018-12-01T07:17:49.832Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Stephanie-Nga-Yee-Yiu",
+        "nodeid": 110957,
+        "documentid": 112676,
+        "nodealias": "Stephanie-Nga-Yee-Yiu",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7b3ddbf1-1ca4-4afc-8153-1331b47666aa",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephanie Nga Yee Yiu",
+        "documentmodifiedwhen": "2022-03-18T07:16:20.714Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Cantonais"
+        ],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Cantonese"
+        ],
+        "membernumber": "P15117",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephanie Nga Yee Yiu",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "N6A 3V8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "112617-110899",
+        "sys_site": "lso",
+        "sys_created": "2018-11-30T07:17:34.805Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Mary-Jennifer-Yngente",
+        "nodeid": 110899,
+        "documentid": 112617,
+        "nodealias": "Mary-Jennifer-Yngente",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e69e862f-8fb1-40ac-8a61-3a9ac3590ceb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mary Jennifer Yngente",
+        "documentmodifiedwhen": "2022-04-05T07:16:10.488Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15055",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mary Jennifer Yngente",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 0B4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "120620-117541",
+        "sys_site": "lso",
+        "sys_created": "2020-02-04T08:01:17.277Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Ashley-Robin-Yoannou",
+        "nodeid": 117541,
+        "documentid": 120620,
+        "nodealias": "Ashley-Robin-Yoannou",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7d0fcaeb-95ff-4c5a-8894-5f8e982d0f42",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ashley Robin Yoannou",
+        "documentmodifiedwhen": "2022-01-16T07:30:33.425Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78907T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ashley Robin Yoannou",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5R 3P1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "29318-28451",
+        "sys_site": "lso",
+        "sys_created": "2018-07-13T14:06:40.493Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Theodore-Yoannou",
+        "nodeid": 28451,
+        "documentid": 29318,
+        "nodealias": "Theodore-Yoannou",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "95abb301-813e-429a-b498-c0172e886ab4",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Theodore Yoannou",
+        "documentmodifiedwhen": "2021-11-03T07:16:11.897Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit criminel et quasi criminel",
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Infractions punissables par proc\u00e9dure sommaire \u00e0 la Cour de justice de l'Ontario"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Criminal/Quasi-Criminal Law",
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Ontario Court of Justice - Summary Conviction Offences"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "34520D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Theodore Yoannou",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4684524536133,
+                43.769344329834
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M3J 2V5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61549-60272",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:33:06.637Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Jean-Rodrigue-Aman-Yoboua",
+        "nodeid": 60272,
+        "documentid": 61549,
+        "nodealias": "Jean-Rodrigue-Aman-Yoboua",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "74ca1aec-9af8-4833-9ab3-0e5cee6bbf2c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jean-Rodrigue Aman Yoboua",
+        "documentmodifiedwhen": "2022-01-08T07:25:22.526Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58800U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jean-Rodrigue Aman Yoboua",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K2P 0P1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "112621-110903",
+        "sys_site": "lso",
+        "sys_created": "2018-11-30T07:17:40.325Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Janani-Yogalingam",
+        "nodeid": 110903,
+        "documentid": 112621,
+        "nodealias": "Janani-Yogalingam",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "69620bfc-e1db-4164-bebb-aabfb33494d6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Janani Yogalingam",
+        "documentmodifiedwhen": "2021-07-30T07:16:34.604Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15054",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Janani Yogalingam",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3876113891602,
+                43.6646156311035
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M5S 2S3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89691-88419",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:40:55.353Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Kandiah-Yogamoorthy",
+        "nodeid": 88419,
+        "documentid": 89691,
+        "nodealias": "Kandiah-Yogamoorthy",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "eef600c9-71dc-4596-a3e0-c9fea77b658e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kandiah Yogamoorthy",
+        "documentmodifiedwhen": "2020-03-13T07:17:37.218Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11555",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kandiah Yogamoorthy",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61547-60270",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:33:06.778Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Malathi-Yogaraajah",
+        "nodeid": 60270,
+        "documentid": 61547,
+        "nodealias": "Malathi-Yogaraajah",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1cb9b0a7-be12-4fb3-9d1d-a20d4e25b6dd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Malathi Yogaraajah",
+        "documentmodifiedwhen": "2022-07-27T07:17:46.125Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42462M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Malathi Yogaraajah",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M3J 2G6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61548-60271",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:33:06.731Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Ravimohan-Yogarajah",
+        "nodeid": 60271,
+        "documentid": 61548,
+        "nodealias": "Ravimohan-Yogarajah",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "13978876-0553-4b39-ae8c-56e3cc0f2fa5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ravimohan Yogarajah",
+        "documentmodifiedwhen": "2021-09-21T09:14:37.986Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07699",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ravimohan Yogarajah",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3136901855469,
+                43.8350677490234
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L3R 9T7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61544-60274",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:33:06.793Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Arjuna-Dilip-Yogasundram",
+        "nodeid": 60274,
+        "documentid": 61544,
+        "nodealias": "Arjuna-Dilip-Yogasundram",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "37295e17-0de5-4bd7-861c-f3bf7cf06ce5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Arjuna Dilip Yogasundram",
+        "documentmodifiedwhen": "2021-12-30T07:17:12.819Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la s\u00e9curit\u00e9 professionnelle et de l'assurance contre les accidents du travail",
+            "Indemnit\u00e9s d'accidents du travail"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Workplace Safety and Insurance Law",
+            "Workers' Compensation"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "39723D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Arjuna Dilip Yogasundram",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6H 2P5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89694-88422",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:40:56.306Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Rathini-Yogendran",
+        "nodeid": 88422,
+        "documentid": 89694,
+        "nodealias": "Rathini-Yogendran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8090e1ba-caed-4116-9326-f7959fea2d89",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rathini Yogendran",
+        "documentmodifiedwhen": "2020-02-27T07:17:07.256Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59401V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rathini Yogendran",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61546-60275",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:33:06.856Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Mathumai-Yogeswaran",
+        "nodeid": 60275,
+        "documentid": 61546,
+        "nodealias": "Mathumai-Yogeswaran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "91207b03-322b-429c-b6ea-3a31aceb1986",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mathumai Yogeswaran",
+        "documentmodifiedwhen": "2022-02-24T07:17:32.094Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63001C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mathumai Yogeswaran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 3H6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "131268-126787",
+        "sys_site": "lso",
+        "sys_created": "2021-06-09T08:55:21.098Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Shinthuja-Yogeswaran",
+        "nodeid": 126787,
+        "documentid": 131268,
+        "nodealias": "Shinthuja-Yogeswaran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0934bf7d-1d33-4bfe-b5e5-46d3c5346f30",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shinthuja Yogeswaran",
+        "documentmodifiedwhen": "2022-01-18T12:14:23.384Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82583O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shinthuja Yogeswaran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5B 2L7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61545-60273",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:33:06.731Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Yalini-Yogeswaran",
+        "nodeid": 60273,
+        "documentid": 61545,
+        "nodealias": "Yalini-Yogeswaran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fa864421-b1e9-4ef1-bbd5-8da6b555d3a0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Yalini Yogeswaran",
+        "documentmodifiedwhen": "2021-12-20T07:24:33.484Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14415",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Yalini Yogeswaran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M6A 2V2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61543-60269",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:33:06.778Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Yohne-Yogeswaran",
+        "nodeid": 60269,
+        "documentid": 61543,
+        "nodealias": "Yohne-Yogeswaran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5856d9be-605c-4d1e-9e97-e0a4176d2745",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Yohne Yogeswaran",
+        "documentmodifiedwhen": "2021-12-20T07:16:24.202Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11883",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Yohne Yogeswaran",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L9T 1Y7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Milton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "28766-27899",
+        "sys_site": "lso",
+        "sys_created": "2018-07-13T11:57:44.643Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Ledya-Solomon-Yohannes",
+        "nodeid": 27899,
+        "documentid": 28766,
+        "nodealias": "Ledya-Solomon-Yohannes",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "23a8f728-2c0f-4019-8d88-aa6e285dcee9",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ledya Solomon Yohannes",
+        "documentmodifiedwhen": "2022-07-27T07:16:00.717Z",
+        "skuname": null,
+        "memberprovincetext": "California",
+        "memberareasofservicenamesfrench": [
+            "Droit commercial et corporatifes",
+            "Droit des valeurs mobili\u00e8res"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Corporate/Commercial Law",
+            "Securities Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72783K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ledya Solomon Yohannes",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "94111-6538",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "San Francisco"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61551-60277",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:33:06.981Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Stephen-Edward-Yoker",
+        "nodeid": 60277,
+        "documentid": 61551,
+        "nodealias": "Stephen-Edward-Yoker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e130893b-1770-4764-867b-9e98460dd71b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephen Edward Yoker",
+        "documentmodifiedwhen": "2021-12-30T07:17:12.321Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "39724W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephen Edward Yoker",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N8X 2E9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Windsor"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61552-60278",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:33:06.965Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Karen-Ann-Yolevski",
+        "nodeid": 60278,
+        "documentid": 61552,
+        "nodealias": "Karen-Ann-Yolevski",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "274aa78d-3583-45ef-b16f-ec0a3cc4a3e8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karen Ann Yolevski",
+        "documentmodifiedwhen": "2022-01-04T07:21:30.47Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52726U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karen Ann Yolevski",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M3C 3K5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Don Mills"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61556-60282",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:33:07.168Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Andrew-Michael-Yolles",
+        "nodeid": 60282,
+        "documentid": 61556,
+        "nodealias": "Andrew-Michael-Yolles",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "974061ff-5277-484c-9ac2-d98891379b22",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew Michael Yolles",
+        "documentmodifiedwhen": "2022-01-11T07:21:32.281Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64293A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew Michael Yolles",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1J5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61554-60281",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:33:07.106Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Kenneth-James-Yolles",
+        "nodeid": 60281,
+        "documentid": 61554,
+        "nodealias": "Kenneth-James-Yolles",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dba41971-a5b0-4665-9ad2-f416d4d449b9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kenneth James Yolles",
+        "documentmodifiedwhen": "2022-07-21T07:15:24.698Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "17655U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kenneth James Yolles",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L4K 5R9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Concord"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61555-60280",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:33:07.09Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Vanessa-Rachel-Yolles",
+        "nodeid": 60280,
+        "documentid": 61555,
+        "nodealias": "Vanessa-Rachel-Yolles",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d6fb11e0-ae74-4c70-8798-3f60823f538d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Vanessa Rachel Yolles",
+        "documentmodifiedwhen": "2022-01-02T07:15:40.54Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "40727K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Vanessa Rachel Yolles",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M7A 1A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89692-88424",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:40:56.478Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Lauren-Lisa-Yon",
+        "nodeid": 88424,
+        "documentid": 89692,
+        "nodealias": "Lauren-Lisa-Yon",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a6f25cc6-60e3-4f2f-93bb-af13ce8c38f2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lauren Lisa Yon",
+        "documentmodifiedwhen": "2021-10-16T07:17:45.524Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P10549",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lauren Lisa Yon",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.5365219116211,
+                43.6413459777832
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M9B 1K7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61557-60283",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:33:07.324Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Dalia-Yonadam",
+        "nodeid": 60283,
+        "documentid": 61557,
+        "nodealias": "Dalia-Yonadam",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d595a0a6-40bb-4d90-8490-4160015e8ecb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Dalia Yonadam",
+        "documentmodifiedwhen": "2022-02-01T07:17:25.686Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65279W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Dalia Yonadam",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "L4K 3R1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Concord"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "138828-133271",
+        "sys_site": "lso",
+        "sys_created": "2022-06-14T07:48:48.398Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Brenda-Samir-Yonan",
+        "nodeid": 133271,
+        "documentid": 138828,
+        "nodealias": "Brenda-Samir-Yonan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9dfd0eb6-a6cb-4bb1-bd26-32a1896ba747",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brenda Samir Yonan",
+        "documentmodifiedwhen": "2022-07-07T07:33:32.767Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18532",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brenda Samir Yonan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "M4G 3V5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "East York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "136274-131057",
+        "sys_site": "lso",
+        "sys_created": "2022-02-04T07:19:27.422Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Bibi-Shameeza-Yonas",
+        "nodeid": 131057,
+        "documentid": 136274,
+        "nodealias": "Bibi-Shameeza-Yonas",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cb7ea233-8c0b-4a45-9ce3-44d516c01b9f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Bibi Shameeza Yonas",
+        "documentmodifiedwhen": "2022-02-13T07:22:02.079Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18231",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Bibi Shameeza Yonas",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L6B 0P9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61559-60284",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:33:08.559Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Adriane-Elizabeth-Yong",
+        "nodeid": 60284,
+        "documentid": 61559,
+        "nodealias": "Adriane-Elizabeth-Yong",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "05ba4f33-8834-47e7-b3dc-ab517bca0c49",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Adriane Elizabeth Yong",
+        "documentmodifiedwhen": "2022-01-07T07:22:41.861Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57618O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Adriane Elizabeth Yong",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61558-60285",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:33:08.559Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Pamela-Mae-Yong",
+        "nodeid": 60285,
+        "documentid": 61558,
+        "nodealias": "Pamela-Mae-Yong",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9e32ff0c-bae6-4cf8-94ee-5669a74c403f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Pamela Mae Yong",
+        "documentmodifiedwhen": "2021-09-21T08:15:11.335Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "48668L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Pamela Mae Yong",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -123.093467712402,
+                49.2623443603516
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "V5T 1X3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vancouver"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61560-60286",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:33:08.825Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Sylvia-Siew-Jen-Yong",
+        "nodeid": 60286,
+        "documentid": 61560,
+        "nodealias": "Sylvia-Siew-Jen-Yong",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "58412457-cb1b-4714-a1b2-9c17474a513a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sylvia Siew Jen Yong",
+        "documentmodifiedwhen": "2022-01-14T07:29:35.268Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72446G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sylvia Siew Jen Yong",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2S5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    }
+]

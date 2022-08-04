@@ -1,0 +1,5140 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75642-74375",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:59:47.151Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Thinh-Nguyen",
+        "nodeid": 74375,
+        "documentid": 75642,
+        "nodealias": "Thinh-Nguyen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6b9dd22c-65bd-421c-884c-3f8bf12c9125",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Thinh Nguyen",
+        "documentmodifiedwhen": "2022-06-22T07:15:27.219Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08572",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Thinh Nguyen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66774-65508",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:47:41.604Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Thuy-Uyen-Mi-Nguyen",
+        "nodeid": 65508,
+        "documentid": 66774,
+        "nodealias": "Thuy-Uyen-Mi-Nguyen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bcfd8ecb-b2d3-4150-9e33-27d2e83db068",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Thuy Uyen Mi Nguyen",
+        "documentmodifiedwhen": "2022-07-02T07:15:31.026Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69443T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Thuy Uyen Mi Nguyen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6T 5H9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66768-65500",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:46:31.639Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Thuy-Anh-Ho-Nguyen",
+        "nodeid": 65500,
+        "documentid": 66768,
+        "nodealias": "Thuy-Anh-Ho-Nguyen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6d4c1615-2a2e-4b18-906f-1c582d5b0a25",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Thuy-Anh Ho Nguyen",
+        "documentmodifiedwhen": "2021-03-26T07:18:06.577Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64945V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Thuy-Anh Ho Nguyen",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.6974487304688,
+                45.4216957092285
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1P 1J9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66747-65480",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:42:46.962Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Tien-Hung-Nguyen",
+        "nodeid": 65480,
+        "documentid": 66747,
+        "nodealias": "Tien-Hung-Nguyen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bf3215f5-a540-47dc-9411-426bd80a8827",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tien Hung Nguyen",
+        "documentmodifiedwhen": "2020-07-24T07:20:07.634Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13525",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tien Hung Nguyen",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "124704-121148",
+        "sys_site": "lso",
+        "sys_created": "2020-08-31T07:56:26.438Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Tina-Nguyen",
+        "nodeid": 121148,
+        "documentid": 124704,
+        "nodealias": "Tina-Nguyen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "40cb759d-c23e-4fb9-86cc-abe9e8e3ad30",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tina Nguyen",
+        "documentmodifiedwhen": "2022-07-21T07:16:23.212Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit des testaments, des successions et des fiducies",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Wills, Estates, Trusts Law",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [
+            "Vietnamien"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Vietnamese"
+        ],
+        "membernumber": "80709T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tina Nguyen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2A4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "127997-124053",
+        "sys_site": "lso",
+        "sys_created": "2021-02-27T07:34:20.973Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Tri-Duc-Nguyen",
+        "nodeid": 124053,
+        "documentid": 127997,
+        "nodealias": "Tri-Duc-Nguyen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a7c4defd-2314-4aa4-9b47-5b1cb025a77a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tri Duc Nguyen",
+        "documentmodifiedwhen": "2022-03-10T07:17:42.383Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81346M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tri Duc Nguyen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66759-65492",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:44:52.044Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Trung-Si-Nguyen",
+        "nodeid": 65492,
+        "documentid": 66759,
+        "nodealias": "Trung-Si-Nguyen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9b412e48-3271-4382-b183-0a88d335fa29",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Trung Si Nguyen",
+        "documentmodifiedwhen": "2022-01-02T07:26:32.809Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la faillite et de l'insolvabilit\u00e9",
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit commercial et corporatifes",
+            "Droit de l'environnement",
+            "Droit de la propri\u00e9t\u00e9 intellectuelle",
+            "Droit des testaments, des successions et des fiducies",
+            "Droits de la personne"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Bankruptcy and Insolvency Law",
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Corporate/Commercial Law",
+            "Environmental Law",
+            "Intellectual Property Law",
+            "Wills, Estates, Trusts Law",
+            "Human Rights"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49386C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Trung Si Nguyen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L7L 6B2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Burlington"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77901-76626",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:52:42.928Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Tuan-Anh-Nguyen",
+        "nodeid": 76626,
+        "documentid": 77901,
+        "nodealias": "Tuan-Anh-Nguyen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "45e20e1b-b3fe-4781-ac89-e33cdbdaaf65",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tuan Anh Nguyen",
+        "documentmodifiedwhen": "2021-09-21T09:00:13.137Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09440",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tuan Anh Nguyen",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66730-65464",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T14:25:28.452Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Tuyen-Dinh-Nguyen",
+        "nodeid": 65464,
+        "documentid": 66730,
+        "nodealias": "Tuyen-Dinh-Nguyen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b70fb0dc-ed61-4c2d-b2a6-e3c778545124",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tuyen Dinh Nguyen",
+        "documentmodifiedwhen": "2022-05-28T07:40:37.197Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06708",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tuyen Dinh Nguyen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66770-65503",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:47:06.75Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Tuyetnhi-Nguyen",
+        "nodeid": 65503,
+        "documentid": 66770,
+        "nodealias": "Tuyetnhi-Nguyen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "43c7d2b3-929d-4c15-a4b6-4c95a19208eb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tuyetnhi Nguyen",
+        "documentmodifiedwhen": "2022-01-16T07:16:03.16Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67185S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tuyetnhi Nguyen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M9N 2B1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66739-65471",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:41:21.038Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Vanna-Nguyen",
+        "nodeid": 65471,
+        "documentid": 66739,
+        "nodealias": "Vanna-Nguyen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1806b4bd-389e-4127-9653-15b5fcb6f08f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Vanna Nguyen",
+        "documentmodifiedwhen": "2021-10-13T07:15:51.79Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11498",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Vanna Nguyen",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3927917480469,
+                43.6880683898926
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M4T 1L9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "114012-112000",
+        "sys_site": "lso",
+        "sys_created": "2019-03-15T07:18:28.732Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Vinh-Le-Nguyen",
+        "nodeid": 112000,
+        "documentid": 114012,
+        "nodealias": "Vinh-Le-Nguyen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6d1a748f-bb5e-47f6-a886-ab647be41e96",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Vinh Le Nguyen",
+        "documentmodifiedwhen": "2019-05-10T07:17:53.444Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15401",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Vinh Le Nguyen",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.5409774780273,
+                43.8285446166992
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L4K 5Y5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vaughan"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "133452-128820",
+        "sys_site": "lso",
+        "sys_created": "2021-08-19T07:17:14.711Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Vivian-Nguyen",
+        "nodeid": 128820,
+        "documentid": 133452,
+        "nodealias": "Vivian-Nguyen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7d425104-0b04-4274-a32e-62fd763e14f9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Vivian Nguyen",
+        "documentmodifiedwhen": "2021-10-07T07:18:24.679Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17627",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Vivian Nguyen",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.5188064575195,
+                43.7589874267578
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M3N 3A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66782-65516",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:49:01.255Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/My-Le-Nguyen-Thi",
+        "nodeid": 65516,
+        "documentid": 66782,
+        "nodealias": "My-Le-Nguyen-Thi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e0b83944-d0ac-43b3-b0bc-a6cddb13ecc1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "My Le Nguyen Thi",
+        "documentmodifiedwhen": "2022-01-12T07:18:28.679Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68207N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "My Le Nguyen Thi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3T4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77912-76637",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:03.368Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Obadiah-Thiong-o-Ngwiri",
+        "nodeid": 76637,
+        "documentid": 77912,
+        "nodealias": "Obadiah-Thiong-o-Ngwiri",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a3dacfd6-be60-4642-8419-81cc333a372b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Obadiah Thiong'o Ngwiri",
+        "documentmodifiedwhen": "2021-12-14T07:36:21.328Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "11647V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Obadiah Thiong'o Ngwiri",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Kenya",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Nairobi"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77913-76638",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:03.399Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Caroline-Bao-Ngan-Nhan",
+        "nodeid": 76638,
+        "documentid": 77913,
+        "nodealias": "Caroline-Bao-Ngan-Nhan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e050a730-de99-4e8f-951f-c0d00038cace",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Caroline Bao-Ngan Nhan",
+        "documentmodifiedwhen": "2020-03-03T07:19:29.808Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75178U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Caroline Bao-Ngan Nhan",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.387825012207,
+                43.6459083557129
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 3C7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66783-65515",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:49:01.255Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Guohong-Ni",
+        "nodeid": 65515,
+        "documentid": 66783,
+        "nodealias": "Guohong-Ni",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f7e141c0-dd2c-4070-a219-a7e67a54d581",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Guohong Ni",
+        "documentmodifiedwhen": "2021-09-21T09:03:11.064Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09629",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Guohong Ni",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.6928634643555,
+                45.4198608398438
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "K1P 1C3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "129980-125614",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T08:11:32.516Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Christian-Athan-Nianiaris",
+        "nodeid": 125614,
+        "documentid": 129980,
+        "nodealias": "Christian-Athan-Nianiaris",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a2c3fb85-3969-4173-b799-5097684c4556",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christian Athan Nianiaris",
+        "documentmodifiedwhen": "2022-01-18T11:58:21.805Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81905D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christian Athan Nianiaris",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2T9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66784-65517",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:49:01.334Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Domenico-Danny-Nicassio",
+        "nodeid": 65517,
+        "documentid": 66784,
+        "nodealias": "Domenico-Danny-Nicassio",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a063c11f-d9b1-4a87-83e5-46341fcc14b2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Domenico Danny Nicassio",
+        "documentmodifiedwhen": "2022-01-04T07:27:35.513Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54640S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Domenico Danny Nicassio",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L5W 0E5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66785-65518",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:49:42.466Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Daniella-Alicia-Nicastro",
+        "nodeid": 65518,
+        "documentid": 66785,
+        "nodealias": "Daniella-Alicia-Nicastro",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "90469ea0-4ed0-428c-9842-0749bb264d5a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniella Alicia Nicastro",
+        "documentmodifiedwhen": "2021-12-20T07:20:56.745Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13962",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniella Alicia Nicastro",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L1C 3K5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Bowmanville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66786-65519",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:49:42.575Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Kathleen-Ann-Niccols",
+        "nodeid": 65519,
+        "documentid": 66786,
+        "nodealias": "Kathleen-Ann-Niccols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "652f42ea-660e-43bc-a5ef-44a6937c6e95",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kathleen Ann Niccols",
+        "documentmodifiedwhen": "2022-02-01T07:16:28.46Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38705T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kathleen Ann Niccols",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77914-76639",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:06.619Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Nicholas-William-Nichev",
+        "nodeid": 76639,
+        "documentid": 77914,
+        "nodealias": "Nicholas-William-Nichev",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "069c021c-3154-45d4-8398-bb441743392a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nicholas William Nichev",
+        "documentmodifiedwhen": "2020-02-20T08:37:27.699Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42317J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nicholas William Nichev",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66787-65521",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:49:42.589Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Valentin-George-Nichita",
+        "nodeid": 65521,
+        "documentid": 66787,
+        "nodealias": "Valentin-George-Nichita",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "26f8d10d-2532-4b27-a757-62167f073387",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Valentin-George Nichita",
+        "documentmodifiedwhen": "2022-01-11T07:18:50.697Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64543A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Valentin-George Nichita",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5K 1A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105604-104332",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:28:40.177Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Andrew-Kevin-Nichol",
+        "nodeid": 104332,
+        "documentid": 105604,
+        "nodealias": "Andrew-Kevin-Nichol",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "46ad7302-5804-4278-9e7d-13d8d2be99cb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew Kevin Nichol",
+        "documentmodifiedwhen": "2022-04-03T07:15:19.314Z",
+        "skuname": null,
+        "memberprovincetext": "New York",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66027W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew Kevin Nichol",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "10019-6064",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "New York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66788-65520",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:49:44.227Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Charleen-Elizabeth-Nichol",
+        "nodeid": 65520,
+        "documentid": 66788,
+        "nodealias": "Charleen-Elizabeth-Nichol",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0cf2679d-fc3d-4a6f-ba59-ab4de93c9f2d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Charleen Elizabeth Nichol",
+        "documentmodifiedwhen": "2021-10-30T07:17:56.399Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08086",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Charleen Elizabeth Nichol",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -76.6557464599609,
+                45.4796142578125
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "K7V 0B4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Renfrew"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66795-65527",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:51:07.344Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Aloysius-Chandimal-Nicholas",
+        "nodeid": 65527,
+        "documentid": 66795,
+        "nodealias": "Aloysius-Chandimal-Nicholas",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c85999d1-dafe-410d-8a1a-d6ce3c7a19bf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Aloysius Chandimal Nicholas",
+        "documentmodifiedwhen": "2022-02-24T07:17:19.457Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52626H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Aloysius Chandimal Nicholas",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66794-65528",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:51:10.803Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Emilie-Nicholas",
+        "nodeid": 65528,
+        "documentid": 66794,
+        "nodealias": "Emilie-Nicholas",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c4ac0707-41b5-47b8-bbd5-228c479266ba",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Emilie Nicholas",
+        "documentmodifiedwhen": "2022-01-09T07:24:44.298Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58387R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Emilie Nicholas",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5E 1A4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66793-65526",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:51:07.293Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Erin-Amber-Nicholas",
+        "nodeid": 65526,
+        "documentid": 66793,
+        "nodealias": "Erin-Amber-Nicholas",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e23453e9-2c4f-40f6-94ab-a0a67faad357",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Erin Amber Nicholas",
+        "documentmodifiedwhen": "2022-01-01T07:27:23.953Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46695G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Erin Amber Nicholas",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "V6J 1C7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vancouver"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66797-65529",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:51:45.784Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Gayatri-Nicholas",
+        "nodeid": 65529,
+        "documentid": 66797,
+        "nodealias": "Gayatri-Nicholas",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "606366d8-afe8-47c2-9ec4-2b2135fa7f78",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gayatri Nicholas",
+        "documentmodifiedwhen": "2022-01-14T07:17:45.877Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71512T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gayatri Nicholas",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1P 6L2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77916-76642",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:12.262Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Joanne-Alice-Nicholas",
+        "nodeid": 76642,
+        "documentid": 77916,
+        "nodealias": "Joanne-Alice-Nicholas",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b1d43639-fe18-44a3-97f0-13a04c7c882c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joanne Alice Nicholas",
+        "documentmodifiedwhen": "2021-12-14T08:11:25.414Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "15319N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joanne Alice Nicholas",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66790-65523",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:50:30.141Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Michael-Craig-Nicholas",
+        "nodeid": 65523,
+        "documentid": 66790,
+        "nodealias": "Michael-Craig-Nicholas",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "119098e7-7ceb-4541-a55e-530947ed5574",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Craig Nicholas",
+        "documentmodifiedwhen": "2021-12-14T09:07:15.907Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21807J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Craig Nicholas",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66792-65525",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:50:33.027Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Susan-Louise-Nicholas",
+        "nodeid": 65525,
+        "documentid": 66792,
+        "nodealias": "Susan-Louise-Nicholas",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d0ac1af2-52fb-43a1-a87c-85e988f7d4b2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Susan Louise Nicholas",
+        "documentmodifiedwhen": "2021-12-17T07:30:23.813Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32397A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Susan Louise Nicholas",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77917-76643",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:15.422Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/David-Leonard-Nicholds",
+        "nodeid": 76643,
+        "documentid": 77917,
+        "nodealias": "David-Leonard-Nicholds",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c476a26b-2e36-4780-90a3-ef4e325ef933",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Leonard Nicholds",
+        "documentmodifiedwhen": "2021-12-14T08:25:58.865Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "14914I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Leonard Nicholds",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66799-65532",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:51:50.025Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Andrew-Gardiner-Nicholl",
+        "nodeid": 65532,
+        "documentid": 66799,
+        "nodealias": "Andrew-Gardiner-Nicholl",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "baf57644-0b9e-4bda-a492-92184e04c752",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew Gardiner Nicholl",
+        "documentmodifiedwhen": "2021-09-21T08:34:01.469Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70704J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew Gardiner Nicholl",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -123.119216918945,
+                49.2849617004395
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "V6E 0C5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vancouver"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66796-65530",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:51:45.789Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Emma-Frances-Nicholl",
+        "nodeid": 65530,
+        "documentid": 66796,
+        "nodealias": "Emma-Frances-Nicholl",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fb5899ec-1eb0-4226-8736-76dc0c3ed2f2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Emma Frances Nicholl",
+        "documentmodifiedwhen": "2022-05-04T07:17:07.581Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70403U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Emma Frances Nicholl",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5X 1C9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66798-65531",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:51:45.865Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/John-Iltyd-Strickland-Nicholl",
+        "nodeid": 65531,
+        "documentid": 66798,
+        "nodealias": "John-Iltyd-Strickland-Nicholl",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "383c071d-6745-4d05-a8d1-5e969a7de4f0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Iltyd Strickland Nicholl",
+        "documentmodifiedwhen": "2022-01-05T07:18:32.624Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56353G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Iltyd Strickland Nicholl",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2Y4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77918-76644",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:16.328Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Andrea-Jean-Nicholls",
+        "nodeid": 76644,
+        "documentid": 77918,
+        "nodealias": "Andrea-Jean-Nicholls",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b5abbbec-2c53-435f-8f1d-b776687d5082",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrea Jean Nicholls",
+        "documentmodifiedwhen": "2021-10-08T07:16:24.31Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "35037H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrea Jean Nicholls",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66805-65538",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:52:56.758Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Andrew-Allan-Nicholls",
+        "nodeid": 65538,
+        "documentid": 66805,
+        "nodealias": "Andrew-Allan-Nicholls",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f68e237d-0c91-401e-a646-763dfdb6ff4a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew Allan Nicholls",
+        "documentmodifiedwhen": "2022-01-05T07:25:15.306Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la famille ou matrimonial"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Family/Matrimonial Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "55924S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew Allan Nicholls",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N3T 5V6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brantford"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66804-65537",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:52:54.801Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Andrew-Midgley-Nicholls",
+        "nodeid": 65537,
+        "documentid": 66804,
+        "nodealias": "Andrew-Midgley-Nicholls",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2ce49fea-264e-44ae-9d29-0a3773dbe2b8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew Midgley Nicholls",
+        "documentmodifiedwhen": "2021-12-27T07:22:04.854Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "34406B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew Midgley Nicholls",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2T9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66801-65533",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:52:21.589Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Barbara-Jane-Nicholls",
+        "nodeid": 65533,
+        "documentid": 66801,
+        "nodealias": "Barbara-Jane-Nicholls",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "46658b97-bb15-4fab-ba61-5cfbc6467e45",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Barbara Jane Nicholls",
+        "documentmodifiedwhen": "2021-12-25T07:25:16.698Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27693L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Barbara Jane Nicholls",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1Z 8R1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66802-65535",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:52:21.529Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Catherine-Pauline-Zulik-Nicholls",
+        "nodeid": 65535,
+        "documentid": 66802,
+        "nodealias": "Catherine-Pauline-Zulik-Nicholls",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "57a58597-ec2d-459f-9004-330b790b5522",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Catherine Pauline Zulik Nicholls",
+        "documentmodifiedwhen": "2021-09-21T07:32:33.009Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "20014P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Catherine Pauline Zulik Nicholls",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66803-65536",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:52:21.529Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Christopher-Charles-Andrew-Nicholls",
+        "nodeid": 65536,
+        "documentid": 66803,
+        "nodealias": "Christopher-Charles-Andrew-Nicholls",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6d1eb090-1016-4cfb-ac23-52e3b23787e5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher Charles Andrew Nicholls",
+        "documentmodifiedwhen": "2021-12-24T07:17:43.58Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25929A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher Charles Andrew Nicholls",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "N6A 3K7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66800-65534",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:52:21.529Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Gail-Stuart-Nicholls",
+        "nodeid": 65534,
+        "documentid": 66800,
+        "nodealias": "Gail-Stuart-Nicholls",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8aa3c4c2-1cc3-4c2f-8950-cc839b07cca5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gail Stuart Nicholls",
+        "documentmodifiedwhen": "2022-05-28T07:35:47.161Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "12080E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gail Stuart Nicholls",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77919-76645",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:15.453Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Lori-Jane-Nicholls",
+        "nodeid": 76645,
+        "documentid": 77919,
+        "nodealias": "Lori-Jane-Nicholls",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7c8909ae-2453-47b4-bd30-27597ac2474f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lori Jane Nicholls",
+        "documentmodifiedwhen": "2020-02-20T08:23:06.997Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27437F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lori Jane Nicholls",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "110105-108638",
+        "sys_site": "lso",
+        "sys_created": "2018-10-04T06:31:19.819Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Rebecca-Jewel-Nicholls",
+        "nodeid": 108638,
+        "documentid": 110105,
+        "nodealias": "Rebecca-Jewel-Nicholls",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b2e23bb3-520a-41c8-8b8e-43000fcdd6d2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rebecca Jewel Nicholls",
+        "documentmodifiedwhen": "2022-04-02T07:34:06.22Z",
+        "skuname": null,
+        "memberprovincetext": "Manitoba",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76025O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rebecca Jewel Nicholls",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "R3R 0G6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Winnipeg"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77924-76649",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:21.401Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Robert-Elliot-Christopher-Nicholls",
+        "nodeid": 76649,
+        "documentid": 77924,
+        "nodealias": "Robert-Elliot-Christopher-Nicholls",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5f597376-bc8d-4a93-983f-56e6bdca728a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Elliot Christopher Nicholls",
+        "documentmodifiedwhen": "2022-01-15T07:23:08.349Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75180A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Elliot Christopher Nicholls",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5V 3J7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77920-76646",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:15.75Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Robert-Walter-Andrew-Nicholls",
+        "nodeid": 76646,
+        "documentid": 77920,
+        "nodealias": "Robert-Walter-Andrew-Nicholls",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b26318f9-fe66-4c81-aad2-769689ba982f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Walter Andrew Nicholls",
+        "documentmodifiedwhen": "2021-12-25T07:27:57.029Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "28183J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Walter Andrew Nicholls",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77922-76647",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:21.37Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Diana-Christine-Nicholls-Mutter",
+        "nodeid": 76647,
+        "documentid": 77922,
+        "nodealias": "Diana-Christine-Nicholls-Mutter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "96132768-c2cb-449d-b2bd-4426c21b7787",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Diana Christine Nicholls Mutter",
+        "documentmodifiedwhen": "2022-01-16T07:20:46.069Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75179Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Diana Christine Nicholls Mutter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "M5R 3V4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105581-104309",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:28:05.782Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Ian-Thomas-Nicholls-Mutter",
+        "nodeid": 104309,
+        "documentid": 105581,
+        "nodealias": "Ian-Thomas-Nicholls-Mutter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "40acce4d-9e15-49b8-9527-2b02a631673a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ian Thomas Nicholls Mutter",
+        "documentmodifiedwhen": "2022-01-15T07:23:09.168Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75169W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ian Thomas Nicholls Mutter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 2L9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "110106-108639",
+        "sys_site": "lso",
+        "sys_created": "2018-10-04T06:31:21.728Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/023/Alexander-John-Nichols",
+        "nodeid": 108639,
+        "documentid": 110106,
+        "nodealias": "Alexander-John-Nichols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cb74f04c-6f6f-4f92-b7cb-9050e99d920b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alexander John Nichols",
+        "documentmodifiedwhen": "2022-01-15T07:32:37.173Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76026K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alexander John Nichols",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P1H 1L1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Huntsville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105605-104334",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T02:28:46.255Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Brenda-Anne-Nichols",
+        "nodeid": 104334,
+        "documentid": 105605,
+        "nodealias": "Brenda-Anne-Nichols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ca3f741d-b5c0-4a7a-9938-e279e84daadd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brenda Anne Nichols",
+        "documentmodifiedwhen": "2021-12-28T07:22:58.503Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36837H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brenda Anne Nichols",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United Kingdom",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "EC3A 8AF",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66812-65544",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:54:05.425Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Brian-Solomon-Nichols",
+        "nodeid": 65544,
+        "documentid": 66812,
+        "nodealias": "Brian-Solomon-Nichols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "61d26626-ab5f-4e65-a4cb-8c96837671f2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brian Solomon Nichols",
+        "documentmodifiedwhen": "2021-12-15T07:23:14.356Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "15729N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brian Solomon Nichols",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 1V2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77927-76654",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:33.066Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Damien-Jeffery-Nichols",
+        "nodeid": 76654,
+        "documentid": 77927,
+        "nodealias": "Damien-Jeffery-Nichols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "460999cf-6a8d-4c3d-bf14-705f247a3eb0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Damien Jeffery Nichols",
+        "documentmodifiedwhen": "2021-11-05T07:55:33.857Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46696C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Damien Jeffery Nichols",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                115.84642791748,
+                -31.9473075866699
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Australia",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "6872",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "West Perth WA"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66813-65546",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:54:09.532Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/David-Nichols",
+        "nodeid": 65546,
+        "documentid": 66813,
+        "nodealias": "David-Nichols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "89b2786e-e9e8-4f79-bb3b-442812a2f05b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Nichols",
+        "documentmodifiedwhen": "2021-12-28T07:29:14.616Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "34819M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Nichols",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M1H 1H9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66811-65545",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:54:07.947Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Graham-John-Nichols",
+        "nodeid": 65545,
+        "documentid": 66811,
+        "nodealias": "Graham-John-Nichols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "eb9d52e8-db97-4920-9af9-bddb94aa4789",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Graham John Nichols",
+        "documentmodifiedwhen": "2022-04-26T07:16:57.945Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "23503I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Graham John Nichols",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L3P 1Y2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "120128-117157",
+        "sys_site": "lso",
+        "sys_created": "2019-12-18T07:20:30.502Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Jacob-Spencer-Nichols",
+        "nodeid": 117157,
+        "documentid": 120128,
+        "nodealias": "Jacob-Spencer-Nichols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "42472ca3-d5e2-46fe-ac8f-580f88aaed8a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jacob Spencer Nichols",
+        "documentmodifiedwhen": "2020-12-24T07:18:38.531Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P16289",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jacob Spencer Nichols",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66815-65548",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:54:45.028Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Jennifer-Rae-Nichols",
+        "nodeid": 65548,
+        "documentid": 66815,
+        "nodealias": "Jennifer-Rae-Nichols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2e43af81-4427-4441-bd17-0fb70bdefbdb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Rae Nichols",
+        "documentmodifiedwhen": "2021-11-05T07:47:03.357Z",
+        "skuname": null,
+        "memberprovincetext": "Alberta",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38908K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Rae Nichols",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -114.06517791748,
+                51.0503387451172
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "T2P 3L8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Calgary"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77921-76648",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:21.448Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/John-David-Nichols",
+        "nodeid": 76648,
+        "documentid": 77921,
+        "nodealias": "John-David-Nichols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5ac32360-2f0a-49ff-bc72-72bd664204be",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John David Nichols",
+        "documentmodifiedwhen": "2021-12-14T07:37:13.766Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "12246H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John David Nichols",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66806-65539",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:53:07.517Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/John-David-Nichols",
+        "nodeid": 65539,
+        "documentid": 66806,
+        "nodealias": "John-David-Nichols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4a3a3442-47ca-46ec-af2b-ffc1195a4ddf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John David Nichols",
+        "documentmodifiedwhen": "2021-09-21T08:48:39.288Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P03118",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John David Nichols",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66809-65542",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:53:38.822Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/John-Harry-Nichols",
+        "nodeid": 65542,
+        "documentid": 66809,
+        "nodealias": "John-Harry-Nichols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e29831ba-957e-4f89-ada9-cf7c3c89b3d1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Harry Nichols",
+        "documentmodifiedwhen": "2021-12-15T07:16:58.002Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "14464F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Harry Nichols",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K2K 2N1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66816-65549",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:54:45.028Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Jordan-Neil-Nichols",
+        "nodeid": 65549,
+        "documentid": 66816,
+        "nodealias": "Jordan-Neil-Nichols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0082d13c-efea-4eb3-8241-d194e27770a8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jordan Neil Nichols",
+        "documentmodifiedwhen": "2022-01-02T07:25:54.623Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49090E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jordan Neil Nichols",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5B 2L7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66817-65550",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:54:51.829Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Keith-Andrew-Nichols",
+        "nodeid": 65550,
+        "documentid": 66817,
+        "nodealias": "Keith-Andrew-Nichols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "19704ac3-b0bb-4028-bd87-74e50e48c5f4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Keith Andrew Nichols",
+        "documentmodifiedwhen": "2022-04-27T07:17:43.16Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69444P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Keith Andrew Nichols",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L3P 1Y2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "122418-119017",
+        "sys_site": "lso",
+        "sys_created": "2020-05-30T08:25:06.877Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Laura-Ann-Nichols",
+        "nodeid": 119017,
+        "documentid": 122418,
+        "nodealias": "Laura-Ann-Nichols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ba5ee225-de16-4c49-aa27-e4cfe0cf1224",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Laura Ann Nichols",
+        "documentmodifiedwhen": "2020-06-05T07:19:08.922Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "79105D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Laura Ann Nichols",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66814-65547",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:54:13.571Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Laura-Patricia-Nichols",
+        "nodeid": 65547,
+        "documentid": 66814,
+        "nodealias": "Laura-Patricia-Nichols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cea211be-0346-4a8b-8865-3bc5ac5b5f0b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Laura Patricia Nichols",
+        "documentmodifiedwhen": "2021-12-28T07:17:25.314Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36019W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Laura Patricia Nichols",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K8N 5B9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Belleville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66807-65540",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:53:34.299Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Lisa-Karin-Nichols",
+        "nodeid": 65540,
+        "documentid": 66807,
+        "nodealias": "Lisa-Karin-Nichols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1f57b1e3-0d08-41f4-8d3b-ae690bb3e8eb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lisa Karin Nichols",
+        "documentmodifiedwhen": "2021-12-18T07:20:16.656Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07572",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lisa Karin Nichols",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M5V 1L8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66810-65543",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:53:40.067Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Neil-Warren-Nichols",
+        "nodeid": 65543,
+        "documentid": 66810,
+        "nodealias": "Neil-Warren-Nichols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "19b282bc-40e3-4c84-a358-7ae353301a50",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Neil Warren Nichols",
+        "documentmodifiedwhen": "2021-12-14T07:26:50.727Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "15487P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Neil Warren Nichols",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "V4B 5J5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "White Rock"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66808-65541",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:53:38.585Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Paula-Anne-Marie-Nichols",
+        "nodeid": 65541,
+        "documentid": 66808,
+        "nodealias": "Paula-Anne-Marie-Nichols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "592f175d-f254-4587-8c79-bfd290f5d2e1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paula Anne Marie Nichols",
+        "documentmodifiedwhen": "2019-05-08T14:42:46.371Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11873",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paula Anne Marie Nichols",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3872909545898,
+                43.6540145874023
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M5G 1E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77925-76652",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:32.628Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Sarah-Jane-Nichols",
+        "nodeid": 76652,
+        "documentid": 77925,
+        "nodealias": "Sarah-Jane-Nichols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7d3cf2a6-498b-4c60-9ef0-ff351d752610",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sarah Jane Nichols",
+        "documentmodifiedwhen": "2021-11-05T07:52:46.397Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37473E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sarah Jane Nichols",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                145.028457641602,
+                -37.8220901489258
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Australia",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "3122",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Victoria"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77923-76650",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:21.995Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Shawn-Norman-Nichols",
+        "nodeid": 76650,
+        "documentid": 77923,
+        "nodealias": "Shawn-Norman-Nichols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ab59814b-f7e7-4433-bddc-ecd3d051794e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shawn Norman Nichols",
+        "documentmodifiedwhen": "2021-12-14T09:47:30.492Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27040V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shawn Norman Nichols",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77930-76657",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:37.457Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Annette-Josephine-Nicholson",
+        "nodeid": 76657,
+        "documentid": 77930,
+        "nodealias": "Annette-Josephine-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f3a413ca-7e3e-4215-8ec4-6046f514740b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Annette Josephine Nicholson",
+        "documentmodifiedwhen": "2020-02-20T08:01:27.195Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24801U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Annette Josephine Nicholson",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66829-65562",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:56:40.786Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Catherine-Barbara-Nicholson",
+        "nodeid": 65562,
+        "documentid": 66829,
+        "nodealias": "Catherine-Barbara-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ea4fd374-79eb-4ab1-957d-908f256fec11",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Catherine Barbara Nicholson",
+        "documentmodifiedwhen": "2022-01-06T07:30:08.262Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49387V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Catherine Barbara Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4W 1E5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66825-65558",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:56:09.557Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Catherine-Lydia-Nicholson",
+        "nodeid": 65558,
+        "documentid": 66825,
+        "nodealias": "Catherine-Lydia-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7ab0828a-46e4-4b0d-a1fa-dab6d59a2aff",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Catherine Lydia Nicholson",
+        "documentmodifiedwhen": "2021-12-29T07:27:01.409Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38136L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Catherine Lydia Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5E 1E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66827-65561",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:56:27.05Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Charles-Christian-Nicholson",
+        "nodeid": 65561,
+        "documentid": 66827,
+        "nodealias": "Charles-Christian-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f7ce53a4-6fc7-4eba-8b7e-c001f1cc4805",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Charles Christian Nicholson",
+        "documentmodifiedwhen": "2021-11-05T07:55:43.557Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46061I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Charles Christian Nicholson",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -84.3759536743164,
+                46.539176940918
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "P6C 4V3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Sault Ste Marie"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77931-76658",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:37.426Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/David-Bryan-Nicholson",
+        "nodeid": 76658,
+        "documentid": 77931,
+        "nodealias": "David-Bryan-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1dcdfdb4-2515-4398-b5ab-c2e0b8651826",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Bryan Nicholson",
+        "documentmodifiedwhen": "2021-12-14T10:54:57.149Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26305H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Bryan Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66820-65555",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:55:15.593Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Derek-Gerald-Nicholson",
+        "nodeid": 65555,
+        "documentid": 66820,
+        "nodealias": "Derek-Gerald-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e3c210da-7d53-486b-8d16-857aa1bb8bb1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Derek Gerald Nicholson",
+        "documentmodifiedwhen": "2021-12-17T07:28:24.356Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "20350A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Derek Gerald Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 2C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66819-65552",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:55:15.593Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Eamon-Benito-Nicholson",
+        "nodeid": 65552,
+        "documentid": 66819,
+        "nodealias": "Eamon-Benito-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "01392406-f464-4e22-8080-92d455b00cd6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eamon Benito Nicholson",
+        "documentmodifiedwhen": "2021-12-14T08:04:19.401Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13734F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eamon Benito Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M1C 1E9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66835-65567",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:57:42.847Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Emma-Jane-Nicholson",
+        "nodeid": 65567,
+        "documentid": 66835,
+        "nodealias": "Emma-Jane-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "083b23fc-281a-4e68-b72a-518119856a66",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Emma Jane Nicholson",
+        "documentmodifiedwhen": "2021-09-14T07:18:05.537Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71822G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Emma Jane Nicholson",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -82.3783264160156,
+                42.9600257873535
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N7T 7L6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Sarnia"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66822-65554",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:55:16.311Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Holly-Elizabeth-Nicholson",
+        "nodeid": 65554,
+        "documentid": 66822,
+        "nodealias": "Holly-Elizabeth-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5d6401b7-8daa-4ce5-8ced-0fc80f23c9dc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Holly Elizabeth Nicholson",
+        "documentmodifiedwhen": "2022-05-10T07:19:15.685Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27438B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Holly Elizabeth Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66826-65559",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:56:10.67Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Jeffrey-James-Nicholson",
+        "nodeid": 65559,
+        "documentid": 66826,
+        "nodealias": "Jeffrey-James-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1a7a8e64-0e32-4d40-8948-e20c12329204",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jeffrey James Nicholson",
+        "documentmodifiedwhen": "2022-01-04T07:17:39.222Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42414L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jeffrey James Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M9W 5L7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66830-65563",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:57:01.598Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/John-Alexander-Nicholson",
+        "nodeid": 65563,
+        "documentid": 66830,
+        "nodealias": "John-Alexander-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a99e296a-5b5d-45b1-9d74-143038b2147a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Alexander Nicholson",
+        "documentmodifiedwhen": "2022-01-03T07:26:42.296Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52132V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Alexander Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 5R8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66834-65568",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:57:42.831Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Kelsey-Grace-Nicholson",
+        "nodeid": 65568,
+        "documentid": 66834,
+        "nodealias": "Kelsey-Grace-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "efbca203-b593-49c8-bb06-f0a6faf318d6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kelsey Grace Nicholson",
+        "documentmodifiedwhen": "2022-07-06T07:17:18.191Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69855L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kelsey Grace Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 4E3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66833-65566",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:57:33.114Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Lee-Michael-Nicholson",
+        "nodeid": 65566,
+        "documentid": 66833,
+        "nodealias": "Lee-Michael-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "02f082a9-fcfe-4d5a-9c88-5ebf7546d1fa",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lee Michael Nicholson",
+        "documentmodifiedwhen": "2022-01-11T07:19:50.972Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66412I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lee Michael Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5L 1B9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77936-76663",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:45.72Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Manley-Garth-Anthony-Nicholson",
+        "nodeid": 76663,
+        "documentid": 77936,
+        "nodealias": "Manley-Garth-Anthony-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1d4df64a-c9ef-444f-8213-4b0391d5fba9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Manley Garth Anthony Nicholson",
+        "documentmodifiedwhen": "2021-11-05T07:53:37.529Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37245L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Manley Garth Anthony Nicholson",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -76.8041839599609,
+                18.0139865875244
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Jamaica",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kingston"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66824-65557",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:55:59.493Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Mark-John-Nicholson",
+        "nodeid": 65557,
+        "documentid": 66824,
+        "nodealias": "Mark-John-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1f6bda89-69c0-4935-9f9d-6a6bffcab815",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mark John Nicholson",
+        "documentmodifiedwhen": "2021-09-21T07:47:51.81Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30801G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mark John Nicholson",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77929-76656",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:36.879Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Mary-Jo-Anderson-Nicholson",
+        "nodeid": 76656,
+        "documentid": 77929,
+        "nodealias": "Mary-Jo-Anderson-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b180471d-99eb-436a-b901-bbd0bdab6e0b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mary Jo Anderson Nicholson",
+        "documentmodifiedwhen": "2022-05-28T07:26:08.718Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "17019T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mary Jo Anderson Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77926-76653",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:33.019Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Moyra-E-N-Seeger-Nicholson",
+        "nodeid": 76653,
+        "documentid": 77926,
+        "nodealias": "Moyra-E-N-Seeger-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0abd2089-7cc7-4a2d-bc17-19229104cb61",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Moyra E N Seeger Nicholson",
+        "documentmodifiedwhen": "2021-12-14T08:27:41.042Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "08255S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Moyra E N Seeger Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77932-76660",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:45.251Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Nancy-Jean-Nicholson",
+        "nodeid": 76660,
+        "documentid": 77932,
+        "nodealias": "Nancy-Jean-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8dfe8acc-2792-4634-9ee8-785d921d2d0d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nancy Jean Nicholson",
+        "documentmodifiedwhen": "2021-09-21T07:35:31.493Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27821S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nancy Jean Nicholson",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66831-65564",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:57:14.692Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Peter-Douglas-Nicholson",
+        "nodeid": 65564,
+        "documentid": 66831,
+        "nodealias": "Peter-Douglas-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "17325f78-bf36-42f6-8a40-ce4e8b14f4f0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Peter Douglas Nicholson",
+        "documentmodifiedwhen": "2021-09-22T07:16:46.492Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58684W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Peter Douglas Nicholson",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3851623535156,
+                43.6626319885254
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M7A 1R1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11098-10258",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T00:23:36.784Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Rachel-Ann-Nicholson",
+        "nodeid": 10258,
+        "documentid": 11098,
+        "nodealias": "Rachel-Ann-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "066331e0-3554-43d4-897f-cf36e5272b6c",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rachel Ann Nicholson",
+        "documentmodifiedwhen": "2022-01-12T07:19:09.871Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68348V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rachel Ann Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1K7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66821-65553",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:55:15.64Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Robert-Douglas-Nicholson",
+        "nodeid": 65553,
+        "documentid": 66821,
+        "nodealias": "Robert-Douglas-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d0f14e59-6096-4aad-bb94-11e6d75fe449",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Douglas Nicholson",
+        "documentmodifiedwhen": "2022-06-08T07:16:12.172Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "18915C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Douglas Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77928-76655",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:53:33.691Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Ross-Ronald-Nicholson",
+        "nodeid": 76655,
+        "documentid": 77928,
+        "nodealias": "Ross-Ronald-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b3792423-5c7b-4746-a5a0-a8ea65281e96",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ross Ronald Nicholson",
+        "documentmodifiedwhen": "2022-05-28T07:29:21.949Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "12531D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ross Ronald Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66818-65551",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:54:53.551Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Shannon-Michelle-Nicholson",
+        "nodeid": 65551,
+        "documentid": 66818,
+        "nodealias": "Shannon-Michelle-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "887f5c65-8a80-44db-b09a-61858a8c4680",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shannon Michelle Nicholson",
+        "documentmodifiedwhen": "2021-12-20T07:17:30.884Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P12996",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shannon Michelle Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M9B 6B7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "132878-128317",
+        "sys_site": "lso",
+        "sys_created": "2021-06-17T10:25:14.216Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Stephanie-Paige-Nicholson",
+        "nodeid": 128317,
+        "documentid": 132878,
+        "nodealias": "Stephanie-Paige-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "da4b4890-cf56-4033-a660-352c9e1a3598",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephanie Paige Nicholson",
+        "documentmodifiedwhen": "2022-01-18T12:07:13.822Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82840U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephanie Paige Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2R2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123609-120063",
+        "sys_site": "lso",
+        "sys_created": "2020-06-23T08:03:43.835Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Stephen-Arthur-Nicholson",
+        "nodeid": 120063,
+        "documentid": 123609,
+        "nodealias": "Stephen-Arthur-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "71304248-1b53-48b1-abd2-53bb90d4b400",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephen Arthur Nicholson",
+        "documentmodifiedwhen": "2022-01-17T07:31:56.326Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80129V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephen Arthur Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6K 0J8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66823-65556",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:55:58.27Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Susan-Marie-Nicholson",
+        "nodeid": 65556,
+        "documentid": 66823,
+        "nodealias": "Susan-Marie-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "38617143-e101-4560-8ff8-0a559d4810f6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Susan Marie Nicholson",
+        "documentmodifiedwhen": "2021-12-26T07:15:26.968Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "28980K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Susan Marie Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L8N 1E9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66832-65565",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:57:14.983Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Tyler-Alexander-Nicholson",
+        "nodeid": 65565,
+        "documentid": 66832,
+        "nodealias": "Tyler-Alexander-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "84e3ff45-d0cb-4e4e-873e-999e665e97f8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tyler Alexander Nicholson",
+        "documentmodifiedwhen": "2022-01-10T07:21:07.251Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "62730W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tyler Alexander Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5C 3C7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "119742-116861",
+        "sys_site": "lso",
+        "sys_created": "2019-11-30T07:30:28.427Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Zachary-Johnathan-David-Nicholson",
+        "nodeid": 116861,
+        "documentid": 119742,
+        "nodealias": "Zachary-Johnathan-David-Nicholson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f4586367-9e01-4a52-970b-792d78c8b8a0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Zachary Johnathan David Nicholson",
+        "documentmodifiedwhen": "2022-03-23T07:16:43.248Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Infractions punissables par proc\u00e9dure sommaire \u00e0 la Cour de justice de l'Ontario",
+            "Affaires relevant de la Cour des petites cr\u00e9ances"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Ontario Court of Justice - Summary Conviction Offences",
+            "Small Claims Court matters"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P16175",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Zachary Johnathan David Nicholson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N7M 5K6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Chatham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "110870-109234",
+        "sys_site": "lso",
+        "sys_created": "2018-11-01T06:30:59.903Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/009/Amber-Leigh-Nickel",
+        "nodeid": 109234,
+        "documentid": 110870,
+        "nodealias": "Amber-Leigh-Nickel",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "aa273559-195d-4b2d-ab3f-39476210d4a8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amber Leigh Nickel",
+        "documentmodifiedwhen": "2020-04-02T08:12:06.148Z",
+        "skuname": null,
+        "memberprovincetext": "Alberta",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76137N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amber Leigh Nickel",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -113.480331420898,
+                53.4799652099609
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "T6E 5Z9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Edmonton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "76938-75673",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T03:38:34.709Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/024/Christine-Michelle-Nickel",
+        "nodeid": 75673,
+        "documentid": 76938,
+        "nodealias": "Christine-Michelle-Nickel",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7f3c892b-1ff2-43f9-9ce9-98d301e2a233",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christine Michelle Nickel",
+        "documentmodifiedwhen": "2022-05-25T14:22:02.348Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "73536N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christine Michelle Nickel",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P1L 2C1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Bracebridge"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "66836-65569",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T11:57:44.545Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/003/Holly-Joanne-Nickel",
+        "nodeid": 65569,
+        "documentid": 66836,
+        "nodealias": "Holly-Joanne-Nickel",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "df2922a2-f75b-489a-83ed-fa80286b0de6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Holly Joanne Nickel",
+        "documentmodifiedwhen": "2021-12-26T07:19:54.577Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "31219Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Holly Joanne Nickel",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L2R 7N8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "St. Catharines"
+        ]
+    }
+]

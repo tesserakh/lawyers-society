@@ -1,0 +1,5060 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69296-68030",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:04.822Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Gavin-Randal-Phillips",
+        "nodeid": 68030,
+        "documentid": 69296,
+        "nodealias": "Gavin-Randal-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ac590013-befc-422c-b513-3b6262527ac8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gavin Randal Phillips",
+        "documentmodifiedwhen": "2022-08-01T07:16:01.112Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P12932",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gavin Randal Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Eligible to Provide Legal Services - No Proof of Insurance"
+        ],
+        "memberpostalcode": "M5J 2M4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79514-78243",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:54:50.203Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/George-Arthur-Phillips",
+        "nodeid": 78243,
+        "documentid": 79514,
+        "nodealias": "George-Arthur-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "76092bf7-ed58-4a53-82fc-888d73d3f4b2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "George Arthur Phillips",
+        "documentmodifiedwhen": "2021-12-14T08:26:42.693Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "08072P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "George Arthur Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118963-116281",
+        "sys_site": "lso",
+        "sys_created": "2019-09-27T08:19:42.567Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Georgios-Samuel-Lutfi-Phillips",
+        "nodeid": 116281,
+        "documentid": 118963,
+        "nodealias": "Georgios-Samuel-Lutfi-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f802c1db-b9ea-4b95-808b-d276043392ae",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Georgios Samuel Lutfi Phillips",
+        "documentmodifiedwhen": "2021-09-21T08:47:44.042Z",
+        "skuname": null,
+        "memberprovincetext": "Northwest Territories",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78452N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Georgios Samuel Lutfi Phillips",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -114.367301940918,
+                62.4539222717285
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "X1A 2N1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Yellowknife"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69306-68040",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:20.723Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Guy-Richard-Phillips",
+        "nodeid": 68040,
+        "documentid": 69306,
+        "nodealias": "Guy-Richard-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d65a4d19-78ed-42f3-9fb5-6e1d66b726fe",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Guy Richard Phillips",
+        "documentmodifiedwhen": "2021-12-21T07:19:36.703Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24196Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Guy Richard Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K7K 7B4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kingston"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69299-68033",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:05.775Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Herbert-Hunter-Phillips",
+        "nodeid": 68033,
+        "documentid": 69299,
+        "nodealias": "Herbert-Hunter-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3a135aab-a2a6-42b2-a0d1-a7a5294bc5d3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Herbert Hunter Phillips",
+        "documentmodifiedwhen": "2021-12-14T08:25:45.772Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "14928J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Herbert Hunter Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69333-68067",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:16.429Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Jackson-Edward-Nixon-Phillips",
+        "nodeid": 68067,
+        "documentid": 69333,
+        "nodealias": "Jackson-Edward-Nixon-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6d2cd88e-3699-4482-ab62-b8abfb8d377c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jackson Edward Nixon Phillips",
+        "documentmodifiedwhen": "2022-07-19T07:18:53.409Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66430E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jackson Edward Nixon Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2T9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69303-68036",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:19.73Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/James-Brian-Phillips",
+        "nodeid": 68036,
+        "documentid": 69303,
+        "nodealias": "James-Brian-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "662b1104-7648-466a-b221-ebcc4ee3fc7c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "James Brian Phillips",
+        "documentmodifiedwhen": "2021-12-17T07:23:11.871Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "19284W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "James Brian Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 5R8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69327-68061",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:58.677Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/James-Robert-Phillips",
+        "nodeid": 68061,
+        "documentid": 69327,
+        "nodealias": "James-Robert-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f8606480-995e-4146-a0ce-e0f9557a4fe0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "James Robert Phillips",
+        "documentmodifiedwhen": "2022-01-04T07:27:12.275Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54686Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "James Robert Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69301-68035",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:06.088Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Jeffrey-Mohr-Phillips",
+        "nodeid": 68035,
+        "documentid": 69301,
+        "nodealias": "Jeffrey-Mohr-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5f37ef0f-7e13-4a6f-9591-cd71cc1821c9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jeffrey Mohr Phillips",
+        "documentmodifiedwhen": "2021-12-17T07:24:28.497Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "18098J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jeffrey Mohr Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 1S2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "140097-134485",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T08:25:27.279Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Jelisa-Althea-Phillips",
+        "nodeid": 134485,
+        "documentid": 140097,
+        "nodealias": "Jelisa-Althea-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "81ad7a83-84b6-4c6c-bafe-c78f817b800b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jelisa Althea Phillips",
+        "documentmodifiedwhen": "2022-07-07T07:31:58.11Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18584",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jelisa Althea Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69317-68051",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:39.723Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/John-Andrew-Phillips",
+        "nodeid": 68051,
+        "documentid": 69317,
+        "nodealias": "John-Andrew-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c019a2ab-ca20-428b-8fce-8a100b948e48",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Andrew Phillips",
+        "documentmodifiedwhen": "2021-12-31T07:29:44.611Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42575H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Andrew Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N5A 6W3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Stratford"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79518-78244",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:54:50.563Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/John-David-Phillips",
+        "nodeid": 78244,
+        "documentid": 79518,
+        "nodealias": "John-David-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "54deeeb0-5760-422f-bf38-cd493965e533",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John David Phillips",
+        "documentmodifiedwhen": "2021-12-14T08:20:16.806Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "15349S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John David Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69319-68053",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:47.632Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/John-Kingman-Phillips",
+        "nodeid": 68053,
+        "documentid": 69319,
+        "nodealias": "John-Kingman-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cad7c7d0-a1e2-4820-93da-772601c4f90b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Kingman Phillips",
+        "documentmodifiedwhen": "2022-02-09T07:17:21.875Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46206E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Kingman Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5C 2C5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69331-68063",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:15.726Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/John-Otto-Kingman-Phillips",
+        "nodeid": 68063,
+        "documentid": 69331,
+        "nodealias": "John-Otto-Kingman-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5f1ab7cb-cd28-42a6-bf0e-37bc76e41210",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John-Otto Kingman Phillips",
+        "documentmodifiedwhen": "2022-01-14T07:17:36.583Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70097N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John-Otto Kingman Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5C 2C5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69309-68043",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:21.738Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Joshua-Samuel-Phillips",
+        "nodeid": 68043,
+        "documentid": 69309,
+        "nodealias": "Joshua-Samuel-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "03aa771c-3724-48e4-94fe-7af0e1422fba",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joshua Samuel Phillips",
+        "documentmodifiedwhen": "2021-12-27T07:25:58.718Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33024D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joshua Samuel Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4V 3A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69307-68041",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:20.801Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Kathy-Lyn-Phillips",
+        "nodeid": 68041,
+        "documentid": 69307,
+        "nodealias": "Kathy-Lyn-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3273b063-f890-49c7-b84b-0acd3e3332b5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kathy Lyn Phillips",
+        "documentmodifiedwhen": "2022-05-05T07:16:36.339Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32415A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kathy Lyn Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69304-68037",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:19.961Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Larry-Elias-Phillips",
+        "nodeid": 68037,
+        "documentid": 69304,
+        "nodealias": "Larry-Elias-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a2d97f36-50e5-4211-90a3-e42c780437c8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Larry Elias Phillips",
+        "documentmodifiedwhen": "2021-12-22T07:20:10.697Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21077B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Larry Elias Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69298-68032",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:05.384Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Lawrence-Gordon-Phillips",
+        "nodeid": 68032,
+        "documentid": 69298,
+        "nodealias": "Lawrence-Gordon-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3c731ab7-7902-4b15-bfeb-44168d588fde",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lawrence Gordon Phillips",
+        "documentmodifiedwhen": "2021-12-22T07:17:41.956Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "12564T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lawrence Gordon Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P9A 1E2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Fort Frances"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79513-78241",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:54:45.46Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Lillian-Sophie-Phillips",
+        "nodeid": 78241,
+        "documentid": 79513,
+        "nodealias": "Lillian-Sophie-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "773ecd62-b003-4c33-8f23-f9de93b9bdf6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lillian Sophie Phillips",
+        "documentmodifiedwhen": "2020-02-20T09:22:58.937Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11777",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lillian Sophie Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79512-78239",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:54:42.528Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Lindsay-Katharine-Phillips",
+        "nodeid": 78239,
+        "documentid": 79512,
+        "nodealias": "Lindsay-Katharine-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2f102527-7f73-48b4-a24e-0aa59e6e2287",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lindsay Katharine Phillips",
+        "documentmodifiedwhen": "2019-05-08T16:04:12.69Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06124",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lindsay Katharine Phillips",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69326-68060",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:58.583Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Mark-Aaron-Phillips",
+        "nodeid": 68060,
+        "documentid": 69326,
+        "nodealias": "Mark-Aaron-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e99e83c0-f36c-456e-98ea-244f735ff33c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mark Aaron Phillips",
+        "documentmodifiedwhen": "2022-06-17T07:16:11.015Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56134L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mark Aaron Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e)"
+        ],
+        "memberwebstatus": [
+            "Suspended"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "Y",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "124740-121184",
+        "sys_site": "lso",
+        "sys_created": "2020-08-31T08:13:35.331Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Mark-Jeffrey-Phillips",
+        "nodeid": 121184,
+        "documentid": 124740,
+        "nodealias": "Mark-Jeffrey-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a96f5fbb-d6f4-4c3e-9413-5b3e028ee373",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mark Jeffrey Phillips",
+        "documentmodifiedwhen": "2022-01-17T07:24:41.27Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80727P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mark Jeffrey Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "H2Y 1W4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Montreal"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69323-68055",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:57.818Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Melissa-Nicole-Phillips",
+        "nodeid": 68055,
+        "documentid": 69323,
+        "nodealias": "Melissa-Nicole-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c70888c7-540b-47ac-9352-dd8c0842a03e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Melissa Nicole Phillips",
+        "documentmodifiedwhen": "2022-01-07T07:23:56.999Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "53590K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Melissa Nicole Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5S 2S3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69291-68025",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:39:51.877Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Michael-Ronald-Phillips",
+        "nodeid": 68025,
+        "documentid": 69291,
+        "nodealias": "Michael-Ronald-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8f04dd8c-3a38-4b87-a144-cc0e50e8a71c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Ronald Phillips",
+        "documentmodifiedwhen": "2022-06-08T07:15:45.016Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P00368",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Ronald Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "K0L 2W0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kawartha Lakes"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79519-78247",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:54:54.921Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Moira-Eileen-Theresa-Phillips",
+        "nodeid": 78247,
+        "documentid": 79519,
+        "nodealias": "Moira-Eileen-Theresa-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cd9f0035-b915-4740-87c6-c3970d90bac1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Moira Eileen Theresa Phillips",
+        "documentmodifiedwhen": "2022-05-28T07:32:48.701Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "20026B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Moira Eileen Theresa Phillips",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69313-68045",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:37.879Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Monica-Ellen-Phillips",
+        "nodeid": 68045,
+        "documentid": 69313,
+        "nodealias": "Monica-Ellen-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6ca47258-dcfa-4964-95a3-7db3929b8413",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Monica Ellen Phillips",
+        "documentmodifiedwhen": "2019-05-08T14:58:13.137Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "35297U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Monica Ellen Phillips",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.7024002075195,
+                45.420295715332
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0H5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69318-68052",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:40.911Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Nicole-Wing-See-Phillips",
+        "nodeid": 68052,
+        "documentid": 69318,
+        "nodealias": "Nicole-Wing-See-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "226c460b-20b8-4532-a54d-91c5a3e8aee8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nicole Wing-See Phillips",
+        "documentmodifiedwhen": "2022-01-01T07:20:51.377Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45529I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nicole Wing-See Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 2J2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69335-68069",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:17.148Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Paul-Bradley-Phillips",
+        "nodeid": 68069,
+        "documentid": 69335,
+        "nodealias": "Paul-Bradley-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4dfc28ed-5b14-49ea-98e6-b3058a0b80d8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paul Bradley Phillips",
+        "documentmodifiedwhen": "2022-01-12T07:25:58.448Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68225J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paul Bradley Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N0C 1H0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markdale"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116082-113694",
+        "sys_site": "lso",
+        "sys_created": "2019-06-27T07:19:56.976Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Rachel-Margaret-Phillips",
+        "nodeid": 113694,
+        "documentid": 116082,
+        "nodealias": "Rachel-Margaret-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "598de23f-ecc7-4912-a73e-1ecb28862507",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rachel Margaret Phillips",
+        "documentmodifiedwhen": "2022-01-11T07:35:14.781Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77111O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rachel Margaret Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5B 2H4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69302-68038",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:19.945Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Raymond-Fredrick-Phillips",
+        "nodeid": 68038,
+        "documentid": 69302,
+        "nodealias": "Raymond-Fredrick-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b6ccd419-658c-4a50-91ff-c670c3831def",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Raymond Fredrick Phillips",
+        "documentmodifiedwhen": "2021-12-17T07:23:11.281Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "19285S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Raymond Fredrick Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N7T 5V7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Sarnia"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69334-68068",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:16.726Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Rebbecca-Ellen-Phillips",
+        "nodeid": 68068,
+        "documentid": 69334,
+        "nodealias": "Rebbecca-Ellen-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5f417782-21ca-4495-948a-77b37acf3403",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rebbecca Ellen Phillips",
+        "documentmodifiedwhen": "2022-01-14T07:20:49.535Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72701U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rebbecca Ellen Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L8N 3P6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69300-68034",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:05.853Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Robert-John-Phillips",
+        "nodeid": 68034,
+        "documentid": 69300,
+        "nodealias": "Robert-John-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a2041fdf-9d88-4426-8fab-a43163e5bdaf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert John Phillips",
+        "documentmodifiedwhen": "2021-12-14T08:09:47.428Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "16471K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert John Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79525-78253",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:55:02.172Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Samuel-Stephen-Phillips",
+        "nodeid": 78253,
+        "documentid": 79525,
+        "nodealias": "Samuel-Stephen-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "51439d21-e5c5-49de-95e3-ca1f656392e3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Samuel Stephen Phillips",
+        "documentmodifiedwhen": "2021-11-05T07:42:18.985Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "29632E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Samuel Stephen Phillips",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79522-78250",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:54:59.624Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Stephen-James-Phillips",
+        "nodeid": 78250,
+        "documentid": 79522,
+        "nodealias": "Stephen-James-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e617b962-dba7-4cb9-bf2c-77f2321af202",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephen James Phillips",
+        "documentmodifiedwhen": "2021-12-14T08:51:42.962Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "22175K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephen James Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69328-68062",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:59.036Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Stewart-Edward-Phillips",
+        "nodeid": 68062,
+        "documentid": 69328,
+        "nodealias": "Stewart-Edward-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "adde6a6f-12aa-4289-a9d2-23c978a1ef52",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stewart Edward Phillips",
+        "documentmodifiedwhen": "2022-01-07T07:26:35.718Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57231B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stewart Edward Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 1T1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69322-68056",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:57.255Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Susan-Elizabeth-Phillips",
+        "nodeid": 68056,
+        "documentid": 69322,
+        "nodealias": "Susan-Elizabeth-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "402b7a2c-2b3a-4157-919b-509bb250d6e6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Susan Elizabeth Phillips",
+        "documentmodifiedwhen": "2022-01-02T07:28:57.405Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50376I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Susan Elizabeth Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69332-68066",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:16.211Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Timothy-Andrew-Phillips",
+        "nodeid": 68066,
+        "documentid": 69332,
+        "nodealias": "Timothy-Andrew-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "46b523ff-7b9f-48f0-a161-a10d0a125537",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Timothy Andrew Phillips",
+        "documentmodifiedwhen": "2022-01-12T07:24:24.933Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67203S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Timothy Andrew Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5L 1A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69320-68054",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:50.436Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Valerie-Priya-Phillips",
+        "nodeid": 68054,
+        "documentid": 69320,
+        "nodealias": "Valerie-Priya-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "499992c9-3d3b-486e-be5e-1b404dc62d87",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Valerie Priya Phillips",
+        "documentmodifiedwhen": "2021-12-23T07:23:38.242Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46390K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Valerie Priya Phillips",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 1E1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79521-78251",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:55:00.718Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Vicki-Janet-Phillips",
+        "nodeid": 78251,
+        "documentid": 79521,
+        "nodealias": "Vicki-Janet-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2b351590-86ae-43bb-85a8-41375e5703df",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Vicki Janet Phillips",
+        "documentmodifiedwhen": "2021-12-21T07:28:39.105Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "22370K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Vicki Janet Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69308-68042",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:21.3Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Victoria-May-Phillips",
+        "nodeid": 68042,
+        "documentid": 69308,
+        "nodealias": "Victoria-May-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c495b2e6-bfb9-44c0-a044-c15b83d3d821",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Victoria May Phillips",
+        "documentmodifiedwhen": "2021-12-24T07:26:07.29Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25494F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Victoria May Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M9C 4Z5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69293-68027",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:39:54.518Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Walter-Joseph-Phillips",
+        "nodeid": 68027,
+        "documentid": 69293,
+        "nodealias": "Walter-Joseph-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "41448f1f-2d12-4eac-8738-f3986b1d34ff",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Walter Joseph Phillips",
+        "documentmodifiedwhen": "2021-12-16T07:24:28.067Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P01241",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Walter Joseph Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N8Y 1Y4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Windsor"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69324-68057",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:40:57.255Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Zella-Kirstin-Phillips",
+        "nodeid": 68057,
+        "documentid": 69324,
+        "nodealias": "Zella-Kirstin-Phillips",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "61a23830-b5a6-4171-8eed-0149815fea58",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Zella Kirstin Phillips",
+        "documentmodifiedwhen": "2022-01-02T07:25:28.193Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "48591I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Zella Kirstin Phillips",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L3Y 6Z1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Newmarket"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69336-68070",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:17.601Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Dawn-Elizabeth-Phillips-Brown",
+        "nodeid": 68070,
+        "documentid": 69336,
+        "nodealias": "Dawn-Elizabeth-Phillips-Brown",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b29966f9-55be-4672-8d4d-4706ec4cf088",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Dawn Elizabeth Phillips-Brown",
+        "documentmodifiedwhen": "2022-01-05T07:20:38.889Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit commercial et corporatifes",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Corporate/Commercial Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56425G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Dawn Elizabeth Phillips-Brown",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N2G 4G9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kitchener"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "131684-127123",
+        "sys_site": "lso",
+        "sys_created": "2021-06-17T09:27:16.364Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Catherine-Danielle-Phillips-Smith",
+        "nodeid": 127123,
+        "documentid": 131684,
+        "nodealias": "Catherine-Danielle-Phillips-Smith",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d3da3ac2-593a-4653-b586-53846b205b26",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Catherine Danielle Phillips-Smith",
+        "documentmodifiedwhen": "2021-11-04T07:55:13.898Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82861E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Catherine Danielle Phillips-Smith",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3813400268555,
+                43.648494720459
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1G5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69337-68071",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:22.034Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Linda-Catherine-Phillips-Smith",
+        "nodeid": 68071,
+        "documentid": 69337,
+        "nodealias": "Linda-Catherine-Phillips-Smith",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d5393470-7d6f-4db3-8b6d-7fd2e41b6939",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Linda Catherine Phillips-Smith",
+        "documentmodifiedwhen": "2021-12-26T07:22:12.129Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32005A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Linda Catherine Phillips-Smith",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3P5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "109899-108455",
+        "sys_site": "lso",
+        "sys_created": "2018-09-28T02:01:33.134Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Andrea-Nicole-Phills",
+        "nodeid": 108455,
+        "documentid": 109899,
+        "nodealias": "Andrea-Nicole-Phills",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "65341fee-51ff-4f68-aeed-5da69680085d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrea Nicole Phills",
+        "documentmodifiedwhen": "2021-09-21T09:35:20.243Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14902",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrea Nicole Phills",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3846588134766,
+                43.6496162414551
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M5H 3S5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69338-68072",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:34.124Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Ritchie-Djenane-Philogene",
+        "nodeid": 68072,
+        "documentid": 69338,
+        "nodealias": "Ritchie-Djenane-Philogene",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "99afb170-a3a5-4837-9981-d9e9021b5838",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ritchie Dj\u00e9nane Philog\u00e8ne",
+        "documentmodifiedwhen": "2021-07-05T07:15:59.653Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "73589R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ritchie Dj\u00e9nane Philog\u00e8ne",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.7158737182617,
+                45.4254341125488
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0M3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Gatineau"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69339-68074",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:34.359Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Christina-Veree-Philp",
+        "nodeid": 68074,
+        "documentid": 69339,
+        "nodealias": "Christina-Veree-Philp",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fb9ba646-7a94-40b9-a081-fd5d216151a8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christina Veree Philp",
+        "documentmodifiedwhen": "2019-05-08T14:59:00.701Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09204",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christina Veree Philp",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -81.405158996582,
+                42.9570007324219
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "N0L 1R0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Komoka"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79530-78257",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:55:11.848Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Dale-Pauline-Philp",
+        "nodeid": 78257,
+        "documentid": 79530,
+        "nodealias": "Dale-Pauline-Philp",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1f74a469-b01b-471f-b7c4-38a66a39b79a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Dale Pauline Philp",
+        "documentmodifiedwhen": "2021-12-14T09:47:45.786Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27055S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Dale Pauline Philp",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69344-68078",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:35.582Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Ian-Gordon-James-Philp",
+        "nodeid": 68078,
+        "documentid": 69344,
+        "nodealias": "Ian-Gordon-James-Philp",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d47cd93c-7380-44be-895d-6df74ebb0a5a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ian Gordon James Philp",
+        "documentmodifiedwhen": "2021-09-21T08:21:40.29Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56227S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ian Gordon James Philp",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3886566162109,
+                43.6599311828613
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M5G 1L7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69343-68077",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:35.222Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/John-Dain-Philp",
+        "nodeid": 68077,
+        "documentid": 69343,
+        "nodealias": "John-Dain-Philp",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "487467dd-d390-4f26-9c2f-28b88f3b36dd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Dain Philp",
+        "documentmodifiedwhen": "2021-09-21T08:42:11.589Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "55938T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Dain Philp",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4034423828125,
+                43.7054214477539
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4R 1A6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69341-68076",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:34.8Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/John-David-Philp",
+        "nodeid": 68076,
+        "documentid": 69341,
+        "nodealias": "John-David-Philp",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2c0a7d5a-34a9-49bf-908c-7b2147baef9a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John David Philp",
+        "documentmodifiedwhen": "2021-12-14T09:47:46.778Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27056O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John David Philp",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69342-68075",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:34.816Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Michael-Wesley-Philp",
+        "nodeid": 68075,
+        "documentid": 69342,
+        "nodealias": "Michael-Wesley-Philp",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9853b0c2-3eec-4351-ab77-6616cf825579",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Wesley Philp",
+        "documentmodifiedwhen": "2021-12-25T07:17:43.508Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30053C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Wesley Philp",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N1H 3V4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Guelph"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79528-78256",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:55:03.907Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Paul-Huston-Philp",
+        "nodeid": 78256,
+        "documentid": 79528,
+        "nodealias": "Paul-Huston-Philp",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "29d4e9a5-7f0b-4396-80df-bacc39e1024c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paul Huston Philp",
+        "documentmodifiedwhen": "2021-12-14T11:00:24.193Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25089I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paul Huston Philp",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69340-68073",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:34.124Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Terry-Humphreys-Philp",
+        "nodeid": 68073,
+        "documentid": 69340,
+        "nodealias": "Terry-Humphreys-Philp",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "86a0dac5-b685-4e48-a8c1-891b8f9d89df",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Terry Humphreys Philp",
+        "documentmodifiedwhen": "2021-12-16T07:23:48.541Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P00626",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Terry Humphreys Philp",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5L 4R5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69345-68079",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:36.669Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Andre-Lawrence-Philpot",
+        "nodeid": 68079,
+        "documentid": 69345,
+        "nodealias": "Andre-Lawrence-Philpot",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4dfc1ba6-ed28-45c4-8400-23ef13b61a5c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andre Lawrence Philpot",
+        "documentmodifiedwhen": "2021-12-14T08:04:44.363Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13759T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andre Lawrence Philpot",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K7L 0C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kingston"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "122396-118995",
+        "sys_site": "lso",
+        "sys_created": "2020-05-30T08:19:39.806Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Amelia-Christine-Philpott",
+        "nodeid": 118995,
+        "documentid": 122396,
+        "nodealias": "Amelia-Christine-Philpott",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6740d185-ad46-4d5a-b4ce-8cdff3a4b6c6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amelia Christine Philpott",
+        "documentmodifiedwhen": "2022-05-20T07:16:06.715Z",
+        "skuname": null,
+        "memberprovincetext": "Alberta",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "79127G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amelia Christine Philpott",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "T6E 1X5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Edmonton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79533-78261",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:55:12.333Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Charles-Bowman-Philpott",
+        "nodeid": 78261,
+        "documentid": 79533,
+        "nodealias": "Charles-Bowman-Philpott",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ef9fbf94-e766-45d6-b234-62c879da9e64",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Charles Bowman Philpott",
+        "documentmodifiedwhen": "2020-02-20T08:45:23.738Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "48592E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Charles Bowman Philpott",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123727-120181",
+        "sys_site": "lso",
+        "sys_created": "2020-06-23T08:40:09.116Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Jennifer-Anne-Philpott",
+        "nodeid": 120181,
+        "documentid": 123727,
+        "nodealias": "Jennifer-Anne-Philpott",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "71c4785d-0d83-42b3-840e-147599c763f5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Anne Philpott",
+        "documentmodifiedwhen": "2022-01-17T07:32:08.582Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80174L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Anne Philpott",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6H 6P8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oakville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69349-68083",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:48.294Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/John-Stuart-Philpott",
+        "nodeid": 68083,
+        "documentid": 69349,
+        "nodealias": "John-Stuart-Philpott",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6b328a59-c0e6-4bb5-9460-0b0ff16b0326",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Stuart Philpott",
+        "documentmodifiedwhen": "2022-01-09T07:17:43.406Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60246U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Stuart Philpott",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3S1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79532-78260",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:55:12.567Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Justin-Price-Philpott",
+        "nodeid": 78260,
+        "documentid": 79532,
+        "nodealias": "Justin-Price-Philpott",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3c1c744f-0f53-4097-9f54-bb539dba44e8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Justin Price Philpott",
+        "documentmodifiedwhen": "2022-01-15T07:23:55.376Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75209C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Justin Price Philpott",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3Y2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69348-68082",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:45.075Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Kathryn-Ruth-Philpott",
+        "nodeid": 68082,
+        "documentid": 69348,
+        "nodealias": "Kathryn-Ruth-Philpott",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b8325c21-7c80-4e58-81ac-ba8a33500b9e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kathryn Ruth Philpott",
+        "documentmodifiedwhen": "2022-07-06T07:16:48.374Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32416T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kathryn Ruth Philpott",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79529-78258",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:55:12.458Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Kelly-Leanne-Philpott",
+        "nodeid": 78258,
+        "documentid": 79529,
+        "nodealias": "Kelly-Leanne-Philpott",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b93468bd-3795-45e3-85ed-c9c9943b4aa9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kelly Leanne Philpott",
+        "documentmodifiedwhen": "2020-08-14T07:16:14.874Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65374J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kelly Leanne Philpott",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.6953735351563,
+                45.4255981445313
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0A6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69346-68081",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:39.814Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Michelle-Leigh-Philpott",
+        "nodeid": 68081,
+        "documentid": 69346,
+        "nodealias": "Michelle-Leigh-Philpott",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fbaa5553-a649-43a4-808a-6f0e2c466bd0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michelle Leigh Philpott",
+        "documentmodifiedwhen": "2022-05-27T07:15:15.29Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08425",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michelle Leigh Philpott",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L8N 2A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69347-68080",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:39.814Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Susan-Lynn-Philpott",
+        "nodeid": 68080,
+        "documentid": 69347,
+        "nodealias": "Susan-Lynn-Philpott",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c853080f-358e-47a6-a9fe-b6d0003c254e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Susan Lynn Philpott",
+        "documentmodifiedwhen": "2021-12-14T10:42:53.889Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "31371C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Susan Lynn Philpott",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 2C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "131683-127122",
+        "sys_site": "lso",
+        "sys_created": "2021-06-17T09:26:35.664Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Janice-Philteos",
+        "nodeid": 127122,
+        "documentid": 131683,
+        "nodealias": "Janice-Philteos",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3964bdb1-309a-4772-b6cd-8765a6f248c2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Janice Philteos",
+        "documentmodifiedwhen": "2022-07-12T07:17:59.341Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82862A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Janice Philteos",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 2A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69350-68084",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:48.669Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Judith-Elaine-Brown-Phipps",
+        "nodeid": 68084,
+        "documentid": 69350,
+        "nodealias": "Judith-Elaine-Brown-Phipps",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a3cd1ab0-66ae-47dd-baa7-508e6c493cbb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Judith Elaine Brown Phipps",
+        "documentmodifiedwhen": "2021-12-22T07:18:28.741Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de l'immigration"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Immigration Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24539A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Judith Elaine Brown Phipps",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N2H 2N7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kitchener"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69351-68085",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:48.794Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Natalie-Geraldine-Jocelyne-Phipps",
+        "nodeid": 68085,
+        "documentid": 69351,
+        "nodealias": "Natalie-Geraldine-Jocelyne-Phipps",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f057ef50-330b-4cd0-a623-5b8d58ef5b63",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Natalie Geraldine Jocelyne Phipps",
+        "documentmodifiedwhen": "2022-01-02T07:16:36.041Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47686T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Natalie Geraldine Jocelyne Phipps",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 2H1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69354-68088",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:54.818Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Jesse-Milan-Phipps-Williams",
+        "nodeid": 68088,
+        "documentid": 69354,
+        "nodealias": "Jesse-Milan-Phipps-Williams",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3bb59068-0718-457b-aa5a-96d6073da736",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jesse Milan Phipps Williams",
+        "documentmodifiedwhen": "2022-02-03T07:17:54.105Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70419N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jesse Milan Phipps Williams",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 2C4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69352-68086",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:54.302Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Jenny-Thanh-Tu-Pho",
+        "nodeid": 68086,
+        "documentid": 69352,
+        "nodealias": "Jenny-Thanh-Tu-Pho",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "19a2c6ee-62b6-48f3-842e-fb932945d5c0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jenny Thanh Tu Pho",
+        "documentmodifiedwhen": "2022-01-06T07:27:42.985Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49884G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jenny Thanh Tu Pho",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3M7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "127814-123935",
+        "sys_site": "lso",
+        "sys_created": "2021-02-06T07:21:17.113Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Hayley-Amelia-Phoenix",
+        "nodeid": 123935,
+        "documentid": 127814,
+        "nodealias": "Hayley-Amelia-Phoenix",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2501be41-f104-4cc2-a991-18ab78b1b688",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hayley Amelia Phoenix",
+        "documentmodifiedwhen": "2021-12-22T07:25:03.539Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17182",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hayley Amelia Phoenix",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "K0M 1K0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Coboconk"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79531-78259",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:55:12.692Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Holly-Lynn-Phoenix",
+        "nodeid": 78259,
+        "documentid": 79531,
+        "nodealias": "Holly-Lynn-Phoenix",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "69f8f849-dd1f-4eb1-82f1-e7ef5885c022",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Holly Lynn Phoenix",
+        "documentmodifiedwhen": "2020-02-20T08:53:52.49Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59035E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Holly Lynn Phoenix",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69353-68087",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:54.708Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Robert-Graham-Ezra-Fader-Phoenix",
+        "nodeid": 68087,
+        "documentid": 69353,
+        "nodealias": "Robert-Graham-Ezra-Fader-Phoenix",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4202bb85-8f6c-4f85-8ef0-02e94f5bc8f2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Graham Ezra Fader Phoenix",
+        "documentmodifiedwhen": "2022-01-07T07:27:58.18Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52650N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Graham Ezra Fader Phoenix",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M9W 6V7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79534-78262",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:55:13.27Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Monmany-Phommalai",
+        "nodeid": 78262,
+        "documentid": 79534,
+        "nodealias": "Monmany-Phommalai",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "95b7c810-9ed2-4e99-a8f2-9a7468648261",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Monmany Phommalai",
+        "documentmodifiedwhen": "2021-11-05T08:01:37.409Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05335",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Monmany Phommalai",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69355-68089",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:55.302Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Kanwaldeep-Sing-Phoolka",
+        "nodeid": 68089,
+        "documentid": 69355,
+        "nodealias": "Kanwaldeep-Sing-Phoolka",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e76dc2bf-0fcb-48a3-bd10-edfb3616b051",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kanwaldeep Sing Phoolka",
+        "documentmodifiedwhen": "2021-10-14T07:17:30.581Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P10421",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kanwaldeep Sing Phoolka",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6709899902344,
+                43.6245155334473
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4Z 2J1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79535-78263",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:55:14.052Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Andreas-Photiou",
+        "nodeid": 78263,
+        "documentid": 79535,
+        "nodealias": "Andreas-Photiou",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "98e8f512-bcd1-45a1-a703-2950efe4686e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andreas Photiou",
+        "documentmodifiedwhen": "2020-02-20T09:31:44.738Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08115",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andreas Photiou",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79536-78264",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:55:16.164Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Vaibhav-Phukela",
+        "nodeid": 78264,
+        "documentid": 79536,
+        "nodealias": "Vaibhav-Phukela",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f1954d64-160b-4c80-a2c3-75d2a31d0949",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Vaibhav Phukela",
+        "documentmodifiedwhen": "2022-06-17T07:19:01.766Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09866",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Vaibhav Phukela",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e)"
+        ],
+        "memberwebstatus": [
+            "Suspended"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "Y",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69356-68090",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:55.505Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Chetan-Manjinder-Phull",
+        "nodeid": 68090,
+        "documentid": 69356,
+        "nodealias": "Chetan-Manjinder-Phull",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bac10a12-ce1f-4eed-b9a2-6930e31bb741",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Chetan Manjinder Phull",
+        "documentmodifiedwhen": "2022-01-10T07:23:33.651Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63189E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Chetan Manjinder Phull",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 0A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69357-68091",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:56.786Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Karen-Shu-Zhen-Phung",
+        "nodeid": 68091,
+        "documentid": 69357,
+        "nodealias": "Karen-Shu-Zhen-Phung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "429efd31-4902-4355-9eec-ed6c709120aa",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karen Shu Zhen Phung",
+        "documentmodifiedwhen": "2022-01-10T07:22:15.954Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63815P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karen Shu Zhen Phung",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3S1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69358-68093",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:58.795Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Elena-A-Phylactou",
+        "nodeid": 68093,
+        "documentid": 69358,
+        "nodealias": "Elena-A-Phylactou",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d1186765-7415-4924-9950-048429fb6ff8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Elena A Phylactou",
+        "documentmodifiedwhen": "2020-08-29T07:17:09.155Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Grec"
+        ],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Greek"
+        ],
+        "membernumber": "P09178",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Elena A Phylactou",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79538-78268",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:55:23.236Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Gabrielle-Sarah-Gray-Phyo",
+        "nodeid": 78268,
+        "documentid": 79538,
+        "nodealias": "Gabrielle-Sarah-Gray-Phyo",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e5eaa612-6c9c-4660-9136-f0eca15e0827",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gabrielle Sarah Gray Phyo",
+        "documentmodifiedwhen": "2022-02-06T07:16:21.184Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52538D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gabrielle Sarah Gray Phyo",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United Kingdom",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "E14 5AQ",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139846-134234",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T07:45:41.669Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Megan-Lee-Phyper",
+        "nodeid": 134234,
+        "documentid": 139846,
+        "nodealias": "Megan-Lee-Phyper",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1b3313ec-17ce-46bc-881e-c2653e3c0ca5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Megan Lee Phyper",
+        "documentmodifiedwhen": "2022-07-30T07:45:14.084Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84794G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Megan Lee Phyper",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 1R8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69359-68092",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:41:58.795Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Brook-Alan-Physick",
+        "nodeid": 68092,
+        "documentid": 69359,
+        "nodealias": "Brook-Alan-Physick",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9899a995-9777-4f1e-9d1a-d93469ecbf83",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brook Alan Physick",
+        "documentmodifiedwhen": "2021-12-02T07:17:16.096Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P03582",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brook Alan Physick",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69281-68015",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:39:39.321Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Josianne-Marie-Claudine-Phenix",
+        "nodeid": 68015,
+        "documentid": 69281,
+        "nodealias": "Josianne-Marie-Claudine-Phenix",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d56444b3-0819-4e47-a457-89717fd11b0b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Josianne Marie Claudine Ph\u00e9nix",
+        "documentmodifiedwhen": "2021-12-23T07:29:21.423Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60824D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Josianne Marie Claudine Ph\u00e9nix",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "K1A 0R2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69360-68094",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:42:00.916Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Howard-Derrik-Piafsky",
+        "nodeid": 68094,
+        "documentid": 69360,
+        "nodealias": "Howard-Derrik-Piafsky",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c50c7e48-258f-4d5e-ac41-b6d73a6e2dee",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Howard Derrik Piafsky",
+        "documentmodifiedwhen": "2021-12-25T07:15:40.922Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "28602L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Howard Derrik Piafsky",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5X 1K6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69363-68096",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:42:12.204Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Judith-Beth-Piafsky",
+        "nodeid": 68096,
+        "documentid": 69363,
+        "nodealias": "Judith-Beth-Piafsky",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f98cd200-9aa5-4bbc-afea-ca2965d9fbbb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Judith Beth Piafsky",
+        "documentmodifiedwhen": "2022-01-01T07:21:23.833Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45500K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Judith Beth Piafsky",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5C 3G5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69361-68095",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:42:11.985Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Samantha-Jo-Piane",
+        "nodeid": 68095,
+        "documentid": 69361,
+        "nodealias": "Samantha-Jo-Piane",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dc896b2c-9810-4500-a842-9e7a00f946b9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Samantha Jo Piane",
+        "documentmodifiedwhen": "2022-02-04T07:17:50.55Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66048G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Samantha Jo Piane",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 1E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69364-68098",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:42:12.657Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Gregory-Allan-Piasetzki",
+        "nodeid": 68098,
+        "documentid": 69364,
+        "nodealias": "Gregory-Allan-Piasetzki",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f22c30b3-91c1-412f-9b1e-920b731fba03",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gregory Allan Piasetzki",
+        "documentmodifiedwhen": "2021-12-21T07:29:29.862Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "22479K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gregory Allan Piasetzki",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 1T1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69362-68097",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:42:12.516Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Michael-Edward-Piaskoski",
+        "nodeid": 68097,
+        "documentid": 69362,
+        "nodealias": "Michael-Edward-Piaskoski",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7b7c4bb5-cfd2-4f78-926f-8a3be3991d06",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Edward Piaskoski",
+        "documentmodifiedwhen": "2021-12-28T07:22:39.928Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36862J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Edward Piaskoski",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4W 1G9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "137822-132410",
+        "sys_site": "lso",
+        "sys_created": "2022-05-05T07:21:31.162Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/015/Sofiia-Piatova",
+        "nodeid": 132410,
+        "documentid": 137822,
+        "nodealias": "Sofiia-Piatova",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "35900183-4a87-4f5f-b39b-43baccc29f28",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sofiia Piatova",
+        "documentmodifiedwhen": "2022-06-07T07:18:37.617Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18359",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sofiia Piatova",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69366-68100",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:42:13.11Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Christopher-Mark-Piattelli",
+        "nodeid": 68100,
+        "documentid": 69366,
+        "nodealias": "Christopher-Mark-Piattelli",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c24a27ac-11a5-4e9a-bea5-9cea2a716291",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher Mark Piattelli",
+        "documentmodifiedwhen": "2021-07-27T07:17:22.732Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65674C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher Mark Piattelli",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3830413818359,
+                43.6458854675293
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 2P1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "122974-119499",
+        "sys_site": "lso",
+        "sys_created": "2020-06-16T08:46:42.774Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Frank-Norman-Piazza",
+        "nodeid": 119499,
+        "documentid": 122974,
+        "nodealias": "Frank-Norman-Piazza",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4297f911-0e7b-4fac-8766-47c591ab4d74",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Frank Norman Piazza",
+        "documentmodifiedwhen": "2022-06-18T07:37:24.376Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "79738F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Frank Norman Piazza",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6P 1Y8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69367-68102",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:42:13.813Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/John-Baptist-Piazza",
+        "nodeid": 68102,
+        "documentid": 69367,
+        "nodealias": "John-Baptist-Piazza",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "42d4ee08-ad08-4b66-b7ab-660d5c23a3f5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Baptist Piazza",
+        "documentmodifiedwhen": "2021-12-14T08:04:49.534Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13760D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Baptist Piazza",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K2P 1P9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69368-68101",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:42:13.625Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Christopher-John-Pibus",
+        "nodeid": 68101,
+        "documentid": 69368,
+        "nodealias": "Christopher-John-Pibus",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ac7880f6-d346-4f3e-9901-e9990e02457a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher John Pibus",
+        "documentmodifiedwhen": "2022-07-14T07:18:24.305Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "23194N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher John Pibus",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69369-68103",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:42:17.243Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Stephen-David-Pibworth",
+        "nodeid": 68103,
+        "documentid": 69369,
+        "nodealias": "Stephen-David-Pibworth",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1217995e-a5d3-41b7-8e5e-3ac4f08fbcb2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephen David Pibworth",
+        "documentmodifiedwhen": "2021-12-29T07:22:17.277Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37264D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephen David Pibworth",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5B 2L7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79539-78267",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:55:22.908Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Claude-Joseph-Picard",
+        "nodeid": 78267,
+        "documentid": 79539,
+        "nodealias": "Claude-Joseph-Picard",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "37357cc1-d0ea-415d-b3df-0383d448f456",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Claude Joseph Picard",
+        "documentmodifiedwhen": "2020-04-02T07:23:51.197Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24418D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Claude Joseph Picard",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69370-68105",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:42:30.534Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Joseph-Jacques-Robert-Picard",
+        "nodeid": 68105,
+        "documentid": 69370,
+        "nodealias": "Joseph-Jacques-Robert-Picard",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e81c1055-8f6d-4c15-ad7b-74f855d325ad",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joseph Jacques Robert Picard",
+        "documentmodifiedwhen": "2021-12-24T07:27:13.317Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27455B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joseph Jacques Robert Picard",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 4E3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69371-68106",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:42:30.424Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Mary-Margaret-Picard",
+        "nodeid": 68106,
+        "documentid": 69371,
+        "nodealias": "Mary-Margaret-Picard",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "13f14c17-7c65-4722-991a-ecfcfd6ab761",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mary Margaret Picard",
+        "documentmodifiedwhen": "2021-12-24T07:19:48.177Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25055T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mary Margaret Picard",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 0A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69372-68104",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:42:30.565Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Nathalie-Marie-Josee-Picard",
+        "nodeid": 68104,
+        "documentid": 69372,
+        "nodealias": "Nathalie-Marie-Josee-Picard",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fa1cbaa4-3aae-4696-8159-41f15928db88",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nathalie Marie Josee Picard",
+        "documentmodifiedwhen": "2022-05-28T07:16:45.095Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37265W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nathalie Marie Josee Picard",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "H3C 1G8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Montreal"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "69374-68108",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T23:42:31.159Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/010/Lennox-O-Riley-Picart",
+        "nodeid": 68108,
+        "documentid": 69374,
+        "nodealias": "Lennox-O-Riley-Picart",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "39e173d3-713c-422c-8f86-bfcf0fdc59a8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lennox O'Riley Picart",
+        "documentmodifiedwhen": "2021-12-31T07:30:22.192Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42429I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lennox O'Riley Picart",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K8N 5J1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Belleville"
+        ]
+    }
+]

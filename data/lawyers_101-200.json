@@ -1,0 +1,5268 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30404-29141",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:07.063Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Umair-Ahmed-Abdul-Qadir",
+        "nodeid": 29141,
+        "documentid": 30404,
+        "nodealias": "Umair-Ahmed-Abdul-Qadir",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "de042251-7df5-4816-94fe-55ce1d789857",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Umair Ahmed Abdul Qadir",
+        "documentmodifiedwhen": "2020-01-07T07:24:19.486Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64297H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Umair Ahmed Abdul Qadir",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3856658935547,
+                43.6698379516602
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4W 3H1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30405-29139",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:06.985Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Tamana-Abdul-Rahim",
+        "nodeid": 29139,
+        "documentid": 30405,
+        "nodealias": "Tamana-Abdul-Rahim",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f2372d53-8166-467a-a409-c6496fe3adcf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tamana Abdul Rahim",
+        "documentmodifiedwhen": "2021-09-21T09:28:33.009Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14143",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tamana Abdul Rahim",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -80.3255310058594,
+                43.3982200622559
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "N1R 7R9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Cambridge"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30409-29145",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:11.107Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Ferishta-Abdul-Saboor",
+        "nodeid": 29145,
+        "documentid": 30409,
+        "nodealias": "Ferishta-Abdul-Saboor",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "00b18d18-fba6-4ab8-bc6f-c1aa355ed749",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ferishta Abdul Saboor",
+        "documentmodifiedwhen": "2022-01-14T07:27:34.786Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75328H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ferishta Abdul Saboor",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M3A 3R3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "78066-76793",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:08:18.087Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Taskeen-Abdul-Rawoof",
+        "nodeid": 76793,
+        "documentid": 78066,
+        "nodealias": "Taskeen-Abdul-Rawoof",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5b8e5a79-199f-4184-afe2-632b4cb28616",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Taskeen Abdul-Rawoof",
+        "documentmodifiedwhen": "2022-01-15T07:24:07.984Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74879E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Taskeen Abdul-Rawoof",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "L3R 5P8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30408-29144",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:11.091Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Oluwatoyin-Saidat-Abdulazeez",
+        "nodeid": 29144,
+        "documentid": 30408,
+        "nodealias": "Oluwatoyin-Saidat-Abdulazeez",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "13c3751d-6af5-428d-947b-a6b99c99ca5c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Oluwatoyin Saidat Abdulazeez",
+        "documentmodifiedwhen": "2022-01-13T07:24:08.287Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68636F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Oluwatoyin Saidat Abdulazeez",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 1X6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130244-125878",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T10:49:35.046Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Maryam-Abdulhaq",
+        "nodeid": 125878,
+        "documentid": 130244,
+        "nodealias": "Maryam-Abdulhaq",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d0520986-21cb-4e9d-b7c5-50d8a9c41a22",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Maryam Abdulhaq",
+        "documentmodifiedwhen": "2021-07-08T07:17:11.124Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Farsi ou persan"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Farsi or Persian"
+        ],
+        "membernumber": "81603S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Maryam Abdulhaq",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.309455871582,
+                43.861873626709
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L3R 2G1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Unionville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30407-29143",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:11.044Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Sherebanu-Abdulhusein",
+        "nodeid": 29143,
+        "documentid": 30407,
+        "nodealias": "Sherebanu-Abdulhusein",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "43e46d2f-114a-4554-939c-db9db8c68110",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sherebanu Abdulhusein",
+        "documentmodifiedwhen": "2021-10-02T07:16:26.707Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68634N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sherebanu Abdulhusein",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "109382-107988",
+        "sys_site": "lso",
+        "sys_created": "2018-09-20T01:12:40.049Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Abdulkadir-Abdulkadir",
+        "nodeid": 107988,
+        "documentid": 109382,
+        "nodealias": "Abdulkadir-Abdulkadir",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "48f22ee4-d7c6-4388-b3d1-9b8d36b02497",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Abdulkadir Abdulkadir",
+        "documentmodifiedwhen": "2022-05-18T07:17:41.198Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14799",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Abdulkadir Abdulkadir",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "K1A 0P9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30406-29142",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:10.982Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Musse-Yasin-Abdulkarim",
+        "nodeid": 29142,
+        "documentid": 30406,
+        "nodealias": "Musse-Yasin-Abdulkarim",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6664c48b-d62b-41b3-8a8d-7d9b2f812069",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Musse Yasin Abdulkarim",
+        "documentmodifiedwhen": "2021-12-19T07:17:29.526Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08984",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Musse Yasin Abdulkarim",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M2M 4J1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30410-29146",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:12.498Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Tahemin-Abdulkayum",
+        "nodeid": 29146,
+        "documentid": 30410,
+        "nodealias": "Tahemin-Abdulkayum",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6438183a-70df-4086-a8cf-debb56f9f2f4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tahemin Abdulkayum",
+        "documentmodifiedwhen": "2021-09-21T09:11:08.278Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07421",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tahemin Abdulkayum",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4097213745117,
+                44.0191802978516
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L4G 8A4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Aurora"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130850-126439",
+        "sys_site": "lso",
+        "sys_created": "2021-06-01T10:09:00.855Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Adil-Alykhan-Abdulla",
+        "nodeid": 126439,
+        "documentid": 130850,
+        "nodealias": "Adil-Alykhan-Abdulla",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3082ae62-a156-49ec-9f0e-3ef64a926b69",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Adil Alykhan Abdulla",
+        "documentmodifiedwhen": "2022-01-18T12:01:32.866Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82095E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Adil Alykhan Abdulla",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 1Z8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30412-29148",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:14.065Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Aleem-Nashirudin-Kabirdin-Abdulla",
+        "nodeid": 29148,
+        "documentid": 30412,
+        "nodealias": "Aleem-Nashirudin-Kabirdin-Abdulla",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bb48a890-477c-4a87-9d8e-bada4f9fa302",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Aleem Nashirudin Kabirdin Abdulla",
+        "documentmodifiedwhen": "2022-01-11T07:22:04.035Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66544S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Aleem Nashirudin Kabirdin Abdulla",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1N 0A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "124754-121198",
+        "sys_site": "lso",
+        "sys_created": "2020-08-31T08:20:28.475Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Rafeea-Zahraa-Abdulla",
+        "nodeid": 121198,
+        "documentid": 124754,
+        "nodealias": "Rafeea-Zahraa-Abdulla",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c4dea7f3-f36f-491c-b3d1-994bf5db2009",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rafeea Zahraa Abdulla",
+        "documentmodifiedwhen": "2021-07-17T07:19:08.462Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80521N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rafeea Zahraa Abdulla",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.8706741333008,
+                43.5257606506348
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L9T 5A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Milton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "120270-117253",
+        "sys_site": "lso",
+        "sys_created": "2020-01-21T07:19:10.463Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Sukiena-Abdulla",
+        "nodeid": 117253,
+        "documentid": 120270,
+        "nodealias": "Sukiena-Abdulla",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2a227e16-5123-4384-b4a2-2bb519b79545",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sukiena Abdulla",
+        "documentmodifiedwhen": "2020-10-07T07:22:23.096Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P16335",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sukiena Abdulla",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30411-29147",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:14.018Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Eva-Abdulla-Jannetta",
+        "nodeid": 29147,
+        "documentid": 30411,
+        "nodealias": "Eva-Abdulla-Jannetta",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f5eabcdb-9c84-4020-b813-3d266124bcc7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eva Abdulla-Jannetta",
+        "documentmodifiedwhen": "2022-01-11T07:28:53.186Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65394U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eva Abdulla-Jannetta",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4L 6A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Woodbridge"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30414-29150",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:19.542Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Khaled-Hamid-Abdullah",
+        "nodeid": 29150,
+        "documentid": 30414,
+        "nodealias": "Khaled-Hamid-Abdullah",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a5b29113-0e1d-4162-95ac-c4bf5909d01b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Khaled Hamid Abdullah",
+        "documentmodifiedwhen": "2021-09-21T08:55:50.921Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P10272",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Khaled Hamid Abdullah",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3496246337891,
+                43.7035102844238
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M4H 1R3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "78067-76795",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:08:18.572Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Nasif-Abdullah",
+        "nodeid": 76795,
+        "documentid": 78067,
+        "nodealias": "Nasif-Abdullah",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ef7c7712-5889-4855-867c-ac46bf13251b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nasif Abdullah",
+        "documentmodifiedwhen": "2022-01-15T07:23:40.042Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75329D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nasif Abdullah",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2Y4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30413-29149",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:19.682Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Silmy-Sahama-Abdullah",
+        "nodeid": 29149,
+        "documentid": 30413,
+        "nodealias": "Silmy-Sahama-Abdullah",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d5bee10b-95b7-4587-921a-f6c1773624ef",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Silmy Sahama Abdullah",
+        "documentmodifiedwhen": "2022-01-10T07:29:54.12Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63926S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Silmy Sahama Abdullah",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M1L 2V9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "138738-133181",
+        "sys_site": "lso",
+        "sys_created": "2022-06-14T07:40:00.487Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Tahmid-Abdullah",
+        "nodeid": 133181,
+        "documentid": 138738,
+        "nodealias": "Tahmid-Abdullah",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c43ffeb1-7144-40d4-916e-24cf9a213afb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tahmid Abdullah",
+        "documentmodifiedwhen": "2022-07-07T07:24:51.358Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84145A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tahmid Abdullah",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "115206-112951",
+        "sys_site": "lso",
+        "sys_created": "2019-05-04T07:19:50.358Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Khalid-Abdulle",
+        "nodeid": 112951,
+        "documentid": 115206,
+        "nodealias": "Khalid-Abdulle",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c8a35190-7017-412d-9be8-58d80337ddb2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Khalid Abdulle",
+        "documentmodifiedwhen": "2021-09-21T09:32:26.691Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15675",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Khalid Abdulle",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30415-29151",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:24.814Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Asmaa-Abdulraheem",
+        "nodeid": 29151,
+        "documentid": 30415,
+        "nodealias": "Asmaa-Abdulraheem",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fc0f5669-0b88-494e-9a07-934c6a48190c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Asmaa Abdulraheem",
+        "documentmodifiedwhen": "2021-09-21T09:12:26.896Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07474",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Asmaa Abdulraheem",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6339340209961,
+                43.5921859741211
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L5B 3C4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "78068-76796",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:08:19.572Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Lana-Abdulrahman",
+        "nodeid": 76796,
+        "documentid": 78068,
+        "nodealias": "Lana-Abdulrahman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "96eac227-a6d7-4092-b1bc-3cb42e71f86c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lana Abdulrahman",
+        "documentmodifiedwhen": "2021-01-10T07:24:19.99Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08232",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lana Abdulrahman",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "120026-117074",
+        "sys_site": "lso",
+        "sys_created": "2019-12-14T07:22:10.134Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Lamees-Abdulrazzak",
+        "nodeid": 117074,
+        "documentid": 120026,
+        "nodealias": "Lamees-Abdulrazzak",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a4874411-14aa-4e72-b739-2776ebfc2283",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lamees Abdulrazzak",
+        "documentmodifiedwhen": "2020-12-28T07:16:57.852Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P16266",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lamees Abdulrazzak",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -80.2603988647461,
+                43.4317665100098
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "N3C 2V4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Cambridge"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30416-29152",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:26.639Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Raweya-Eskander-Abdulwali",
+        "nodeid": 29152,
+        "documentid": 30416,
+        "nodealias": "Raweya-Eskander-Abdulwali",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1f9c2e63-8e02-4fd9-9393-f556e998d0f6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Raweya Eskander Abdulwali",
+        "documentmodifiedwhen": "2022-07-01T07:18:15.233Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69552H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Raweya Eskander Abdulwali",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "K1A 1H3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Gatineau"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30420-29155",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:31.529Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Seyed-Mehdi-Abdzadeh",
+        "nodeid": 29155,
+        "documentid": 30420,
+        "nodealias": "Seyed-Mehdi-Abdzadeh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5a0c803d-a764-49e1-bb91-3a96250b14ec",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Seyed-Mehdi Abdzadeh",
+        "documentmodifiedwhen": "2021-12-19T07:27:12.972Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Location immobili\u00e8re"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Small Claims Court matters",
+            "Landlord and Tenant"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11695",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Seyed-Mehdi Abdzadeh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L3X 2Z8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Newmarket"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30422-29158",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:34.041Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Mizuho-Abe",
+        "nodeid": 29158,
+        "documentid": 30422,
+        "nodealias": "Mizuho-Abe",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a029016a-81c8-424b-96e3-b06498418178",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mizuho Abe",
+        "documentmodifiedwhen": "2021-12-29T07:16:42.5Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38747K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mizuho Abe",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L4W 5G2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "127361-123539",
+        "sys_site": "lso",
+        "sys_created": "2021-01-23T07:21:37.022Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Olaniyi-Jonathan-Abe",
+        "nodeid": 123539,
+        "documentid": 127361,
+        "nodealias": "Olaniyi-Jonathan-Abe",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a2b359cf-c2e6-40bb-b095-8c3d91c39668",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Olaniyi Jonathan Abe",
+        "documentmodifiedwhen": "2022-07-17T07:16:53.912Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17164",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Olaniyi Jonathan Abe",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Eligible to Provide Legal Services - No Proof of Insurance"
+        ],
+        "memberpostalcode": "L1H 6T2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oshawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30424-29160",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:36.902Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Lisa-Kristina-Abe-Oldenburg",
+        "nodeid": 29160,
+        "documentid": 30424,
+        "nodealias": "Lisa-Kristina-Abe-Oldenburg",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fa84b707-26ea-454d-8d8f-e7fcac996b9c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lisa Kristina Abe-Oldenburg",
+        "documentmodifiedwhen": "2021-12-28T07:18:09.778Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "35736K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lisa Kristina Abe-Oldenburg",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 0A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "78069-76797",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:08:20.509Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Constance-Mensah-Abebreseh",
+        "nodeid": 76797,
+        "documentid": 78069,
+        "nodealias": "Constance-Mensah-Abebreseh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "76910632-378c-4fc2-bcfb-be8807c660de",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Constance Mensah Abebreseh",
+        "documentmodifiedwhen": "2022-01-16T07:21:16.76Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74436L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Constance Mensah Abebreseh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4W 3E2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116313-113925",
+        "sys_site": "lso",
+        "sys_created": "2019-06-27T07:50:54.189Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Esther-Abecassis",
+        "nodeid": 113925,
+        "documentid": 116313,
+        "nodealias": "Esther-Abecassis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "af91cabd-8ec5-4020-9119-a11de6704fb0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Esther Abecassis",
+        "documentmodifiedwhen": "2022-01-15T07:28:30.366Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77225F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Esther Abecassis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M3C 3E9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30426-29162",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:42.081Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Naser-Abedi",
+        "nodeid": 29162,
+        "documentid": 30426,
+        "nodealias": "Naser-Abedi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e1e66591-729d-4ba3-8457-bf55b31d47ba",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Naser Abedi",
+        "documentmodifiedwhen": "2022-01-01T07:17:10.088Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la famille ou matrimonial",
+            "Droit de l'immigration",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Family/Matrimonial Law",
+            "Immigration Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "44954F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Naser Abedi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4J 8J1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Thornhill"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "122223-118822",
+        "sys_site": "lso",
+        "sys_created": "2020-05-30T07:38:31.633Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Paimon-Abedi",
+        "nodeid": 118822,
+        "documentid": 122223,
+        "nodealias": "Paimon-Abedi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6a2a38e6-5df4-4d7e-85b9-fed790b01d0d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paimon Abedi",
+        "documentmodifiedwhen": "2022-05-28T07:33:00.447Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78926L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paimon Abedi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30429-29165",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:51.855Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Matthew-Jeremy-Abel",
+        "nodeid": 29165,
+        "documentid": 30429,
+        "nodealias": "Matthew-Jeremy-Abel",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "18c89561-36d1-4e7b-975a-faaaf77ac053",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Matthew Jeremy Abel",
+        "documentmodifiedwhen": "2021-12-29T07:23:54.307Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37707A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Matthew Jeremy Abel",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6X 1R2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30427-29163",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:47.165Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Michelle-Marni-Abel",
+        "nodeid": 29163,
+        "documentid": 30427,
+        "nodealias": "Michelle-Marni-Abel",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0bdbab5b-325c-48a5-8c24-aa2b13bbcfac",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michelle Marni Abel",
+        "documentmodifiedwhen": "2021-12-28T07:22:53.101Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la famille ou matrimonial"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Family/Matrimonial Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36978P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michelle Marni Abel",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6X 1R2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30431-29167",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:53.311Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Shawn-Fraser-Abel",
+        "nodeid": 29167,
+        "documentid": 30431,
+        "nodealias": "Shawn-Fraser-Abel",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6014f3b1-dad2-41cb-a40c-a9ae6234e53f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shawn Fraser Abel",
+        "documentmodifiedwhen": "2022-01-04T07:19:53.198Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51866V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shawn Fraser Abel",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30189-29011",
+        "sys_site": "lso",
+        "sys_created": "2018-07-19T13:07:02.392Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Caroline-Ellen-Annmarie-Abela",
+        "nodeid": 29011,
+        "documentid": 30189,
+        "nodealias": "Caroline-Ellen-Annmarie-Abela",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ca977663-4bbd-4402-841f-1d6654194255",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Caroline Ellen Annmarie Abela",
+        "documentmodifiedwhen": "2022-01-01T07:20:19.845Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "R\u00e8glement extrajudiciaire des diff\u00e9rends (RAD)/ Services de m\u00e9diation",
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit commercial et corporatifes",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "ADR/Mediation Services",
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Corporate/Commercial Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45869A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Caroline Ellen Annmarie Abela",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1B7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30433-29169",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:13:58.635Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Fabian-Ryan-Abele",
+        "nodeid": 29169,
+        "documentid": 30433,
+        "nodealias": "Fabian-Ryan-Abele",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fa150e4e-8e69-4632-939f-9e5078a71aa8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Fabian Ryan Abele",
+        "documentmodifiedwhen": "2022-03-23T07:17:28.695Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65395Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Fabian Ryan Abele",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5K 0A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "138574-133017",
+        "sys_site": "lso",
+        "sys_created": "2022-06-14T07:24:38.708Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/036/Jesse-Winona-Amy-Abell",
+        "nodeid": 133017,
+        "documentid": 138574,
+        "nodealias": "Jesse-Winona-Amy-Abell",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6c7f9bcb-48cc-48c4-b35b-ee3bc161a19b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jesse Winona Amy Abell",
+        "documentmodifiedwhen": "2022-07-22T07:16:12.868Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84301U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jesse Winona Amy Abell",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 2N5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30437-29173",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:14:01.957Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Jacob-Julian-Abella",
+        "nodeid": 29173,
+        "documentid": 30437,
+        "nodealias": "Jacob-Julian-Abella",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d483b43e-155b-4a56-a411-9536d4a7ea41",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jacob Julian Abella",
+        "documentmodifiedwhen": "2022-03-03T13:14:34.27Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "44481D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jacob Julian Abella",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0K6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Nepean"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "78070-76798",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:08:22.457Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Zachary-Joshua-Abella",
+        "nodeid": 76798,
+        "documentid": 78070,
+        "nodealias": "Zachary-Joshua-Abella",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "92871549-f8b1-4c5b-92df-6993082b5f66",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Zachary Joshua Abella",
+        "documentmodifiedwhen": "2021-09-21T08:14:56.488Z",
+        "skuname": null,
+        "memberprovincetext": "New York",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47741H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Zachary Joshua Abella",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -73.978874206543,
+                40.7612113952637
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "10019",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "New York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30438-29174",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:14:06.383Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Alana-Miriam-Abells",
+        "nodeid": 29174,
+        "documentid": 30438,
+        "nodealias": "Alana-Miriam-Abells",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5f59567c-b69e-4655-b856-2d9421db7c8e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alana Miriam Abells",
+        "documentmodifiedwhen": "2022-01-05T07:29:02.488Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "55736B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alana Miriam Abells",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4W 2H2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "78072-76799",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:08:25.66Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Alan-Donald-Abelson",
+        "nodeid": 76799,
+        "documentid": 78072,
+        "nodealias": "Alan-Donald-Abelson",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6daeed29-6c30-46b7-aeb2-2f14ec7d6015",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alan Donald Abelson",
+        "documentmodifiedwhen": "2022-05-28T07:21:47.837Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "07861D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alan Donald Abelson",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "78071-76800",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:08:26.129Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Mathew-Neal-Abenstein",
+        "nodeid": 76800,
+        "documentid": 78071,
+        "nodealias": "Mathew-Neal-Abenstein",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "00c4bdae-9d4a-4baf-b7ab-c39347e11af0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mathew Neal Abenstein",
+        "documentmodifiedwhen": "2022-01-03T07:17:35.493Z",
+        "skuname": null,
+        "memberprovincetext": "New Jersey",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "48700A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mathew Neal Abenstein",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "07311",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Jersey City"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30441-29177",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:14:09.032Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Benjamin-Thomas-Aberant",
+        "nodeid": 29177,
+        "documentid": 30441,
+        "nodealias": "Benjamin-Thomas-Aberant",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "afe19aa3-de5e-4727-aa42-92a2837dc610",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Benjamin Thomas Aberant",
+        "documentmodifiedwhen": "2022-01-09T07:25:03.474Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61371A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Benjamin Thomas Aberant",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30444-29180",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:14:13.994Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Lindsay-Michelle-Abercrombie",
+        "nodeid": 29180,
+        "documentid": 30444,
+        "nodealias": "Lindsay-Michelle-Abercrombie",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2df0ccd5-29fc-46b9-a475-ada302cd5c1e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lindsay Michelle Abercrombie",
+        "documentmodifiedwhen": "2022-01-11T07:29:17.827Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65320J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lindsay Michelle Abercrombie",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 4G4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30446-29181",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:14:18.414Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Jennifer-Marcell-Abergel",
+        "nodeid": 29181,
+        "documentid": 30446,
+        "nodealias": "Jennifer-Marcell-Abergel",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0a530cef-ac8c-4916-847a-cefb37dd5a82",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Marcell Abergel",
+        "documentmodifiedwhen": "2021-09-21T09:39:59.24Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13171",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Marcell Abergel",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3829040527344,
+                43.6697044372559
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M4Y 2G3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30447-29183",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:14:21.293Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Oliver-Nissim-Abergel",
+        "nodeid": 29183,
+        "documentid": 30447,
+        "nodealias": "Oliver-Nissim-Abergel",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ff847cd4-e5ae-451d-805d-c4ce83d3e646",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Oliver Nissim Abergel",
+        "documentmodifiedwhen": "2021-12-31T07:29:35.591Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42602F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Oliver Nissim Abergel",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K2P 0C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116965-114563",
+        "sys_site": "lso",
+        "sys_created": "2019-06-28T07:55:05.194Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Nicole-Adina-Abergil",
+        "nodeid": 114563,
+        "documentid": 116965,
+        "nodealias": "Nicole-Adina-Abergil",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4438932b-5dd1-4368-ba92-7e2975a85d52",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nicole Adina Abergil",
+        "documentmodifiedwhen": "2022-01-16T07:22:14.114Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77545J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nicole Adina Abergil",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K6V 4T3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brockville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30449-29185",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:14:22.964Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Bayani-Francisco-Abesamis",
+        "nodeid": 29185,
+        "documentid": 30449,
+        "nodealias": "Bayani-Francisco-Abesamis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f90e003e-adb9-47d8-a518-d1d83d6b059e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Bayani Francisco Abesamis",
+        "documentmodifiedwhen": "2021-12-28T07:29:42.381Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36206U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Bayani Francisco Abesamis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4Z 1H8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30451-29187",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:14:26.153Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Lawrence-John-Abey",
+        "nodeid": 29187,
+        "documentid": 30451,
+        "nodealias": "Lawrence-John-Abey",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "13cd7de8-f9ef-4ecc-b752-635d5e8c4bed",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lawrence John Abey",
+        "documentmodifiedwhen": "2021-12-27T07:23:51.18Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32610A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lawrence John Abey",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 5N6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "131581-127020",
+        "sys_site": "lso",
+        "sys_created": "2021-06-17T08:12:31.192Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Shalini-Anne-Abeysekara",
+        "nodeid": 127020,
+        "documentid": 131581,
+        "nodealias": "Shalini-Anne-Abeysekara",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "07034d5b-c5ef-4755-9cd5-114b9edeb69f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shalini Anne Abeysekara",
+        "documentmodifiedwhen": "2022-01-18T12:14:54.319Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82590U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shalini Anne Abeysekara",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L8P 4X8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30453-29190",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:14:30.989Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Vajirapani-Ruchindra-Abeytunge",
+        "nodeid": 29190,
+        "documentid": 30453,
+        "nodealias": "Vajirapani-Ruchindra-Abeytunge",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0aef4182-7545-41c3-a922-7a1e398a66ed",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Vajirapani Ruchindra Abeytunge",
+        "documentmodifiedwhen": "2022-01-14T07:25:12.038Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74088N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Vajirapani Ruchindra Abeytunge",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L9T 5S5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Milton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "125908-122101",
+        "sys_site": "lso",
+        "sys_created": "2020-11-03T07:23:30.518Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Gayathri-Chathushka-Abeywardena",
+        "nodeid": 122101,
+        "documentid": 125908,
+        "nodealias": "Gayathri-Chathushka-Abeywardena",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7eb3c3f9-1dc3-4775-8659-ddbbdf9cd160",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gayathri Chathushka Abeywardena",
+        "documentmodifiedwhen": "2022-01-17T07:25:15.256Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80859C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gayathri Chathushka Abeywardena",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 1S3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130851-126440",
+        "sys_site": "lso",
+        "sys_created": "2021-06-01T10:09:38.887Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Sara-Jasmine-Abhari",
+        "nodeid": 126440,
+        "documentid": 130851,
+        "nodealias": "Sara-Jasmine-Abhari",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3d7d15f3-9415-42df-af16-471295f0107f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sara Jasmine Abhari",
+        "documentmodifiedwhen": "2021-09-03T07:17:44.731Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82096A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sara Jasmine Abhari",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30455-29191",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:14:31.301Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Kasra-Abharoudi",
+        "nodeid": 29191,
+        "documentid": 30455,
+        "nodealias": "Kasra-Abharoudi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "21e342c0-1c45-488c-99e8-9fb0be73005f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kasra Abharoudi",
+        "documentmodifiedwhen": "2019-05-07T16:26:37.716Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11617",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kasra Abharoudi",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3516387939453,
+                43.6777496337891
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M4K 1P3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30457-29193",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:14:34.149Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Amanda-Abhimanu",
+        "nodeid": 29193,
+        "documentid": 30457,
+        "nodealias": "Amanda-Abhimanu",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1c17f2e0-3c5b-4f51-89d6-eef33a33d95c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amanda Abhimanu",
+        "documentmodifiedwhen": "2022-02-22T07:16:35.255Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14274",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amanda Abhimanu",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M5H 3S5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "133765-129063",
+        "sys_site": "lso",
+        "sys_created": "2021-09-08T07:30:22.474Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/012/Elsie-Onome-Abhumhen",
+        "nodeid": 129063,
+        "documentid": 133765,
+        "nodealias": "Elsie-Onome-Abhumhen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "95180607-7d53-4f98-93c7-abe85c87e421",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Elsie Onome Abhumhen",
+        "documentmodifiedwhen": "2022-06-14T07:16:36.231Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83230F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Elsie Onome Abhumhen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30460-29196",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:14:38.777Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Lama-Elie-Abi-Khaled",
+        "nodeid": 29196,
+        "documentid": 30460,
+        "nodealias": "Lama-Elie-Abi-Khaled",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "af5ac73f-b7ef-47ab-af5a-f45a5d803582",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lama Elie Abi Khaled",
+        "documentmodifiedwhen": "2019-05-07T16:26:45.749Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66545O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lama Elie Abi Khaled",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.6959915161133,
+                45.4221992492676
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1P 6L5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "78074-76802",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:08:31.2Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Christine-Abi-Najem",
+        "nodeid": 76802,
+        "documentid": 78074,
+        "nodealias": "Christine-Abi-Najem",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "054f0c2b-2391-41ea-84e4-51d054e1845a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christine Abi-Najem",
+        "documentmodifiedwhen": "2022-06-04T07:17:02.451Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06804",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christine Abi-Najem",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M9W 1R3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Etobicoke"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "133050-128477",
+        "sys_site": "lso",
+        "sys_created": "2021-07-05T09:54:24.561Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Deka-Abib-Abdillahi",
+        "nodeid": 128477,
+        "documentid": 133050,
+        "nodealias": "Deka-Abib-Abdillahi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "51622836-22e6-4b37-a72c-ab704e40b93e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Deka Abib Abdillahi",
+        "documentmodifiedwhen": "2022-01-18T12:06:44.148Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83093A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Deka Abib Abdillahi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K4A 0Z9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Orleans"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30462-29198",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:14:43.808Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Elizabeth-Iyabo-Abidogun",
+        "nodeid": 29198,
+        "documentid": 30462,
+        "nodealias": "Elizabeth-Iyabo-Abidogun",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "11803091-69bb-4af1-9e60-1b8312d686b4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Elizabeth Iyabo Abidogun",
+        "documentmodifiedwhen": "2021-09-21T08:29:44.446Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65085G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Elizabeth Iyabo Abidogun",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "77706-76426",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T01:28:46.481Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Aderinsola-Adeola-Abimbola",
+        "nodeid": 76426,
+        "documentid": 77706,
+        "nodealias": "Aderinsola-Adeola-Abimbola",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0e3d3bad-7ff5-41af-85b7-4eec5e30f088",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Aderinsola Adeola Abimbola",
+        "documentmodifiedwhen": "2020-06-17T07:16:44.108Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74437H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Aderinsola Adeola Abimbola",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3889694213867,
+                43.6460876464844
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 3C6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30465-29201",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:14:50.947Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Taiwo-Olufumilola-Abimbola",
+        "nodeid": 29201,
+        "documentid": 30465,
+        "nodealias": "Taiwo-Olufumilola-Abimbola",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e51751d6-9448-4a93-9984-d177f8fdda91",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Taiwo Olufumilola Abimbola",
+        "documentmodifiedwhen": "2022-01-02T07:19:47.879Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la famille ou matrimonial",
+            "Droit de l'immigration",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Family/Matrimonial Law",
+            "Immigration Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49970S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Taiwo Olufumilola Abimbola",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M3M 1G7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30466-29202",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:14:52.98Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Pierre-Abinakle",
+        "nodeid": 29202,
+        "documentid": 30466,
+        "nodealias": "Pierre-Abinakle",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8388581b-fb02-46f8-9f93-7be12804361e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Pierre Abinakle",
+        "documentmodifiedwhen": "2022-01-04T07:21:43.412Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50385G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Pierre Abinakle",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5C 2W5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30468-29204",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:14:55.535Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Stephanie-Marie-Carol-Nadia-Abinakle",
+        "nodeid": 29204,
+        "documentid": 30468,
+        "nodealias": "Stephanie-Marie-Carol-Nadia-Abinakle",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bfbaf336-35a3-44ba-90a0-baa5968cfcca",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephanie Marie Carol Nadia Abinakle",
+        "documentmodifiedwhen": "2022-01-05T07:27:37.263Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54525U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephanie Marie Carol Nadia Abinakle",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 3H2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118514-115874",
+        "sys_site": "lso",
+        "sys_created": "2019-09-25T07:21:27.098Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Natalia-Abiniakine",
+        "nodeid": 115874,
+        "documentid": 118514,
+        "nodealias": "Natalia-Abiniakine",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "780848b0-119d-46fa-95c5-966a43dfa1a0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Natalia Abiniakine",
+        "documentmodifiedwhen": "2022-03-08T07:18:35.814Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15956",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Natalia Abiniakine",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M5J 1H8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30471-29207",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:14:59.292Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Daniel-Abiodun",
+        "nodeid": 29207,
+        "documentid": 30471,
+        "nodealias": "Daniel-Abiodun",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7ff31dc9-ceab-42b7-8b64-76b4e3a6f655",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniel Abiodun",
+        "documentmodifiedwhen": "2022-04-06T07:18:31.226Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Infractions punissables par proc\u00e9dure sommaire \u00e0 la Cour de justice de l'Ontario",
+            "Indemnit\u00e9s d'accidents du travail",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Affaires relevant de l'annexe sur les indemnit\u00e9s d'accident l\u00e9gales (AIAL)",
+            "Droits de la personne",
+            "Location immobili\u00e8re",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Ontario Court of Justice - Summary Conviction Offences",
+            "Workers' Compensation",
+            "Small Claims Court matters",
+            "Statutory Accident Benefits Schedule matters (SABS)",
+            "Human Rights",
+            "Landlord and Tenant",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P12444",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Daniel Abiodun",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4N 6S7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Barrie"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30474-29210",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:15:03.049Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Alexa-Rose-Abiscott",
+        "nodeid": 29210,
+        "documentid": 30474,
+        "nodealias": "Alexa-Rose-Abiscott",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bfb7f84f-2ac0-4daa-9d90-f487ca05621f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alexa Rose Abiscott",
+        "documentmodifiedwhen": "2022-01-06T07:29:25.242Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49247J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alexa Rose Abiscott",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N2H 6R2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kitchener"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30476-29211",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:15:05.806Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Emmanuel-Abitbol",
+        "nodeid": 29211,
+        "documentid": 30476,
+        "nodealias": "Emmanuel-Abitbol",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2100d48a-864a-4ef0-93a3-3734a84584d6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Emmanuel Abitbol",
+        "documentmodifiedwhen": "2021-12-16T07:19:49.117Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Indemnit\u00e9s d'accidents du travail"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Workers' Compensation"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P00126",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Emmanuel Abitbol",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N8H 4T8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Leamington"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "133374-128757",
+        "sys_site": "lso",
+        "sys_created": "2021-07-28T07:21:37.741Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/004/Emmanuel-Nissim-Abitbol",
+        "nodeid": 128757,
+        "documentid": 133374,
+        "nodealias": "Emmanuel-Nissim-Abitbol",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "24824351-2c91-44c4-b3ca-29e1307c08ec",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Emmanuel Nissim Abitbol",
+        "documentmodifiedwhen": "2022-06-25T07:15:27.868Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83201T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Emmanuel Nissim Abitbol",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30478-29214",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:15:09.058Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Laura-Mimi-Abitbol",
+        "nodeid": 29214,
+        "documentid": 30478,
+        "nodealias": "Laura-Mimi-Abitbol",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e61f0251-0b57-40cc-a887-efb2f0e4efbb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Laura Mimi Abitbol",
+        "documentmodifiedwhen": "2022-01-13T07:22:19.151Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Droit de la famille ou matrimonial",
+            "Droit des testaments, des successions et des fiducies",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Location immobili\u00e8re"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Family/Matrimonial Law",
+            "Wills, Estates, Trusts Law",
+            "Small Claims Court matters",
+            "Landlord and Tenant"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69553D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Laura Mimi Abitbol",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K2E 8A5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Nepean"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30480-29217",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:15:14.605Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Natasha-Abittan",
+        "nodeid": 29217,
+        "documentid": 30480,
+        "nodealias": "Natasha-Abittan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "16aad80a-e9ec-44e1-9d8d-0596702ccfe1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Natasha Abittan",
+        "documentmodifiedwhen": "2022-06-17T07:28:50.391Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69049M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Natasha Abittan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "L6A 1C6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Maple"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30483-29219",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:15:18.884Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Gerardo-Ma-III-Ablaza",
+        "nodeid": 29219,
+        "documentid": 30483,
+        "nodealias": "Gerardo-Ma-III-Ablaza",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "76ed2234-646c-43dc-b5a0-79add35c7259",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gerardo Ma III Ablaza",
+        "documentmodifiedwhen": "2022-05-17T07:18:01.423Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63531D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gerardo Ma III Ablaza",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 3C7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "78073-76801",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:08:31.631Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Mark-Darryl-Ableman",
+        "nodeid": 76801,
+        "documentid": 78073,
+        "nodealias": "Mark-Darryl-Ableman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3c67af6b-6781-45e7-8288-034dc27c76e0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mark Darryl Ableman",
+        "documentmodifiedwhen": "2022-01-01T07:28:10.147Z",
+        "skuname": null,
+        "memberprovincetext": "New York",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46790Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mark Darryl Ableman",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "10154",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "New York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30484-29220",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:15:19.931Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Daniel-Steven-Ableser",
+        "nodeid": 29220,
+        "documentid": 30484,
+        "nodealias": "Daniel-Steven-Ableser",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9dc673c3-8e10-4fd4-87fc-960cf700ee29",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniel Steven Ableser",
+        "documentmodifiedwhen": "2022-01-09T07:21:31.518Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59638B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniel Steven Ableser",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N9A 4L2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Windsor"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "138260-132796",
+        "sys_site": "lso",
+        "sys_created": "2022-05-31T07:17:45.431Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Kristen-Marie-Ablitt",
+        "nodeid": 132796,
+        "documentid": 138260,
+        "nodealias": "Kristen-Marie-Ablitt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5eb4e97c-ac18-4d31-97c4-600456b0e695",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kristen Marie Ablitt",
+        "documentmodifiedwhen": "2022-06-28T07:16:56.6Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18487",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kristen Marie Ablitt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "N2V 1C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Waterloo"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30488-29224",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:15:25.624Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Amr-Aly-Mohamed-Abo-Halima",
+        "nodeid": 29224,
+        "documentid": 30488,
+        "nodealias": "Amr-Aly-Mohamed-Abo-Halima",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e4d4993f-906f-43e8-8393-d6917b8e63af",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amr Aly Mohamed Abo Halima",
+        "documentmodifiedwhen": "2019-10-16T07:19:02.196Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Arabe"
+        ],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Arabic"
+        ],
+        "membernumber": "P13074",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amr Aly Mohamed Abo Halima",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.314094543457,
+                43.7524719238281
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M1R 1V2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30491-29227",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:15:31.422Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Mark-Gregory-Abogado-III",
+        "nodeid": 29227,
+        "documentid": 30491,
+        "nodealias": "Mark-Gregory-Abogado-III",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6f627207-7d82-4747-8c8a-52f9ebe30bba",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mark Gregory Abogado III",
+        "documentmodifiedwhen": "2021-12-26T07:26:28.232Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "31361I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mark Gregory Abogado III",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2Y4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139868-134256",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T07:47:33.744Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Salem-Aboghodieh",
+        "nodeid": 134256,
+        "documentid": 139868,
+        "nodealias": "Salem-Aboghodieh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "14637654-c052-46d6-ba5e-a7f2a3ea1ef2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Salem Aboghodieh",
+        "documentmodifiedwhen": "2022-08-02T07:16:02.764Z",
+        "skuname": null,
+        "memberprovincetext": "New York",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84672N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Salem Aboghodieh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "10019-6064",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "New York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "127526-123669",
+        "sys_site": "lso",
+        "sys_created": "2021-01-27T07:46:20.272Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Amir-Aboguddah",
+        "nodeid": 123669,
+        "documentid": 127526,
+        "nodealias": "Amir-Aboguddah",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2ebbe887-901c-4b06-85cd-f1fb7a49a82c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amir Aboguddah",
+        "documentmodifiedwhen": "2022-05-17T07:17:08.178Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81105O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amir Aboguddah",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "112919-111172",
+        "sys_site": "lso",
+        "sys_created": "2018-12-20T07:19:24.9Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Asli-Ali-Abokor",
+        "nodeid": 111172,
+        "documentid": 112919,
+        "nodealias": "Asli-Ali-Abokor",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "99028090-4cd7-432c-86e2-8ff7577bdf58",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Asli Ali Abokor",
+        "documentmodifiedwhen": "2020-04-08T07:17:23.347Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15188",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Asli Ali Abokor",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4115905761719,
+                43.7660446166992
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M2N 6P6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "7742-6909",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T11:19:20.444Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Iman-Hussein-Abokor",
+        "nodeid": 6909,
+        "documentid": 7742,
+        "nodealias": "Iman-Hussein-Abokor",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "285026fb-947b-4729-8c86-cf5423ac5337",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Iman Hussein Abokor",
+        "documentmodifiedwhen": "2022-05-07T07:16:07.734Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "55437E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Iman Hussein Abokor",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 0E7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "30561-29297",
+        "sys_site": "lso",
+        "sys_created": "2018-08-01T23:17:09.659Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Oluwadamilola-Gloria-Abolaji",
+        "nodeid": 29297,
+        "documentid": 30561,
+        "nodealias": "Oluwadamilola-Gloria-Abolaji",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1692ebf3-15ee-464e-912d-2276b1b19ae2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Oluwadamilola Gloria Abolaji",
+        "documentmodifiedwhen": "2022-04-29T07:17:38.282Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de l'immigration",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Immigration Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75789T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Oluwadamilola Gloria Abolaji",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 1A8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "7744-6911",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T11:19:40.574Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Gesta-Andrew-Abols",
+        "nodeid": 6911,
+        "documentid": 7744,
+        "nodealias": "Gesta-Andrew-Abols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6ed49cce-4361-430d-8988-5fa8560b47cb",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gesta Andrew Abols",
+        "documentmodifiedwhen": "2022-01-01T07:20:20.378Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45870H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gesta Andrew Abols",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "7743-6910",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T11:19:30.555Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Gesta-Janis-Abols",
+        "nodeid": 6910,
+        "documentid": 7743,
+        "nodealias": "Gesta-Janis-Abols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0b3ed171-79a7-4c2c-9e64-adf5d25762cb",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gesta Janis Abols",
+        "documentmodifiedwhen": "2022-04-23T07:16:46.226Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit criminel et quasi criminel",
+            "Droit de la famille ou matrimonial",
+            "Droit de l'immigration",
+            "Droit des testaments, des successions et des fiducies",
+            "Affaires relevant de l'annexe sur les indemnit\u00e9s d'accident l\u00e9gales (AIAL)"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Criminal/Quasi-Criminal Law",
+            "Family/Matrimonial Law",
+            "Immigration Law",
+            "Wills, Estates, Trusts Law",
+            "Statutory Accident Benefits Schedule matters (SABS)"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13352S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gesta Janis Abols",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5P 1S7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "78075-76803",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:08:31.676Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Imants-John-Abols",
+        "nodeid": 76803,
+        "documentid": 78075,
+        "nodealias": "Imants-John-Abols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "daafa7e8-e8ca-41a9-bf71-34e7022f8154",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Imants John Abols",
+        "documentmodifiedwhen": "2021-12-14T09:05:11.224Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21919I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Imants John Abols",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "78076-76805",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:08:38.084Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Mara-Susannah-Abols",
+        "nodeid": 76805,
+        "documentid": 78076,
+        "nodealias": "Mara-Susannah-Abols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "16b7d3c2-9355-4903-bd43-82bad1e5ebb0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mara Susannah Abols",
+        "documentmodifiedwhen": "2021-01-21T07:16:33.445Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "53909L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mara Susannah Abols",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3642807006836,
+                43.6499786376953
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5A 1J2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "7745-6912",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T11:19:51.257Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Thomas-Percy-Janis-Abols",
+        "nodeid": 6912,
+        "documentid": 7745,
+        "nodealias": "Thomas-Percy-Janis-Abols",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c09e9392-33a5-4ca6-93d8-a5ba40628b73",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Thomas Percy Janis Abols",
+        "documentmodifiedwhen": "2022-05-14T07:20:50.145Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51867R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Thomas Percy Janis Abols",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "K1A 0G2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "78077-76806",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:08:38.084Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Lorne-Kenneth-Abonyi",
+        "nodeid": 76806,
+        "documentid": 78077,
+        "nodealias": "Lorne-Kenneth-Abonyi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a669ee52-ed86-4793-8220-d7e9f752a677",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lorne Kenneth Abonyi",
+        "documentmodifiedwhen": "2021-11-05T07:52:40.407Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38082H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lorne Kenneth Abonyi",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -92.3776550292969,
+                38.9593086242676
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "78078-76804",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:08:38.084Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Robert-Abonyi",
+        "nodeid": 76804,
+        "documentid": 78078,
+        "nodealias": "Robert-Abonyi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "254908a8-98e8-4743-bcfc-e4ad9cb92fa5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Abonyi",
+        "documentmodifiedwhen": "2019-05-08T16:00:28.048Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61186R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Abonyi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.5495376586914,
+                43.0910453796387
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L0R 2A0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Smithville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "7746-6913",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T11:20:01.153Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Shariar-Aboosaidi",
+        "nodeid": 6913,
+        "documentid": 7746,
+        "nodealias": "Shariar-Aboosaidi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "af4377e9-0ac6-4258-a84e-b5a6e0f6a80c",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shariar Aboosaidi",
+        "documentmodifiedwhen": "2022-01-06T07:22:19.291Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "48447B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shariar Aboosaidi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5B 2L7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "78079-76807",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:08:38.63Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Mohamed-Ansally-Aboosally",
+        "nodeid": 76807,
+        "documentid": 78079,
+        "nodealias": "Mohamed-Ansally-Aboosally",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a846dae6-1764-43f5-b607-69593fc3e86c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mohamed Ansally Aboosally",
+        "documentmodifiedwhen": "2020-02-20T09:35:42.262Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P10076",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mohamed Ansally Aboosally",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "78080-76808",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:08:42.881Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Rita-Patricia-Aboraa",
+        "nodeid": 76808,
+        "documentid": 78080,
+        "nodealias": "Rita-Patricia-Aboraa",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a284c018-7c44-450d-a67c-265147e7b955",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rita Patricia Aboraa",
+        "documentmodifiedwhen": "2019-05-08T16:00:31.167Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11096",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rita Patricia Aboraa",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "7747-6914",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T11:20:19.802Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Abdalla-Elbashier-Abosharia",
+        "nodeid": 6914,
+        "documentid": 7747,
+        "nodealias": "Abdalla-Elbashier-Abosharia",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "60f5d643-30ce-44ad-97e8-7340bcfc6e05",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Abdalla Elbashier Abosharia",
+        "documentmodifiedwhen": "2022-04-09T07:16:04.319Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56360M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Abdalla Elbashier Abosharia",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 2R5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "7748-6915",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T11:20:29.436Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Abeer-Abosharia",
+        "nodeid": 6915,
+        "documentid": 7748,
+        "nodealias": "Abeer-Abosharia",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d5284e00-7f0e-4b8c-83bb-811f7f6c50f2",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Abeer Abosharia",
+        "documentmodifiedwhen": "2022-01-13T07:19:32.4Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69789K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Abeer Abosharia",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 2R5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "78081-76809",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:08:42.881Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Mohamed-Abosharia",
+        "nodeid": 76809,
+        "documentid": 78081,
+        "nodealias": "Mohamed-Abosharia",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "78dc713f-e6d8-4f2a-bc6f-dae9e6068e13",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mohamed Abosharia",
+        "documentmodifiedwhen": "2021-09-21T09:28:29.815Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14159",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mohamed Abosharia",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -81.2511520385742,
+                42.9811134338379
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "N6A 2R5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "115898-113519",
+        "sys_site": "lso",
+        "sys_created": "2019-06-20T07:48:58.922Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Sherry-Lyn-Abotossaway",
+        "nodeid": 113519,
+        "documentid": 115898,
+        "nodealias": "Sherry-Lyn-Abotossaway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a109283d-4fa0-439e-b331-5cabf3493e40",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sherry Lyn Abotossaway",
+        "documentmodifiedwhen": "2022-01-15T07:26:40.85Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76488S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sherry Lyn Abotossaway",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P7A 4L1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Thunder Bay"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "78082-76810",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T02:08:43.538Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/025/Bachir-Abou-Chakra",
+        "nodeid": 76810,
+        "documentid": 78082,
+        "nodealias": "Bachir-Abou-Chakra",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "eb2a103a-af00-4b00-9cbb-8403be79a2b9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Bachir Abou Chakra",
+        "documentmodifiedwhen": "2022-01-14T07:17:09.771Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71519O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Bachir Abou Chakra",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1Z 8R7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "7749-6916",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T11:20:39.197Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Rabih-Abou-El-Assal",
+        "nodeid": 6916,
+        "documentid": 7749,
+        "nodealias": "Rabih-Abou-El-Assal",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5f349320-b3f1-49dd-86b4-d23d374610d9",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rabih Abou El Assal",
+        "documentmodifiedwhen": "2022-01-01T07:21:27.989Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45871D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rabih Abou El Assal",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L6T 5R3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116967-114565",
+        "sys_site": "lso",
+        "sys_created": "2019-06-28T07:55:39.193Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Omar-Essam-Hafez-Abou-El-Hassan",
+        "nodeid": 114565,
+        "documentid": 116967,
+        "nodealias": "Omar-Essam-Hafez-Abou-El-Hassan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0c420a5b-a3a0-4f3f-82d8-86d021c64080",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Omar Essam Hafez Abou El Hassan",
+        "documentmodifiedwhen": "2022-01-15T07:28:58.53Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77546F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Omar Essam Hafez Abou El Hassan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K2P 0J2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    }
+]

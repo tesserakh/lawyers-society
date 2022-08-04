@@ -1,0 +1,5100 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "91295-90026",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:26:41.647Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Donald-Garth-Humphries",
+        "nodeid": 90026,
+        "documentid": 91295,
+        "nodealias": "Donald-Garth-Humphries",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "59562873-43fa-4748-a31b-8b711d70e9c3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Donald Garth Humphries",
+        "documentmodifiedwhen": "2021-12-14T08:25:36.231Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "06932T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Donald Garth Humphries",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "137345-132004",
+        "sys_site": "lso",
+        "sys_created": "2022-04-02T07:28:01.5Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Hannah-Joy-Anderson-Humphries",
+        "nodeid": 132004,
+        "documentid": 137345,
+        "nodealias": "Hannah-Joy-Anderson-Humphries",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8e215fdd-58b0-4952-938f-522d7e93959e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hannah Joy Anderson Humphries",
+        "documentmodifiedwhen": "2022-07-11T07:15:47.362Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83954W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hannah Joy Anderson Humphries",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5C 3G7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74923-73656",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:36:28.701Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Katherine-Diane-Florence-Humphries",
+        "nodeid": 73656,
+        "documentid": 74923,
+        "nodealias": "Katherine-Diane-Florence-Humphries",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dc10e853-c245-4436-920d-05d86301a345",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Katherine Diane Florence Humphries",
+        "documentmodifiedwhen": "2021-07-21T07:17:05.248Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59429A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Katherine Diane Florence Humphries",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.6970825195313,
+                45.4189605712891
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0R5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "110011-108567",
+        "sys_site": "lso",
+        "sys_created": "2018-09-29T06:36:51.438Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Nicola-Humphries",
+        "nodeid": 108567,
+        "documentid": 110011,
+        "nodealias": "Nicola-Humphries",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "27a32456-c708-4468-b036-69d7982e9094",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nicola Humphries",
+        "documentmodifiedwhen": "2022-04-22T07:21:51.816Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14885",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nicola Humphries",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L8R 3P7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "91299-90030",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:26:41.882Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/David-Ove-Humphris-Norman",
+        "nodeid": 90030,
+        "documentid": 91299,
+        "nodealias": "David-Ove-Humphris-Norman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a96f59be-a02e-42ae-a434-9767b92510db",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Ove Humphris-Norman",
+        "documentmodifiedwhen": "2021-12-14T08:28:12.58Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "07982A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Ove Humphris-Norman",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74925-73658",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:36:29.201Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Amandeep-Singh-Hundal",
+        "nodeid": 73658,
+        "documentid": 74925,
+        "nodealias": "Amandeep-Singh-Hundal",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "53ca165f-bc4e-4630-9d66-d1562e506c27",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amandeep Singh Hundal",
+        "documentmodifiedwhen": "2019-05-08T15:40:50.73Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06720",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amandeep Singh Hundal",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6982879638672,
+                43.4966506958008
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L6H 7P7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oakville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74926-73660",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:36:34.066Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Baljinder-Singh-Hundal",
+        "nodeid": 73660,
+        "documentid": 74926,
+        "nodealias": "Baljinder-Singh-Hundal",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7f12f257-be0c-456f-9205-c37dcf0997c4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Baljinder Singh Hundal",
+        "documentmodifiedwhen": "2022-02-01T07:16:32.64Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46161V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Baljinder Singh Hundal",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6T 2H2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74927-73662",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:36:41.604Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Deepk-Hundal",
+        "nodeid": 73662,
+        "documentid": 74927,
+        "nodealias": "Deepk-Hundal",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7dd5a04e-044d-4edd-8509-e9072836b2d0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Deepk Hundal",
+        "documentmodifiedwhen": "2021-10-21T07:16:38.464Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49572E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Deepk Hundal",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -123.117919921875,
+                49.2842750549316
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "V6C 2T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vancouver"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74935-73669",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:36:45.788Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Kanwarbir-Steve-Singh-Hundal",
+        "nodeid": 73669,
+        "documentid": 74935,
+        "nodealias": "Kanwarbir-Steve-Singh-Hundal",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "420cf9f0-a2db-47a7-8939-74e252d30a61",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kanwarbir Steve Singh Hundal",
+        "documentmodifiedwhen": "2021-09-16T07:16:01.243Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la propri\u00e9t\u00e9 intellectuelle"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Intellectual Property Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64083D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kanwarbir Steve Singh Hundal",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3789901733398,
+                43.6471328735352
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2T9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74932-73666",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:36:42.432Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Mahtab-Singh-Hundal",
+        "nodeid": 73666,
+        "documentid": 74932,
+        "nodealias": "Mahtab-Singh-Hundal",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5894a19c-48a8-480f-847c-558d382d40eb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mahtab Singh Hundal",
+        "documentmodifiedwhen": "2022-01-10T07:27:35.086Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63140S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mahtab Singh Hundal",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6X 3E4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74936-73670",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:36:53.702Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Neeru-Hundal",
+        "nodeid": 73670,
+        "documentid": 74936,
+        "nodealias": "Neeru-Hundal",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "17fd38dd-1bfe-427e-a1e4-bd396d8c9aa1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Neeru Hundal",
+        "documentmodifiedwhen": "2022-01-11T07:30:10.866Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64084W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Neeru Hundal",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6T 2H2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74931-73665",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:36:41.963Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Parminder-Hundal",
+        "nodeid": 73665,
+        "documentid": 74931,
+        "nodealias": "Parminder-Hundal",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3d3e2645-1326-47c6-b308-7a85cb244e03",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Parminder Hundal",
+        "documentmodifiedwhen": "2022-01-09T07:21:24.464Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la famille ou matrimonial",
+            "Droit de l'immigration",
+            "Droit immobilier"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Family/Matrimonial Law",
+            "Immigration Law",
+            "Real Estate Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59313R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Parminder Hundal",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6T 2H2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74929-73663",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:36:41.901Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Pia-Hardeep-Hundal",
+        "nodeid": 73663,
+        "documentid": 74929,
+        "nodealias": "Pia-Hardeep-Hundal",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d57704f2-0cbe-4807-a35e-1115314b0800",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Pia Hardeep Hundal",
+        "documentmodifiedwhen": "2022-01-07T07:20:23.084Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57135S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Pia Hardeep Hundal",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3S1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "91307-90031",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:26:47.404Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Sukhdev-Singh-Hundal",
+        "nodeid": 90031,
+        "documentid": 91307,
+        "nodealias": "Sukhdev-Singh-Hundal",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8f10d2db-dfc1-4ead-a1c1-6c1c121ee38a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sukhdev Singh Hundal",
+        "documentmodifiedwhen": "2021-03-03T07:23:02.959Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13138",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sukhdev Singh Hundal",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "120506-117427",
+        "sys_site": "lso",
+        "sys_created": "2020-02-04T07:34:03.515Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Sukhraj-Hundal",
+        "nodeid": 117427,
+        "documentid": 120506,
+        "nodealias": "Sukhraj-Hundal",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0a206341-f257-4bbb-940f-e1f1c730761c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sukhraj Hundal",
+        "documentmodifiedwhen": "2022-01-16T07:26:33.79Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78751K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sukhraj Hundal",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5B 1J2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "110010-108566",
+        "sys_site": "lso",
+        "sys_created": "2018-09-29T06:36:51.438Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Varinder-Singh-Hundal",
+        "nodeid": 108566,
+        "documentid": 110010,
+        "nodealias": "Varinder-Singh-Hundal",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "40f74e9c-a3ce-4a0b-b38d-096d22e77920",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Varinder Singh Hundal",
+        "documentmodifiedwhen": "2022-03-13T07:17:14.657Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75835J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Varinder Singh Hundal",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6Y 5G8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74937-73671",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:36:53.914Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Martha-Janie-Rich-Hundert",
+        "nodeid": 73671,
+        "documentid": 74937,
+        "nodealias": "Martha-Janie-Rich-Hundert",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a5ee7e3e-4ef9-4d96-91fb-7c438170bd8e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Martha Janie Rich Hundert",
+        "documentmodifiedwhen": "2022-01-04T07:16:35.59Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43950K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Martha Janie Rich Hundert",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 1H1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123960-120414",
+        "sys_site": "lso",
+        "sys_created": "2020-06-23T09:56:18.816Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Ruth-Magdalene-Ippen-Hundt",
+        "nodeid": 120414,
+        "documentid": 123960,
+        "nodealias": "Ruth-Magdalene-Ippen-Hundt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a97a84df-c3e0-4516-b763-79678978d816",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ruth Magdalene Ippen Hundt",
+        "documentmodifiedwhen": "2022-07-05T07:16:48.736Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80007F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ruth Magdalene Ippen Hundt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N4N 2P4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hanover"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "91305-90034",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:26:48.794Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Allison-Laura-Hune",
+        "nodeid": 90034,
+        "documentid": 91305,
+        "nodealias": "Allison-Laura-Hune",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ac38e0fd-0c5a-4a36-b093-228badd80bbf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Allison Laura Hune",
+        "documentmodifiedwhen": "2021-04-29T07:16:52.07Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59825W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Allison Laura Hune",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74939-73673",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:36:54.383Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Gordon-Hune",
+        "nodeid": 73673,
+        "documentid": 74939,
+        "nodealias": "Gordon-Hune",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "22c1bb44-5aa9-4a73-add3-5ec9ff028dcb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gordon Hune",
+        "documentmodifiedwhen": "2021-12-14T07:31:16.304Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "15647T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gordon Hune",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74951-73685",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:05.135Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Christiane-Fleurette-Huneault",
+        "nodeid": 73685,
+        "documentid": 74951,
+        "nodealias": "Christiane-Fleurette-Huneault",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4020a0bc-6ffe-4d88-99ea-774221185fe6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christiane Fleurette Huneault",
+        "documentmodifiedwhen": "2021-12-30T07:29:41.182Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41497J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christiane Fleurette Huneault",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1G 6H5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74952-73686",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:07.803Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Jennifer-Lynn-Huneault",
+        "nodeid": 73686,
+        "documentid": 74952,
+        "nodealias": "Jennifer-Lynn-Huneault",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5ccf3fd8-7df6-4485-b168-143cc98fd62e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Lynn Huneault",
+        "documentmodifiedwhen": "2022-07-19T07:18:42.23Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "48533N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Lynn Huneault",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 4E3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74949-73681",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:04.307Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Joseph-Frederic-Richard-Huneault",
+        "nodeid": 73681,
+        "documentid": 74949,
+        "nodealias": "Joseph-Frederic-Richard-Huneault",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b4122522-9711-4ae4-9b18-2728ac09c956",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joseph Frederic Richard Huneault",
+        "documentmodifiedwhen": "2022-06-21T07:16:38.386Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "35228M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joseph Frederic Richard Huneault",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "P3C 1T9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Sudbury"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74948-73683",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:04.635Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Marc-Albert-Joseph-Huneault",
+        "nodeid": 73683,
+        "documentid": 74948,
+        "nodealias": "Marc-Albert-Joseph-Huneault",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "40fc01d3-fa0e-40ec-a3df-d0fb96cbb93c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marc Albert Joseph Huneault",
+        "documentmodifiedwhen": "2021-12-29T07:26:01.243Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37136A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marc Albert Joseph Huneault",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P3B 4H5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Sudbury"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74944-73678",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:03.604Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Marc-Antoine-Huneault",
+        "nodeid": 73678,
+        "documentid": 74944,
+        "nodealias": "Marc-Antoine-Huneault",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "38cbfd75-2294-448d-86b0-3f2489a768a0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marc Antoine Huneault",
+        "documentmodifiedwhen": "2020-08-05T07:15:21.19Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26506G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marc Antoine Huneault",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74942-73677",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:36:55.446Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Marie-Cecile-Louise-Huneault",
+        "nodeid": 73677,
+        "documentid": 74942,
+        "nodealias": "Marie-Cecile-Louise-Huneault",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f4ed5edd-9e63-4c10-9deb-bbae65b2ec94",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marie Cecile Louise Huneault",
+        "documentmodifiedwhen": "2020-02-20T08:20:32.19Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26461A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marie Cecile Louise Huneault",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74959-73692",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:17.288Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Karen-Ka-Lai-Hung",
+        "nodeid": 73692,
+        "documentid": 74959,
+        "nodealias": "Karen-Ka-Lai-Hung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "093d03f4-0cc6-4f43-8a72-dd838bc6f787",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karen Ka-Lai Hung",
+        "documentmodifiedwhen": "2022-01-09T07:28:02.903Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61550T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karen Ka-Lai Hung",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L3R 4T9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "91306-90035",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:26:48.872Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Nicholas-Fan-Kwon-Hung",
+        "nodeid": 90035,
+        "documentid": 91306,
+        "nodealias": "Nicholas-Fan-Kwon-Hung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4ae38f4d-3225-44d4-8554-4ab320d0f54b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nicholas Fan Kwon Hung",
+        "documentmodifiedwhen": "2021-09-21T08:39:00.134Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72255B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nicholas Fan Kwon Hung",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74953-73687",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:16.366Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Pui-Ying-Hung",
+        "nodeid": 73687,
+        "documentid": 74953,
+        "nodealias": "Pui-Ying-Hung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dd1cbee9-76e9-4fc6-9ba0-4c44d95bc0e5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Pui Ying Hung",
+        "documentmodifiedwhen": "2021-09-21T08:54:37.017Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09040",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Pui Ying Hung",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.2415008544922,
+                43.7754707336426
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M1H 3C7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139493-133881",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T07:19:10.928Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Rachel-Tatum-Ching-Yee-Hung",
+        "nodeid": 133881,
+        "documentid": 139493,
+        "nodealias": "Rachel-Tatum-Ching-Yee-Hung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "754850bc-3edd-49bc-b8ab-be91990e44d4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rachel Tatum Ching Yee Hung",
+        "documentmodifiedwhen": "2022-07-07T07:19:54.563Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85081N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rachel Tatum Ching Yee Hung",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74960-73694",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:17.679Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Roland-Lok-Wan-Hung",
+        "nodeid": 73694,
+        "documentid": 74960,
+        "nodealias": "Roland-Lok-Wan-Hung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "289f9635-2977-4579-a2cc-94a79fff2520",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Roland Lok Wan Hung",
+        "documentmodifiedwhen": "2022-03-10T07:17:46.853Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71177D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Roland Lok Wan Hung",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5C 2W7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74956-73690",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:16.866Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Suk-Ling-Fidelia-Hung",
+        "nodeid": 73690,
+        "documentid": 74956,
+        "nodealias": "Suk-Ling-Fidelia-Hung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1acbcf61-90b0-4b87-a5d9-11e42ab36ff9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Suk Ling Fidelia Hung",
+        "documentmodifiedwhen": "2022-07-08T07:15:29.308Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43001L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Suk Ling Fidelia Hung",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4S 3E2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "91304-90032",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:26:48.357Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Hardeep-Singh-Hunjan",
+        "nodeid": 90032,
+        "documentid": 91304,
+        "nodealias": "Hardeep-Singh-Hunjan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dcef293a-21f9-4e73-b6e5-348f724f4661",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hardeep Singh Hunjan",
+        "documentmodifiedwhen": "2020-06-17T07:17:44.247Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05015",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hardeep Singh Hunjan",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74962-73696",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:21.402Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Lowell-Charles-Hunking",
+        "nodeid": 73696,
+        "documentid": 74962,
+        "nodealias": "Lowell-Charles-Hunking",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "702b1eba-850e-45f5-a1a0-268143abd1f2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lowell Charles Hunking",
+        "documentmodifiedwhen": "2021-12-25T07:24:35.964Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "29527A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lowell Charles Hunking",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N6A 5N6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74963-73698",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:29.652Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Geoffrey-James-Hunnisett",
+        "nodeid": 73698,
+        "documentid": 74963,
+        "nodealias": "Geoffrey-James-Hunnisett",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2f71d3fa-a0df-481b-beb5-986a53c109fd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Geoffrey James Hunnisett",
+        "documentmodifiedwhen": "2022-01-07T07:20:07.787Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57138G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Geoffrey James Hunnisett",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "91303-90033",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:26:48.435Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Adam-David-Hunsberger",
+        "nodeid": 90033,
+        "documentid": 91303,
+        "nodealias": "Adam-David-Hunsberger",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "41b7ca8f-cd72-4bda-a8d0-612bee4f3b93",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Adam David Hunsberger",
+        "documentmodifiedwhen": "2020-04-30T07:20:33.182Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74139G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Adam David Hunsberger",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116236-113848",
+        "sys_site": "lso",
+        "sys_created": "2019-06-27T07:40:12.503Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Alex-Earle-Hunsberger",
+        "nodeid": 113848,
+        "documentid": 116236,
+        "nodealias": "Alex-Earle-Hunsberger",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e34f6452-3f14-4550-a324-0cc42415c2a3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alex Earle Hunsberger",
+        "documentmodifiedwhen": "2022-01-16T07:19:00.901Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77019P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alex Earle Hunsberger",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L3T 0B2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74964-73697",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:29.996Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Anne-Elizabeth-Hunsberger",
+        "nodeid": 73697,
+        "documentid": 74964,
+        "nodealias": "Anne-Elizabeth-Hunsberger",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a5bc9f9c-4834-46a3-9756-dc34bc5992d9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anne Elizabeth Hunsberger",
+        "documentmodifiedwhen": "2021-12-22T07:21:52.901Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41559P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anne Elizabeth Hunsberger",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N2L 2L6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Waterloo"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74966-73700",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:30.511Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Parminder-Hunsrao",
+        "nodeid": 73700,
+        "documentid": 74966,
+        "nodealias": "Parminder-Hunsrao",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5e66071a-9c5d-47ea-af98-76b88afaa727",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Parminder Hunsrao",
+        "documentmodifiedwhen": "2022-02-01T07:19:06.979Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14417",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Parminder Hunsrao",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M1C 1A4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Scarborough"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130355-125989",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T11:59:53.079Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Aaron-James-Hunt",
+        "nodeid": 125989,
+        "documentid": 130355,
+        "nodealias": "Aaron-James-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7bd21f11-69d1-4d9b-8d14-031daf619906",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Aaron James Hunt",
+        "documentmodifiedwhen": "2022-01-18T11:59:24.403Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81752F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Aaron James Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1N2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74977-73711",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:44.936Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Alana-Maria-Hunt",
+        "nodeid": 73711,
+        "documentid": 74977,
+        "nodealias": "Alana-Maria-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1d3ac4a8-c117-44bf-aca0-04aa3f3d2aa3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alana Maria Hunt",
+        "documentmodifiedwhen": "2022-03-13T07:17:30.623Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "39493O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alana Maria Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M1J 3B4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "137064-131729",
+        "sys_site": "lso",
+        "sys_created": "2022-03-30T07:20:18.615Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Anna-Maria-Hunt",
+        "nodeid": 131729,
+        "documentid": 137064,
+        "nodealias": "Anna-Maria-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dd8cda5b-31ed-462f-93e3-2e95effec7c0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anna-Maria Hunt",
+        "documentmodifiedwhen": "2022-04-09T07:18:19.778Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18276",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anna-Maria Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "91312-90040",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:26:57.108Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Brian-Michael-Hunt",
+        "nodeid": 90040,
+        "documentid": 91312,
+        "nodealias": "Brian-Michael-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "21d2ba80-02a0-46ea-9142-aee81f543835",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brian Michael Hunt",
+        "documentmodifiedwhen": "2019-05-09T14:26:58.357Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54592N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brian Michael Hunt",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74992-73726",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:38:14.836Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Christopher-James-Charles-Hunt",
+        "nodeid": 73726,
+        "documentid": 74992,
+        "nodealias": "Christopher-James-Charles-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2de35a1e-db68-46b5-b251-e2df4d1c1940",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher James Charles Hunt",
+        "documentmodifiedwhen": "2022-03-08T07:16:41.499Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64434M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher James Charles Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1Z 1G3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "91311-90039",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:26:57.108Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Deborah-Lynn-Hunt",
+        "nodeid": 90039,
+        "documentid": 91311,
+        "nodealias": "Deborah-Lynn-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ba8feb9c-5c02-43e4-b067-780116265b3d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Deborah Lynn Hunt",
+        "documentmodifiedwhen": "2021-09-21T07:56:00.547Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33943U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Deborah Lynn Hunt",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74976-73710",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:44.717Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Donald-Gary-Hunt",
+        "nodeid": 73710,
+        "documentid": 74976,
+        "nodealias": "Donald-Gary-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b42f38f8-f8ae-4215-8ca8-ccacfbac5526",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Donald Gary Hunt",
+        "documentmodifiedwhen": "2021-12-30T07:25:26.204Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41353N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Donald Gary Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N9A 4N2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Windsor"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74968-73702",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:31.215Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Eldon-Lindbergh-Hunt",
+        "nodeid": 73702,
+        "documentid": 74968,
+        "nodealias": "Eldon-Lindbergh-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0b950815-3309-43b2-a6e0-e20c91c6fc74",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eldon Lindbergh Hunt",
+        "documentmodifiedwhen": "2021-12-14T07:38:19.433Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "12430R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eldon Lindbergh Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L7S 1M6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Burlington"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74972-73706",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:36.509Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/James-Thomas-Hunt",
+        "nodeid": 73706,
+        "documentid": 74972,
+        "nodealias": "James-Thomas-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "000e8f0a-c7db-4834-8c60-4a1614e64fe0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "James Thomas Hunt",
+        "documentmodifiedwhen": "2022-01-04T07:16:18.812Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26777J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "James Thomas Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K9A 3K3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Cobourg"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74979-73713",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:45.404Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Jason-Daniel-Dare-Hunt",
+        "nodeid": 73713,
+        "documentid": 74979,
+        "nodealias": "Jason-Daniel-Dare-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8a2184a1-795f-49b7-a842-4f5ec04cec72",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jason Daniel Dare Hunt",
+        "documentmodifiedwhen": "2021-12-31T07:28:46.436Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43086M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jason Daniel Dare Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L1N 6A3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Whitby"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74971-73705",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:36.212Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/John-Thomas-Hunt",
+        "nodeid": 73705,
+        "documentid": 74971,
+        "nodealias": "John-Thomas-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "01348ba8-6fde-49cf-8c06-336218fc045e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Thomas Hunt",
+        "documentmodifiedwhen": "2021-12-24T07:26:31.347Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27346N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Thomas Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "L5J 2K2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74990-73724",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:38:02.238Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Kathryn-Alexandra-Hunt",
+        "nodeid": 73724,
+        "documentid": 74990,
+        "nodealias": "Kathryn-Alexandra-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bd0e98b0-2a93-44c1-96f5-b1a95e8a9ab5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kathryn Alexandra Hunt",
+        "documentmodifiedwhen": "2021-02-03T07:16:47.098Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61882J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kathryn Alexandra Hunt",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74980-73714",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:45.795Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Keir-Matthew-Hunt",
+        "nodeid": 73714,
+        "documentid": 74980,
+        "nodealias": "Keir-Matthew-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fce2f7f4-bc7f-4698-9bf4-b7cd774113f3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Keir Matthew Hunt",
+        "documentmodifiedwhen": "2022-06-30T07:16:33.998Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "53722B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Keir Matthew Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 2N7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74978-73712",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:45.295Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Keith-Gregory-Hunt",
+        "nodeid": 73712,
+        "documentid": 74978,
+        "nodealias": "Keith-Gregory-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1903983b-5003-438f-863f-a6ea56510e29",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Keith Gregory Hunt",
+        "documentmodifiedwhen": "2022-04-05T07:18:11.295Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46904L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Keith Gregory Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 1W2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74993-73728",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:38:15.18Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Laura-Ashley-Hunt",
+        "nodeid": 73728,
+        "documentid": 74993,
+        "nodealias": "Laura-Ashley-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e161bd14-5bf1-4198-9321-e9b4a7960687",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Laura Ashley Hunt",
+        "documentmodifiedwhen": "2022-05-13T07:16:32.734Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66658J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Laura Ashley Hunt",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K2P 0C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74989-73723",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:38:01.597Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Matthew-James-Hunt",
+        "nodeid": 73723,
+        "documentid": 74989,
+        "nodealias": "Matthew-James-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1c5cf4cc-3223-477a-aea6-e5b18ab281a8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Matthew James Hunt",
+        "documentmodifiedwhen": "2022-01-08T07:19:12.745Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58301U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Matthew James Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1A4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74986-73717",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:59.972Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Melissa-Anne-Hunt",
+        "nodeid": 73717,
+        "documentid": 74986,
+        "nodealias": "Melissa-Anne-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c710caba-88c1-4dc1-9896-f0df20815fb1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Melissa Anne Hunt",
+        "documentmodifiedwhen": "2022-01-05T07:29:53.558Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54927S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Melissa Anne Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "V6Z 0C8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vancouver"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74973-73707",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:42.994Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Nicola-Marie-Hunt",
+        "nodeid": 73707,
+        "documentid": 74973,
+        "nodealias": "Nicola-Marie-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "67fe7e25-8e05-462e-8bad-99a7815cb659",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nicola Marie Hunt",
+        "documentmodifiedwhen": "2021-12-26T07:21:05.376Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30421L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nicola Marie Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1J 7M3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74970-73704",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:31.668Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Phillip-George-Russell-Hunt",
+        "nodeid": 73704,
+        "documentid": 74970,
+        "nodealias": "Phillip-George-Russell-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0452439d-e311-4e94-b129-80270124f27c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Phillip George Russell Hunt",
+        "documentmodifiedwhen": "2021-12-14T10:46:34.469Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26507C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Phillip George Russell Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "91310-90037",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:26:55.498Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Roger-Melville-Hunt",
+        "nodeid": 90037,
+        "documentid": 91310,
+        "nodealias": "Roger-Melville-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5e8b3db4-9c54-4fe8-82d1-98215d4256aa",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Roger Melville Hunt",
+        "documentmodifiedwhen": "2021-12-14T08:06:45.969Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "15208K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Roger Melville Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74974-73708",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:44.076Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Sally-Janet-Hunt",
+        "nodeid": 73708,
+        "documentid": 74974,
+        "nodealias": "Sally-Janet-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ae5d4937-d505-4deb-af36-3cf29216b61c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sally Janet Hunt",
+        "documentmodifiedwhen": "2021-12-14T10:41:59.764Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "31112I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sally Janet Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74967-73701",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:30.558Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Shawn-Kirtly-Hunt",
+        "nodeid": 73701,
+        "documentid": 74967,
+        "nodealias": "Shawn-Kirtly-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c0821ae0-85e6-4b1d-9e7d-a08da57d41b5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shawn Kirtly Hunt",
+        "documentmodifiedwhen": "2019-10-29T07:20:24.683Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13348",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shawn Kirtly Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -80.2651519775391,
+                43.1387519836426
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N3T 2G6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brantford"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "109221-107903",
+        "sys_site": "lso",
+        "sys_created": "2018-09-12T02:06:38.726Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/011/Sophie-Hunt",
+        "nodeid": 107903,
+        "documentid": 109221,
+        "nodealias": "Sophie-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7d1d9b32-e950-4250-b4b8-2029480ebee8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sophie Hunt",
+        "documentmodifiedwhen": "2020-12-30T07:33:37.253Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14738",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sophie Hunt",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.9516448974609,
+                43.2656288146973
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L9H 1B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Dundas"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74987-73721",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:38:00.831Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Suzanne-Elizabeth-Hunt",
+        "nodeid": 73721,
+        "documentid": 74987,
+        "nodealias": "Suzanne-Elizabeth-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ee2ac3ef-76ba-490f-bf60-f6374843fb59",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Suzanne Elizabeth Hunt",
+        "documentmodifiedwhen": "2022-01-08T07:18:40.469Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57877I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Suzanne Elizabeth Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K8N 5A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Belleville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74995-73729",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:38:15.508Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Tara-Joanna-Hunt",
+        "nodeid": 73729,
+        "documentid": 74995,
+        "nodealias": "Tara-Joanna-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "72416c9a-4767-42de-b85b-d2d0a1f74b54",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tara Joanna Hunt",
+        "documentmodifiedwhen": "2022-01-14T07:27:48.698Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72904L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tara Joanna Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2S7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74965-73699",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:37:30.09Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Teresa-Lynn-Hunt",
+        "nodeid": 73699,
+        "documentid": 74965,
+        "nodealias": "Teresa-Lynn-Hunt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ac661423-f5f8-4810-a873-5ba87d7c6025",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Teresa Lynn Hunt",
+        "documentmodifiedwhen": "2021-12-18T07:18:00.444Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Location immobili\u00e8re",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Small Claims Court matters",
+            "Landlord and Tenant",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08623",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Teresa Lynn Hunt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P0G 1A0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Britt"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74997-73731",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:38:16.04Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Joanna-Barbara-Hunt-Jones",
+        "nodeid": 73731,
+        "documentid": 74997,
+        "nodealias": "Joanna-Barbara-Hunt-Jones",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "66e435d8-cab9-4c24-a78a-3baf614415bf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joanna Barbara Hunt-Jones",
+        "documentmodifiedwhen": "2022-01-12T07:21:04.433Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67518I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joanna Barbara Hunt-Jones",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4S 3B1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "91314-90042",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:26:57.123Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Catherine-Hunte",
+        "nodeid": 90042,
+        "documentid": 91314,
+        "nodealias": "Catherine-Hunte",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "73a3b98d-c698-4f0d-b728-d248d5bae8f7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Catherine Hunte",
+        "documentmodifiedwhen": "2021-09-21T08:51:44.91Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08423",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Catherine Hunte",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "91313-90041",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:26:57.123Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Erin-Shari-Hunte",
+        "nodeid": 90041,
+        "documentid": 91313,
+        "nodealias": "Erin-Shari-Hunte",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "41adc6f3-3830-4d4e-81b3-0727b471d1aa",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Erin Shari Hunte",
+        "documentmodifiedwhen": "2022-01-15T07:21:38.871Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72905H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Erin Shari Hunte",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 1E2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75032-73766",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:39:12.997Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Amanda-Jane-Iris-Hunter",
+        "nodeid": 73766,
+        "documentid": 75032,
+        "nodealias": "Amanda-Jane-Iris-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "294e8a73-ed29-475f-b114-d4caa89f3fe4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amanda Jane Iris Hunter",
+        "documentmodifiedwhen": "2021-12-31T07:23:36.595Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42039T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amanda Jane Iris Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6K 3H5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "122828-119353",
+        "sys_site": "lso",
+        "sys_created": "2020-06-16T08:07:46.741Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Andie-Maria-Hunter",
+        "nodeid": 119353,
+        "documentid": 122828,
+        "nodealias": "Andie-Maria-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4f4a1540-8151-4f51-a04c-67a842783ee7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andie Maria Hunter",
+        "documentmodifiedwhen": "2022-04-13T07:16:28.694Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "79537G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andie Maria Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N1G 4Z3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Guelph"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75059-73793",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:39:53.263Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Andrew-James-Hunter",
+        "nodeid": 73793,
+        "documentid": 75059,
+        "nodealias": "Andrew-James-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7395bf15-62f7-48c2-a3cd-f11466087111",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew James Hunter",
+        "documentmodifiedwhen": "2021-09-08T07:16:41.72Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72256U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew James Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3875274658203,
+                43.6646423339844
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5S 2S3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75036-73770",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:39:14.266Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Carole-Joanne-Hunter",
+        "nodeid": 73770,
+        "documentid": 75036,
+        "nodealias": "Carole-Joanne-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bcff862e-5b21-4b7a-9c63-cb17e1dcf3cf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Carole Joanne Hunter",
+        "documentmodifiedwhen": "2021-12-31T07:28:45.591Z",
+        "skuname": null,
+        "memberprovincetext": "Alberta",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43087I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Carole Joanne Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "T2P 0C1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Calgary"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75035-73769",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:39:13.684Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Christi-Anne-Hunter",
+        "nodeid": 73769,
+        "documentid": 75035,
+        "nodealias": "Christi-Anne-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4b1620b6-cafd-47b6-8b5b-e5346d18dd79",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christi Anne Hunter",
+        "documentmodifiedwhen": "2021-12-31T07:22:47.78Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "44149C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christi Anne Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 1T1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75045-73779",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:39:28.477Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Christine-Grace-Hunter",
+        "nodeid": 73779,
+        "documentid": 75045,
+        "nodealias": "Christine-Grace-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b5883e0c-aa32-47b7-9dd5-cf7b3691c270",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christine Grace Hunter",
+        "documentmodifiedwhen": "2022-01-09T07:20:13.2Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60471C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christine Grace Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5L 1A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75048-73782",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:39:39.031Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Christopher-James-Kinnear-Hunter",
+        "nodeid": 73782,
+        "documentid": 75048,
+        "nodealias": "Christopher-James-Kinnear-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1b731f37-f2e6-4b3c-896a-97ad7b4d6fe1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher James Kinnear Hunter",
+        "documentmodifiedwhen": "2022-01-11T07:25:00.853Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65545D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher James Kinnear Hunter",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1N2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75041-73776",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:39:26.789Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Christopher-John-Hunter",
+        "nodeid": 73776,
+        "documentid": 75041,
+        "nodealias": "Christopher-John-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d96a93de-ba31-4300-8ab6-aeac3877c6df",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher John Hunter",
+        "documentmodifiedwhen": "2022-01-08T07:30:08.328Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58931L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher John Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1E7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75034-73768",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:39:13.684Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Christopher-Nelson-Hunter",
+        "nodeid": 73768,
+        "documentid": 75034,
+        "nodealias": "Christopher-Nelson-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "73b1d62e-6977-432b-99ed-6fb360d4aa77",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher Nelson Hunter",
+        "documentmodifiedwhen": "2021-12-31T07:21:08.408Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit commercial et corporatifes",
+            "Droit de la propri\u00e9t\u00e9 intellectuelle"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Corporate/Commercial Law",
+            "Intellectual Property Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42856I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher Nelson Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5L 1A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75027-73760",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:39:03.794Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Clay-Stuart-Hunter",
+        "nodeid": 73760,
+        "documentid": 75027,
+        "nodealias": "Clay-Stuart-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0e11b445-2224-4855-89e5-d670b1cdcbe7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Clay Stuart Hunter",
+        "documentmodifiedwhen": "2021-12-14T09:50:48.136Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "31896M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Clay Stuart Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5C 2W5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "120507-117428",
+        "sys_site": "lso",
+        "sys_created": "2020-02-04T07:34:17.189Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Daniel-James-Hunter",
+        "nodeid": 117428,
+        "documentid": 120507,
+        "nodealias": "Daniel-James-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "557acac3-21d0-4d3e-bf52-6875271ffab7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniel James Hunter",
+        "documentmodifiedwhen": "2022-03-01T07:18:28.752Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78752G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniel James Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2W4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "91321-90049",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:27:12.264Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/David-Reed-Hunter",
+        "nodeid": 90049,
+        "documentid": 91321,
+        "nodealias": "David-Reed-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f050358c-fc7e-4245-939c-7ce4f06f2bdf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Reed Hunter",
+        "documentmodifiedwhen": "2021-09-21T07:49:54.975Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30242P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Reed Hunter",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "74999-73734",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:38:28.31Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Donald-Leroy-Hunter",
+        "nodeid": 73734,
+        "documentid": 74999,
+        "nodealias": "Donald-Leroy-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "522f48c1-13ad-40c7-8656-d1f7a7a713ba",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Donald Leroy Hunter",
+        "documentmodifiedwhen": "2021-12-18T07:22:01.703Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05662",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Donald Leroy Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "N6A 5A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75057-73791",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:39:52.788Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Garett-Mark-Hunter",
+        "nodeid": 73791,
+        "documentid": 75057,
+        "nodealias": "Garett-Mark-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8fe78c2a-4df8-40f7-9682-bf8558192111",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Garett Mark Hunter",
+        "documentmodifiedwhen": "2022-03-01T07:17:25.304Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71800D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Garett Mark Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6B 3L1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75005-73739",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:38:29.683Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Gary-Robert-Hunter",
+        "nodeid": 73739,
+        "documentid": 75005,
+        "nodealias": "Gary-Robert-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1be2a83d-3722-42bc-93bb-8777050864f2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gary Robert Hunter",
+        "documentmodifiedwhen": "2021-12-14T08:04:15.795Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13592U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gary Robert Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N3L 1K9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Paris"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "91318-90046",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:27:10.404Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/George-Douglas-Hunter",
+        "nodeid": 90046,
+        "documentid": 91318,
+        "nodealias": "George-Douglas-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fd0b352a-798b-4322-a32b-f7207fbd4156",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "George Douglas Hunter",
+        "documentmodifiedwhen": "2022-01-25T09:59:56.62Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "14300V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "George Douglas Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75009-73743",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:38:45.193Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Gordon-Henry-Hunter",
+        "nodeid": 73743,
+        "documentid": 75009,
+        "nodealias": "Gordon-Henry-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "11f4b65f-60c3-488a-a497-11bef0ccb126",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gordon Henry Hunter",
+        "documentmodifiedwhen": "2021-12-15T07:20:11.902Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "17801A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gordon Henry Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L3Y 7R6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Newmarket"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75049-73781",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:39:39.469Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Gordon-Robert-Hunter",
+        "nodeid": 73781,
+        "documentid": 75049,
+        "nodealias": "Gordon-Robert-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "93d2a385-2dd7-48c0-8564-e0672f3255bc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gordon Robert Hunter",
+        "documentmodifiedwhen": "2021-09-21T08:32:54.944Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65546W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gordon Robert Hunter",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -123.319679260254,
+                48.4539260864258
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "V8P 4X4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Victoria"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75033-73767",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:39:13.044Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Guy-Broderick-Macnamara-Hunter",
+        "nodeid": 73767,
+        "documentid": 75033,
+        "nodealias": "Guy-Broderick-Macnamara-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a8286e3b-ca6f-41a5-8230-206269db4625",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Guy Broderick Macnamara Hunter",
+        "documentmodifiedwhen": "2022-01-26T07:16:46.004Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Droit de l'emploi et droit du travail",
+            "Droit de la famille ou matrimonial",
+            "Droit des testaments, des successions et des fiducies",
+            "Droit de la s\u00e9curit\u00e9 professionnelle et de l'assurance contre les accidents du travail",
+            "Droits de la personne",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Employment/Labour Law",
+            "Family/Matrimonial Law",
+            "Wills, Estates, Trusts Law",
+            "Workplace Safety and Insurance Law",
+            "Human Rights",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [
+            "Espagnol"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Spanish"
+        ],
+        "membernumber": "40482B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Guy Broderick Macnamara Hunter",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6H 1M3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75004-73738",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:38:29.621Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Hillary-Beth-Hunter",
+        "nodeid": 73738,
+        "documentid": 75004,
+        "nodealias": "Hillary-Beth-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fbe64ddf-3e1d-4b69-b6ed-384a998b9d5e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hillary Beth Hunter",
+        "documentmodifiedwhen": "2020-12-31T07:18:48.179Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13260",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hillary Beth Hunter",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -81.2457733154297,
+                42.9817161560059
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "N6A 5P9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75023-73757",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:38:59.122Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/James-Andrew-Hunter",
+        "nodeid": 73757,
+        "documentid": 75023,
+        "nodealias": "James-Andrew-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2d631f94-0f1c-4e46-87c2-829f4a93b68d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "James Andrew Hunter",
+        "documentmodifiedwhen": "2021-12-25T07:17:12.981Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "28477P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "James Andrew Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M8X 1C5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75044-73778",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:39:27.789Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/James-Patrick-Hunter",
+        "nodeid": 73778,
+        "documentid": 75044,
+        "nodealias": "James-Patrick-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0b8779ee-0af1-4b7b-bbc7-d856036fabee",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "James Patrick Hunter",
+        "documentmodifiedwhen": "2022-01-09T07:16:57.609Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59826S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "James Patrick Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 1T1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "91324-90052",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:27:16.422Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Jennifer-Ainsley-Hunter",
+        "nodeid": 90052,
+        "documentid": 91324,
+        "nodealias": "Jennifer-Ainsley-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "065a5b6c-5fb2-4d1f-adba-9f42336ace0a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Ainsley Hunter",
+        "documentmodifiedwhen": "2021-04-13T07:17:42.916Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72584D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Ainsley Hunter",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75040-73775",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:39:26.742Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Jennifer-Lori-Hunter",
+        "nodeid": 73775,
+        "documentid": 75040,
+        "nodealias": "Jennifer-Lori-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7430465e-e589-4ae8-b280-80ca4ee2392d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Lori Hunter",
+        "documentmodifiedwhen": "2022-01-03T07:21:11.873Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52563F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Lori Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3P5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "91322-90050",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:27:15.343Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/John-James-Lyon-Hunter",
+        "nodeid": 90050,
+        "documentid": 91322,
+        "nodealias": "John-James-Lyon-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f8c9bde6-f556-4320-bae5-e3cf835eb007",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John James Lyon Hunter",
+        "documentmodifiedwhen": "2021-09-28T07:17:03.934Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41196U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John James Lyon Hunter",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75052-73786",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:39:40.922Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/John-Thomas-Hunter",
+        "nodeid": 73786,
+        "documentid": 75052,
+        "nodealias": "John-Thomas-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7867a2f2-9cd5-4353-bcf3-7a870f13de68",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Thomas Hunter",
+        "documentmodifiedwhen": "2022-01-13T07:33:16.413Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70321D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Thomas Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 4E3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75038-73771",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:39:18.805Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Joshua-McBride-Hunter",
+        "nodeid": 73771,
+        "documentid": 75038,
+        "nodealias": "Joshua-McBride-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f5b9a5d2-414b-4d6b-8174-a39361c3d39a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joshua McBride Hunter",
+        "documentmodifiedwhen": "2022-01-03T07:19:30.639Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49037M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joshua McBride Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M7A 2S9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "91323-90051",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T08:27:15.375Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/049/Judith-Rae-Hunter",
+        "nodeid": 90051,
+        "documentid": 91323,
+        "nodealias": "Judith-Rae-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4a674158-ebbb-4e79-b31d-095b552be11e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Judith Rae Hunter",
+        "documentmodifiedwhen": "2022-05-28T07:21:35.652Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42675U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Judith Rae Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75039-73774",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:39:25.664Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Karoline-Ann-Hunter",
+        "nodeid": 73774,
+        "documentid": 75039,
+        "nodealias": "Karoline-Ann-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "245de21a-d345-4975-9563-7b2826f022b4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karoline Ann Hunter",
+        "documentmodifiedwhen": "2019-05-08T15:40:32.297Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51330V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karoline Ann Hunter",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3790283203125,
+                43.6486434936523
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5L 2A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75029-73765",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:39:12.544Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Kathryn-Groves-Hunter",
+        "nodeid": 73765,
+        "documentid": 75029,
+        "nodealias": "Kathryn-Groves-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e0325774-caf2-4518-829d-2745311c7e4c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kathryn Groves Hunter",
+        "documentmodifiedwhen": "2022-08-04T07:16:36.553Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "39109F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kathryn Groves Hunter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United Kingdom",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "CV4 7AL",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Coventry"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "75055-73789",
+        "sys_site": "lso",
+        "sys_created": "2018-08-04T02:39:44.787Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Katie-Elizabeth-Hunter",
+        "nodeid": 73789,
+        "documentid": 75055,
+        "nodealias": "Katie-Elizabeth-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6d467b10-6250-44d1-8be3-9ec90002acb3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Katie Elizabeth Hunter",
+        "documentmodifiedwhen": "2019-05-08T15:40:57.771Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70322W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Katie Elizabeth Hunter",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4334487915039,
+                43.8494834899902
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4C 6R5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Richmond Hill"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "127381-123559",
+        "sys_site": "lso",
+        "sys_created": "2021-01-23T07:22:19.845Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Kayleigh-Marie-Hunter",
+        "nodeid": 123559,
+        "documentid": 127381,
+        "nodealias": "Kayleigh-Marie-Hunter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ac4b5a01-f548-4462-95ed-0cd501bad995",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kayleigh Marie Hunter",
+        "documentmodifiedwhen": "2021-10-07T07:18:28.052Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17119",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kayleigh Marie Hunter",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    }
+]

@@ -1,0 +1,5286 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "115667-113288",
+        "sys_site": "lso",
+        "sys_created": "2019-06-20T07:23:21.598Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Caleb-James-Timmermann",
+        "nodeid": 113288,
+        "documentid": 115667,
+        "nodealias": "Caleb-James-Timmermann",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9e0fe40c-0e8c-46b7-9eef-0b4e72d48cee",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Caleb James Timmermann",
+        "documentmodifiedwhen": "2022-01-09T07:31:25.461Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76753D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Caleb James Timmermann",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0H3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Gatineau"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "114447-112403",
+        "sys_site": "lso",
+        "sys_created": "2019-04-10T07:30:46.074Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Kaitlyn-Marion-Timmins",
+        "nodeid": 112403,
+        "documentid": 114447,
+        "nodealias": "Kaitlyn-Marion-Timmins",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d233dc37-bf3a-4933-8e98-f5a47acadb06",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kaitlyn Marion Timmins",
+        "documentmodifiedwhen": "2022-03-23T07:16:59.758Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15617",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kaitlyn Marion Timmins",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52183-50900",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:19.028Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Michelle-Joyce-Timmins",
+        "nodeid": 50900,
+        "documentid": 52183,
+        "nodealias": "Michelle-Joyce-Timmins",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d6e4bd80-5d90-41b6-82a1-1ed8722ecb58",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michelle Joyce Timmins",
+        "documentmodifiedwhen": "2021-09-21T08:51:59.467Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08957",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michelle Joyce Timmins",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6138000488281,
+                43.648796081543
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L4W 5G1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52177-50906",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:19.059Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Paul-Williams-Timmins",
+        "nodeid": 50906,
+        "documentid": 52177,
+        "nodealias": "Paul-Williams-Timmins",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1e91260e-b7ef-47b1-89ea-84bcb1e800df",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paul Williams Timmins",
+        "documentmodifiedwhen": "2022-01-11T07:16:17.265Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24268Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paul Williams Timmins",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5X 1E3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52187-50914",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:20.785Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Thomas-Joseph-Timmins",
+        "nodeid": 50914,
+        "documentid": 52187,
+        "nodealias": "Thomas-Joseph-Timmins",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a8b546df-f411-4a48-9f40-e5eaaaff7f40",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Thomas Joseph Timmins",
+        "documentmodifiedwhen": "2021-12-31T07:25:18.43Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42975N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Thomas Joseph Timmins",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1G5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52195-50920",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:24.676Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Mary-Kathleen-Timmis",
+        "nodeid": 50920,
+        "documentid": 52195,
+        "nodealias": "Mary-Kathleen-Timmis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f8816e74-69db-47c9-bf16-72020d350ba7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mary Kathleen Timmis",
+        "documentmodifiedwhen": "2021-12-26T07:22:46.433Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32083G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mary Kathleen Timmis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4N 1Z8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52202-50927",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:24.895Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Brent-Douglas-Timmons",
+        "nodeid": 50927,
+        "documentid": 52202,
+        "nodealias": "Brent-Douglas-Timmons",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c9e533cd-d5d3-4e2f-863b-69e2b204c878",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brent Douglas Timmons",
+        "documentmodifiedwhen": "2022-01-05T07:28:35.467Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54816P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brent Douglas Timmons",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1P 1J9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52196-50921",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:24.707Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Peter-Christopher-Timmons",
+        "nodeid": 50921,
+        "documentid": 52196,
+        "nodealias": "Peter-Christopher-Timmons",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "27295517-24df-4bbe-a52c-624d52743428",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Peter Christopher Timmons",
+        "documentmodifiedwhen": "2021-12-23T07:26:46.691Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54806V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Peter Christopher Timmons",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M3C 3E5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87000-85728",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:23:54.831Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/David-Charles-Timms",
+        "nodeid": 85728,
+        "documentid": 87000,
+        "nodealias": "David-Charles-Timms",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d906331f-fefb-4950-950e-44af94c314b4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Charles Timms",
+        "documentmodifiedwhen": "2022-05-28T07:37:08.134Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P00799",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Charles Timms",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52201-50928",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:24.926Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/David-Gray-Timms",
+        "nodeid": 50928,
+        "documentid": 52201,
+        "nodealias": "David-Gray-Timms",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "044f1b94-2432-4c66-ac52-c8d11b2e3fe0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Gray Timms",
+        "documentmodifiedwhen": "2021-12-14T11:02:24.073Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24695Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Gray Timms",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "136717-131416",
+        "sys_site": "lso",
+        "sys_created": "2022-02-27T07:32:05.396Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Jason-Christopher-Timms",
+        "nodeid": 131416,
+        "documentid": 136717,
+        "nodealias": "Jason-Christopher-Timms",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b729dc4a-f599-40dc-ae9c-1a52c8910a8c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jason Christopher Timms",
+        "documentmodifiedwhen": "2022-04-30T07:23:51.048Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83874U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jason Christopher Timms",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N3T 5N9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brantford"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "125937-122130",
+        "sys_site": "lso",
+        "sys_created": "2020-11-03T07:42:15.94Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Matthew-Austin-Timms",
+        "nodeid": 122130,
+        "documentid": 125937,
+        "nodealias": "Matthew-Austin-Timms",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "99fa4343-3aaf-4504-ade5-1f3556901cee",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Matthew Austin Timms",
+        "documentmodifiedwhen": "2022-03-24T07:17:39.452Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80982C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Matthew Austin Timms",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L7R 4E2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Burlington"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52204-50931",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:29.524Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Shelley-Lynn-Timms",
+        "nodeid": 50931,
+        "documentid": 52204,
+        "nodealias": "Shelley-Lynn-Timms",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6b8dac6a-2dae-4bc5-b03e-657caa7c2116",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shelley Lynn Timms",
+        "documentmodifiedwhen": "2021-12-24T07:15:45.763Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26019P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shelley Lynn Timms",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M6S 5A5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52208-50933",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:29.587Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Stefan-Skjei-Timms",
+        "nodeid": 50933,
+        "documentid": 52208,
+        "nodealias": "Stefan-Skjei-Timms",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f3dceac8-bd76-46ee-ba53-ee2887fc8a3b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stefan Skjei Timms",
+        "documentmodifiedwhen": "2022-01-03T07:20:02.017Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52986K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stefan Skjei Timms",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3Y4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "128325-124309",
+        "sys_site": "lso",
+        "sys_created": "2021-03-20T07:21:58.209Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/008/Justin-Brodie-Timms-Fryer",
+        "nodeid": 124309,
+        "documentid": 128325,
+        "nodealias": "Justin-Brodie-Timms-Fryer",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "76e14d83-94f3-4bc8-a572-619efbd1152c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Justin Brodie Timms-Fryer",
+        "documentmodifiedwhen": "2021-12-14T15:32:44.584Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17202",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Justin Brodie Timms-Fryer",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N8X 1J9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Windsor"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52216-50941",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:30.165Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Sergiy-Timokhov",
+        "nodeid": 50941,
+        "documentid": 52216,
+        "nodealias": "Sergiy-Timokhov",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a26faa08-2a95-4dba-b37c-83bfd79ad891",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sergiy Timokhov",
+        "documentmodifiedwhen": "2022-05-28T07:16:18.987Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "55399Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sergiy Timokhov",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M2N 7L4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52210-50936",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:29.821Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Vitaly-Stepanov-Timokhov",
+        "nodeid": 50936,
+        "documentid": 52210,
+        "nodealias": "Vitaly-Stepanov-Timokhov",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6fc54e2e-be05-4442-81d7-22cefda8f746",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Vitaly Stepanov Timokhov",
+        "documentmodifiedwhen": "2021-10-15T07:17:12.542Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit fiscal"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Tax Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "44455F",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Vitaly Stepanov Timokhov",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.384880065918,
+                43.6485633850098
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3B7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52220-50945",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:32.056Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Iana-Timokhova",
+        "nodeid": 50945,
+        "documentid": 52220,
+        "nodealias": "Iana-Timokhova",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7832e69b-1924-45bd-9e23-16ce907c7128",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Iana Timokhova",
+        "documentmodifiedwhen": "2021-12-20T07:24:36.476Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14121",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Iana Timokhova",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M5H 3B7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52229-50951",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:40.105Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Riaz-Timol",
+        "nodeid": 50951,
+        "documentid": 52229,
+        "nodealias": "Riaz-Timol",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b31fdcc1-dcbd-4f34-b90c-c6db0801505d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Riaz Timol",
+        "documentmodifiedwhen": "2022-01-08T07:23:50.07Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58473G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Riaz Timol",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2K1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52226-50949",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:40.136Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Yunus-Timol",
+        "nodeid": 50949,
+        "documentid": 52226,
+        "nodealias": "Yunus-Timol",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9377a8de-15e4-48ec-8221-fa0f315ee4fb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Yunus Timol",
+        "documentmodifiedwhen": "2021-12-15T07:25:03.312Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "17179T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Yunus Timol",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L3S 3B2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87002-85730",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:23:59.253Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Andrea-Lee-Timoll",
+        "nodeid": 85730,
+        "documentid": 87002,
+        "nodealias": "Andrea-Lee-Timoll",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1740ec00-4ac5-4cbb-b71b-951bf87c9015",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrea Lee Timoll",
+        "documentmodifiedwhen": "2021-12-29T07:16:19.491Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38744W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrea Lee Timoll",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United Kingdom",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "E14 5HQ",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "28670-27803",
+        "sys_site": "lso",
+        "sys_created": "2018-07-13T11:37:31.942Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Timothy-Geoseph-Timpano",
+        "nodeid": 27803,
+        "documentid": 28670,
+        "nodealias": "Timothy-Geoseph-Timpano",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0aedff26-3cc8-4d1f-b934-2edbabef3484",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Timothy Geoseph Timpano",
+        "documentmodifiedwhen": "2022-01-01T07:16:57.803Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit commercial et corporatifes",
+            "Droit de l'emploi et droit du travail",
+            "Droit des franchisese",
+            "Droits de la personne"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Corporate/Commercial Law",
+            "Employment/Labour Law",
+            "Franchise Law",
+            "Human Rights"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "44676P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Timothy Geoseph Timpano",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L3V 1W6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Orillia"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52232-50958",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:40.449Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Vincenzo-Nicola-Timperio",
+        "nodeid": 50958,
+        "documentid": 52232,
+        "nodealias": "Vincenzo-Nicola-Timperio",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3eddd423-c81f-4a5b-af22-bb3b0c64c407",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Vincenzo-Nicola Timperio",
+        "documentmodifiedwhen": "2021-12-16T07:18:45.962Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Indemnit\u00e9s d'accidents du travail",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Affaires relevant de l'annexe sur les indemnit\u00e9s d'accident l\u00e9gales (AIAL)",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Workers' Compensation",
+            "Small Claims Court matters",
+            "Statutory Accident Benefits Schedule matters (SABS)",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P01611",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Vincenzo-Nicola Timperio",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N9J 2A8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "LaSalle"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87001-85729",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:23:59.175Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Hamed-Tinafar",
+        "nodeid": 85729,
+        "documentid": 87001,
+        "nodealias": "Hamed-Tinafar",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4aa813c1-6920-44a9-8390-e650450fceeb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hamed Tinafar",
+        "documentmodifiedwhen": "2020-02-20T08:55:57.677Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66753T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hamed Tinafar",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87004-85731",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:24:00.16Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Arfan-Tinawi",
+        "nodeid": 85731,
+        "documentid": 87004,
+        "nodealias": "Arfan-Tinawi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a4d6a944-e553-44b1-8a71-aaea0045b6c6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Arfan Tinawi",
+        "documentmodifiedwhen": "2021-09-21T08:03:23.948Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41166P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Arfan Tinawi",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                51.5310401916504,
+                25.2854480743408
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Qatar",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Doha"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "131726-127165",
+        "sys_site": "lso",
+        "sys_created": "2021-06-17T09:57:12.637Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Luke-Coleton-Tincknell",
+        "nodeid": 127165,
+        "documentid": 131726,
+        "nodealias": "Luke-Coleton-Tincknell",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "91f41bb9-c519-43fe-820e-b20677f231e9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Luke Coleton Tincknell",
+        "documentmodifiedwhen": "2021-07-10T07:18:15.677Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82966U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Luke Coleton Tincknell",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3789749145508,
+                43.6504745483398
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 0A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87003-85732",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:24:00.317Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Susan-Marie-Tindal",
+        "nodeid": 85732,
+        "documentid": 87003,
+        "nodealias": "Susan-Marie-Tindal",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "987cc54d-1d8a-44db-90a5-8ee4e9e5f29a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Susan Marie Tindal",
+        "documentmodifiedwhen": "2020-02-20T08:31:19.884Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33827D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Susan Marie Tindal",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52237-50962",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:41.868Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Jennifer-Sara-Tindale",
+        "nodeid": 50962,
+        "documentid": 52237,
+        "nodealias": "Jennifer-Sara-Tindale",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ae67b54b-9731-4de9-9b73-0d336a77b69f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Sara Tindale",
+        "documentmodifiedwhen": "2022-01-06T07:18:09.303Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "40111I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Sara Tindale",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L6J 2X1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oakville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87005-85733",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:24:01.317Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Kevin-Murray-Tindale",
+        "nodeid": 85733,
+        "documentid": 87005,
+        "nodealias": "Kevin-Murray-Tindale",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "25eb493e-bcef-4304-bc9c-26bd6302eeac",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kevin Murray Tindale",
+        "documentmodifiedwhen": "2022-08-04T07:16:13.277Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Infractions punissables par proc\u00e9dure sommaire \u00e0 la Cour de justice de l'Ontario",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Droits de la personne",
+            "Location immobili\u00e8re",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Ontario Court of Justice - Summary Conviction Offences",
+            "Small Claims Court matters",
+            "Human Rights",
+            "Landlord and Tenant",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13639",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Kevin Murray Tindale",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6T 3J5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52247-50968",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:46.628Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Sean-Patrick-Tindale",
+        "nodeid": 50968,
+        "documentid": 52247,
+        "nodealias": "Sean-Patrick-Tindale",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e28dd1fb-6de0-436c-a9eb-707421eec7cb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sean Patrick Tindale",
+        "documentmodifiedwhen": "2022-01-01T07:18:22.68Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45007J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sean Patrick Tindale",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5B 2L7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52243-50969",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:46.628Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Robert-Lawrence-Tindall",
+        "nodeid": 50969,
+        "documentid": 52243,
+        "nodealias": "Robert-Lawrence-Tindall",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "409ec61a-bf2d-4bed-8505-ca5aa153f063",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Lawrence Tindall",
+        "documentmodifiedwhen": "2021-12-16T07:27:57.4Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Infractions punissables par proc\u00e9dure sommaire \u00e0 la Cour de justice de l'Ontario",
+            "Indemnit\u00e9s d'accidents du travail",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "\u00c9valuation de taxes fonci\u00e8res",
+            "Droits de la personne",
+            "Location immobili\u00e8re"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Ontario Court of Justice - Summary Conviction Offences",
+            "Workers' Compensation",
+            "Small Claims Court matters",
+            "Property Tax Assessment",
+            "Human Rights",
+            "Landlord and Tenant"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P04111",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Lawrence Tindall",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P7C 1B2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Thunder Bay"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52241-50967",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:46.628Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Emily-Kang-Yu-Ting",
+        "nodeid": 50967,
+        "documentid": 52241,
+        "nodealias": "Emily-Kang-Yu-Ting",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "39f32f06-350a-40cd-8977-1847a7f54453",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Emily Kang Yu Ting",
+        "documentmodifiedwhen": "2022-01-08T07:25:56.001Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60868J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Emily Kang Yu Ting",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2S7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116203-113815",
+        "sys_site": "lso",
+        "sys_created": "2019-06-27T07:35:43.884Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Jacqueline-Shannon-Ting",
+        "nodeid": 113815,
+        "documentid": 116203,
+        "nodealias": "Jacqueline-Shannon-Ting",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "18a25aec-eac9-42ea-b8f9-60329f879755",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jacqueline Shannon Ting",
+        "documentmodifiedwhen": "2021-11-09T07:22:54.533Z",
+        "skuname": null,
+        "memberprovincetext": "California",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77184G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jacqueline Shannon Ting",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -122.403678894043,
+                37.7920913696289
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "94104",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "San Francisco"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52246-50973",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:46.628Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Rosetta-Tsz-Ling-Ting",
+        "nodeid": 50973,
+        "documentid": 52246,
+        "nodealias": "Rosetta-Tsz-Ling-Ting",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9eb0b8b0-ca76-44a9-aebc-21ec94ea9814",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rosetta Tsz Ling Ting",
+        "documentmodifiedwhen": "2022-05-04T07:15:51.862Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61720R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rosetta Tsz Ling Ting",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5M 4B4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52244-50965",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:46.628Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Yi-Mei-Ting",
+        "nodeid": 50965,
+        "documentid": 52244,
+        "nodealias": "Yi-Mei-Ting",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c8ea5405-d1a0-4cd5-8bb7-7e7b7803e80b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Yi-Mei Ting",
+        "documentmodifiedwhen": "2022-06-30T07:16:15.393Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63892C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Yi-Mei Ting",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 3C6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "4383-5042",
+        "sys_site": "lso",
+        "sys_created": "2018-06-14T20:53:47.633Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Valerie-June-Tingey",
+        "nodeid": 5042,
+        "documentid": 4383,
+        "nodealias": "Valerie-June-Tingey",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "040aeabc-4e30-4f5d-96a9-c4224ad93abf",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Valerie June Tingey",
+        "documentmodifiedwhen": "2020-08-21T07:16:04.045Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "R\u00e8glement extrajudiciaire des diff\u00e9rends (RAD)/ Services de m\u00e9diation",
+            "Droit de la famille ou matrimonial",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "ADR/Mediation Services",
+            "Family/Matrimonial Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32485E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Valerie June Tingey",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3758697509766,
+                44.9245796203613
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P1P 1E7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Gravenhurst"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52252-50977",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:49.241Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Charles-Eric-Tingley",
+        "nodeid": 50977,
+        "documentid": 52252,
+        "nodealias": "Charles-Eric-Tingley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b88cf93e-589c-4caf-a2e9-4d1e7dd683b7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Charles Eric Tingley",
+        "documentmodifiedwhen": "2022-01-06T07:23:47.412Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46118A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Charles Eric Tingley",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5V 3J7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52245-50974",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:46.675Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Evan-Lewis-Tingley",
+        "nodeid": 50974,
+        "documentid": 52245,
+        "nodealias": "Evan-Lewis-Tingley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7b8eaf8a-95a3-452d-bcaa-79eb860bbab1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Evan Lewis Tingley",
+        "documentmodifiedwhen": "2021-12-29T07:20:02.968Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit de la construction",
+            "Droit de l'emploi et droit du travail"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Construction Law",
+            "Employment/Labour Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37347Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Evan Lewis Tingley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5C 3A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52251-50978",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:49.241Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Linda-Carol-Tingley",
+        "nodeid": 50978,
+        "documentid": 52251,
+        "nodealias": "Linda-Carol-Tingley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4004ad43-2fd2-4c19-9f95-53570c6f9669",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Linda Carol Tingley",
+        "documentmodifiedwhen": "2021-12-30T07:29:33.494Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41584R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Linda Carol Tingley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0H3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Gatineau"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52254-50980",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:49.793Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Benjamin-David-Tinholt",
+        "nodeid": 50980,
+        "documentid": 52254,
+        "nodealias": "Benjamin-David-Tinholt",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1962f4a7-4a84-430b-8e11-1e42caae2cef",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Benjamin David Tinholt",
+        "documentmodifiedwhen": "2019-05-11T07:17:52.33Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit administratif",
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit de l'environnement",
+            "Droits de la personne"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Administrative Law",
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Environmental Law",
+            "Human Rights"
+        ],
+        "memberlanguagenamesfrench": [
+            "N\u00e9erlandais"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Dutch"
+        ],
+        "membernumber": "63893V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Benjamin David Tinholt",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -80.5219039916992,
+                43.4646835327148
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N2J 1N8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Waterloo"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52262-50981",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:53.786Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Philip-Charles-Tinianov",
+        "nodeid": 50981,
+        "documentid": 52262,
+        "nodealias": "Philip-Charles-Tinianov",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fdf3d18b-1a6f-463c-a734-6b4155b5afc7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Philip Charles Tinianov",
+        "documentmodifiedwhen": "2019-05-08T13:56:58.477Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "17627H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Philip Charles Tinianov",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4128036499023,
+                43.7648277282715
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 6K1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "122332-118931",
+        "sys_site": "lso",
+        "sys_created": "2020-05-30T08:04:08.306Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Kayla-Marlene-Tink",
+        "nodeid": 118931,
+        "documentid": 122332,
+        "nodealias": "Kayla-Marlene-Tink",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "87ceeac5-a47a-45c0-bcaf-f981f62f1013",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kayla Marlene Tink",
+        "documentmodifiedwhen": "2022-07-27T07:15:50.704Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "79190P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kayla Marlene Tink",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1C7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52260-50988",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:53.786Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Christopher-Tinkasimire",
+        "nodeid": 50988,
+        "documentid": 52260,
+        "nodealias": "Christopher-Tinkasimire",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "af44744b-07c1-4aee-9994-56d61a360c15",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher Tinkasimire",
+        "documentmodifiedwhen": "2022-04-14T07:18:23.858Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Infractions punissables par proc\u00e9dure sommaire \u00e0 la Cour de justice de l'Ontario",
+            "Indemnit\u00e9s d'accidents du travail",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Affaires relevant de l'annexe sur les indemnit\u00e9s d'accident l\u00e9gales (AIAL)",
+            "Droits de la personne",
+            "Location immobili\u00e8re",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Ontario Court of Justice - Summary Conviction Offences",
+            "Workers' Compensation",
+            "Small Claims Court matters",
+            "Statutory Accident Benefits Schedule matters (SABS)",
+            "Human Rights",
+            "Landlord and Tenant",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11707",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher Tinkasimire",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5B 2L7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87007-85735",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:24:05.064Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Diane-Louise-Tinker",
+        "nodeid": 85735,
+        "documentid": 87007,
+        "nodealias": "Diane-Louise-Tinker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6064fba9-293b-401e-bcf2-19b6ab106c49",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Diane Louise Tinker",
+        "documentmodifiedwhen": "2021-12-21T07:26:11.051Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21471I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Diane Louise Tinker",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52261-50986",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:53.786Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Elizabeth-Whitney-Tinker",
+        "nodeid": 50986,
+        "documentid": 52261,
+        "nodealias": "Elizabeth-Whitney-Tinker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8e42caf2-4ff0-4297-b118-1fed4f07cd6c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Elizabeth Whitney Tinker",
+        "documentmodifiedwhen": "2020-02-20T08:29:32.396Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "39308M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Elizabeth Whitney Tinker",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87006-85734",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:24:02.778Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/John-Bridges-Tinker",
+        "nodeid": 85734,
+        "documentid": 87006,
+        "nodealias": "John-Bridges-Tinker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "99e7c494-78e9-4747-9d8a-9d6171346025",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Bridges Tinker",
+        "documentmodifiedwhen": "2021-12-14T08:27:27.754Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "08210Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Bridges Tinker",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "D\u00e9c\u00e9d\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Deceased"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52258-50983",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:53.833Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Matthew-Howard-Tinkler",
+        "nodeid": 50983,
+        "documentid": 52258,
+        "nodealias": "Matthew-Howard-Tinkler",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c7a87d3a-134f-49a3-9fbf-a88019a17c60",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Matthew Howard Tinkler",
+        "documentmodifiedwhen": "2021-12-18T07:23:30.886Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05859",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Matthew Howard Tinkler",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M5C 2V6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52257-50989",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:53.864Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Philip-Stuart-Tinkler",
+        "nodeid": 50989,
+        "documentid": 52257,
+        "nodealias": "Philip-Stuart-Tinkler",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d4ce0626-e4e6-4349-b232-7e75c56bc250",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Philip Stuart Tinkler",
+        "documentmodifiedwhen": "2021-09-21T08:01:41.051Z",
+        "skuname": null,
+        "memberprovincetext": "Alberta",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "35694P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Philip Stuart Tinkler",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -113.49454498291,
+                53.542667388916
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "T5J 3V5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Edmonton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87008-85736",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:24:05.361Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Alexandra-Elizabeth-Tinmouth",
+        "nodeid": 85736,
+        "documentid": 87008,
+        "nodealias": "Alexandra-Elizabeth-Tinmouth",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0406198b-21bc-4a3e-99b7-4d6f5a62c260",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alexandra Elizabeth Tinmouth",
+        "documentmodifiedwhen": "2020-02-20T08:37:43.813Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43602Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alexandra Elizabeth Tinmouth",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52256-50990",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:53.895Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Ryan-Eric-Tinney",
+        "nodeid": 50990,
+        "documentid": 52256,
+        "nodealias": "Ryan-Eric-Tinney",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b7246cf2-66c8-48cd-8a76-3af98e4fdfff",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ryan Eric Tinney",
+        "documentmodifiedwhen": "2019-06-02T07:16:47.74Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Affaires relevant de la Cour des petites cr\u00e9ances"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Small Claims Court matters"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71085P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ryan Eric Tinney",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3770904541016,
+                43.6496467590332
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5C 1C4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "117275-114873",
+        "sys_site": "lso",
+        "sys_created": "2019-06-28T08:58:05.457Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Scott-William-Tinney",
+        "nodeid": 114873,
+        "documentid": 117275,
+        "nodealias": "Scott-William-Tinney",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1caa0be6-a1d6-4b99-889b-86708eb050f3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Scott William Tinney",
+        "documentmodifiedwhen": "2022-01-16T07:28:06.208Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78160W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Scott William Tinney",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5X 1C7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "28671-27804",
+        "sys_site": "lso",
+        "sys_created": "2018-07-13T11:37:44.84Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Ashley-Rigel-Rothwell-Tinney-Fischer",
+        "nodeid": 27804,
+        "documentid": 28671,
+        "nodealias": "Ashley-Rigel-Rothwell-Tinney-Fischer",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a45ff7a0-d50a-4d42-812d-ea8f015eed15",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ashley Rigel Rothwell Tinney-Fischer",
+        "documentmodifiedwhen": "2022-01-08T07:28:20.726Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit commercial et corporatifes",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Corporate/Commercial Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59111W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ashley Rigel Rothwell Tinney-Fischer",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K0L 1L0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Campbellford"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52266-50992",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:54.099Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Brittanny-Kathleen-Tinslay",
+        "nodeid": 50992,
+        "documentid": 52266,
+        "nodealias": "Brittanny-Kathleen-Tinslay",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "881d33cc-3605-4598-b5a1-839abe3ab648",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brittanny Kathleen Tinslay",
+        "documentmodifiedwhen": "2022-01-10T07:20:21.668Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "62400B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brittanny Kathleen Tinslay",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2N7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87009-85737",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:24:08.657Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Bruce-Warren-Tinsley",
+        "nodeid": 85737,
+        "documentid": 87009,
+        "nodealias": "Bruce-Warren-Tinsley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ed1c07a0-780e-4fd5-bce4-899f0a47e224",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Bruce Warren Tinsley",
+        "documentmodifiedwhen": "2021-12-14T08:02:37.032Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13989E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Bruce Warren Tinsley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87012-85738",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:24:16.416Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Richard-Frederick-Tinsley",
+        "nodeid": 85738,
+        "documentid": 87012,
+        "nodealias": "Richard-Frederick-Tinsley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e08ca61e-6cf9-42a7-8512-16a514c95240",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Richard Frederick Tinsley",
+        "documentmodifiedwhen": "2021-12-14T08:09:27.347Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "16577W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Richard Frederick Tinsley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52270-50996",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:55.373Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Arin-Lee-Tint",
+        "nodeid": 50996,
+        "documentid": 52270,
+        "nodealias": "Arin-Lee-Tint",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f83bac4d-90aa-4072-8473-6aca56e5e275",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Arin Lee Tint",
+        "documentmodifiedwhen": "2022-01-08T07:28:03.403Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59386J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Arin Lee Tint",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 6N5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52269-50995",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:55.373Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Sylvia-Liia-Tint",
+        "nodeid": 50995,
+        "documentid": 52269,
+        "nodealias": "Sylvia-Liia-Tint",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "598cd6be-4081-4bb5-a2e7-55d561c76754",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sylvia Liia Tint",
+        "documentmodifiedwhen": "2021-12-27T07:22:37.221Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de l'emploi et droit du travail",
+            "Droit de la famille ou matrimonial",
+            "Droits de la personne"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Employment/Labour Law",
+            "Family/Matrimonial Law",
+            "Human Rights"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "34497M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sylvia Liia Tint",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5C 3A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52273-50999",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:57.241Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Nathalie-Diane-Tinti",
+        "nodeid": 50999,
+        "documentid": 52273,
+        "nodealias": "Nathalie-Diane-Tinti",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1032aa42-b8ce-43d1-8a8e-94384dbf4e2e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nathalie Diane Tinti",
+        "documentmodifiedwhen": "2022-01-06T07:21:23.684Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43618J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nathalie Diane Tinti",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P1L 2E1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Bracebridge"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52275-50998",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:57.257Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Virginia-Mary-Tinti",
+        "nodeid": 50998,
+        "documentid": 52275,
+        "nodealias": "Virginia-Mary-Tinti",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a2064138-8048-4d6e-ab41-2b1691599937",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Virginia Mary Tinti",
+        "documentmodifiedwhen": "2022-01-03T07:18:01.51Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45831E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Virginia Mary Tinti",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L9S 3B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Innisfil"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52276-51002",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:57.288Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Alyssa-Kinsley-Tipple",
+        "nodeid": 51002,
+        "documentid": 52276,
+        "nodealias": "Alyssa-Kinsley-Tipple",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "67047490-6d78-44ea-90e3-42689fbd8218",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alyssa Kinsley Tipple",
+        "documentmodifiedwhen": "2022-04-27T07:16:56.285Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit immobilier"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Real Estate Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61721N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alyssa Kinsley Tipple",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6K 3N6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oakville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52278-51004",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:57.304Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Donna-Liza-Tiqui-Shebib",
+        "nodeid": 51004,
+        "documentid": 52278,
+        "nodealias": "Donna-Liza-Tiqui-Shebib",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "995f1807-952d-49ad-93f5-5106678addbb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Donna Liza Tiqui-Shebib",
+        "documentmodifiedwhen": "2022-01-03T07:22:48.956Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la famille ou matrimonial",
+            "Droit de l'immigration"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Family/Matrimonial Law",
+            "Immigration Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51698P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Donna Liza Tiqui-Shebib",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L8N 3W1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52280-51007",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:20:59.759Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Julia-Tirabasso",
+        "nodeid": 51007,
+        "documentid": 52280,
+        "nodealias": "Julia-Tirabasso",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a8ada091-13af-4f8a-b45d-c7483e41bfcb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Julia Tirabasso",
+        "documentmodifiedwhen": "2022-01-13T07:17:10.456Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "62401U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Julia Tirabasso",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K2E 1C5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87013-85739",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:24:16.915Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Jereme-Neil-Tirschmann",
+        "nodeid": 85739,
+        "documentid": 87013,
+        "nodealias": "Jereme-Neil-Tirschmann",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a98fe0fa-51a7-46cc-9d47-646843d946fc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jereme Neil Tirschmann",
+        "documentmodifiedwhen": "2021-11-05T07:56:25.251Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57760G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jereme Neil Tirschmann",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52357-51083",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:36.473Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Nathan-David-Tischler",
+        "nodeid": 51083,
+        "documentid": 52357,
+        "nodealias": "Nathan-David-Tischler",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "085b39e0-53f5-48c5-826a-93ed2212d137",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nathan David Tischler",
+        "documentmodifiedwhen": "2022-04-18T07:15:15.417Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60638B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nathan David Tischler",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L3R 4H8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87014-85741",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:24:17.322Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Jared-Edgett-Tisdale",
+        "nodeid": 85741,
+        "documentid": 87014,
+        "nodealias": "Jared-Edgett-Tisdale",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "294d5a54-1b31-4786-9175-98dd0fb9c241",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jared Edgett Tisdale",
+        "documentmodifiedwhen": "2022-01-20T07:15:45.351Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "10390P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jared Edgett Tisdale",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52367-51093",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:36.473Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Anna-Tishanina",
+        "nodeid": 51093,
+        "documentid": 52367,
+        "nodealias": "Anna-Tishanina",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "49a50e97-d946-46d4-8271-db5d59c345c2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anna Tishanina",
+        "documentmodifiedwhen": "2019-05-08T13:57:22.861Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13168",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anna Tishanina",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6694183349609,
+                43.6809501647949
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L5S 1V4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52370-51092",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:36.488Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Danielle-Manon-Marie-Tisi",
+        "nodeid": 51092,
+        "documentid": 52370,
+        "nodealias": "Danielle-Manon-Marie-Tisi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "28238ff8-eb48-472d-81b6-0652ec730915",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Danielle Manon Marie Tisi",
+        "documentmodifiedwhen": "2021-12-23T07:20:48.351Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41585N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Danielle Manon Marie Tisi",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "L3V 6J6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Orillia"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "134960-130047",
+        "sys_site": "lso",
+        "sys_created": "2021-11-09T07:24:07.08Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/012/Amanda-Christina-Tisseverasinghe",
+        "nodeid": 130047,
+        "documentid": 134960,
+        "nodealias": "Amanda-Christina-Tisseverasinghe",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "22e6e0f6-9632-4119-b06c-8d0530c5c370",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amanda Christina Tisseverasinghe",
+        "documentmodifiedwhen": "2022-06-28T07:15:37.865Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83552B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amanda Christina Tisseverasinghe",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "H2Z 1X4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Montreal"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52361-51087",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:36.488Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Thomas-Gerald-Tithecott",
+        "nodeid": 51087,
+        "documentid": 52361,
+        "nodealias": "Thomas-Gerald-Tithecott",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3e13aa22-57c4-4a60-999b-faa8dc6a0b89",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Thomas Gerald Tithecott",
+        "documentmodifiedwhen": "2021-03-27T07:16:45.823Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "22919T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Thomas Gerald Tithecott",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87011-85742",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:24:17.603Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Michael-Kemp-Titherington",
+        "nodeid": 85742,
+        "documentid": 87011,
+        "nodealias": "Michael-Kemp-Titherington",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7504a157-788b-4099-aaf1-599c2d600182",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Kemp Titherington",
+        "documentmodifiedwhen": "2022-05-28T07:42:50.918Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "15802U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Kemp Titherington",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87015-85743",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:24:18.009Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Joshua-David-Title",
+        "nodeid": 85743,
+        "documentid": 87015,
+        "nodealias": "Joshua-David-Title",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c80207af-4d45-485e-b2be-e238979e3134",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joshua David Title",
+        "documentmodifiedwhen": "2021-11-05T07:55:34.561Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46745D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joshua David Title",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52362-51095",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:36.566Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Morris-Michael-Title",
+        "nodeid": 51095,
+        "documentid": 52362,
+        "nodealias": "Morris-Michael-Title",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "95f84006-5a78-4aaf-a942-9c24ad817c90",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Morris Michael Title",
+        "documentmodifiedwhen": "2022-08-03T07:18:19.378Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "19729L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Morris Michael Title",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52365-51096",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:36.613Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Danny-Titolo",
+        "nodeid": 51096,
+        "documentid": 52365,
+        "nodealias": "Danny-Titolo",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7d61bc9f-2dfe-4e31-be8b-adeac34027fb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Danny Titolo",
+        "documentmodifiedwhen": "2019-05-08T13:57:21.304Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65740D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Danny Titolo",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3288421630859,
+                43.772518157959
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M2J 5C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "27191-26324",
+        "sys_site": "lso",
+        "sys_created": "2018-07-12T17:36:23.912Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Carlo-Christopher-Tittarelli",
+        "nodeid": 26324,
+        "documentid": 27191,
+        "nodealias": "Carlo-Christopher-Tittarelli",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "112086e4-f556-4d29-b7fe-855e96c0b372",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Carlo Christopher Tittarelli",
+        "documentmodifiedwhen": "2019-05-07T16:21:52.521Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59709F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Carlo Christopher Tittarelli",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.8693008422852,
+                43.2523880004883
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L8N 1G7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52371-51097",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:38.162Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Carmen-Diane-Titus",
+        "nodeid": 51097,
+        "documentid": 52371,
+        "nodealias": "Carmen-Diane-Titus",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6deaa70f-c8c7-45aa-b257-8aaceafa4a83",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Carmen Diane Titus",
+        "documentmodifiedwhen": "2021-12-28T07:25:14.352Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "35123T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Carmen Diane Titus",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N7M 1L6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Chatham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52372-51098",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:38.162Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Cherline-Titus",
+        "nodeid": 51098,
+        "documentid": 52372,
+        "nodealias": "Cherline-Titus",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "92b76c4b-4b36-4753-acb4-0c8f11c99108",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Cherline Titus",
+        "documentmodifiedwhen": "2020-04-02T07:38:35.406Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50118K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Cherline Titus",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52374-51100",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:39.756Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Jackie-Clarisse-Titus",
+        "nodeid": 51100,
+        "documentid": 52374,
+        "nodealias": "Jackie-Clarisse-Titus",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3830d314-cd2a-42f0-8cc0-279308173b52",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jackie Clarisse Titus",
+        "documentmodifiedwhen": "2022-01-07T07:27:40.773Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56964F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jackie Clarisse Titus",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1S 5S8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52373-51099",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:39.756Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/George-Tiviluk",
+        "nodeid": 51099,
+        "documentid": 52373,
+        "nodealias": "George-Tiviluk",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5727c995-f370-4c6f-8efb-56e5a69932ac",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "George Tiviluk",
+        "documentmodifiedwhen": "2021-12-14T07:50:44.897Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "09118F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "George Tiviluk",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "125448-121715",
+        "sys_site": "lso",
+        "sys_created": "2020-09-29T07:32:39.98Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Kulwinder-Kaur-Tiwana",
+        "nodeid": 121715,
+        "documentid": 125448,
+        "nodealias": "Kulwinder-Kaur-Tiwana",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dd592966-2629-4be3-8f86-e462b317b213",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kulwinder Kaur Tiwana",
+        "documentmodifiedwhen": "2022-01-17T07:25:13.567Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80856O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kulwinder Kaur Tiwana",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6T 5H8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52380-51105",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:42.39Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Atul-Tiwari",
+        "nodeid": 51105,
+        "documentid": 52380,
+        "nodealias": "Atul-Tiwari",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a9e52a55-f533-4512-9b6e-1c432971d3a5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Atul Tiwari",
+        "documentmodifiedwhen": "2021-09-21T08:00:06.12Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "29716N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Atul Tiwari",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52378-51103",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:42.39Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Chetan-Tiwari",
+        "nodeid": 51103,
+        "documentid": 52378,
+        "nodealias": "Chetan-Tiwari",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "53d23d70-5a31-457c-a1b8-28ba34a53c91",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Chetan Tiwari",
+        "documentmodifiedwhen": "2019-05-08T13:57:36.889Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67232E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Chetan Tiwari",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4288635253906,
+                43.6490020751953
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M6J 1T7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52377-51104",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:42.444Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Hafsah-Noor-Tiwari",
+        "nodeid": 51104,
+        "documentid": 52377,
+        "nodealias": "Hafsah-Noor-Tiwari",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e28a18ac-0c74-460c-8c22-4d05e4830a55",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hafsah Noor Tiwari",
+        "documentmodifiedwhen": "2022-01-13T07:18:52.516Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69492Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hafsah Noor Tiwari",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 1X6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52375-51101",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:39.756Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Mahendranath-Swarankumar-Tiwari",
+        "nodeid": 51101,
+        "documentid": 52375,
+        "nodealias": "Mahendranath-Swarankumar-Tiwari",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6139e122-a7ad-45c7-b2f0-6b1088f5c64d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mahendranath Swarankumar Tiwari",
+        "documentmodifiedwhen": "2021-12-16T07:19:02.16Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P01652",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mahendranath Swarankumar Tiwari",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M1P 3Y8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52376-51102",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:42.365Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Puneet-Tiwari",
+        "nodeid": 51102,
+        "documentid": 52376,
+        "nodealias": "Puneet-Tiwari",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "902bd1ad-b698-49a9-aaaf-b7062bd260a8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Puneet Tiwari",
+        "documentmodifiedwhen": "2022-01-14T07:20:27.69Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de l'emploi et droit du travail"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Employment/Labour Law"
+        ],
+        "memberlanguagenamesfrench": [
+            "Hindi",
+            "Ourdou"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Hindi",
+            "Urdu"
+        ],
+        "membernumber": "69248T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Puneet Tiwari",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3P5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "137646-132256",
+        "sys_site": "lso",
+        "sys_created": "2022-04-30T07:21:37.23Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/034/Raenaud-Deokumar-Prame-Tiwari",
+        "nodeid": 132256,
+        "documentid": 137646,
+        "nodealias": "Raenaud-Deokumar-Prame-Tiwari",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c1895705-6b73-4921-8554-8ae6f5c24617",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Raenaud Deokumar Prame Tiwari",
+        "documentmodifiedwhen": "2022-06-28T07:15:15.433Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84133O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Raenaud Deokumar Prame Tiwari",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "113186-111412",
+        "sys_site": "lso",
+        "sys_created": "2019-01-17T07:18:27.638Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Rajendra-Kumar-Tiwari",
+        "nodeid": 111412,
+        "documentid": 113186,
+        "nodealias": "Rajendra-Kumar-Tiwari",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9f74b1b3-9b29-4af8-bb29-d5da9086fc12",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rajendra Kumar Tiwari",
+        "documentmodifiedwhen": "2022-03-18T07:16:38.759Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Droits de la personne",
+            "Location immobili\u00e8re"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Small Claims Court matters",
+            "Human Rights",
+            "Landlord and Tenant"
+        ],
+        "memberlanguagenamesfrench": [
+            "Hindi",
+            "Punjabi",
+            "Ourdou"
+        ],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Hindi",
+            "Punjabi",
+            "Urdu"
+        ],
+        "membernumber": "P15299",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Rajendra Kumar Tiwari",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L7A 3K4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87016-85744",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:24:19.072Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Sunil-Narain-Tiwari",
+        "nodeid": 85744,
+        "documentid": 87016,
+        "nodealias": "Sunil-Narain-Tiwari",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "766af077-fd44-4c1e-a2de-44e5883cc1fb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sunil Narain Tiwari",
+        "documentmodifiedwhen": "2019-05-09T14:17:13.935Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P12680",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sunil Narain Tiwari",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87017-85745",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:24:19.384Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Bhagwatie-Artee-Tiwarie",
+        "nodeid": 85745,
+        "documentid": 87017,
+        "nodealias": "Bhagwatie-Artee-Tiwarie",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b080d22a-abd7-4818-89d2-8b62c7be0147",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Bhagwatie Artee Tiwarie",
+        "documentmodifiedwhen": "2020-02-20T09:37:36.154Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09370",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Bhagwatie Artee Tiwarie",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "87020-85747",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T06:24:28.011Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Theodore-John-Tjaden",
+        "nodeid": 85747,
+        "documentid": 87020,
+        "nodealias": "Theodore-John-Tjaden",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fe6323aa-1f0e-4df1-bb8d-2b8e8deacbbf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Theodore John Tjaden",
+        "documentmodifiedwhen": "2020-02-20T08:29:04.605Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38753U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Theodore John Tjaden",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52385-51107",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:42.459Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Marina-Rania-Claudia-Tjanetis",
+        "nodeid": 51107,
+        "documentid": 52385,
+        "nodealias": "Marina-Rania-Claudia-Tjanetis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d692b254-ea18-4a1f-ad8b-cb9a9b36e582",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marina Rania Claudia Tjanetis",
+        "documentmodifiedwhen": "2021-12-29T07:29:14.77Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38050K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marina Rania Claudia Tjanetis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52379-51106",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:42.459Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Sie-Lung-Tjew",
+        "nodeid": 51106,
+        "documentid": 52379,
+        "nodealias": "Sie-Lung-Tjew",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "adb0d7f5-9c04-4582-9262-5a2c52d88453",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sie Lung Tjew",
+        "documentmodifiedwhen": "2021-09-21T08:26:27.396Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60309W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sie Lung Tjew",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -122.827537536621,
+                49.2827644348145
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "V3H 5C9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Port Moody"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52386-51109",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:42.49Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/004/Tessa-Sandra-Foei-Ken-Tjew-A-Sin",
+        "nodeid": 51109,
+        "documentid": 52386,
+        "nodealias": "Tessa-Sandra-Foei-Ken-Tjew-A-Sin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bd867e4a-42b7-43bc-a85b-48a0759aaf5b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tessa Sandra Foei Ken Tjew-A-Sin",
+        "documentmodifiedwhen": "2019-05-08T13:57:47.666Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05248",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tessa Sandra Foei Ken Tjew-A-Sin",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3656539916992,
+                43.8513259887695
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L3R 5P8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52381-51108",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:42.553Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Lisa-Tjoe-A-Long",
+        "nodeid": 51108,
+        "documentid": 52381,
+        "nodealias": "Lisa-Tjoe-A-Long",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8c00d9f8-61b5-46c1-96da-4cd7bf9c5b66",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lisa Tjoe A Long",
+        "documentmodifiedwhen": "2021-12-25T07:17:17.384Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30136P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lisa Tjoe A Long",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "L3T 7W8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52382-51110",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:42.569Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Erico-Yit-Fan-Tjoe-A-Long",
+        "nodeid": 51110,
+        "documentid": 52382,
+        "nodealias": "Erico-Yit-Fan-Tjoe-A-Long",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2c117207-f268-4e3d-be54-f309bce4e642",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Erico Yit Fan Tjoe-A-Long",
+        "documentmodifiedwhen": "2021-12-25T07:17:16.878Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30137L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Erico Yit Fan Tjoe-A-Long",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L3R 8B2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52383-51111",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:42.71Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Stephanie-Carol-Tjon",
+        "nodeid": 51111,
+        "documentid": 52383,
+        "nodealias": "Stephanie-Carol-Tjon",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "20bedd20-e98a-4b63-a49b-ed671b3c9d91",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephanie Carol Tjon",
+        "documentmodifiedwhen": "2022-01-03T07:25:12.133Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50908F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephanie Carol Tjon",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 3S8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52384-51112",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:42.819Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Frank-Joseph-Tkach",
+        "nodeid": 51112,
+        "documentid": 52384,
+        "nodealias": "Frank-Joseph-Tkach",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "01660778-e01a-4c7b-b4f7-3acd22f07978",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Frank Joseph Tkach",
+        "documentmodifiedwhen": "2021-12-14T08:01:00.77Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13180F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Frank Joseph Tkach",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52387-51113",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:42.85Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Bohdana-Tkachuk",
+        "nodeid": 51113,
+        "documentid": 52387,
+        "nodealias": "Bohdana-Tkachuk",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3d8b2468-c65a-4831-ba11-e049abbfb11a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Bohdana Tkachuk",
+        "documentmodifiedwhen": "2021-11-09T07:17:53.494Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70775J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Bohdana Tkachuk",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3816986083984,
+                43.6477088928223
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52389-51116",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:43.022Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Brett-Jason-Tkatch",
+        "nodeid": 51116,
+        "documentid": 52389,
+        "nodealias": "Brett-Jason-Tkatch",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b87d72f9-9b67-4bfb-9b65-e28cfb2bf526",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brett Jason Tkatch",
+        "documentmodifiedwhen": "2021-12-25T07:25:35.79Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "28273F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brett Jason Tkatch",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5C 3G5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52391-51117",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:43.037Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Jonathan-Samuel-Tkatch",
+        "nodeid": 51117,
+        "documentid": 52391,
+        "nodealias": "Jonathan-Samuel-Tkatch",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bbeeb5fe-c459-4f0a-96c1-d049650c1529",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jonathan Samuel Tkatch",
+        "documentmodifiedwhen": "2022-01-08T07:23:49.351Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58474C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jonathan Samuel Tkatch",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4T 2T5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "52390-51115",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T18:21:42.96Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/027/Murray-Tkatch",
+        "nodeid": 51115,
+        "documentid": 52390,
+        "nodealias": "Murray-Tkatch",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c16a2fb7-0cf7-4280-a02b-7ebe4afba7b1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Murray Tkatch",
+        "documentmodifiedwhen": "2021-12-17T07:17:44.886Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21161V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Murray Tkatch",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4Y 1L8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    }
+]

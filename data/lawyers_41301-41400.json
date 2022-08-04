@@ -1,0 +1,5132 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95326-94054",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:06:40.76Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Diana-Jungwha-Lee",
+        "nodeid": 94054,
+        "documentid": 95326,
+        "nodealias": "Diana-Jungwha-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7ca66025-4539-40cb-a7d9-6001c61f0b8a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Diana Jungwha Lee",
+        "documentmodifiedwhen": "2022-01-12T07:29:31.948Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64120S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Diana Jungwha Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5K 1A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "114274-112232",
+        "sys_site": "lso",
+        "sys_created": "2019-03-29T07:21:16.06Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Dong-Hyoung-Lee",
+        "nodeid": 112232,
+        "documentid": 114274,
+        "nodealias": "Dong-Hyoung-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e38a0697-8a97-4ab7-aadf-0e2f64d4b512",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Dong Hyoung Lee",
+        "documentmodifiedwhen": "2020-02-20T09:38:24.867Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15469",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Dong Hyoung Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95303-94031",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:05:57.772Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Douglas-Wai-Lee",
+        "nodeid": 94031,
+        "documentid": 95303,
+        "nodealias": "Douglas-Wai-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6486d592-9131-4eeb-aafe-8f0daecf6bc8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Douglas Wai Lee",
+        "documentmodifiedwhen": "2020-11-17T07:16:55.824Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "55874V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Douglas Wai Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3849105834961,
+                43.662670135498
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M7A 2G6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95309-94037",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:06:07.946Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Doyoung-Regina-Lee",
+        "nodeid": 94037,
+        "documentid": 95309,
+        "nodealias": "Doyoung-Regina-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1f479b7c-d3f7-49ed-8386-56e662d640a1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Doyoung Regina Lee",
+        "documentmodifiedwhen": "2020-12-28T07:16:26.248Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58342P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Doyoung Regina Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4122772216797,
+                43.7607803344727
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 6S6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "97448-96176",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:58:17.609Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/058/Edward-Yeung-Lee",
+        "nodeid": 96176,
+        "documentid": 97448,
+        "nodealias": "Edward-Yeung-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3a25e6f4-4c0c-4c4a-8d3a-e8ba1737c56d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Edward Yeung Lee",
+        "documentmodifiedwhen": "2020-02-20T08:17:35.365Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32941R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Edward Yeung Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "97460-96188",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:58:39.249Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/058/Elizabeth-Lee",
+        "nodeid": 96188,
+        "documentid": 97460,
+        "nodealias": "Elizabeth-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ddb89c99-c18b-4e27-8587-f6f2e1746488",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Elizabeth Lee",
+        "documentmodifiedwhen": "2021-09-21T08:18:38.452Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "44368U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Elizabeth Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "97472-96200",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:58:58.926Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/058/Ellen-Lee",
+        "nodeid": 96200,
+        "documentid": 97472,
+        "nodealias": "Ellen-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4374c268-226e-4077-bc8b-2d95e4ec4a89",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ellen Lee",
+        "documentmodifiedwhen": "2022-01-07T07:15:53.524Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57475K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ellen Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95285-94013",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:05:31.362Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Emily-Martha-Lee",
+        "nodeid": 94013,
+        "documentid": 95285,
+        "nodealias": "Emily-Martha-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "989a10dc-ea49-4251-ac9c-9c2b53cd65ae",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Emily Martha Lee",
+        "documentmodifiedwhen": "2021-09-21T08:15:58.855Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "48745C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Emily Martha Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3839645385742,
+                43.6467399597168
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "M5J 2H7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95350-94077",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:07:12.635Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/En-Lee",
+        "nodeid": 94077,
+        "documentid": 95350,
+        "nodealias": "En-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "22c9ad61-0ef6-4a43-86ca-ff31fd33017d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "En Lee",
+        "documentmodifiedwhen": "2022-01-13T07:33:29.464Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70954F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "En Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 3B1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139659-134047",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T07:31:30.052Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Erran-Glenice-Lee",
+        "nodeid": 134047,
+        "documentid": 139659,
+        "nodealias": "Erran-Glenice-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e96c648c-35e1-4292-8576-6ce831face58",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Erran Glenice Lee",
+        "documentmodifiedwhen": "2022-07-07T07:30:26.958Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85251L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Erran Glenice Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130156-125790",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T09:56:18.163Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Esther-Hyunsoo-Lee",
+        "nodeid": 125790,
+        "documentid": 130156,
+        "nodealias": "Esther-Hyunsoo-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a096f81a-ee14-429c-8fda-a3deedc1ccd8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Esther Hyunsoo Lee",
+        "documentmodifiedwhen": "2022-01-18T11:59:46.472Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81822N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Esther Hyunsoo Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 1Z6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105824-104552",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T10:14:09.241Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Esther-Juhee-Lee",
+        "nodeid": 104552,
+        "documentid": 105824,
+        "nodealias": "Esther-Juhee-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "75c0bf10-93e7-476f-ad12-43017ed0d25b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Esther Juhee Lee",
+        "documentmodifiedwhen": "2022-03-01T07:18:02.068Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74656C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Esther Juhee Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N8Y 5B5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Windsor"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95316-94044",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:06:22.056Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Eun-Kyung-Lee",
+        "nodeid": 94044,
+        "documentid": 95316,
+        "nodealias": "Eun-Kyung-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0da39656-83da-4247-b6d9-f1152ec926fd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eun Kyung Lee",
+        "documentmodifiedwhen": "2022-06-18T07:30:44.399Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60999A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eun Kyung Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4N 3N1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "97427-96154",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:57:47.15Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/011/Eunsoon-Lee",
+        "nodeid": 96154,
+        "documentid": 97427,
+        "nodealias": "Eunsoon-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "41809079-4f2e-43e0-a3b7-a7b5f4df709b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eunsoon Lee",
+        "documentmodifiedwhen": "2021-09-21T09:10:35.655Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06784",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eunsoon Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95249-93978",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:04:33.216Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Fintan-Soon-Chye-Lee",
+        "nodeid": 93978,
+        "documentid": 95249,
+        "nodealias": "Fintan-Soon-Chye-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7e40b0da-a5cf-4b55-8379-febfdc17df8f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Fintan Soon Chye Lee",
+        "documentmodifiedwhen": "2021-12-28T07:20:42.387Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36407T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Fintan Soon Chye Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L6V 1A3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95313-94041",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:06:12.22Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Fiona-Hoi-Ying-Lee",
+        "nodeid": 94041,
+        "documentid": 95313,
+        "nodealias": "Fiona-Hoi-Ying-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a9b7028f-a754-49d8-9dfb-a891e32a6dae",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Fiona Hoi Ying Lee",
+        "documentmodifiedwhen": "2021-04-12T07:16:07.41Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59334B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Fiona Hoi Ying Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3969802856445,
+                43.69775390625
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4S 1Z2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95247-93975",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:04:29.309Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Foo-Sun-Jack-Lee",
+        "nodeid": 93975,
+        "documentid": 95247,
+        "nodealias": "Foo-Sun-Jack-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0dde589c-7295-4095-afc1-4cc0191b4f6c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Foo-Sun Jack Lee",
+        "documentmodifiedwhen": "2021-12-28T07:28:31.022Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "35545F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Foo-Sun Jack Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M1S 5H6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95225-93953",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:03:57.66Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Frederick-Brian-Lee",
+        "nodeid": 93953,
+        "documentid": 95225,
+        "nodealias": "Frederick-Brian-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2c4e4919-0b5d-4bd0-86db-b70aa280c8e0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Frederick Brian Lee",
+        "documentmodifiedwhen": "2021-12-15T07:21:59.579Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "16027K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Frederick Brian Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 2T9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "133006-128433",
+        "sys_site": "lso",
+        "sys_created": "2021-07-01T07:48:13.052Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Gavin-Norman-Arthur-Lee",
+        "nodeid": 128433,
+        "documentid": 133006,
+        "nodealias": "Gavin-Norman-Arthur-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "04a3e97a-22c5-413a-89e3-4fd55e6f79bc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gavin Norman Arthur Lee",
+        "documentmodifiedwhen": "2022-01-18T12:05:35.001Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83048K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gavin Norman Arthur Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M7A 0A8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95217-93945",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:03:43.986Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Geon-Yeob-Lee",
+        "nodeid": 93945,
+        "documentid": 95217,
+        "nodealias": "Geon-Yeob-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "22592fd6-9af0-4554-a449-c473fb8573eb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Geon Yeob Lee",
+        "documentmodifiedwhen": "2020-03-12T07:24:40.236Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P12419",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Geon Yeob Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95347-94075",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:07:12.588Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Ginny-Chun-Yin-Lee",
+        "nodeid": 94075,
+        "documentid": 95347,
+        "nodealias": "Ginny-Chun-Yin-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "73439040-bd05-4e7e-9056-8cdae47d2c49",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ginny Chun Yin Lee",
+        "documentmodifiedwhen": "2022-01-14T07:17:58.421Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70955B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ginny Chun Yin Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5L 3T5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95342-94070",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:07:00.727Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Gloria-Yuen-Ha-Lee",
+        "nodeid": 94070,
+        "documentid": 95342,
+        "nodealias": "Gloria-Yuen-Ha-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8232b400-f666-4bed-88f8-208e58df3684",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gloria Yuen-Ha Lee",
+        "documentmodifiedwhen": "2020-06-17T07:16:39.028Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68152N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gloria Yuen-Ha Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3889694213867,
+                43.6460876464844
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 3C6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "124094-120544",
+        "sys_site": "lso",
+        "sys_created": "2020-06-27T07:42:55.709Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Goh-Eun-Lee",
+        "nodeid": 120544,
+        "documentid": 124094,
+        "nodealias": "Goh-Eun-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "85d2b3a8-3ded-4867-acea-34421d4ab059",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Goh Eun Lee",
+        "documentmodifiedwhen": "2022-06-03T07:16:41.193Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80441L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Goh Eun Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95282-94009",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:05:25.606Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Gordon-Douglas-Lee",
+        "nodeid": 94009,
+        "documentid": 95282,
+        "nodealias": "Gordon-Douglas-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cd3f614b-a184-4621-8204-4b8753fadc52",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gordon Douglas Lee",
+        "documentmodifiedwhen": "2022-01-02T07:21:28.506Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "48093E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gordon Douglas Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 1T1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95306-94035",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:06:03.029Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Gordon-Wai-Yan-Lee",
+        "nodeid": 94035,
+        "documentid": 95306,
+        "nodealias": "Gordon-Wai-Yan-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "574a66a5-cb86-4709-aafb-3ae82a84b8ab",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gordon Wai-Yan Lee",
+        "documentmodifiedwhen": "2022-01-07T07:21:01.448Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57177J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gordon Wai-Yan Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "97458-96186",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:58:28.747Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/058/Grace-Yuk-Wah-Lee",
+        "nodeid": 96186,
+        "documentid": 97458,
+        "nodealias": "Grace-Yuk-Wah-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7527b56f-8cda-4065-abcd-71035b6cecd8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Grace Yuk Wah Lee",
+        "documentmodifiedwhen": "2021-12-31T07:17:45.285Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43293V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Grace Yuk Wah Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Hong Kong",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hong Kong"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95241-93969",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:04:19.213Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Haebeom-Lee",
+        "nodeid": 93969,
+        "documentid": 95241,
+        "nodealias": "Haebeom-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c217a9bd-993b-44f1-94cd-b2f9f5018ab6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Haebeom Lee",
+        "documentmodifiedwhen": "2021-12-27T07:27:03.547Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32942N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Haebeom Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4L 8K8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vaughan"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95359-94087",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:07:25.488Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Haewook-Lee",
+        "nodeid": 94087,
+        "documentid": 95359,
+        "nodealias": "Haewook-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0171d45e-e96f-45bc-9793-310914be51b7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Haewook Lee",
+        "documentmodifiedwhen": "2021-09-21T08:38:40.148Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "73886W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Haewook Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "97442-96168",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:58:08.635Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/058/Hai-Song-Vincent-Paul-Lee",
+        "nodeid": 96168,
+        "documentid": 97442,
+        "nodealias": "Hai-Song-Vincent-Paul-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "35c1dff0-1c46-4565-af9e-97aef1d2a54f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hai-Song Vincent Paul Lee",
+        "documentmodifiedwhen": "2021-12-14T11:05:33.446Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25419K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hai-Song Vincent Paul Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "10682-9843",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T22:47:56.858Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Hatice-Lee",
+        "nodeid": 9843,
+        "documentid": 10682,
+        "nodealias": "Hatice-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3619b5aa-8b78-4041-9764-b357aaa66658",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hatice Lee",
+        "documentmodifiedwhen": "2021-09-21T09:23:33.675Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05530",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hatice Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6805648803711,
+                43.5262107849121
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L5K 2M6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95271-93999",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:05:09.367Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Heather-Elaine-Lee",
+        "nodeid": 93999,
+        "documentid": 95271,
+        "nodealias": "Heather-Elaine-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d3893507-8ae8-4dd3-822a-fb4b53ed91a9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Heather Elaine Lee",
+        "documentmodifiedwhen": "2022-01-03T07:17:15.938Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "44369Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Heather Elaine Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5E 1G4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95220-93947",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:03:49.705Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Helen-Lee",
+        "nodeid": 93947,
+        "documentid": 95220,
+        "nodealias": "Helen-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0c8485cb-b4e3-43cd-87af-f5c1e86a5cd4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Helen Lee",
+        "documentmodifiedwhen": "2022-03-30T07:19:58.735Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P12722",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Helen Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M5A 2C6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95251-93980",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:04:36.705Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Helen-Michele-Lee",
+        "nodeid": 93980,
+        "documentid": 95251,
+        "nodealias": "Helen-Michele-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cc4ba0df-b687-437f-9644-848e36fd98ca",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Helen Michele Lee",
+        "documentmodifiedwhen": "2022-03-13T07:16:06.302Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36408P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Helen Michele Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1H 8L1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "126616-122746",
+        "sys_site": "lso",
+        "sys_created": "2020-12-05T07:20:20.698Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Hong-Cheung-Lee",
+        "nodeid": 122746,
+        "documentid": 126616,
+        "nodealias": "Hong-Cheung-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3ee63db7-8ec1-4a46-9258-e2a92586f5d2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hong Cheung Lee",
+        "documentmodifiedwhen": "2022-07-23T07:17:12.584Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P16904",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hong Cheung Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "97484-96210",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:59:15.24Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/058/Hong-Wing-Conrad-Lee",
+        "nodeid": 96210,
+        "documentid": 97484,
+        "nodealias": "Hong-Wing-Conrad-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f42435cb-27e8-4a79-a858-fd0f9977c88f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hong Wing Conrad Lee",
+        "documentmodifiedwhen": "2022-01-15T07:19:20.657Z",
+        "skuname": null,
+        "memberprovincetext": "California",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74657V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hong Wing Conrad Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "94111-4004",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "San Francisco"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95340-94068",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:06:56.508Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Hoyeon-Lee",
+        "nodeid": 94068,
+        "documentid": 95340,
+        "nodealias": "Hoyeon-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9580f327-6c07-4c48-b7a6-770e823266dd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hoyeon Lee",
+        "documentmodifiedwhen": "2022-06-28T07:15:26.027Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67834F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hoyeon Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N6A 5P4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95324-94052",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:06:34.127Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Hugh-Seong-Seok-Lee",
+        "nodeid": 94052,
+        "documentid": 95324,
+        "nodealias": "Hugh-Seong-Seok-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4caf1895-d59e-4c3e-b931-64e6468f53c0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hugh Seong Seok Lee",
+        "documentmodifiedwhen": "2022-03-20T07:16:27.236Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63419Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hugh Seong Seok Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1P 6L5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "97433-96159",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:57:57.496Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/011/Hung-Wah-Stephen-Lee",
+        "nodeid": 96159,
+        "documentid": 97433,
+        "nodealias": "Hung-Wah-Stephen-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8c8d43a1-330d-4ddb-a570-68dfd093bb5b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hung Wah Stephen Lee",
+        "documentmodifiedwhen": "2020-02-20T09:35:14.579Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P10092",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hung Wah Stephen Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116365-113977",
+        "sys_site": "lso",
+        "sys_created": "2019-06-27T07:58:21.031Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Hutchison-Lee",
+        "nodeid": 113977,
+        "documentid": 116365,
+        "nodealias": "Hutchison-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "57591306-6abb-499f-acae-6d29d90c91f2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hutchison Lee",
+        "documentmodifiedwhen": "2022-03-03T13:15:46.592Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "R\u00e8glement extrajudiciaire des diff\u00e9rends (RAD)/ Services de m\u00e9diation",
+            "Droit commercial et corporatifes",
+            "Droit des franchisese",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies",
+            "Location immobili\u00e8re"
+        ],
+        "memberareasofservicenamesenglish": [
+            "ADR/Mediation Services",
+            "Corporate/Commercial Law",
+            "Franchise Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law",
+            "Landlord and Tenant"
+        ],
+        "memberlanguagenamesfrench": [
+            "Cantonais",
+            "Mandarin"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Cantonese",
+            "Mandarin"
+        ],
+        "membernumber": "77049U",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Hutchison Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6M 2Z5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oakville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "134970-130057",
+        "sys_site": "lso",
+        "sys_created": "2021-11-09T07:25:23.298Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/022/Hyekyu-Lee",
+        "nodeid": 130057,
+        "documentid": 134970,
+        "nodealias": "Hyekyu-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8523743a-a191-49f4-a882-2cf54039667d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hyekyu Lee",
+        "documentmodifiedwhen": "2022-01-18T12:09:22.838Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83525H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hyekyu Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 2M2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "141031-135118",
+        "sys_site": "lso",
+        "sys_created": "2022-07-30T07:24:00.073Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Hyuckjoo-Lee",
+        "nodeid": 135118,
+        "documentid": 141031,
+        "nodealias": "Hyuckjoo-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "698717a0-8c77-4d3e-8b81-94939408edee",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hyuckjoo Lee",
+        "documentmodifiedwhen": "2022-07-30T07:24:00.073Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85546N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hyuckjoo Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "97478-96206",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:59:10.174Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/058/Hyun-Kyung-Lee",
+        "nodeid": 96206,
+        "documentid": 97478,
+        "nodealias": "Hyun-Kyung-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d3d38372-e9aa-4a37-98a1-2dfa624d6117",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hyun Kyung Lee",
+        "documentmodifiedwhen": "2021-09-21T08:28:56.797Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65193V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hyun Kyung Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "141030-135117",
+        "sys_site": "lso",
+        "sys_created": "2022-07-30T07:23:54.94Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Hyunkyu-Lee",
+        "nodeid": 135117,
+        "documentid": 141030,
+        "nodealias": "Hyunkyu-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "31dfb221-cd18-485d-8122-37c11f01c8fe",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hyunkyu Lee",
+        "documentmodifiedwhen": "2022-07-30T07:23:54.94Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85547J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hyunkyu Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95218-93946",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:03:46.44Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/I-Lien-Lee",
+        "nodeid": 93946,
+        "documentid": 95218,
+        "nodealias": "I-Lien-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e08a1492-d3cc-4c47-ac4f-c72adcaaac1e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "I Lien Lee",
+        "documentmodifiedwhen": "2020-11-19T07:19:26.968Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P12453",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "I Lien Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3853607177734,
+                43.6464195251465
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M5J 1J1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95259-93988",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:04:49.461Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Ian-Bertrand-Lee",
+        "nodeid": 93988,
+        "documentid": 95259,
+        "nodealias": "Ian-Bertrand-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "583b2a24-6006-402d-937e-cecc2e2c544d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ian Bertrand Lee",
+        "documentmodifiedwhen": "2021-12-30T07:18:28.485Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "39540A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ian Bertrand Lee",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5S 2C5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95280-94008",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:05:16.407Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Irene-Juen-Quan-Lee",
+        "nodeid": 94008,
+        "documentid": 95280,
+        "nodealias": "Irene-Juen-Quan-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "55313567-bcec-42cc-a742-6d3e691b8b49",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Irene Juen Quan Lee",
+        "documentmodifiedwhen": "2022-01-01T07:20:29.447Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47190S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Irene Juen Quan Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 3S8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95283-94011",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:05:25.731Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Jacob-H-C-Lee",
+        "nodeid": 94011,
+        "documentid": 95283,
+        "nodealias": "Jacob-H-C-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ea91292b-20b4-49c5-a82d-3160b2ff4f2f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jacob H C Lee",
+        "documentmodifiedwhen": "2021-07-28T07:16:11.715Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit commercial et corporatifes",
+            "Droit immobilier"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Corporate/Commercial Law",
+            "Real Estate Law"
+        ],
+        "memberlanguagenamesfrench": [
+            "Mandarin"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Mandarin"
+        ],
+        "membernumber": "47846A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jacob H C Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.494026184082,
+                43.7873229980469
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4K 4R3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Concord"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95202-93930",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:03:26.644Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Jacqueline-Marie-Lee",
+        "nodeid": 93930,
+        "documentid": 95202,
+        "nodealias": "Jacqueline-Marie-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c48b1e6f-18d4-457f-9b87-5d70c023d4b0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jacqueline Marie Lee",
+        "documentmodifiedwhen": "2021-12-18T07:23:30.304Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05868",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jacqueline Marie Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L1K 2K7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oshawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95208-93937",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:03:32.917Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Jae-In-Lee",
+        "nodeid": 93937,
+        "documentid": 95208,
+        "nodealias": "Jae-In-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "60f50f9c-01c3-425c-88c2-acde172be580",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jae In Lee",
+        "documentmodifiedwhen": "2022-06-14T07:29:35.52Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09144",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jae In Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "97426-96153",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:57:46.603Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/011/James-Frederick-Lee",
+        "nodeid": 96153,
+        "documentid": 97426,
+        "nodealias": "James-Frederick-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "02837e5a-7a97-4a7e-aef8-bd781cbdda57",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "James Frederick Lee",
+        "documentmodifiedwhen": "2022-06-24T07:16:03.649Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P01996",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "James Frederick Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L9W 0A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Orangeville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95276-94005",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:05:15.054Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/James-Joon-Soo-Lee",
+        "nodeid": 94005,
+        "documentid": 95276,
+        "nodealias": "James-Joon-Soo-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e561defd-263b-4b5f-85b9-4c49f50e9b0b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "James Joon-Soo Lee",
+        "documentmodifiedwhen": "2022-01-01T07:27:22.258Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46662N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "James Joon-Soo Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5X 1C9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "97476-96204",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:59:05.354Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/058/Janet-Cheng-Ning-Lee",
+        "nodeid": 96204,
+        "documentid": 97476,
+        "nodealias": "Janet-Cheng-Ning-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9769a1ba-d7ca-44b3-b67b-d9a52fd0122c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Janet Cheng Ning Lee",
+        "documentmodifiedwhen": "2019-05-09T15:00:50.702Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60175Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Janet Cheng Ning Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4860916137695,
+                43.7232131958008
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M3M 0B5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130155-125789",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T09:55:42.242Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Jasmine-On-Ying-Lee",
+        "nodeid": 125789,
+        "documentid": 130155,
+        "nodealias": "Jasmine-On-Ying-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0418320e-1691-47ce-bd85-9f1fe6075fa2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jasmine On-Ying Lee",
+        "documentmodifiedwhen": "2022-01-12T07:33:05.081Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81823J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jasmine On-Ying Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2S5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "97489-96217",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:59:30.332Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/058/Jasmyn-Erin-Elizabeth-Lee",
+        "nodeid": 96217,
+        "documentid": 97489,
+        "nodealias": "Jasmyn-Erin-Elizabeth-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f596c1db-6601-4ed1-bd0a-b58a04d27452",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jasmyn Erin Elizabeth Lee",
+        "documentmodifiedwhen": "2020-05-27T07:17:15.048Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75571I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jasmyn Erin Elizabeth Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3816680908203,
+                43.6486129760742
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "125965-122158",
+        "sys_site": "lso",
+        "sys_created": "2020-11-03T07:56:38.666Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Jason-James-Lee",
+        "nodeid": 122158,
+        "documentid": 125965,
+        "nodealias": "Jason-James-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "75f41721-e53a-42d6-8d1f-855c4047de68",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jason James Lee",
+        "documentmodifiedwhen": "2022-01-17T07:27:34.911Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80923L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jason James Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4P 1K5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "97432-96162",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:57:57.949Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/058/Jason-Pak-Wai-Lee",
+        "nodeid": 96162,
+        "documentid": 97432,
+        "nodealias": "Jason-Pak-Wai-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f11210d0-9e79-4288-8c71-76f7a78a5bb7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jason Pak Wai Lee",
+        "documentmodifiedwhen": "2021-12-14T07:37:35.988Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "12471M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jason Pak Wai Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95318-94046",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:06:29.138Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Jean-Jing-Lee",
+        "nodeid": 94046,
+        "documentid": 95318,
+        "nodealias": "Jean-Jing-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "aca429a6-cc44-420c-ae9b-9c33f8113e3f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jean Jing Lee",
+        "documentmodifiedwhen": "2022-01-09T07:26:15.41Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61592K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jean Jing Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1E7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95267-93995",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:05:00.674Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Jeanette-Wai-Yuen-Lee",
+        "nodeid": 93995,
+        "documentid": 95267,
+        "nodealias": "Jeanette-Wai-Yuen-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "155937d7-72fd-482f-b136-d88aec204c7e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jeanette Wai Yuen Lee",
+        "documentmodifiedwhen": "2022-01-06T07:20:49.957Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43108T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jeanette Wai Yuen Lee",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L5T 2V3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "122660-119185",
+        "sys_site": "lso",
+        "sys_created": "2020-06-16T07:24:28.46Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Jee-Won-Lee",
+        "nodeid": 119185,
+        "documentid": 122660,
+        "nodealias": "Jee-Won-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5317decd-9163-4e0e-bbe4-90e58015db76",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jee Won Lee",
+        "documentmodifiedwhen": "2021-01-14T07:21:11.755Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "79612F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jee Won Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -81.2534332275391,
+                42.9831352233887
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N6A 6B4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "97468-96197",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:58:51.611Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/058/Jeffrey-Chiat-J-Lee",
+        "nodeid": 96197,
+        "documentid": 97468,
+        "nodealias": "Jeffrey-Chiat-J-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a92b4b3d-c017-4347-9168-7024f288d51b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jeffrey Chiat-J Lee",
+        "documentmodifiedwhen": "2022-01-03T07:20:36.772Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52890P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jeffrey Chiat-J Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Singapore",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "189704",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Singapore"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139660-134048",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T07:31:33.888Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Jennifer-Lee",
+        "nodeid": 134048,
+        "documentid": 139660,
+        "nodealias": "Jennifer-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4c4ab2b2-c255-42cb-82e9-cb1088deee62",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Lee",
+        "documentmodifiedwhen": "2022-07-23T07:16:10.12Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85252H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 1Z3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95362-94090",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:07:33.453Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Jennifer-Lee",
+        "nodeid": 94090,
+        "documentid": 95362,
+        "nodealias": "Jennifer-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "07c92cb2-37d1-444c-8024-28959264f4e3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Lee",
+        "documentmodifiedwhen": "2022-01-17T07:17:34.437Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75104J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 0B6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95278-94006",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:05:15.398Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Jennifer-Carmella-Lee",
+        "nodeid": 94006,
+        "documentid": 95278,
+        "nodealias": "Jennifer-Carmella-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0b014ba5-5d16-4d13-a6e1-587bddf2335f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Carmella Lee",
+        "documentmodifiedwhen": "2022-01-02T07:18:31.726Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46663J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Carmella Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 2C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95293-94022",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:05:42.99Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Jennifer-Cheun-Hui-Lee",
+        "nodeid": 94022,
+        "documentid": 95293,
+        "nodealias": "Jennifer-Cheun-Hui-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8bfdf080-d8d6-458f-9632-60f24974c10b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Cheun-Hui Lee",
+        "documentmodifiedwhen": "2022-04-21T07:17:17.965Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51337Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Cheun-Hui Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5A 0B5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "124093-120543",
+        "sys_site": "lso",
+        "sys_created": "2020-06-27T07:42:27.8Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Jennifer-Eunseon-Lee",
+        "nodeid": 120543,
+        "documentid": 124093,
+        "nodealias": "Jennifer-Eunseon-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c4939e77-a1f0-4f61-9c1e-febea11195a2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Eunseon Lee",
+        "documentmodifiedwhen": "2021-01-23T07:20:17.655Z",
+        "skuname": null,
+        "memberprovincetext": "Alberta",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80442H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Eunseon Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -114.099609375,
+                51.0440368652344
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "T3C 0K1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Calgary"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95339-94067",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:06:56.008Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Jennifer-Huan-Wah-Lee",
+        "nodeid": 94067,
+        "documentid": 95339,
+        "nodealias": "Jennifer-Huan-Wah-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "737a59b1-3b04-49ab-a638-e12e62264d0c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Huan Wah Lee",
+        "documentmodifiedwhen": "2021-03-12T07:27:21.824Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66930A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Huan Wah Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3909912109375,
+                43.6588096618652
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 0A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139643-134031",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T07:30:26.767Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Jennifer-Sophia-Lee",
+        "nodeid": 134031,
+        "documentid": 139643,
+        "nodealias": "Jennifer-Sophia-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3063074f-3694-4925-a028-1571f10af1d3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Sophia Lee",
+        "documentmodifiedwhen": "2022-07-07T07:30:28.358Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85253D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Sophia Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95360-94088",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:07:26.425Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Jessica-Janina-Lee",
+        "nodeid": 94088,
+        "documentid": 95360,
+        "nodealias": "Jessica-Janina-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dc0ebd66-b299-407f-ab68-9104e493dd62",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jessica Janina Lee",
+        "documentmodifiedwhen": "2022-01-14T07:23:24.874Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74320F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jessica Janina Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K6V 3Z7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brockville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95336-94064",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:06:51.867Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Jessica-Simone-Lee",
+        "nodeid": 94064,
+        "documentid": 95336,
+        "nodealias": "Jessica-Simone-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "381c8229-5f72-4e80-a1b9-329d2c6c2227",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jessica Simone Lee",
+        "documentmodifiedwhen": "2022-01-11T07:19:05.378Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66353N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jessica Simone Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5E 1G4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95363-94091",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:07:39.059Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Ji-Won-Lee",
+        "nodeid": 94091,
+        "documentid": 95363,
+        "nodealias": "Ji-Won-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c4625136-4f0f-4dcc-ab9e-af3220166179",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ji Won Lee",
+        "documentmodifiedwhen": "2021-09-21T08:42:18.651Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75105F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ji Won Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -122.972412109375,
+                49.2449264526367
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "V5H 4H7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Burnaby"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95319-94047",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:06:29.232Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Jina-Lee",
+        "nodeid": 94047,
+        "documentid": 95319,
+        "nodealias": "Jina-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c9003faf-0072-449b-aa05-99928af1bcad",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jina Lee",
+        "documentmodifiedwhen": "2022-06-08T07:17:00.307Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61593G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jina Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "L3Y 6B1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Newmarket"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95234-93962",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:04:11.929Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Joanne-Frances-Lee",
+        "nodeid": 93962,
+        "documentid": 95234,
+        "nodealias": "Joanne-Frances-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "47b4a544-a537-4885-9bae-565a74522aa4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joanne Frances Lee",
+        "documentmodifiedwhen": "2021-12-25T07:25:20.872Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27660S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joanne Frances Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0R5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95262-93990",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:04:54.667Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/John-Lee-(1)",
+        "nodeid": 93990,
+        "documentid": 95262,
+        "nodealias": "John-Lee-(1)",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8af86f8b-8aea-4a0f-a044-f47c1cecbbd5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Lee",
+        "documentmodifiedwhen": "2022-04-29T07:17:32.038Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "40913M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M7A 2S9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95255-93982",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:04:40.723Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/John-Lee",
+        "nodeid": 93982,
+        "documentid": 95255,
+        "nodealias": "John-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ad86ba89-1752-4c6e-a4cf-494b2bd062cc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Lee",
+        "documentmodifiedwhen": "2022-03-27T07:15:51.041Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38325B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95263-93991",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:04:55.871Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/John-Fleming-Lee",
+        "nodeid": 93991,
+        "documentid": 95263,
+        "nodealias": "John-Fleming-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bf87fecf-c20d-4ee9-8dac-1039b4fe8948",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Fleming Lee",
+        "documentmodifiedwhen": "2022-01-19T07:16:25.675Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41522P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Fleming Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1J 9B9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Gloucester"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95246-93974",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:04:29.137Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/John-Yun-Chung-Lee",
+        "nodeid": 93974,
+        "documentid": 95246,
+        "nodealias": "John-Yun-Chung-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3b3117a3-24a2-463c-b4d5-8c2f4416ac06",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Yun Chung Lee",
+        "documentmodifiedwhen": "2022-06-17T07:24:46.652Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "34977U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Yun Chung Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "U",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95242-93971",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:04:23.166Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Jong-Bum-Lee",
+        "nodeid": 93971,
+        "documentid": 95242,
+        "nodealias": "Jong-Bum-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1556abf9-f8b7-4c6e-9b40-a3d0d1ad7714",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jong Bum Lee",
+        "documentmodifiedwhen": "2022-05-28T07:45:50.911Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33820I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jong Bum Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M5H 2Y2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139642-134030",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T07:30:22.778Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Joo-Yeon-Lee",
+        "nodeid": 134030,
+        "documentid": 139642,
+        "nodealias": "Joo-Yeon-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "95e869df-c569-42d7-8a7e-9939598223d9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joo Yeon Lee",
+        "documentmodifiedwhen": "2022-07-08T07:16:02.98Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85254W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joo Yeon Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 1R8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95354-94082",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:07:19.673Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Joohyung-Lee",
+        "nodeid": 94082,
+        "documentid": 95354,
+        "nodealias": "Joohyung-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "838e08a0-b127-42ad-b220-7a734977fe67",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joohyung Lee",
+        "documentmodifiedwhen": "2021-08-10T07:19:30.138Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72285G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joohyung Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3820571899414,
+                43.6562919616699
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 2C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "113971-111963",
+        "sys_site": "lso",
+        "sys_created": "2019-03-12T07:18:33.791Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Ju-Jun-Lee",
+        "nodeid": 111963,
+        "documentid": 113971,
+        "nodealias": "Ju-Jun-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b2159a1c-52e0-4ebb-b642-0a3e3252bf03",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ju-Jun Lee",
+        "documentmodifiedwhen": "2021-12-20T07:18:57.601Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Cantonais",
+            "Mandarin"
+        ],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Cantonese",
+            "Mandarin"
+        ],
+        "membernumber": "P15353",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ju-Jun Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M1S 1V2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "135210-130238",
+        "sys_site": "lso",
+        "sys_created": "2021-12-01T11:22:54.066Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/015/Jude-Thaddeus-Tze-On-Lee",
+        "nodeid": 130238,
+        "documentid": 135210,
+        "nodealias": "Jude-Thaddeus-Tze-On-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "36ca3d93-69b5-4aa5-a839-9a57ebabb8bf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jude Thaddeus Tze On Lee",
+        "documentmodifiedwhen": "2021-12-30T07:30:35.285Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83592A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jude Thaddeus Tze On Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95228-93956",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:04:02.366Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Julia-Yuen-Nam-Lee",
+        "nodeid": 93956,
+        "documentid": 95228,
+        "nodealias": "Julia-Yuen-Nam-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ea851811-18bc-4874-88db-cb2d7bab23d0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Julia Yuen-Nam Lee",
+        "documentmodifiedwhen": "2021-12-21T07:25:55.065Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21543I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Julia Yuen-Nam Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4M 1Y8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95270-93998",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:05:02.564Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Julie-Lee",
+        "nodeid": 93998,
+        "documentid": 95270,
+        "nodealias": "Julie-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6f1bb3f8-59d0-47b5-a39a-83d723878480",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Julie Lee",
+        "documentmodifiedwhen": "2021-10-27T07:16:17.886Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43815B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Julie Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "97438-96167",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:58:08.51Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/058/Julie-Yan-Ping-Lee",
+        "nodeid": 96167,
+        "documentid": 97438,
+        "nodealias": "Julie-Yan-Ping-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "17149e8b-a1a0-44b4-8d5c-17d2d28a302a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Julie Yan-Ping Lee",
+        "documentmodifiedwhen": "2020-02-20T08:09:35.719Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "19960D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Julie Yan-Ping Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "138863-133306",
+        "sys_site": "lso",
+        "sys_created": "2022-06-14T07:50:40.03Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/015/Jun-Gu-Lee",
+        "nodeid": 133306,
+        "documentid": 138863,
+        "nodealias": "Jun-Gu-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5920617c-41b0-4122-8256-60decdbdafc1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jun Gu Lee",
+        "documentmodifiedwhen": "2022-07-30T08:01:13.037Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18551",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jun Gu Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "97459-96187",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:58:32.844Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/058/Jung-Min-Lee",
+        "nodeid": 96187,
+        "documentid": 97459,
+        "nodealias": "Jung-Min-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "16721ed2-c9d6-4de2-9b4f-04a6e0976646",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jung-Min Lee",
+        "documentmodifiedwhen": "2022-03-09T07:16:01.268Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43294R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jung-Min Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139641-134029",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T07:30:18.734Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Junpyo-Lee",
+        "nodeid": 134029,
+        "documentid": 139641,
+        "nodealias": "Junpyo-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "41ce544f-8722-4463-99b4-97982fab150c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Junpyo Lee",
+        "documentmodifiedwhen": "2022-07-07T07:30:38.2Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85255S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Junpyo Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "129372-125091",
+        "sys_site": "lso",
+        "sys_created": "2021-05-01T08:29:19.113Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Justin-Jeongmin-Lee",
+        "nodeid": 125091,
+        "documentid": 129372,
+        "nodealias": "Justin-Jeongmin-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2ba63f23-de06-4f80-a287-a91b1c5521a1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Justin Jeongmin Lee",
+        "documentmodifiedwhen": "2022-01-13T07:34:34.019Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81513W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Justin Jeongmin Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5R 1J2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95279-94007",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:05:15.695Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Kam-Yu-Janet-Lee",
+        "nodeid": 94007,
+        "documentid": 95279,
+        "nodealias": "Kam-Yu-Janet-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bb928e97-9845-4272-bc35-a5b0b82d41c5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kam Yu Janet Lee",
+        "documentmodifiedwhen": "2022-01-01T07:25:50.078Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46929C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kam Yu Janet Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L3R 9X8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95322-94050",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:06:33.689Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Kang-Hyuk-Lee",
+        "nodeid": 94050,
+        "documentid": 95322,
+        "nodealias": "Kang-Hyuk-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f626254a-cae2-41a8-831f-a78c9b17f72e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kang Hyuk Lee",
+        "documentmodifiedwhen": "2022-01-10T07:28:06.33Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "62561U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kang Hyuk Lee",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "J4B 5H3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Boucherville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95332-94060",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:06:47.385Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Kar-Kiu-Clara-Lee",
+        "nodeid": 94060,
+        "documentid": 95332,
+        "nodealias": "Kar-Kiu-Clara-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "05581a9c-0d7f-408e-af42-6dd5cd75c609",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kar Kiu Clara Lee",
+        "documentmodifiedwhen": "2022-01-11T07:21:01.149Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65594A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kar Kiu Clara Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 3G7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95273-94001",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:05:09.929Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Karen-Kar-Lin-Lee",
+        "nodeid": 94001,
+        "documentid": 95273,
+        "nodealias": "Karen-Kar-Lin-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d9fa5364-04fa-45f6-80c0-7c7ebca171d8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karen Kar Lin Lee",
+        "documentmodifiedwhen": "2022-01-01T07:30:01.58Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45220F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karen Kar Lin Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N3H 4R7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Cambridge"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95299-94027",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:05:49.787Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Karsten-Theodore-Cukingnan-Lee",
+        "nodeid": 94027,
+        "documentid": 95299,
+        "nodealias": "Karsten-Theodore-Cukingnan-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "abe581c7-0066-42f8-81d7-8901b67b27d4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karsten Theodore Cukingnan Lee",
+        "documentmodifiedwhen": "2022-01-04T07:26:41.858Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54042B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karsten Theodore Cukingnan Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1B7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95351-94079",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:07:18.782Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Katherine-Hyewon-Lee",
+        "nodeid": 94079,
+        "documentid": 95351,
+        "nodealias": "Katherine-Hyewon-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "32ac1dd3-1032-4e67-9613-fd8f5e68c0ac",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Katherine Hyewon Lee",
+        "documentmodifiedwhen": "2022-01-13T07:31:48.481Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71599M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Katherine Hyewon Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 1V2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95353-94081",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:07:19.532Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Katherine-Hyun-Jeong-Lee",
+        "nodeid": 94081,
+        "documentid": 95353,
+        "nodealias": "Katherine-Hyun-Jeong-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4a10a525-58a9-4346-8e14-725a494fc10a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Katherine Hyun Jeong Lee",
+        "documentmodifiedwhen": "2022-01-14T07:21:41.54Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72286C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Katherine Hyun Jeong Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3S5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95331-94059",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:06:46.776Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/052/Katherine-Yafang-Lee",
+        "nodeid": 94059,
+        "documentid": 95331,
+        "nodealias": "Katherine-Yafang-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c8cea4c9-e856-4af2-af28-aa32e983ce3b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Katherine Yafang Lee",
+        "documentmodifiedwhen": "2022-01-11T07:24:32.155Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64910N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Katherine Yafang Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2J 1P9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "97434-96160",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:57:57.855Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/011/Katty-Johanna-Lee",
+        "nodeid": 96160,
+        "documentid": 97434,
+        "nodealias": "Katty-Johanna-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0f8e7a4e-6c56-409b-91e0-14cdf8811d49",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Katty Johanna Lee",
+        "documentmodifiedwhen": "2021-09-21T08:59:02.003Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11024",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Katty Johanna Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "95205-93933",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T10:03:31.761Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Kelly-Ann-Lee",
+        "nodeid": 93933,
+        "documentid": 95205,
+        "nodealias": "Kelly-Ann-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "280b80d4-f241-489c-8e76-e330be988b8e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kelly-Ann Lee",
+        "documentmodifiedwhen": "2021-09-21T09:09:19.213Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07081",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kelly-Ann Lee",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -80.4378204345703,
+                43.4305877685547
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "N2A 2L7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kitchener"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "117169-114767",
+        "sys_site": "lso",
+        "sys_created": "2019-06-28T08:35:34.937Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Kelly-Ann-Lee",
+        "nodeid": 114767,
+        "documentid": 117169,
+        "nodealias": "Kelly-Ann-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1f1b03ce-83b9-439f-be6b-89aa845b3de9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kelly-Ann Lee",
+        "documentmodifiedwhen": "2022-07-13T07:18:11.623Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77712T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kelly-Ann Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5E 0C7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "137368-132027",
+        "sys_site": "lso",
+        "sys_created": "2022-04-02T07:30:08.629Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Keonwoo-Timothy-Lee",
+        "nodeid": 132027,
+        "documentid": 137368,
+        "nodealias": "Keonwoo-Timothy-Lee",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5770bb11-8cd6-48b3-841c-53738ac960ab",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Keonwoo Timothy Lee",
+        "documentmodifiedwhen": "2022-04-23T07:15:48.535Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83971W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Keonwoo Timothy Lee",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L1V 7G5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Pickering"
+        ]
+    }
+]

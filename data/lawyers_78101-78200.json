@@ -1,0 +1,5114 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59913-58639",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:19:57.047Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Joanna-Hayley-Weiss",
+        "nodeid": 58639,
+        "documentid": 59913,
+        "nodealias": "Joanna-Hayley-Weiss",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a33e6671-7c3e-42f7-86a5-606a3808108d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joanna Hayley Weiss",
+        "documentmodifiedwhen": "2020-08-26T07:16:48.136Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63238F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joanna Hayley Weiss",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3650131225586,
+                43.6541709899902
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5A 2W8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59898-58627",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:19:56.046Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Leonard-Edward-Weiss",
+        "nodeid": 58627,
+        "documentid": 59898,
+        "nodealias": "Leonard-Edward-Weiss",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f7a67af4-e173-49de-9f3a-ed3337c0063f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Leonard Edward Weiss",
+        "documentmodifiedwhen": "2021-09-21T09:12:34.792Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P04480",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Leonard Edward Weiss",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -81.2833023071289,
+                42.9611015319824
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "N6J 3S1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59912-58638",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:19:56.421Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Maya-Weiss",
+        "nodeid": 58638,
+        "documentid": 59912,
+        "nodealias": "Maya-Weiss",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a0af589b-60a9-4e9f-abd6-34a3426ffa0d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Maya Weiss",
+        "documentmodifiedwhen": "2022-03-01T07:17:15.983Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60877H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Maya Weiss",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0P7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88580-87308",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:10.073Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/043/Robert-Saul-Weiss",
+        "nodeid": 87308,
+        "documentid": 88580,
+        "nodealias": "Robert-Saul-Weiss",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "22cad52e-a542-463a-8d91-ea856a153db5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Saul Weiss",
+        "documentmodifiedwhen": "2019-05-09T14:20:38.63Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38063P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Saul Weiss",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59909-58635",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:19:56.233Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Sherry-Weiss",
+        "nodeid": 58635,
+        "documentid": 59909,
+        "nodealias": "Sherry-Weiss",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2550623e-8594-45e6-97d4-f64058eabc12",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sherry Weiss",
+        "documentmodifiedwhen": "2021-12-26T07:17:05.72Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "28029I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sherry Weiss",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 6S6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59906-58632",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:19:56.108Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Steven-Weiss",
+        "nodeid": 58632,
+        "documentid": 59906,
+        "nodealias": "Steven-Weiss",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "01a21a01-39c5-4a15-b2ca-101a8595ecba",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Steven Weiss",
+        "documentmodifiedwhen": "2021-12-21T07:20:54.839Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24295K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Steven Weiss",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M2J 5B4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59902-58631",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:19:56.124Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Steven-Bradley-Weiss",
+        "nodeid": 58631,
+        "documentid": 59902,
+        "nodealias": "Steven-Bradley-Weiss",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "74b77e6e-0856-4e9c-abd7-22147c92b9a2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Steven Bradley Weiss",
+        "documentmodifiedwhen": "2021-12-24T07:20:03.211Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25186K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Steven Bradley Weiss",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M3H 5S8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59903-58629",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:19:56.046Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Thomas-Louis-Weiss",
+        "nodeid": 58629,
+        "documentid": 59903,
+        "nodealias": "Thomas-Louis-Weiss",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "68db130f-2010-40ad-ae54-31ec3a767ff6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Thomas Louis Weiss",
+        "documentmodifiedwhen": "2021-11-05T07:16:44.001Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "17217H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Thomas Louis Weiss",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -120.334808349609,
+                50.6764450073242
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "V2C 6H6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kamloops"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59915-58643",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:20:01.75Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Michael-George-Weissenborn",
+        "nodeid": 58643,
+        "documentid": 59915,
+        "nodealias": "Michael-George-Weissenborn",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8706108e-e9d3-4b78-bad0-2e02607cecd9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael George Weissenborn",
+        "documentmodifiedwhen": "2021-12-14T10:50:44.893Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25587M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael George Weissenborn",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59919-58645",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:20:01.875Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Robert-William-Weisser",
+        "nodeid": 58645,
+        "documentid": 59919,
+        "nodealias": "Robert-William-Weisser",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "be278caf-a580-43f0-9e0f-e5401582bc42",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert William Weisser",
+        "documentmodifiedwhen": "2021-12-31T07:16:21.898Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43846C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert William Weisser",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N9A 1A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Windsor"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88588-87314",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:18.106Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/043/William-Wolfe-Berl-Weissglas",
+        "nodeid": 87314,
+        "documentid": 88588,
+        "nodealias": "William-Wolfe-Berl-Weissglas",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7d457773-4673-4ecf-b282-2a411297bfc2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "William Wolfe Berl Weissglas",
+        "documentmodifiedwhen": "2021-12-14T07:27:30.071Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "15454W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "William Wolfe Berl Weissglas",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88584-87312",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:19.249Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/043/Adam-Noah-Weissman",
+        "nodeid": 87312,
+        "documentid": 88584,
+        "nodealias": "Adam-Noah-Weissman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0d0fed5f-06a5-45b2-b6a2-fd1021fd3358",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Adam Noah Weissman",
+        "documentmodifiedwhen": "2020-02-20T09:01:26.214Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64670H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Adam Noah Weissman",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59920-58646",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:20:01.891Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/David-Norman-Weisstub",
+        "nodeid": 58646,
+        "documentid": 59920,
+        "nodealias": "David-Norman-Weisstub",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b4fbbba7-fac4-4fd7-afe7-78e4756494f6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Norman Weisstub",
+        "documentmodifiedwhen": "2021-12-14T08:00:29.706Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13247O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Norman Weisstub",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59921-58647",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:20:01.969Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Jonathan-Irving-Weisstub",
+        "nodeid": 58647,
+        "documentid": 59921,
+        "nodealias": "Jonathan-Irving-Weisstub",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "98f58979-b2e3-48ff-89e1-62846b2be359",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jonathan Irving Weisstub",
+        "documentmodifiedwhen": "2022-06-28T07:15:54.381Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45554K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jonathan Irving Weisstub",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 2C8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "137743-132353",
+        "sys_site": "lso",
+        "sys_created": "2022-04-30T07:30:00.781Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/015/Andrea-Lorraine-Weist",
+        "nodeid": 132353,
+        "documentid": 137743,
+        "nodealias": "Andrea-Lorraine-Weist",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fcd81a40-1308-4aa5-a42b-868ff864723b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrea Lorraine Weist",
+        "documentmodifiedwhen": "2022-07-21T07:17:57.502Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Infractions punissables par proc\u00e9dure sommaire \u00e0 la Cour de justice de l'Ontario",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Location immobili\u00e8re",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Ontario Court of Justice - Summary Conviction Offences",
+            "Small Claims Court matters",
+            "Landlord and Tenant",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18323",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrea Lorraine Weist",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e (restriction \u00e0 la pratique)"
+        ],
+        "memberwebstatus": [
+            "In Private Practice (Practice Restricted)"
+        ],
+        "memberpostalcode": "P5E 1C4",
+        "membercurrentrestrictions": "Y",
+        "membercity": [
+            "Espanola"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59935-58660",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:20:14.814Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Eric-Owen-Weisz",
+        "nodeid": 58660,
+        "documentid": 59935,
+        "nodealias": "Eric-Owen-Weisz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e23c637f-3486-4c8d-837d-dc4433eb0e2b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eric Owen Weisz",
+        "documentmodifiedwhen": "2021-12-30T07:30:05.354Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41790H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eric Owen Weisz",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4W 3V8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59926-58652",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:20:07.61Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Evelyn-Maria-Madeleine-Weisz",
+        "nodeid": 58652,
+        "documentid": 59926,
+        "nodealias": "Evelyn-Maria-Madeleine-Weisz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e449341e-18d0-4c0d-aced-fe0add10a589",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Evelyn Maria Madeleine Weisz",
+        "documentmodifiedwhen": "2020-03-31T07:16:26.567Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30914B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Evelyn Maria Madeleine Weisz",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59929-58656",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:20:09.298Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Jonathan-Benjamin-Weisz",
+        "nodeid": 58656,
+        "documentid": 59929,
+        "nodealias": "Jonathan-Benjamin-Weisz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a61385f7-a5a1-4dd1-9b1e-732dc55cf266",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jonathan Benjamin Weisz",
+        "documentmodifiedwhen": "2021-09-21T07:58:23.78Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33114W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jonathan Benjamin Weisz",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "29293-28426",
+        "sys_site": "lso",
+        "sys_created": "2018-07-13T14:01:00.6Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Jordan-Frank-Weisz",
+        "nodeid": 28426,
+        "documentid": 29293,
+        "nodealias": "Jordan-Frank-Weisz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2910ab2e-4123-4c57-8f17-095ec8011c09",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jordan Frank Weisz",
+        "documentmodifiedwhen": "2021-12-27T07:16:18.565Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit criminel et quasi criminel",
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Infractions punissables par proc\u00e9dure sommaire \u00e0 la Cour de justice de l'Ontario"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Criminal/Quasi-Criminal Law",
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Ontario Court of Justice - Summary Conviction Offences"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33546C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jordan Frank Weisz",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5B 1L2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88585-87313",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:19.374Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/043/Karen-Weisz",
+        "nodeid": 87313,
+        "documentid": 88585,
+        "nodealias": "Karen-Weisz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8b24554d-3698-45c9-8cce-ec49a4a9d3a5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karen Weisz",
+        "documentmodifiedwhen": "2022-05-28T07:20:09.842Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37379N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karen Weisz",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M4P 2H9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59928-58654",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:20:09.298Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Steven-Jonathan-Weisz",
+        "nodeid": 58654,
+        "documentid": 59928,
+        "nodealias": "Steven-Jonathan-Weisz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2dd2918b-3764-4a9f-9296-17e1ac240143",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Steven Jonathan Weisz",
+        "documentmodifiedwhen": "2021-12-26T07:22:42.146Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32102C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Steven Jonathan Weisz",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2J3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59923-58649",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:20:02.016Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Thomas-James-Weisz",
+        "nodeid": 58649,
+        "documentid": 59923,
+        "nodealias": "Thomas-James-Weisz",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b6307162-4af3-4c50-bf41-adaa41d08448",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Thomas James Weisz",
+        "documentmodifiedwhen": "2021-12-14T07:57:42.859Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13276A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Thomas James Weisz",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L8N 1H5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59937-58663",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:20:15.08Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Jonathan-Weitzner",
+        "nodeid": 58663,
+        "documentid": 59937,
+        "nodealias": "Jonathan-Weitzner",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2a0e35c3-2c4b-42e1-955b-1af1498bf31c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jonathan Weitzner",
+        "documentmodifiedwhen": "2020-02-20T09:01:56.165Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65012O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jonathan Weitzner",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88587-87317",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:20.265Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/043/Michael-Maurice-Allan-Weizel",
+        "nodeid": 87317,
+        "documentid": 88587,
+        "nodealias": "Michael-Maurice-Allan-Weizel",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9e1d7a33-74d0-4e39-9048-0f44a119a7ba",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Maurice Allan Weizel",
+        "documentmodifiedwhen": "2022-01-15T07:21:48.667Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "73092U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Maurice Allan Weizel",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5V 2T3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88591-87319",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:21.797Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/043/Jessica-Shelby-Weizenbluth",
+        "nodeid": 87319,
+        "documentid": 88591,
+        "nodealias": "Jessica-Shelby-Weizenbluth",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8fbb2c6d-79e5-431c-91f4-449364cd4f1d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jessica Shelby Weizenbluth",
+        "documentmodifiedwhen": "2019-05-09T14:20:47.12Z",
+        "skuname": null,
+        "memberprovincetext": "California",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65013K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jessica Shelby Weizenbluth",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -118.499404907227,
+                34.0160865783691
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "90401",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Los Angeles"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "138613-133056",
+        "sys_site": "lso",
+        "sys_created": "2022-06-14T07:28:13.527Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/036/Andrew-Ian-Weizman",
+        "nodeid": 133056,
+        "documentid": 138613,
+        "nodealias": "Andrew-Ian-Weizman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1dd18a20-a3d6-4f9f-b2d8-908199788e2b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew Ian Weizman",
+        "documentmodifiedwhen": "2022-07-07T07:27:38.526Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84448E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew Ian Weizman",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59941-58667",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:20:18.753Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Michael-Weizman",
+        "nodeid": 58667,
+        "documentid": 59941,
+        "nodealias": "Michael-Weizman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5a0d7cf8-bec8-4dee-ab28-e4d769daa90b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Weizman",
+        "documentmodifiedwhen": "2021-12-14T09:04:55.328Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21903P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Weizman",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59946-58674",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:20:28.049Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Qumers-Wejdan",
+        "nodeid": 58674,
+        "documentid": 59946,
+        "nodealias": "Qumers-Wejdan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "867b30a7-1de8-4bb6-bebf-0a020027d10d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Qumers Wejdan",
+        "documentmodifiedwhen": "2020-11-17T07:17:10.643Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56977K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Qumers Wejdan",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3810119628906,
+                43.6476707458496
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5K 1A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59947-58676",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:20:27.986Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Tara-Welat",
+        "nodeid": 58676,
+        "documentid": 59947,
+        "nodealias": "Tara-Welat",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e64f5cda-efa3-443f-a30b-b7d24c9718ae",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tara Welat",
+        "documentmodifiedwhen": "2022-03-26T07:16:31.782Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56013O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tara Welat",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4V 1N5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60041-58762",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:16.304Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Brent-Matthew-Welch",
+        "nodeid": 58762,
+        "documentid": 60041,
+        "nodealias": "Brent-Matthew-Welch",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c30433ce-7c47-4e9e-a287-a080da9910dd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brent Matthew Welch",
+        "documentmodifiedwhen": "2021-12-03T07:16:43.637Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74424C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brent Matthew Welch",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "J8X 4B1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Gatineau"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59948-58678",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:20:27.971Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Jillian-Margaret-Welch",
+        "nodeid": 58678,
+        "documentid": 59948,
+        "nodealias": "Jillian-Margaret-Welch",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "41fddf5f-a243-4218-82d9-8c9d7736b334",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jillian Margaret Welch",
+        "documentmodifiedwhen": "2021-12-24T07:22:31.967Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27152U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jillian Margaret Welch",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M7A 1Z1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60031-58757",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:12.835Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Joel-Michael-Welch",
+        "nodeid": 58757,
+        "documentid": 60031,
+        "nodealias": "Joel-Michael-Welch",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "78efe23c-b446-4ad9-af7b-9136c98b23ee",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joel Michael Welch",
+        "documentmodifiedwhen": "2022-01-08T07:29:03.382Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61102M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joel Michael Welch",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "N6A 5B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59949-58671",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:20:28.018Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Lorene-Patricia-Welch",
+        "nodeid": 58671,
+        "documentid": 59949,
+        "nodealias": "Lorene-Patricia-Welch",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f444eee4-132a-4cd6-b41a-15c360083bc9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lorene Patricia Welch",
+        "documentmodifiedwhen": "2021-12-14T09:03:00.158Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21481C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lorene Patricia Welch",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59955-58681",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:20:33.283Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Moray-Welch",
+        "nodeid": 58681,
+        "documentid": 59955,
+        "nodealias": "Moray-Welch",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e81d4bd0-ee7e-4a3c-93df-b41defe46860",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Moray Welch",
+        "documentmodifiedwhen": "2021-12-30T07:24:07.784Z",
+        "skuname": null,
+        "memberprovincetext": "Nunavut",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41228V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Moray Welch",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "X0A 0H0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Iqaluit"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "59951-58669",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:20:27.986Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Sandra-Elaine-Welch",
+        "nodeid": 58669,
+        "documentid": 59951,
+        "nodealias": "Sandra-Elaine-Welch",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "15cad30b-4f20-4c32-9271-74d470ae1e85",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sandra Elaine Welch",
+        "documentmodifiedwhen": "2021-12-30T07:24:43.687Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41195B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sandra Elaine Welch",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N5Y 5R8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60032-58764",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:16.335Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Lisa-Margaret-Welch-Madden",
+        "nodeid": 58764,
+        "documentid": 60032,
+        "nodealias": "Lisa-Margaret-Welch-Madden",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "49b23727-f58c-45ec-b04a-8127c3cb68a0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lisa Margaret Welch Madden",
+        "documentmodifiedwhen": "2021-06-08T07:16:01.341Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41084V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lisa Margaret Welch Madden",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4162368774414,
+                44.6110496520996
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L3V 4T5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Orillia"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "137649-132259",
+        "sys_site": "lso",
+        "sys_created": "2022-04-30T07:21:53.402Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/034/Loic-Alexandre-Felix-Welch-Mongeau",
+        "nodeid": 132259,
+        "documentid": 137649,
+        "nodealias": "Loic-Alexandre-Felix-Welch-Mongeau",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2f160dc7-b049-4c10-a57f-b05887fd25c9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lo\u00efc Alexandre F\u00e9lix Welch-Mongeau",
+        "documentmodifiedwhen": "2022-06-23T07:15:38.366Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84138R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lo\u00efc Alexandre F\u00e9lix Welch-Mongeau",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K2P 2K1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60044-58765",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:16.335Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Benjamin-Thomas-Welchner",
+        "nodeid": 58765,
+        "documentid": 60044,
+        "nodealias": "Benjamin-Thomas-Welchner",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a33bbc5a-803a-4481-b52a-47e3d471e6fa",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Benjamin Thomas Welchner",
+        "documentmodifiedwhen": "2021-09-21T08:39:43.759Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74425V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Benjamin Thomas Welchner",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60039-58758",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:16.366Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Steven-James-Welchner",
+        "nodeid": 58758,
+        "documentid": 60039,
+        "nodealias": "Steven-James-Welchner",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "71b4cc91-69cc-4259-b4b3-f7d76389670c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Steven James Welchner",
+        "documentmodifiedwhen": "2021-09-21T07:53:03.299Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30533K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Steven James Welchner",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88595-87323",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:28.23Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/043/Sirje-Weldon",
+        "nodeid": 87323,
+        "documentid": 88595,
+        "nodealias": "Sirje-Weldon",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "58087993-c3e0-4b8e-af36-681c7b454f20",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sirje Weldon",
+        "documentmodifiedwhen": "2021-12-14T07:30:37.954Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "12675W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sirje Weldon",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88596-87324",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:29.464Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/043/Judith-Ann-Welikovitch",
+        "nodeid": 87324,
+        "documentid": 88596,
+        "nodealias": "Judith-Ann-Welikovitch",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dfd07537-9477-4733-a455-1eb6cfb6a53b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Judith Ann Welikovitch",
+        "documentmodifiedwhen": "2021-12-24T07:20:59.616Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25187G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Judith Ann Welikovitch",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4N 3S1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60040-58760",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:16.319Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Lionel-Ananda-Weliwitigoda",
+        "nodeid": 58760,
+        "documentid": 60040,
+        "nodealias": "Lionel-Ananda-Weliwitigoda",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "afe59de8-13db-4659-b9b9-ba1924a2017f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lionel Ananda Weliwitigoda",
+        "documentmodifiedwhen": "2021-04-08T07:17:50.959Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la famille ou matrimonial",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Family/Matrimonial Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64671D",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Lionel Ananda Weliwitigoda",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6411972045898,
+                43.600830078125
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4Z 1V9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88597-87325",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:30.214Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/043/James-William-Welkoff",
+        "nodeid": 87325,
+        "documentid": 88597,
+        "nodealias": "James-William-Welkoff",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0e0a3340-9888-4faa-8921-2dada8afb011",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "James William Welkoff",
+        "documentmodifiedwhen": "2021-12-14T08:42:48.136Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "23301N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "James William Welkoff",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88598-87326",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:34.763Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/043/Barbara-Elizabeth-Morland-Wellard",
+        "nodeid": 87326,
+        "documentid": 88598,
+        "nodealias": "Barbara-Elizabeth-Morland-Wellard",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9324663c-59a2-420f-b289-1fa7f82952c1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Barbara Elizabeth Morland Wellard",
+        "documentmodifiedwhen": "2021-09-21T07:30:28.348Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "20116U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Barbara Elizabeth Morland Wellard",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123022-119547",
+        "sys_site": "lso",
+        "sys_created": "2020-06-16T09:00:02.337Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Ruth-Lilla-Wellen",
+        "nodeid": 119547,
+        "documentid": 123022,
+        "nodealias": "Ruth-Lilla-Wellen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "63d4b12e-f663-4242-96e1-4533adbc76a5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ruth Lilla Wellen",
+        "documentmodifiedwhen": "2021-09-14T07:19:34.663Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "79846U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ruth Lilla Wellen",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3839645385742,
+                43.6467399597168
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2H7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60037-58763",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:16.335Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Anthony-Wellenreiter",
+        "nodeid": 58763,
+        "documentid": 60037,
+        "nodealias": "Anthony-Wellenreiter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6be9c975-d310-43b4-9fd3-5c9dd4cdc614",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anthony Wellenreiter",
+        "documentmodifiedwhen": "2022-06-04T07:15:54.041Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "10429L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anthony Wellenreiter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L8S 1K8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60043-58770",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:16.335Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Richard-Anthony-Wellenreiter",
+        "nodeid": 58770,
+        "documentid": 60043,
+        "nodealias": "Richard-Anthony-Wellenreiter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a5ba5fc7-5c25-4700-b05d-7265728072bf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Richard Anthony Wellenreiter",
+        "documentmodifiedwhen": "2021-12-29T07:19:37.077Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37380U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Richard Anthony Wellenreiter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L7T 1G4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Burlington"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60036-58759",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:16.319Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Walter-Robert-Wellenreiter",
+        "nodeid": 58759,
+        "documentid": 60036,
+        "nodealias": "Walter-Robert-Wellenreiter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c040b9fc-aecd-4efb-83f7-ef79fded8370",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Walter Robert Wellenreiter",
+        "documentmodifiedwhen": "2022-01-05T07:19:24.097Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56190O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Walter Robert Wellenreiter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L7T 1G4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Burlington"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88599-87327",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:36.232Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Christopher-Michael-Weller",
+        "nodeid": 87327,
+        "documentid": 88599,
+        "nodealias": "Christopher-Michael-Weller",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "011a4346-4147-4290-bafd-a1a61aa1b43f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher Michael Weller",
+        "documentmodifiedwhen": "2020-02-20T09:25:48.406Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P10897",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher Michael Weller",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60035-58767",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:16.335Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Julie-Kathleen-Weller",
+        "nodeid": 58767,
+        "documentid": 60035,
+        "nodealias": "Julie-Kathleen-Weller",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "58b58a57-11ac-4c30-a7e2-8a228adbc506",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Julie Kathleen Weller",
+        "documentmodifiedwhen": "2022-01-13T07:20:09.939Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69891D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Julie Kathleen Weller",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5V 3H1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60034-58761",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:16.319Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Katelyn-May-Weller",
+        "nodeid": 58761,
+        "documentid": 60034,
+        "nodealias": "Katelyn-May-Weller",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3099233e-234a-40a8-9750-df49617faf8f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Katelyn May Weller",
+        "documentmodifiedwhen": "2022-01-12T07:26:32.757Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67974R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Katelyn May Weller",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1A4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "121127-118065",
+        "sys_site": "lso",
+        "sys_created": "2020-03-17T07:24:20.733Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Kylie-Summer-Weller",
+        "nodeid": 118065,
+        "documentid": 121127,
+        "nodealias": "Kylie-Summer-Weller",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "832fc0f5-e30d-4e39-8c74-d8dc71b882a5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kylie Summer Weller",
+        "documentmodifiedwhen": "2022-03-05T07:19:31.037Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P16423",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kylie Summer Weller",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60042-58768",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:16.319Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Edmund-Louis-Wellhauser",
+        "nodeid": 58768,
+        "documentid": 60042,
+        "nodealias": "Edmund-Louis-Wellhauser",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "88416ea6-a59d-4e06-b41a-b74265db4fda",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Edmund Louis Wellhauser",
+        "documentmodifiedwhen": "2021-12-14T08:00:17.283Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13209H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Edmund Louis Wellhauser",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N0B 1N0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Conestogo"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88600-87328",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:42.926Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/043/Bruce-Leslie-Welling",
+        "nodeid": 87328,
+        "documentid": 88600,
+        "nodealias": "Bruce-Leslie-Welling",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "94b66695-8893-458d-8f39-7911e995a304",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Bruce Leslie Welling",
+        "documentmodifiedwhen": "2021-12-14T08:50:10.369Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "17296J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Bruce Leslie Welling",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "D\u00e9c\u00e9d\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Deceased"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88603-87329",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:42.973Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Gisselle-Stacey-Ann-Wellington",
+        "nodeid": 87329,
+        "documentid": 88603,
+        "nodealias": "Gisselle-Stacey-Ann-Wellington",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2a51b163-f4f6-4118-bac1-941e97563586",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gisselle Stacey-Ann Wellington",
+        "documentmodifiedwhen": "2021-09-21T09:08:29.816Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07408",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gisselle Stacey-Ann Wellington",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60047-58771",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:16.398Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Howard-Roy-Alexander-Wellington",
+        "nodeid": 58771,
+        "documentid": 60047,
+        "nodealias": "Howard-Roy-Alexander-Wellington",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1fa5a930-4920-4cc4-9d95-b38c6e170453",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Howard Roy Alexander Wellington",
+        "documentmodifiedwhen": "2022-01-11T07:23:04.557Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65014G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Howard Roy Alexander Wellington",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M9M 1A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60038-58769",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:16.398Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Julie-Anne-Wellington",
+        "nodeid": 58769,
+        "documentid": 60038,
+        "nodealias": "Julie-Anne-Wellington",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0d538629-c3df-4aef-8e55-9f32d6e195c0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Julie Anne Wellington",
+        "documentmodifiedwhen": "2022-01-01T07:29:38.774Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45292B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Julie Anne Wellington",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0K1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88604-87330",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:43.91Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Simone-Tracey-Anne-Wellington",
+        "nodeid": 87330,
+        "documentid": 88604,
+        "nodealias": "Simone-Tracey-Anne-Wellington",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4a3ed304-f6b8-4c5c-b0b4-03aa36ec9e12",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Simone Tracey Anne Wellington",
+        "documentmodifiedwhen": "2022-05-14T07:22:29.602Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11297",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Simone Tracey Anne Wellington",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60045-58773",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:16.523Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Patricia-Ann-Wellman",
+        "nodeid": 58773,
+        "documentid": 60045,
+        "nodealias": "Patricia-Ann-Wellman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "27ee5bd6-8166-4d9c-be91-500a2ce2933c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Patricia Ann Wellman",
+        "documentmodifiedwhen": "2021-12-14T10:47:14.074Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26415O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Patricia Ann Wellman",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60046-58772",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:16.413Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Veronica-Marlene-Wellman",
+        "nodeid": 58772,
+        "documentid": 60046,
+        "nodealias": "Veronica-Marlene-Wellman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "68e7f412-a7d1-40e6-aca8-9b335d1bf48b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Veronica Marlene Wellman",
+        "documentmodifiedwhen": "2021-12-20T07:16:59.837Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13145",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Veronica Marlene Wellman",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "K1J 9L8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60053-58780",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:21.773Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Allan-Charles-Wesley-Wells",
+        "nodeid": 58780,
+        "documentid": 60053,
+        "nodealias": "Allan-Charles-Wesley-Wells",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "06919526-f945-4a13-b99d-55ac219398cc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Allan Charles Wesley Wells",
+        "documentmodifiedwhen": "2021-12-29T07:19:18.158Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38526A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Allan Charles Wesley Wells",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "34001-32737",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T02:05:06.017Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Bernadetta-Maria-Wells",
+        "nodeid": 32737,
+        "documentid": 34001,
+        "nodealias": "Bernadetta-Maria-Wells",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "40be757a-f828-4ebb-a3b0-3950b9f35269",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Bernadetta Maria Wells",
+        "documentmodifiedwhen": "2022-07-17T07:15:24.965Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13551",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Bernadetta Maria Wells",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Eligible to Provide Legal Services - No Proof of Insurance"
+        ],
+        "memberpostalcode": "N1H 2J7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Guelph"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60058-58787",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:21.96Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Bradley-John-Wells",
+        "nodeid": 58787,
+        "documentid": 60058,
+        "nodealias": "Bradley-John-Wells",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5d0b18f5-cfb7-42aa-bfa2-725a660de236",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Bradley John Wells",
+        "documentmodifiedwhen": "2022-01-05T07:26:37.555Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56014K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Bradley John Wells",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 2M4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60049-58774",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:17.757Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Danielle-Elisa-Wells",
+        "nodeid": 58774,
+        "documentid": 60049,
+        "nodealias": "Danielle-Elisa-Wells",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f7b6c00e-ec39-4c8a-bff1-c209a9b44b10",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Danielle Elisa Wells",
+        "documentmodifiedwhen": "2019-05-08T14:19:46.714Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13592",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Danielle Elisa Wells",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.5870208740234,
+                43.5967636108398
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L4Y 0G1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60048-58775",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:17.882Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Edward-Julian-Keltie-Wells",
+        "nodeid": 58775,
+        "documentid": 60048,
+        "nodealias": "Edward-Julian-Keltie-Wells",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ae91b212-bf85-4fae-8cbd-3c88f954da1b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Edward Julian Keltie Wells",
+        "documentmodifiedwhen": "2022-07-16T07:17:39.472Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit commercial et corporatifes",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Corporate/Commercial Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "16204O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Edward Julian Keltie Wells",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2M 3Z8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88605-87332",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:44.051Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Gary-Wayne-Wells",
+        "nodeid": 87332,
+        "documentid": 88605,
+        "nodealias": "Gary-Wayne-Wells",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "45329b45-29d2-46ba-8804-125aa9c7858c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gary Wayne Wells",
+        "documentmodifiedwhen": "2019-07-12T07:36:14.989Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08467",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gary Wayne Wells",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60064-58784",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:21.866Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Geoffrey-Charles-Vaughan-Wells",
+        "nodeid": 58784,
+        "documentid": 60064,
+        "nodealias": "Geoffrey-Charles-Vaughan-Wells",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3512ab68-5ae3-4e7e-83c5-088ad2d20f69",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Geoffrey Charles Vaughan Wells",
+        "documentmodifiedwhen": "2022-01-02T07:24:23.306Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "48188D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Geoffrey Charles Vaughan Wells",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3B7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88601-87331",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:44.16Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/043/Herbert-Patrick-Wells",
+        "nodeid": 87331,
+        "documentid": 88601,
+        "nodealias": "Herbert-Patrick-Wells",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "92c1527d-cb61-4af5-906e-4b0ccf65a3b4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Herbert Patrick Wells",
+        "documentmodifiedwhen": "2019-05-09T14:20:51.564Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51702O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Herbert Patrick Wells",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60057-58785",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:21.929Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Joanna-Kathleen-Wells",
+        "nodeid": 58785,
+        "documentid": 60057,
+        "nodealias": "Joanna-Kathleen-Wells",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6fa130e3-257b-40ca-a79c-5f39297ef0a2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joanna Kathleen Wells",
+        "documentmodifiedwhen": "2022-01-05T07:18:51.35Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "55034K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joanna Kathleen Wells",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0H8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88602-87333",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:44.645Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/043/Karin-Betty-Wells",
+        "nodeid": 87333,
+        "documentid": 88602,
+        "nodealias": "Karin-Betty-Wells",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8132cc11-a7f2-4a7b-b0a3-1b2a4c062a7a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karin Betty Wells",
+        "documentmodifiedwhen": "2021-12-14T07:39:26.674Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "16332R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karin Betty Wells",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "136470-131189",
+        "sys_site": "lso",
+        "sys_created": "2022-02-17T07:20:21.28Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Leslie-Lila-Grace-Wells",
+        "nodeid": 131189,
+        "documentid": 136470,
+        "nodealias": "Leslie-Lila-Grace-Wells",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3b5d0cb3-d0dc-4474-8d39-482e2d8cadc9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Leslie Lila Grace Wells",
+        "documentmodifiedwhen": "2022-03-11T07:17:57.575Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18265",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Leslie Lila Grace Wells",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60062-58790",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:21.976Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Mark-Andrew-Edward-Wells",
+        "nodeid": 58790,
+        "documentid": 60062,
+        "nodealias": "Mark-Andrew-Edward-Wells",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c6318e06-08e9-454d-93c5-412ba7b33d6d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mark Andrew Edward Wells",
+        "documentmodifiedwhen": "2022-03-09T07:16:18.37Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57605J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mark Andrew Edward Wells",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5A 4M8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60051-58777",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:21.82Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Matthew-Joseph-Wells",
+        "nodeid": 58777,
+        "documentid": 60051,
+        "nodealias": "Matthew-Joseph-Wells",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "10d89dab-0e17-430e-ba68-2a011c33e6ae",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Matthew Joseph Wells",
+        "documentmodifiedwhen": "2021-12-31T07:28:06.116Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43194E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Matthew Joseph Wells",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L8P 4R5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "113501-111597",
+        "sys_site": "lso",
+        "sys_created": "2019-01-30T07:24:13.637Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Nadia-Marie-Wells",
+        "nodeid": 111597,
+        "documentid": 113501,
+        "nodealias": "Nadia-Marie-Wells",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0fd862bf-4244-4f41-87a6-83cf54ab787b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nadia Marie Wells",
+        "documentmodifiedwhen": "2022-05-28T07:38:10.819Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76405J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nadia Marie Wells",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M5J 2W3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60052-58779",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:21.804Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Patricia-Wells",
+        "nodeid": 58779,
+        "documentid": 60052,
+        "nodealias": "Patricia-Wells",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "aacf24e3-715f-485f-bed4-ed1680633356",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Patricia Wells",
+        "documentmodifiedwhen": "2021-08-24T07:16:09.825Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de l'immigration"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Immigration Law"
+        ],
+        "memberlanguagenamesfrench": [
+            "Espagnol"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Spanish"
+        ],
+        "membernumber": "24296G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Patricia Wells",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3687973022461,
+                43.6445388793945
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5A 0P6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60050-58776",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:21.773Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Peter-Edward-John-Wells",
+        "nodeid": 58776,
+        "documentid": 60050,
+        "nodealias": "Peter-Edward-John-Wells",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0360a681-e969-45f2-b249-8a84e3cafa89",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Peter Edward John Wells",
+        "documentmodifiedwhen": "2021-12-17T07:24:03.856Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "18002S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Peter Edward John Wells",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60063-58783",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:21.82Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Robert-Kyler-Passmore-Wells",
+        "nodeid": 58783,
+        "documentid": 60063,
+        "nodealias": "Robert-Kyler-Passmore-Wells",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e03049be-fede-4767-87fb-3dac3883afde",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Kyler Passmore Wells",
+        "documentmodifiedwhen": "2022-01-06T07:24:19.627Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46761H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Kyler Passmore Wells",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3T9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60055-58778",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:21.804Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Robert-Ross-Wells",
+        "nodeid": 58778,
+        "documentid": 60055,
+        "nodealias": "Robert-Ross-Wells",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9f0caed1-bc60-4d42-800b-714592e25bef",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Ross Wells",
+        "documentmodifiedwhen": "2021-12-17T07:19:47.03Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "20817P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Ross Wells",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60054-58782",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:21.851Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Sarah-Lynne-Wells",
+        "nodeid": 58782,
+        "documentid": 60054,
+        "nodealias": "Sarah-Lynne-Wells",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "75783310-3635-40b1-8bea-39aac3c737a1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sarah Lynne Wells",
+        "documentmodifiedwhen": "2021-11-05T07:54:56.878Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47305J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sarah Lynne Wells",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3920440673828,
+                43.6738815307617
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "M5R 3P1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60061-58789",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:21.992Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Allen-Philip-Welman",
+        "nodeid": 58789,
+        "documentid": 60061,
+        "nodealias": "Allen-Philip-Welman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c530532a-4967-4192-8a4c-0270dc445ec0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Allen Philip Welman",
+        "documentmodifiedwhen": "2021-12-17T07:19:46.363Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "20818L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Allen Philip Welman",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6H 1M3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60068-58793",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:27.117Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Andrew-Louis-Welsh",
+        "nodeid": 58793,
+        "documentid": 60068,
+        "nodealias": "Andrew-Louis-Welsh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c6a2e734-054d-4161-8859-7d9b27eb64ff",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew Louis Welsh",
+        "documentmodifiedwhen": "2021-12-28T07:17:56.109Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "35715D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew Louis Welsh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M7A 2E7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60066-58792",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:22.992Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Catherine-Anne-Welsh",
+        "nodeid": 58792,
+        "documentid": 60066,
+        "nodealias": "Catherine-Anne-Welsh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "33af942b-6def-4db0-981e-3e92476ebfe2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Catherine Anne Welsh",
+        "documentmodifiedwhen": "2020-09-12T07:17:05.534Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30157W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Catherine Anne Welsh",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88607-87335",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:46.879Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/043/David-John-Dominic-Welsh",
+        "nodeid": 87335,
+        "documentid": 88607,
+        "nodealias": "David-John-Dominic-Welsh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cf9b72a0-0221-4280-b829-e1dedf4f3dff",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David John Dominic Welsh",
+        "documentmodifiedwhen": "2022-01-03T07:24:46.152Z",
+        "skuname": null,
+        "memberprovincetext": "District of Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51807H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David John Dominic Welsh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "20006",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Washington"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60069-58794",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:27.117Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Douglas-Sean-Welsh",
+        "nodeid": 58794,
+        "documentid": 60069,
+        "nodealias": "Douglas-Sean-Welsh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2dc6fa1e-b864-45ad-9bcc-f6e11eba39ec",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Douglas Sean Welsh",
+        "documentmodifiedwhen": "2021-12-30T07:26:54.055Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41085R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Douglas Sean Welsh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 3S8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116309-113921",
+        "sys_site": "lso",
+        "sys_created": "2019-06-27T07:50:20.225Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Jordan-Robert-Welsh",
+        "nodeid": 113921,
+        "documentid": 116309,
+        "nodealias": "Jordan-Robert-Welsh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7957e829-c6a8-4498-b00b-7e510a69d526",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jordan Robert Welsh",
+        "documentmodifiedwhen": "2020-09-18T07:16:34.012Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77519L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jordan Robert Welsh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.7976913452148,
+                43.3251838684082
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L7R 4J4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Burlington"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60065-58791",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:22.023Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Patricia-Agnes-Kathryn-Welsh",
+        "nodeid": 58791,
+        "documentid": 60065,
+        "nodealias": "Patricia-Agnes-Kathryn-Welsh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "83956f7e-746a-41cc-ba4a-21b31bfbc3d6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Patricia Agnes Kathryn Welsh",
+        "documentmodifiedwhen": "2021-12-19T07:25:11.673Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Indemnit\u00e9s d'accidents du travail",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Workers' Compensation",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09286",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Patricia Agnes Kathryn Welsh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M1L 4L9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60073-58797",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:27.164Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Patrick-Gregory-Welsh",
+        "nodeid": 58797,
+        "documentid": 60073,
+        "nodealias": "Patrick-Gregory-Welsh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "042d7319-0744-4016-9ce0-b5f279be734a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Patrick Gregory Welsh",
+        "documentmodifiedwhen": "2022-01-09T07:19:53.506Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60322P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Patrick Gregory Welsh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60059-58788",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:22.023Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Peter-Reginald-Welsh",
+        "nodeid": 58788,
+        "documentid": 60059,
+        "nodealias": "Peter-Reginald-Welsh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a837bd02-9255-4aad-bf66-142c03c723c4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Peter Reginald Welsh",
+        "documentmodifiedwhen": "2021-12-15T07:25:13.417Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "17218D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Peter Reginald Welsh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6J 7W5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oakville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88606-87334",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:46.317Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/043/Marissa-Angelique-Welshman",
+        "nodeid": 87334,
+        "documentid": 88606,
+        "nodealias": "Marissa-Angelique-Welshman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c11a0f84-4d38-4102-9ea9-2de5213012c3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marissa Angelique Welshman",
+        "documentmodifiedwhen": "2022-01-15T07:17:47.011Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74008P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marissa Angelique Welshman",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5L 3X5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60070-58796",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:27.179Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Lawrence-David-Weltman",
+        "nodeid": 58796,
+        "documentid": 60070,
+        "nodealias": "Lawrence-David-Weltman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "352ca114-a5fc-4183-9489-4854136d4d36",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lawrence David Weltman",
+        "documentmodifiedwhen": "2021-12-21T07:18:56.953Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "23302J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lawrence David Weltman",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M3H 5T5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Downsview"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130100-125734",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T09:22:47.394Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Stacey-Fay-Weltman",
+        "nodeid": 125734,
+        "documentid": 130100,
+        "nodealias": "Stacey-Fay-Weltman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b27d11ac-8641-4ae3-b497-b6a10205518d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stacey Fay Weltman",
+        "documentmodifiedwhen": "2022-02-24T07:20:10.961Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82069G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stacey Fay Weltman",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60067-58795",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:27.226Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Mark-Dell-Welton",
+        "nodeid": 58795,
+        "documentid": 60067,
+        "nodealias": "Mark-Dell-Welton",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "01082488-f5f5-4494-a503-334e847cb692",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mark Dell Welton",
+        "documentmodifiedwhen": "2021-12-28T07:18:38.058Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36141D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mark Dell Welton",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "L5K 1B1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139132-133563",
+        "sys_site": "lso",
+        "sys_created": "2022-06-18T07:24:17.34Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/042/Daniel-Welton-Boucher",
+        "nodeid": 133563,
+        "documentid": 139132,
+        "nodealias": "Daniel-Welton-Boucher",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "134c66f1-33ec-4503-a905-c56eba69ab37",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniel Welton-Boucher",
+        "documentmodifiedwhen": "2022-07-29T07:15:51.539Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84662T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniel Welton-Boucher",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88609-87336",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:50.042Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Nicole-Christine-Welts",
+        "nodeid": 87336,
+        "documentid": 88609,
+        "nodealias": "Nicole-Christine-Welts",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8510a5dc-9cd3-44cf-9242-fcc616cae978",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nicole Christine Welts",
+        "documentmodifiedwhen": "2022-03-05T07:18:02.845Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P12005",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nicole Christine Welts",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "M5K 1N2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60071-58798",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:27.257Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/037/Lois-Anne-Welwood",
+        "nodeid": 58798,
+        "documentid": 60071,
+        "nodealias": "Lois-Anne-Welwood",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "47c6096f-e069-490a-aa24-6337bd97cbe0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lois Anne Welwood",
+        "documentmodifiedwhen": "2021-12-15T07:25:12.661Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "17219W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lois Anne Welwood",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L9W 1E1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Orangeville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88608-87337",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:51.121Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/043/Brenda-Jean-Wemp",
+        "nodeid": 87337,
+        "documentid": 88608,
+        "nodealias": "Brenda-Jean-Wemp",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a4a71ccc-24d8-446f-a095-e31277a647f3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brenda Jean Wemp",
+        "documentmodifiedwhen": "2021-12-14T09:44:43.572Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27153Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brenda Jean Wemp",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88615-87340",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:59.48Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Chun-Ying-Wen",
+        "nodeid": 87340,
+        "documentid": 88615,
+        "nodealias": "Chun-Ying-Wen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a36e1ec8-d890-4074-b065-30d49f10fb5f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Chun Ying Wen",
+        "documentmodifiedwhen": "2020-02-20T09:32:36.374Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07005",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Chun Ying Wen",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118893-116211",
+        "sys_site": "lso",
+        "sys_created": "2019-09-27T08:03:06.956Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Kwang-Sheng-Naguib-Sutung-Wen",
+        "nodeid": 116211,
+        "documentid": 118893,
+        "nodealias": "Kwang-Sheng-Naguib-Sutung-Wen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d51669a2-f00f-4579-b9d2-b832356cfa67",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kwang Sheng Naguib Sutung Wen",
+        "documentmodifiedwhen": "2021-03-29T07:17:08.894Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78532P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kwang Sheng Naguib Sutung Wen",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.5815887451172,
+                43.7463417053223
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M9V 4E3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "60074-58799",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:21:27.257Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Lian-Xue-Wen",
+        "nodeid": 58799,
+        "documentid": 60074,
+        "nodealias": "Lian-Xue-Wen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c14df44f-3a73-488f-a0cb-51eb7a2532f1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lian Xue Wen",
+        "documentmodifiedwhen": "2021-12-19T07:17:11.525Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08911",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lian Xue Wen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M1T 3P8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "88614-87341",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:12:59.933Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/043/Qian-Wen",
+        "nodeid": 87341,
+        "documentid": 88614,
+        "nodealias": "Qian-Wen",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "67676d91-57ad-44c5-ae1f-97c3dd7a0752",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Qian Wen",
+        "documentmodifiedwhen": "2022-01-10T07:29:37.814Z",
+        "skuname": null,
+        "memberprovincetext": "Florida",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "62434N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Qian Wen",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "33131",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Miami"
+        ]
+    }
+]

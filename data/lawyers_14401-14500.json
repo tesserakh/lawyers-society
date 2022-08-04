@@ -1,0 +1,5176 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "105666-104394",
+        "sys_site": "lso",
+        "sys_created": "2018-08-11T07:13:24.893Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Nils-Richard-Connor",
+        "nodeid": 104394,
+        "documentid": 105666,
+        "nodealias": "Nils-Richard-Connor",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b1e91950-0505-402a-ac69-e5616aa5a36b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nils Richard Connor",
+        "documentmodifiedwhen": "2021-10-13T07:15:20.298Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33203W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nils Richard Connor",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4225387573242,
+                43.6791534423828
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M6G 2X7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16845-16002",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:04:51.86Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Ralph-John-Connor",
+        "nodeid": 16002,
+        "documentid": 16845,
+        "nodealias": "Ralph-John-Connor",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e09ac16d-121e-4a38-be00-7878295b6dc5",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ralph John Connor",
+        "documentmodifiedwhen": "2021-12-14T08:21:00.558Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "06403O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ralph John Connor",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118106-115492",
+        "sys_site": "lso",
+        "sys_created": "2019-09-07T07:23:35.184Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Esther-Anne-Connors",
+        "nodeid": 115492,
+        "documentid": 118106,
+        "nodealias": "Esther-Anne-Connors",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "334fc5ce-e5b0-4c84-acb3-6b3eca11c6c3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Esther Anne Connors",
+        "documentmodifiedwhen": "2021-12-22T07:28:05.279Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15754",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Esther Anne Connors",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M2N 6K1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16849-16006",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:05:38.863Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Justine-Ellen-Connors",
+        "nodeid": 16006,
+        "documentid": 16849,
+        "nodealias": "Justine-Ellen-Connors",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d4b803b1-eff4-4af6-ad33-5b8fe9e67806",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Justine Ellen Connors",
+        "documentmodifiedwhen": "2022-01-11T07:26:22.804Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63979W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Justine Ellen Connors",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16848-16005",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:05:27.67Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Laurie-Beth-Connors",
+        "nodeid": 16005,
+        "documentid": 16848,
+        "nodealias": "Laurie-Beth-Connors",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d887a56b-4d87-4862-b32a-a208db365c66",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Laurie Beth Connors",
+        "documentmodifiedwhen": "2021-04-10T07:18:42.492Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11440",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Laurie Beth Connors",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4317321777344,
+                43.8731727600098
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L4C 1Z2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Richmond Hill"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "113094-111336",
+        "sys_site": "lso",
+        "sys_created": "2018-12-29T07:15:55.691Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/020/Lynsey-Anne-Connors",
+        "nodeid": 111336,
+        "documentid": 113094,
+        "nodealias": "Lynsey-Anne-Connors",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c83f089f-8263-4690-8a7d-e63684c46304",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lynsey Anne Connors",
+        "documentmodifiedwhen": "2021-06-16T07:15:56.057Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "48673C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lynsey Anne Connors",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3895111083984,
+                43.649242401123
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 1W2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16851-16008",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:06:02.22Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Shirley-Marjorie-Conod",
+        "nodeid": 16008,
+        "documentid": 16851,
+        "nodealias": "Shirley-Marjorie-Conod",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8341242e-79c2-425c-8add-e8114930fc22",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shirley Marjorie Conod",
+        "documentmodifiedwhen": "2022-01-12T07:33:31.07Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07187",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shirley Marjorie Conod",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118791-116109",
+        "sys_site": "lso",
+        "sys_created": "2019-09-27T07:38:58.939Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Evan-Douglas-Bowles-Conover",
+        "nodeid": 116109,
+        "documentid": 118791,
+        "nodealias": "Evan-Douglas-Bowles-Conover",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9051637f-104e-44b1-a303-fd2a1855f17c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Evan Douglas Bowles Conover",
+        "documentmodifiedwhen": "2020-04-30T07:22:02.446Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78322S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Evan Douglas Bowles Conover",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16852-16009",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:06:14.113Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Scott-Douglas-Conover",
+        "nodeid": 16009,
+        "documentid": 16852,
+        "nodealias": "Scott-Douglas-Conover",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "30a1ad2e-5070-4fd2-acb7-014eae923434",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Scott Douglas Conover",
+        "documentmodifiedwhen": "2021-12-24T07:19:03.696Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24914P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Scott Douglas Conover",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16853-16010",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:06:26.44Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Sydne-Gillian-Conover-Taggart",
+        "nodeid": 16010,
+        "documentid": 16853,
+        "nodealias": "Sydne-Gillian-Conover-Taggart",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "13bddb53-8080-45d0-af87-dd55436dd518",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sydne Gillian Conover Taggart",
+        "documentmodifiedwhen": "2021-11-05T07:45:02.107Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30608V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sydne Gillian Conover Taggart",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -78.1561050415039,
+                43.9601097106934
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "K9A 1P3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Cobourg"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16854-16011",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:06:38.653Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Catherine-Marie-Conrad",
+        "nodeid": 16011,
+        "documentid": 16854,
+        "nodealias": "Catherine-Marie-Conrad",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "82d5e6cf-1560-44e1-9e0f-63e51c7b67c8",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Catherine Marie Conrad",
+        "documentmodifiedwhen": "2022-03-04T07:15:50.791Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21604S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Catherine Marie Conrad",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L3R 9W3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16856-16013",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:07:00.83Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Christine-Emily-Conrad",
+        "nodeid": 16013,
+        "documentid": 16856,
+        "nodealias": "Christine-Emily-Conrad",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "95770578-0c46-498e-82b6-c68a60acab3a",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christine Emily Conrad",
+        "documentmodifiedwhen": "2022-02-09T07:18:05.69Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69942T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christine Emily Conrad",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 3J1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16857-16014",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:07:11.757Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Daniel-Conrad",
+        "nodeid": 16014,
+        "documentid": 16857,
+        "nodealias": "Daniel-Conrad",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "57e2481e-7c2d-4277-b79d-9312fcaa0268",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniel Conrad",
+        "documentmodifiedwhen": "2022-01-13T07:25:17.227Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70258N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniel Conrad",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16855-16012",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:06:49.134Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Katherine-Smucker-Conrad",
+        "nodeid": 16012,
+        "documentid": 16855,
+        "nodealias": "Katherine-Smucker-Conrad",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "43bf3fd9-3bb1-4168-82b4-13589d0e5977",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Katherine Smucker Conrad",
+        "documentmodifiedwhen": "2022-01-04T07:20:17.931Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52500H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Katherine Smucker Conrad",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4V 1P5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16858-16015",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:07:22.312Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Michael-Christian-Conradi",
+        "nodeid": 16015,
+        "documentid": 16858,
+        "nodealias": "Michael-Christian-Conradi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "96dc0605-c452-4396-9b2b-14ee9fe9cd91",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Christian Conradi",
+        "documentmodifiedwhen": "2022-01-06T07:22:23.612Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "48483Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Christian Conradi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 1Z5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "83266-81994",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:44:42.527Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/007/Teresa-Darlene-Conran",
+        "nodeid": 81994,
+        "documentid": 83266,
+        "nodealias": "Teresa-Darlene-Conran",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "88edfe07-d3fa-4a43-bf53-19cbf1adec50",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Teresa Darlene Conran",
+        "documentmodifiedwhen": "2020-03-12T07:25:25.287Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08693",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Teresa Darlene Conran",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116902-114500",
+        "sys_site": "lso",
+        "sys_created": "2019-06-28T07:43:10.432Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Paul-Kenneth-Conrod",
+        "nodeid": 114500,
+        "documentid": 116902,
+        "nodealias": "Paul-Kenneth-Conrod",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "04d7e76f-4c8d-4575-bf6b-1cdf5e4275c9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paul Kenneth Conrod",
+        "documentmodifiedwhen": "2022-02-08T07:17:25.248Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77604E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paul Kenneth Conrod",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1T7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16859-16016",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:07:33.29Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Carolynn-Verna-Conron",
+        "nodeid": 16016,
+        "documentid": 16859,
+        "nodealias": "Carolynn-Verna-Conron",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ba35ce0f-9980-4326-ad6a-727b1c6cbb4d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Carolynn Verna Conron",
+        "documentmodifiedwhen": "2021-02-09T07:18:32.614Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit criminel et quasi criminel",
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Infractions punissables par proc\u00e9dure sommaire \u00e0 la Cour de justice de l'Ontario"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Criminal/Quasi-Criminal Law",
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Ontario Court of Justice - Summary Conviction Offences"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59577O",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Carolynn Verna Conron",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -81.2523498535156,
+                42.9851112365723
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 5P2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16862-16019",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:08:06.972Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Behn-Elliot-Conroy",
+        "nodeid": 16019,
+        "documentid": 16862,
+        "nodealias": "Behn-Elliot-Conroy",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b2060467-13b3-442a-a1d5-92195a526fe9",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Behn Elliot Conroy",
+        "documentmodifiedwhen": "2022-01-03T07:27:26.655Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la construction",
+            "Droit commercial et corporatifes",
+            "Droit des franchisese",
+            "Droit immobilier",
+            "Droit des valeurs mobili\u00e8res",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Construction Law",
+            "Corporate/Commercial Law",
+            "Franchise Law",
+            "Real Estate Law",
+            "Securities Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50711B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Behn Elliot Conroy",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 2H2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16860-16017",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:07:44.452Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Edward-James-Conroy",
+        "nodeid": 16017,
+        "documentid": 16860,
+        "nodealias": "Edward-James-Conroy",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7df210fd-7a71-4d81-a3e1-9a58c13bc8b5",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Edward James Conroy",
+        "documentmodifiedwhen": "2022-05-12T07:16:03.827Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "08598V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Edward James Conroy",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "D\u00e9c\u00e9d\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Deceased"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "83267-81995",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:44:42.574Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/007/Harriet-Diana-Conroy",
+        "nodeid": 81995,
+        "documentid": 83267,
+        "nodealias": "Harriet-Diana-Conroy",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9aa16029-b52a-4814-8b0c-7ffdfd9ff92c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Harriet Diana Conroy",
+        "documentmodifiedwhen": "2022-05-28T07:31:14.617Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P03785",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Harriet Diana Conroy",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16861-16018",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:07:56.286Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Jennifer-Ann-Conroy",
+        "nodeid": 16018,
+        "documentid": 16861,
+        "nodealias": "Jennifer-Ann-Conroy",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a03e6daa-73de-445b-b2c4-ab582bd5dbea",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Ann Conroy",
+        "documentmodifiedwhen": "2022-01-02T07:19:13.248Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50208G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Ann Conroy",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5X 1K6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16863-16020",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:08:17.73Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Kanata-Ann-Conroy",
+        "nodeid": 16020,
+        "documentid": 16863,
+        "nodealias": "Kanata-Ann-Conroy",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "453793b7-069a-49cb-916d-2741d8194101",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kanata Ann Conroy",
+        "documentmodifiedwhen": "2022-01-09T07:21:11.366Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60823H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kanata Ann Conroy",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1K 3B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16864-16021",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:08:29.214Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Maria-Margaret-Conroy",
+        "nodeid": 16021,
+        "documentid": 16864,
+        "nodealias": "Maria-Margaret-Conroy",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fd848777-7189-4bd3-93e2-1ae1f964e348",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Maria Margaret Conroy",
+        "documentmodifiedwhen": "2022-01-08T07:23:10.429Z",
+        "skuname": null,
+        "memberprovincetext": "New Brunswick",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61056W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Maria Margaret Conroy",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "E3B 1S9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Fredericton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16865-16022",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:08:40.109Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Michael-Kenneth-Harold-Conroy",
+        "nodeid": 16022,
+        "documentid": 16865,
+        "nodealias": "Michael-Kenneth-Harold-Conroy",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "42ce4373-cb98-4ae1-8276-82e08cc3564a",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Kenneth Harold Conroy",
+        "documentmodifiedwhen": "2022-01-13T07:18:34.634Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69510Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Kenneth Harold Conroy",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K8A 6X6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Pembroke"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "124655-121099",
+        "sys_site": "lso",
+        "sys_created": "2020-08-31T07:33:14.707Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Ryan-Louis-Cons",
+        "nodeid": 121099,
+        "documentid": 124655,
+        "nodealias": "Ryan-Louis-Cons",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6e1ce91a-0c14-4136-bdd6-87a06e7514ce",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ryan Louis Cons",
+        "documentmodifiedwhen": "2022-01-17T07:26:17.383Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80574R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ryan Louis Cons",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4G 1P3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Aurora"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "134396-129671",
+        "sys_site": "lso",
+        "sys_created": "2021-09-28T07:22:54.335Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/020/Valeria-Beatrice-Consales",
+        "nodeid": 129671,
+        "documentid": 134396,
+        "nodealias": "Valeria-Beatrice-Consales",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "fceebe80-0b01-4cdf-bbd9-19be24d1eacb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Valeria Beatrice Consales",
+        "documentmodifiedwhen": "2022-02-15T07:17:49.107Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83449M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Valeria Beatrice Consales",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N2H 2G8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kitchener"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16866-16023",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:08:51.973Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Angelo-Consiglio",
+        "nodeid": 16023,
+        "documentid": 16866,
+        "nodealias": "Angelo-Consiglio",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c1162503-2976-464f-8f89-b00aa618655f",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Angelo Consiglio",
+        "documentmodifiedwhen": "2021-12-16T07:20:03.793Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P00402",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Angelo Consiglio",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4L 9A8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Woodbridge"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16867-16024",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:09:03.043Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Nicola-Consiglio",
+        "nodeid": 16024,
+        "documentid": 16867,
+        "nodealias": "Nicola-Consiglio",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1fc77b62-3212-4fd7-9101-f5b1e8fab0db",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nicola Consiglio",
+        "documentmodifiedwhen": "2021-12-25T07:20:35.184Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "29430J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nicola Consiglio",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4L 4Y7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vaughan"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16868-16025",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:09:14.361Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Harvey-Samuel-Consky",
+        "nodeid": 16025,
+        "documentid": 16868,
+        "nodealias": "Harvey-Samuel-Consky",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2b755ca4-22e6-4949-87a8-179411fc701d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Harvey Samuel Consky",
+        "documentmodifiedwhen": "2021-12-14T09:01:27.092Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21605O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Harvey Samuel Consky",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "D\u00e9c\u00e9d\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Deceased"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16869-16026",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:09:26.204Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Matthew-Steven-Consky",
+        "nodeid": 16026,
+        "documentid": 16869,
+        "nodealias": "Matthew-Steven-Consky",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f91386bf-9363-4f02-960b-e4c7d99ddee5",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Matthew Steven Consky",
+        "documentmodifiedwhen": "2021-01-19T07:20:21.872Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49757W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Matthew Steven Consky",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.5445098876953,
+                43.7722969055176
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4L 8G7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vaughan"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16870-16027",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:09:37.086Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Stephanie-Lynn-Console",
+        "nodeid": 16027,
+        "documentid": 16870,
+        "nodealias": "Stephanie-Lynn-Console",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2e2b3b2d-36ae-4bc1-bce5-2a9946c3349e",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephanie Lynn Console",
+        "documentmodifiedwhen": "2022-01-12T07:20:14.12Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68044V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephanie Lynn Console",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5L 1A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16871-16028",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:09:48.871Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Orlando-Consoli",
+        "nodeid": 16028,
+        "documentid": 16871,
+        "nodealias": "Orlando-Consoli",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9d566345-85d1-46a5-bd4d-7bec80b13718",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Orlando Consoli",
+        "documentmodifiedwhen": "2021-12-29T07:26:23.984Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38158O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Orlando Consoli",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L8P 1A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16872-16029",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:09:59.96Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Russell-Evan-Consor",
+        "nodeid": 16029,
+        "documentid": 16872,
+        "nodealias": "Russell-Evan-Consor",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2912444e-7c31-4f3e-a31a-530d84c832c5",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Russell Evan Consor",
+        "documentmodifiedwhen": "2021-09-21T08:16:11.55Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50423R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Russell Evan Consor",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.7076568603516,
+                45.4169883728027
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "K1R 6G7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "135371-130364",
+        "sys_site": "lso",
+        "sys_created": "2021-12-11T07:18:56.956Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/015/Christine-Janette-Constable",
+        "nodeid": 130364,
+        "documentid": 135371,
+        "nodealias": "Christine-Janette-Constable",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3e646797-5888-4844-aeb9-b18945843c4f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christine Janette Constable",
+        "documentmodifiedwhen": "2022-01-07T07:31:09.067Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18074",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christine Janette Constable",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "122947-119472",
+        "sys_site": "lso",
+        "sys_created": "2020-06-16T08:39:22.642Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Jonathan-Robert-Mackenzie-Constable",
+        "nodeid": 119472,
+        "documentid": 122947,
+        "nodealias": "Jonathan-Robert-Mackenzie-Constable",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a882b570-1e2d-4b11-b2df-16bb34a7e00c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jonathan Robert Mackenzie Constable",
+        "documentmodifiedwhen": "2021-01-29T07:19:13.482Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "79354D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jonathan Robert Mackenzie Constable",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.6989364624023,
+                45.4208297729492
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1P 6L2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16873-16030",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:10:11.941Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Michael-Allison-Constable",
+        "nodeid": 16030,
+        "documentid": 16873,
+        "nodealias": "Michael-Allison-Constable",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c8badc10-9b77-4610-afb0-734b899f013e",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Allison Constable",
+        "documentmodifiedwhen": "2022-06-17T07:20:05.6Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "73809M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Allison Constable",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) (tutelle)"
+        ],
+        "memberwebstatus": [
+            "Suspended (Trusteeship)"
+        ],
+        "memberpostalcode": "P1B 2E8",
+        "membercurrentrestrictions": "Y",
+        "membercity": [
+            "North Bay"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "83269-81997",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:44:46.521Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/034/Katrine-Constantakos",
+        "nodeid": 81997,
+        "documentid": 83269,
+        "nodealias": "Katrine-Constantakos",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "962d436d-77dc-432c-9767-ec898383c555",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Katrine Constantakos",
+        "documentmodifiedwhen": "2022-02-10T07:16:30.638Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46830T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Katrine Constantakos",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "H8N 2R5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Lasalle"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16876-16033",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:10:46.688Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Elena-Constantin",
+        "nodeid": 16033,
+        "documentid": 16876,
+        "nodealias": "Elena-Constantin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a1c7a2c0-13cb-48c9-99f0-a50f7908f4a1",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Elena Constantin",
+        "documentmodifiedwhen": "2022-01-03T07:19:11.664Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49995J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Elena Constantin",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M8V 1H9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Etobicoke"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "126633-122763",
+        "sys_site": "lso",
+        "sys_created": "2020-12-05T07:20:41.461Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Eric-Austin-Constantin",
+        "nodeid": 122763,
+        "documentid": 126633,
+        "nodealias": "Eric-Austin-Constantin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e7a25934-a9da-4d5d-ac03-0fa4345126fb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eric Austin Constantin",
+        "documentmodifiedwhen": "2022-05-28T07:44:25.531Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P16835",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eric Austin Constantin",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16875-16032",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:10:34.287Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Roger-Constantin",
+        "nodeid": 16032,
+        "documentid": 16875,
+        "nodealias": "Roger-Constantin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7692e304-827e-4cfe-ae46-61395ccdc1c8",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Roger Constantin",
+        "documentmodifiedwhen": "2022-01-01T07:22:35.036Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46289N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Roger Constantin",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0N8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16877-16034",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:10:57.803Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Serban-Alexandru-Constantin",
+        "nodeid": 16034,
+        "documentid": 16877,
+        "nodealias": "Serban-Alexandru-Constantin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "85afa11c-d138-460c-a735-18f84bb8fc5d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Serban-Alexandru Constantin",
+        "documentmodifiedwhen": "2022-02-04T07:17:31.838Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60397W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Serban-Alexandru Constantin",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L1J 0C6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oshawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16879-16036",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:11:21.715Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Charbel-Constantine",
+        "nodeid": 16036,
+        "documentid": 16879,
+        "nodealias": "Charbel-Constantine",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ab29f551-35dd-4959-8d8d-9bb78db31c65",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Charbel Constantine",
+        "documentmodifiedwhen": "2022-06-10T07:18:14.338Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57857U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Charbel Constantine",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4W 4Y5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16878-16035",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:11:10.172Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Lisa-Marie-Constantine",
+        "nodeid": 16035,
+        "documentid": 16878,
+        "nodealias": "Lisa-Marie-Constantine",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d8e702e6-9a46-4c4b-9353-97e6947da7d9",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lisa Marie Constantine",
+        "documentmodifiedwhen": "2021-12-28T07:24:04.393Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "35064B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lisa Marie Constantine",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4V 1K6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16880-16037",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:11:32.845Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Maria-Catherine-Constantine",
+        "nodeid": 16037,
+        "documentid": 16880,
+        "nodealias": "Maria-Catherine-Constantine",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4a7ddff5-c622-4255-abd2-0fb4f1689ce5",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Maria Catherine Constantine",
+        "documentmodifiedwhen": "2022-02-24T07:18:31.083Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65457W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Maria Catherine Constantine",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16881-16038",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:11:44.324Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Joseph-Denis-Lucien-Constantineau",
+        "nodeid": 16038,
+        "documentid": 16881,
+        "nodealias": "Joseph-Denis-Lucien-Constantineau",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "66b1b2f7-5900-4734-b207-e3e6ef540041",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joseph Denis Lucien Constantineau",
+        "documentmodifiedwhen": "2021-12-27T07:21:48.463Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33893A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joseph Denis Lucien Constantineau",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "P3C 4Y9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Sudbury"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118191-115594",
+        "sys_site": "lso",
+        "sys_created": "2019-09-12T07:28:57.727Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Sara-Constantini",
+        "nodeid": 115594,
+        "documentid": 118191,
+        "nodealias": "Sara-Constantini",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "01cf67fb-fde2-4d43-b134-a72d72665558",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sara Constantini",
+        "documentmodifiedwhen": "2021-11-27T07:17:24.842Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15824",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sara Constantini",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16883-16040",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:12:07.308Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/David-Noel-Contant",
+        "nodeid": 16040,
+        "documentid": 16883,
+        "nodealias": "David-Noel-Contant",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5f77cbed-0b34-47f3-baba-7a8284ba5b3e",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Noel Contant",
+        "documentmodifiedwhen": "2022-01-03T07:26:09.324Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50995J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Noel Contant",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1Z 8R1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16884-16041",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:12:18.827Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Joanne-Jacqueline-Marie-Contant-Roper",
+        "nodeid": 16041,
+        "documentid": 16884,
+        "nodealias": "Joanne-Jacqueline-Marie-Contant-Roper",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "26077eaf-e397-43d3-9567-5be025020d6f",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joanne Jacqueline Marie Contant-Roper",
+        "documentmodifiedwhen": "2021-09-21T08:44:47.052Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P02853",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joanne Jacqueline Marie Contant-Roper",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.6076126098633,
+                45.4285774230957
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "K1B 5N8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Gloucester"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16885-16042",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:12:30.87Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Albert-Contardi",
+        "nodeid": 16042,
+        "documentid": 16885,
+        "nodealias": "Albert-Contardi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4598267b-d0c3-4e18-84d8-70c325da4e74",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Albert Contardi",
+        "documentmodifiedwhen": "2022-01-02T07:27:01.144Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49291D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Albert Contardi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M3H 1E1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "57608-56333",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:03:31.521Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Marco-Contardi",
+        "nodeid": 56333,
+        "documentid": 57608,
+        "nodealias": "Marco-Contardi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3ba47f70-dab7-4431-9dff-4a62a635a8f2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marco Contardi",
+        "documentmodifiedwhen": "2019-05-08T14:15:03.744Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45620L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marco Contardi",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.5854568481445,
+                43.837646484375
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L4H 4M1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vaughan"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16886-16043",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:12:57.166Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Antonio-Conte",
+        "nodeid": 16043,
+        "documentid": 16886,
+        "nodealias": "Antonio-Conte",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8ddd82ae-4f1e-4c1f-8137-3ab68e279bfa",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Antonio Conte",
+        "documentmodifiedwhen": "2021-12-17T07:20:57.711Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "19472Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Antonio Conte",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4K 4E5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Concord"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "114313-112271",
+        "sys_site": "lso",
+        "sys_created": "2019-03-29T07:21:58.013Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Don-Conte",
+        "nodeid": 112271,
+        "documentid": 114313,
+        "nodealias": "Don-Conte",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8c39ff79-2812-4302-8f47-921cb9d0baf0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Don Conte",
+        "documentmodifiedwhen": "2021-12-22T07:29:15.854Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15505",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Don Conte",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L4C 3C5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Richmond Hill"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16887-16044",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:13:08.197Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/James-David-Conte",
+        "nodeid": 16044,
+        "documentid": 16887,
+        "nodealias": "James-David-Conte",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3900c346-a31e-4986-8b17-a87609b4ec9a",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "James David Conte",
+        "documentmodifiedwhen": "2021-09-21T07:20:26.364Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "19473M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "James David Conte",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16889-16046",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:13:31.871Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Jane-Conte",
+        "nodeid": 16046,
+        "documentid": 16889,
+        "nodealias": "Jane-Conte",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7e980080-bce3-4d8e-b00d-31fc9097ef28",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jane Conte",
+        "documentmodifiedwhen": "2022-06-15T07:16:22.461Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46049L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jane Conte",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "4442-5101",
+        "sys_site": "lso",
+        "sys_created": "2018-06-14T21:13:43.387Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Joe-Conte",
+        "nodeid": 5101,
+        "documentid": 4442,
+        "nodealias": "Joe-Conte",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "03ad31c6-0021-4c13-8c4f-dfefd2df9b82",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joe Conte",
+        "documentmodifiedwhen": "2021-12-26T07:25:28.146Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la faillite et de l'insolvabilit\u00e9",
+            "Droit commercial et corporatifes"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Bankruptcy and Insolvency Law",
+            "Corporate/Commercial Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30609R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joe Conte",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5B 1M5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16890-16047",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:13:42.828Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Marcella-Conte",
+        "nodeid": 16047,
+        "documentid": 16890,
+        "nodealias": "Marcella-Conte",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c15f4912-0621-4333-9268-b0b60f6637af",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marcella Conte",
+        "documentmodifiedwhen": "2022-01-06T07:28:23.347Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51253H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marcella Conte",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M8X 2X3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16892-16049",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:14:04.452Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Melissa-Francesca-Conte",
+        "nodeid": 16049,
+        "documentid": 16892,
+        "nodealias": "Melissa-Francesca-Conte",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0d13b343-0319-4e2f-b442-3778b4ca4614",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Melissa Francesca Conte",
+        "documentmodifiedwhen": "2022-01-12T07:25:25.014Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68692I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Melissa Francesca Conte",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4M 3M4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Barrie"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16891-16048",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:13:53.788Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Nadia-Graziella-Conte",
+        "nodeid": 16048,
+        "documentid": 16891,
+        "nodealias": "Nadia-Graziella-Conte",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "014f8092-0515-4c60-b79b-ac1f78aa5859",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nadia Graziella Conte",
+        "documentmodifiedwhen": "2022-01-07T07:16:52.836Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56743S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nadia Graziella Conte",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L3T 0C4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Thornhill"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16888-16045",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:13:19.165Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/032/Roy-Conte",
+        "nodeid": 16045,
+        "documentid": 16888,
+        "nodealias": "Roy-Conte",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0228051a-49d8-45dc-aa38-dcaf2dda0090",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Roy Conte",
+        "documentmodifiedwhen": "2022-01-05T07:15:31.988Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26861G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Roy Conte",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4L 8G7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Woodbridge"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11601-10761",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T02:22:32.769Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Stephanie-Dina-Conte",
+        "nodeid": 10761,
+        "documentid": 11601,
+        "nodealias": "Stephanie-Dina-Conte",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b407cd61-6962-4409-9f20-416056002545",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephanie Dina Conte",
+        "documentmodifiedwhen": "2022-01-08T07:35:07.627Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13342",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephanie Dina Conte",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 1J8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "128374-124356",
+        "sys_site": "lso",
+        "sys_created": "2021-03-30T07:29:03.661Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Yvonna-Conte",
+        "nodeid": 124356,
+        "documentid": 128374,
+        "nodealias": "Yvonna-Conte",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d6dd3107-b502-4dde-bc1f-649da139741a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Yvonna Conte",
+        "documentmodifiedwhen": "2022-01-18T12:02:31.188Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81376R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Yvonna Conte",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M3J 2R1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "117157-114755",
+        "sys_site": "lso",
+        "sys_created": "2019-06-28T08:33:08.73Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Kathy-Conteh",
+        "nodeid": 114755,
+        "documentid": 117157,
+        "nodealias": "Kathy-Conteh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "692e2f11-c65a-461c-86d5-8aab75671ab7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kathy Conteh",
+        "documentmodifiedwhen": "2022-01-16T07:28:49.373Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77943A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kathy Conteh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 0A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16893-16050",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:14:16.15Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Sari-Rose-Conter",
+        "nodeid": 16050,
+        "documentid": 16893,
+        "nodealias": "Sari-Rose-Conter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9d8c93d0-e3bb-496e-a65a-c986a4f7d3da",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sari Rose Conter",
+        "documentmodifiedwhen": "2022-01-15T07:21:25.456Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69590O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sari Rose Conter",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M3C 3S2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118070-115456",
+        "sys_site": "lso",
+        "sys_created": "2019-09-07T07:22:08.233Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Jessica-Maria-Adelina-Conti",
+        "nodeid": 115456,
+        "documentid": 118070,
+        "nodealias": "Jessica-Maria-Adelina-Conti",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c2f0b5ca-007a-41e1-abd3-2564d3763521",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jessica Maria Adelina Conti",
+        "documentmodifiedwhen": "2019-10-22T07:20:16.31Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15765",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jessica Maria Adelina Conti",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.2489700317383,
+                43.1612586975098
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L2R 5C5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "St Catharines"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16894-16051",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:14:28.444Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Lauren-Michelle-Conti",
+        "nodeid": 16051,
+        "documentid": 16894,
+        "nodealias": "Lauren-Michelle-Conti",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6a11d79a-504f-4255-bfad-7c04cb020716",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lauren Michelle Conti",
+        "documentmodifiedwhen": "2022-01-08T07:29:45.017Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59148W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lauren Michelle Conti",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P7A 4L3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Thunder Bay"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16895-16052",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:14:39.432Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Nick-Continelli",
+        "nodeid": 16052,
+        "documentid": 16895,
+        "nodealias": "Nick-Continelli",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7e050d4e-1a02-4668-83a8-be10cd508df7",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nick Continelli",
+        "documentmodifiedwhen": "2019-08-09T07:18:21.207Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "73157O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nick Continelli",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3832473754883,
+                43.6499290466309
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 1T1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16896-16053",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:14:50.836Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Diana-Marie-Continenza",
+        "nodeid": 16053,
+        "documentid": 16896,
+        "nodealias": "Diana-Marie-Continenza",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bfadf3b5-5d5c-4aa6-83bc-1f4db9fd614d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Diana Marie Continenza",
+        "documentmodifiedwhen": "2022-01-06T07:23:34.048Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46580T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Diana Marie Continenza",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L2R 6Z2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "St. Catharines"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16899-16056",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:15:23.581Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Benjamin-Lewis-Contini",
+        "nodeid": 16056,
+        "documentid": 16899,
+        "nodealias": "Benjamin-Lewis-Contini",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ee9cd360-4169-49d2-839c-c71f48f5dddd",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Benjamin Lewis Contini",
+        "documentmodifiedwhen": "2022-01-14T07:32:30.154Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72916U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Benjamin Lewis Contini",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5V 0S8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16898-16055",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:15:13.036Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/John-Stuart-Contini",
+        "nodeid": 16055,
+        "documentid": 16898,
+        "nodealias": "John-Stuart-Contini",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ea2fa11b-1433-4109-b9a6-446a293f79b0",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Stuart Contini",
+        "documentmodifiedwhen": "2021-12-26T07:25:28.708Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30610B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Stuart Contini",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3M7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16897-16054",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:15:02.013Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Mark-David-Contini",
+        "nodeid": 16054,
+        "documentid": 16897,
+        "nodealias": "Mark-David-Contini",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "010a31cd-c0be-4aa5-acb9-f666e4f282c4",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mark David Contini",
+        "documentmodifiedwhen": "2021-12-17T07:30:00.412Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "19819H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mark David Contini",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5V 3H1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "57650-56377",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:03:52.027Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Evelyn-Stephanie-Contino",
+        "nodeid": 56377,
+        "documentid": 57650,
+        "nodealias": "Evelyn-Stephanie-Contino",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "97b433f3-f49c-44a7-be30-6cebc7638b16",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Evelyn Stephanie Contino",
+        "documentmodifiedwhen": "2021-07-21T07:17:26.127Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74962F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Evelyn Stephanie Contino",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.5789566040039,
+                43.8240661621094
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4H 3G5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16900-16057",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:15:34.737Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Delna-Khushru-Contractor",
+        "nodeid": 16057,
+        "documentid": 16900,
+        "nodealias": "Delna-Khushru-Contractor",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4050dd90-43f6-4077-af3c-9bdbc9f96bc0",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Delna Khushru Contractor",
+        "documentmodifiedwhen": "2022-01-12T07:25:24.397Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68693E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Delna Khushru Contractor",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3P5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "83270-81998",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:44:50.616Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/034/Mohammed-Aamir-Contractor",
+        "nodeid": 81998,
+        "documentid": 83270,
+        "nodealias": "Mohammed-Aamir-Contractor",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0c796d57-b529-4213-8637-9f8ad82ad566",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mohammed Aamir Contractor",
+        "documentmodifiedwhen": "2022-01-17T07:17:33.619Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74963B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mohammed Aamir Contractor",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 3A6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "140071-134459",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T08:22:22.582Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/051/Matias-Contreras-Leon",
+        "nodeid": 134459,
+        "documentid": 140071,
+        "nodealias": "Matias-Contreras-Leon",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "509940c6-ea87-4676-8d15-72a214bb1036",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Matias Contreras Leon",
+        "documentmodifiedwhen": "2022-07-07T07:17:28.368Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Espagnol"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Spanish"
+        ],
+        "membernumber": "84878P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Matias Contreras Leon",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5A 2W8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16901-16058",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:15:45.44Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Mark-Andrew-Convery",
+        "nodeid": 16058,
+        "documentid": 16901,
+        "nodealias": "Mark-Andrew-Convery",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c9403570-d542-4bce-afaf-198e1673fa76",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mark Andrew Convery",
+        "documentmodifiedwhen": "2022-03-31T07:16:12.689Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25290S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mark Andrew Convery",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "83279-82005",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:44:58.865Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/034/Aileen-Anne-Conway",
+        "nodeid": 82005,
+        "documentid": 83279,
+        "nodealias": "Aileen-Anne-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d5b9d169-e858-4dbb-8749-3d4226406758",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Aileen Anne Conway",
+        "documentmodifiedwhen": "2021-12-14T10:47:27.614Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26464L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Aileen Anne Conway",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16902-16059",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:15:56.293Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Christopher-John-Conway",
+        "nodeid": 16059,
+        "documentid": 16902,
+        "nodealias": "Christopher-John-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a8d24823-ea79-455f-8eb7-365a452478d1",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher John Conway",
+        "documentmodifiedwhen": "2020-02-20T09:19:21.852Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P01378",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher John Conway",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16909-16066",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:17:18.809Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/David-Robert-Conway",
+        "nodeid": 16066,
+        "documentid": 16909,
+        "nodealias": "David-Robert-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bde7d30d-21a3-4592-8409-a860917448a3",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Robert Conway",
+        "documentmodifiedwhen": "2022-04-02T07:16:29.472Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30611U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Robert Conway",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M3J 2V5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16903-16060",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:16:07.777Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Dominique-Christiane-Conway",
+        "nodeid": 16060,
+        "documentid": 16903,
+        "nodealias": "Dominique-Christiane-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bad6e90c-ef44-403d-9ef9-67e782583e44",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Dominique Christiane Conway",
+        "documentmodifiedwhen": "2019-05-07T15:21:18.582Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P10197",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Dominique Christiane Conway",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.675048828125,
+                45.3879814147949
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "K1H 8K7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16916-16073",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:18:27.88Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Edward-Charles-Conway",
+        "nodeid": 16073,
+        "documentid": 16916,
+        "nodealias": "Edward-Charles-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a9c70fc5-bf90-45c0-8a4a-233c50af2d0c",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Edward Charles Conway",
+        "documentmodifiedwhen": "2022-01-01T07:18:44.669Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "44921M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Edward Charles Conway",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K2P 1K7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "83278-82006",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:44:58.897Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/034/Helen-Marie-Conway",
+        "nodeid": 82006,
+        "documentid": 83278,
+        "nodealias": "Helen-Marie-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2f010918-1675-4a4d-9fe4-efa379a2ee01",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Helen Marie Conway",
+        "documentmodifiedwhen": "2021-12-29T07:17:30.75Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38758A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Helen Marie Conway",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123754-120208",
+        "sys_site": "lso",
+        "sys_created": "2020-06-23T08:48:32.379Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/James-Michael-Conway",
+        "nodeid": 120208,
+        "documentid": 123754,
+        "nodealias": "James-Michael-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2b91e623-8578-48f7-987d-1b8c704cfefa",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "James Michael Conway",
+        "documentmodifiedwhen": "2022-03-25T07:18:07.484Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "79928O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "James Michael Conway",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16917-16074",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:18:39.027Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Jeffery-Edward-Conway",
+        "nodeid": 16074,
+        "documentid": 16917,
+        "nodealias": "Jeffery-Edward-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "657ac7f1-2bce-4b3f-9772-b180d095507e",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jeffery Edward Conway",
+        "documentmodifiedwhen": "2022-01-08T07:17:50.047Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57955S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jeffery Edward Conway",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6K 1M6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "83271-82000",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:44:50.631Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/034/John-Patrick-Conway",
+        "nodeid": 82000,
+        "documentid": 83271,
+        "nodealias": "John-Patrick-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2a2f121b-aa8f-48c8-93ff-466cbd285f61",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Patrick Conway",
+        "documentmodifiedwhen": "2022-05-28T07:32:40.349Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13273M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Patrick Conway",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16915-16072",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:18:16.153Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/John-Richard-Conway",
+        "nodeid": 16072,
+        "documentid": 16915,
+        "nodealias": "John-Richard-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bbf3992f-4754-4ce1-be7e-257b25463333",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Richard Conway",
+        "documentmodifiedwhen": "2021-12-31T07:25:07.653Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42824L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Richard Conway",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5L 1A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "57886-56612",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:05:20.879Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Kathryn-Anne-Conway",
+        "nodeid": 56612,
+        "documentid": 57886,
+        "nodealias": "Kathryn-Anne-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d1350a73-acfe-4e27-80f9-ba177dcc6b7c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kathryn Anne Conway",
+        "documentmodifiedwhen": "2022-03-04T07:16:46.112Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la famille ou matrimonial"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Family/Matrimonial Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74964U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kathryn Anne Conway",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 1T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "83272-81999",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:44:50.631Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/007/Laurence-Robert-Conway",
+        "nodeid": 81999,
+        "documentid": 83272,
+        "nodealias": "Laurence-Robert-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "80f3dfa6-7216-4293-9e44-c3f0df7581a9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Laurence Robert Conway",
+        "documentmodifiedwhen": "2021-09-21T09:06:18.852Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06008",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Laurence Robert Conway",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16913-16070",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:17:53.584Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Lisa-Karen-Conway",
+        "nodeid": 16070,
+        "documentid": 16913,
+        "nodealias": "Lisa-Karen-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "61714d88-6979-4bed-913b-93cd82cd8a1d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lisa Karen Conway",
+        "documentmodifiedwhen": "2021-11-27T07:16:04.727Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36678W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lisa Karen Conway",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16914-16071",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:18:04.585Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Lynda-Susan-Conway",
+        "nodeid": 16071,
+        "documentid": 16914,
+        "nodealias": "Lynda-Susan-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2db354e3-4b32-4e68-bfcd-90627f444044",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lynda Susan Conway",
+        "documentmodifiedwhen": "2022-05-28T07:46:07.914Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "40170W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lynda Susan Conway",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "K1N 0A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "83276-82002",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:44:57.537Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/034/Michael-Dermot-Conway",
+        "nodeid": 82002,
+        "documentid": 83276,
+        "nodealias": "Michael-Dermot-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "62dc2b41-a170-440c-bfa3-4b0f8761ebf2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Dermot Conway",
+        "documentmodifiedwhen": "2021-12-14T08:07:04.567Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "15111T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Dermot Conway",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "83275-82004",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:44:57.74Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/034/Patricia-Marilyn-Conway",
+        "nodeid": 82004,
+        "documentid": 83275,
+        "nodealias": "Patricia-Marilyn-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2f2e603d-ea46-47f2-9568-d97b166cf3d9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Patricia Marilyn Conway",
+        "documentmodifiedwhen": "2021-10-21T07:16:12.109Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "20553O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Patricia Marilyn Conway",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16904-16061",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:16:18.743Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Paul-Thomas-Conway",
+        "nodeid": 16061,
+        "documentid": 16904,
+        "nodealias": "Paul-Thomas-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1fed4469-e593-40d0-8ede-ccac2ea5d97d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paul Thomas Conway",
+        "documentmodifiedwhen": "2021-03-26T07:15:55.985Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "14730J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paul Thomas Conway",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3124465942383,
+                43.8672523498535
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L3R 2G9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Unionville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "83277-82007",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:44:59.053Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/034/Rachel-Carole-Conway",
+        "nodeid": 82007,
+        "documentid": 83277,
+        "nodealias": "Rachel-Carole-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "94dbc4de-2df6-42d0-9c02-14b37e7bd7ca",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rachel Carole Conway",
+        "documentmodifiedwhen": "2020-02-20T08:27:39.347Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "40403W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rachel Carole Conway",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16905-16062",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:16:30.491Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Richard-Alan-Conway",
+        "nodeid": 16062,
+        "documentid": 16905,
+        "nodealias": "Richard-Alan-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "90449e7c-a3f1-4d70-b02e-5ab75e093ba4",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Richard Alan Conway",
+        "documentmodifiedwhen": "2022-04-29T07:18:02.689Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21606K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Richard Alan Conway",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5V 1J2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16906-16063",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:16:42.594Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Rosalind-Eve-Conway",
+        "nodeid": 16063,
+        "documentid": 16906,
+        "nodealias": "Rosalind-Eve-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "18b83711-1b04-45dd-8b7f-dc130b56b46d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rosalind Eve Conway",
+        "documentmodifiedwhen": "2020-08-25T07:15:38.581Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit criminel et quasi criminel",
+            "Infractions punissables par proc\u00e9dure sommaire \u00e0 la Cour de justice de l'Ontario"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Criminal/Quasi-Criminal Law",
+            "Ontario Court of Justice - Summary Conviction Offences"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25291O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rosalind Eve Conway",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.6907730102539,
+                45.4178352355957
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K2P 0J2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "83280-82008",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T04:45:01.944Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/034/Stacey-Elise-Conway",
+        "nodeid": 82008,
+        "documentid": 83280,
+        "nodealias": "Stacey-Elise-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e187133c-a85f-4a3e-9b96-31871cf82998",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stacey Elise Conway",
+        "documentmodifiedwhen": "2020-11-28T07:17:36.441Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74507P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stacey Elise Conway",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3795166015625,
+                43.6481437683105
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5L 1A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16907-16064",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:16:54.515Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Stephen-Paul-Conway",
+        "nodeid": 16064,
+        "documentid": 16907,
+        "nodealias": "Stephen-Paul-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0e966d16-5c4f-4897-95ab-b6443ec77061",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephen Paul Conway",
+        "documentmodifiedwhen": "2021-12-24T07:21:16.851Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26465H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephen Paul Conway",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0K2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16912-16069",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:17:41.667Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Suzanne-Marie-Conway",
+        "nodeid": 16069,
+        "documentid": 16912,
+        "nodealias": "Suzanne-Marie-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0f36d588-217c-4c4f-a420-0f513844abca",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Suzanne Marie Conway",
+        "documentmodifiedwhen": "2021-12-27T07:19:32.543Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "34215T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Suzanne Marie Conway",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5X 1B1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "16908-16065",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T21:17:06.567Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/033/Thomas-Gerard-Conway",
+        "nodeid": 16065,
+        "documentid": 16908,
+        "nodealias": "Thomas-Gerard-Conway",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0808d3a4-6613-4c1f-a80a-a18a32fa0994",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Thomas Gerard Conway",
+        "documentmodifiedwhen": "2021-12-25T07:19:20.684Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "29214C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Thomas Gerard Conway",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K2A 3X9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    }
+]

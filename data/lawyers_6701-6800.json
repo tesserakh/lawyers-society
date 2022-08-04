@@ -1,0 +1,5138 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "67857-66591",
+        "sys_site": "lso",
+        "sys_created": "2018-08-03T22:56:56.969Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Stephanie-Bjurstrom",
+        "nodeid": 66591,
+        "documentid": 67857,
+        "nodealias": "Stephanie-Bjurstrom",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6d0ca8e4-cfff-40c3-8341-82fd0f77ae3e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephanie Bjurstrom",
+        "documentmodifiedwhen": "2022-04-12T07:16:14.716Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72995W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephanie Bjurstrom",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "M5S 0A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11837-10997",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:20:20.918Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/012/Karl-Johan-Gustaf-Bjurstrom",
+        "nodeid": 10997,
+        "documentid": 11837,
+        "nodealias": "Karl-Johan-Gustaf-Bjurstrom",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0ac5736f-c51b-4df8-a285-e7d1a0ff21c9",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karl Johan Gustaf Bjurstr\u00f6m",
+        "documentmodifiedwhen": "2022-01-11T07:32:01.013Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66808T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karl Johan Gustaf Bjurstr\u00f6m",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6J 1C9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11838-10998",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:20:34.83Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/012/Rosaline-Bkila",
+        "nodeid": 10998,
+        "documentid": 11838,
+        "nodealias": "Rosaline-Bkila",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "21cb49eb-c320-4516-be80-7ee865f7511d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rosaline Bkila",
+        "documentmodifiedwhen": "2019-05-07T14:55:20.744Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51227J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rosaline Bkila",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3872756958008,
+                43.6704788208008
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M4W 3E2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11839-10999",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:20:52.794Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/012/Dean-Eric-Blachford",
+        "nodeid": 10999,
+        "documentid": 11839,
+        "nodealias": "Dean-Eric-Blachford",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7cd23cf8-c6c2-49d8-8ffb-b9f4888ab8a1",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Dean Eric Blachford",
+        "documentmodifiedwhen": "2022-01-10T07:30:03.483Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit fiscal"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Tax Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63953M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Dean Eric Blachford",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1H 7P5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11873-11033",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:27:55.94Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Adam-Neil-Black",
+        "nodeid": 11033,
+        "documentid": 11873,
+        "nodealias": "Adam-Neil-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8e580385-0c5c-4aa9-8b24-71144952f0eb",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Adam Neil Black",
+        "documentmodifiedwhen": "2022-01-04T07:22:59.422Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54213S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Adam Neil Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5C 2W7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80653-79381",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:26:43.733Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/Alannah-Christian-Black",
+        "nodeid": 79381,
+        "documentid": 80653,
+        "nodealias": "Alannah-Christian-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7d04c738-5a61-49f8-a473-edb3940278c9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alannah Christian Black",
+        "documentmodifiedwhen": "2021-12-29T07:23:05.057Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37001C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alannah Christian Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11879-11039",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:29:19.378Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Alexandria-Joan-Black",
+        "nodeid": 11039,
+        "documentid": 11879,
+        "nodealias": "Alexandria-Joan-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a1f30314-4e9c-4caf-9b26-d506c456fcac",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alexandria Joan Black",
+        "documentmodifiedwhen": "2022-01-10T07:16:52.501Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63042U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alexandria Joan Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K9A 3A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Cobourg"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80646-79376",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:26:38.92Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/Allan-Russell-Black",
+        "nodeid": 79376,
+        "documentid": 80646,
+        "nodealias": "Allan-Russell-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4147c32b-05d8-4aa6-8386-d47b194c27fc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Allan Russell Black",
+        "documentmodifiedwhen": "2022-03-23T07:16:26.443Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "09980H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Allan Russell Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "D\u00e9c\u00e9d\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Deceased"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "57773-56500",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:04:40.38Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Amber-Lynn-Black",
+        "nodeid": 56500,
+        "documentid": 57773,
+        "nodealias": "Amber-Lynn-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d2a1863b-b8f1-4a15-a099-c298242858ad",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amber Lynn Black",
+        "documentmodifiedwhen": "2022-07-23T07:17:02.652Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14293",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amber Lynn Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "N1H 2S8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Guelph"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11841-11001",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:21:20.982Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Amy-Letitia-Black",
+        "nodeid": 11001,
+        "documentid": 11841,
+        "nodealias": "Amy-Letitia-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a80eb2fe-ea4d-4361-a845-447236b01b6c",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amy Letitia Black",
+        "documentmodifiedwhen": "2022-01-12T07:33:53.141Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13449",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amy Letitia Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L7R 5A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Burlington"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11866-11026",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:26:10.476Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Andrew-Allan-Black",
+        "nodeid": 11026,
+        "documentid": 11866,
+        "nodealias": "Andrew-Allan-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "edfe9538-2dd8-4d1a-9f58-18c4d7b645ec",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew Allan Black",
+        "documentmodifiedwhen": "2022-07-14T07:17:17.179Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit commercial et corporatifes",
+            "Droit de l'emploi et droit du travail",
+            "Droit de la propri\u00e9t\u00e9 intellectuelle",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Corporate/Commercial Law",
+            "Employment/Labour Law",
+            "Intellectual Property Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33158F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew Allan Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6E 0N8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11878-11038",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:29:05.355Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Andrew-Nicholas-Black",
+        "nodeid": 11038,
+        "documentid": 11878,
+        "nodealias": "Andrew-Nicholas-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7fbf7d73-ce21-401e-870f-8996a418711c",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew Nicholas Black",
+        "documentmodifiedwhen": "2022-01-09T07:17:05.259Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60366V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew Nicholas Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M3M 3G3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80648-79374",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:26:39.108Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/Barrie-Harold-Black",
+        "nodeid": 79374,
+        "documentid": 80648,
+        "nodealias": "Barrie-Harold-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "aa6bef93-9aeb-43ce-9858-0e7e3c816dd1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Barrie Harold Black",
+        "documentmodifiedwhen": "2021-12-14T07:51:06.48Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "14087V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Barrie Harold Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11875-11035",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:28:24.717Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Carla-Victoria-Black",
+        "nodeid": 11035,
+        "documentid": 11875,
+        "nodealias": "Carla-Victoria-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3c4fa912-5d6a-43d9-a7b9-e7b3576bf4fc",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Carla Victoria Black",
+        "documentmodifiedwhen": "2022-01-07T07:27:19.578Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57526D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Carla Victoria Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5V 1M3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11876-11036",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:28:38.354Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Christina-Kathelyn-Black",
+        "nodeid": 11036,
+        "documentid": 11876,
+        "nodealias": "Christina-Kathelyn-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "28d2a24c-6fda-4e78-b2da-ae940856452a",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christina Kathelyn Black",
+        "documentmodifiedwhen": "2022-01-15T07:17:29.043Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "59271W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christina Kathelyn Black",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K2P 1M8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11882-11042",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:30:00.63Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Christine-Dawn-Black",
+        "nodeid": 11042,
+        "documentid": 11882,
+        "nodealias": "Christine-Dawn-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "03810bd3-d9b9-4a55-a937-7f98498facb1",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christine Dawn Black",
+        "documentmodifiedwhen": "2021-09-21T08:37:47.835Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71494T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christine Dawn Black",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4799194335938,
+                43.658031463623
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M6S 2A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "38783-37519",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:52:11.463Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Christopher-Anthony-Black",
+        "nodeid": 37519,
+        "documentid": 38783,
+        "nodealias": "Christopher-Anthony-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "70883258-3550-49f7-98b4-7e806230de03",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher Anthony Black",
+        "documentmodifiedwhen": "2022-05-14T07:30:32.341Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64804N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher Anthony Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K8N 3C3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Belleville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80650-79378",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:26:40.639Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/Christopher-Charles-Black",
+        "nodeid": 79378,
+        "documentid": 80650,
+        "nodealias": "Christopher-Charles-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dd3b028e-9917-4f1b-b877-f392e7ef7315",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher Charles Black",
+        "documentmodifiedwhen": "2021-12-15T07:28:48.943Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "17344O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher Charles Black",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Netherlands",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "2516AB",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "The Hague"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80655-79383",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:26:47.938Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/Darren-Michael-Black",
+        "nodeid": 79383,
+        "documentid": 80655,
+        "nodealias": "Darren-Michael-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b9b18cd8-7258-486f-a28f-be73f07c6004",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Darren Michael Black",
+        "documentmodifiedwhen": "2021-11-05T07:46:16.63Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "39740D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Darren Michael Black",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -94.5835647583008,
+                39.0996284484863
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80644-79372",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:26:32.508Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/David-Bruce-Black",
+        "nodeid": 79372,
+        "documentid": 80644,
+        "nodealias": "David-Bruce-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5a79cbd9-e80b-413f-84d4-d58b96b076c3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Bruce Black",
+        "documentmodifiedwhen": "2022-05-28T07:27:52.517Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "08578K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Bruce Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80645-79373",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:26:35.045Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/Donald-David-Black",
+        "nodeid": 79373,
+        "documentid": 80645,
+        "nodealias": "Donald-David-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1db6f52f-063f-46e5-8117-18e05b82c721",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Donald David Black",
+        "documentmodifiedwhen": "2021-12-14T07:52:32.956Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "09415K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Donald David Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80647-79375",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:26:39.373Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/Douglas-Stewart-Black",
+        "nodeid": 79375,
+        "documentid": 80647,
+        "nodealias": "Douglas-Stewart-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0ef7f888-6d9b-41f8-90a9-ec7813ae1e47",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Douglas Stewart Black",
+        "documentmodifiedwhen": "2021-12-14T07:54:41.666Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "14691C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Douglas Stewart Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11865-11025",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:25:56.943Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Eric-James-Black",
+        "nodeid": 11025,
+        "documentid": 11865,
+        "nodealias": "Eric-James-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2d8b84e7-88fd-4ca0-a6b4-985976a93a7b",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eric James Black",
+        "documentmodifiedwhen": "2021-12-27T07:25:13.532Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32753A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eric James Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5J 2M2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11853-11013",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:22:57.088Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Gary-Livingstone-Black",
+        "nodeid": 11013,
+        "documentid": 11853,
+        "nodealias": "Gary-Livingstone-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "266c0148-139f-4898-adb0-bb6d58247ac2",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gary Livingstone Black",
+        "documentmodifiedwhen": "2022-01-14T07:15:14.805Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "11779I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gary Livingstone Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L2R 6Z1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "St Catharines"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11880-11040",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:29:33.056Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Graeme-Ronald-Black",
+        "nodeid": 11040,
+        "documentid": 11880,
+        "nodealias": "Graeme-Ronald-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "489986c0-7dad-4dbc-984c-6b3cf5a6cd3d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Graeme Ronald Black",
+        "documentmodifiedwhen": "2022-01-15T07:17:04.316Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63954I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Graeme Ronald Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2S5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11861-11021",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:24:56.252Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Grant-Eaton-Black",
+        "nodeid": 11021,
+        "documentid": 11861,
+        "nodealias": "Grant-Eaton-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2387caeb-3d4e-443a-bd5c-fd64d40744ee",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Grant Eaton Black",
+        "documentmodifiedwhen": "2021-12-22T07:20:53.532Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "22972L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Grant Eaton Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L3R 5P8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Markham"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "126324-122476",
+        "sys_site": "lso",
+        "sys_created": "2020-12-01T07:18:48.143Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Grant-William-Black",
+        "nodeid": 122476,
+        "documentid": 126324,
+        "nodealias": "Grant-William-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "eb9844da-69ff-479d-8eb7-8273686d0eed",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Grant William Black",
+        "documentmodifiedwhen": "2022-01-17T07:27:32.412Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81009I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Grant William Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 2L9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11881-11041",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:29:47.187Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Gregory-James-Black",
+        "nodeid": 11041,
+        "documentid": 11881,
+        "nodealias": "Gregory-James-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f5ec38e9-0ae1-4dcb-a192-e511ac701c56",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gregory James Black",
+        "documentmodifiedwhen": "2022-05-11T07:15:30.891Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67423J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gregory James Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L1G 0A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oshawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80649-79377",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:26:39.874Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/Heather-Helen-Black",
+        "nodeid": 79377,
+        "documentid": 80649,
+        "nodealias": "Heather-Helen-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "39dff083-2b7c-43e9-ab05-79efad8d919e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Heather Helen Black",
+        "documentmodifiedwhen": "2021-12-14T07:46:13.944Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "16229F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Heather Helen Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11855-11015",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:23:26.541Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Henry-Gerard-Joseph-Black",
+        "nodeid": 11015,
+        "documentid": 11855,
+        "nodealias": "Henry-Gerard-Joseph-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ea9ae1f4-58d8-4e4a-8b73-75bc2cbbd425",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Henry Gerard Joseph Black",
+        "documentmodifiedwhen": "2020-08-21T07:15:44.164Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "13409K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Henry Gerard Joseph Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3746948242188,
+                43.6527290344238
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5C 1P1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11862-11022",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:25:10.191Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Howard-Steven-Black",
+        "nodeid": 11022,
+        "documentid": 11862,
+        "nodealias": "Howard-Steven-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "653a9102-1d2d-4b9a-82c7-22925d624869",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Howard Steven Black",
+        "documentmodifiedwhen": "2021-12-24T07:18:58.811Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "24886V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Howard Steven Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3S1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11871-11031",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:27:24.096Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Jennifer-Rose-Black",
+        "nodeid": 11031,
+        "documentid": 11871,
+        "nodealias": "Jennifer-Rose-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2ad63c22-0df0-4b1a-83e0-5ca766ddef44",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Rose Black",
+        "documentmodifiedwhen": "2022-01-03T07:22:19.612Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52090D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Rose Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N2J 1B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Waterloo"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11877-11037",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:28:51.883Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Jennifer-Sarah-Black",
+        "nodeid": 11037,
+        "documentid": 11877,
+        "nodealias": "Jennifer-Sarah-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c378807c-6c6e-4e09-92fe-1ce6645cd20d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Sarah Black",
+        "documentmodifiedwhen": "2022-01-09T07:24:09.317Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - d\u00e9fendeur",
+            "Affaires relevant de la Cour des petites cr\u00e9ances"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Defendant",
+            "Small Claims Court matters"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60356E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Sarah Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3G2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11857-11017",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:23:53.14Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/John-Alexander-Black",
+        "nodeid": 11017,
+        "documentid": 11857,
+        "nodealias": "John-Alexander-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cce06827-caf8-4a16-997e-27f5ce24db54",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Alexander Black",
+        "documentmodifiedwhen": "2021-11-05T07:19:53.68Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "18689U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Alexander Black",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.38232421875,
+                43.6515808105469
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "M5H 2M5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11867-11027",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:26:24.812Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/John-Alexander-Black-(1)",
+        "nodeid": 11027,
+        "documentid": 11867,
+        "nodealias": "John-Alexander-Black-(1)",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "038d75dc-432a-4b1b-8258-fb10ff645ad0",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Alexander Black",
+        "documentmodifiedwhen": "2021-12-28T07:19:11.597Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "35781A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Alexander Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11860-11020",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:24:42.496Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/John-Andrew-Black",
+        "nodeid": 11020,
+        "documentid": 11860,
+        "nodealias": "John-Andrew-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "df2c19fb-3d98-439d-aa99-7216777d7d0c",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Andrew Black",
+        "documentmodifiedwhen": "2021-12-21T07:23:43.762Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21952M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Andrew Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K7L 4X1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kingston"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80657-79385",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:26:49.9Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/John-David-Black",
+        "nodeid": 79385,
+        "documentid": 80657,
+        "nodealias": "John-David-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "688189f1-745c-4907-bfbc-048b0b8ef56d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John David Black",
+        "documentmodifiedwhen": "2022-01-13T07:22:45.162Z",
+        "skuname": null,
+        "memberprovincetext": "Michigan",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69520K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John David Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "48304",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Bloomfield Hills"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11864-11024",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:25:43.127Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/John-Francis-Black",
+        "nodeid": 11024,
+        "documentid": 11864,
+        "nodealias": "John-Francis-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f5b3f535-766d-4e54-9f5b-ea3b156a9028",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Francis Black",
+        "documentmodifiedwhen": "2021-12-26T07:22:19.724Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit de l'emploi et droit du travail",
+            "Droit de l'environnement",
+            "Droit de la famille ou matrimonial",
+            "Droit des testaments, des successions et des fiducies",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Droits de la personne"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Employment/Labour Law",
+            "Environmental Law",
+            "Family/Matrimonial Law",
+            "Wills, Estates, Trusts Law",
+            "Small Claims Court matters",
+            "Human Rights"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32156C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Francis Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K7K 2Y2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kingston"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11870-11030",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:27:10.073Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Jordan-Mark-Black",
+        "nodeid": 11030,
+        "documentid": 11870,
+        "nodealias": "Jordan-Mark-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9bef9f28-b8a4-4a39-9bd1-be4486e7141d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jordan Mark Black",
+        "documentmodifiedwhen": "2022-01-05T07:23:16.36Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51228F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jordan Mark Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 2L9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "115957-113572",
+        "sys_site": "lso",
+        "sys_created": "2019-06-22T07:20:39.972Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Justin-Cassidy-Black",
+        "nodeid": 113572,
+        "documentid": 115957,
+        "nodealias": "Justin-Cassidy-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "554830ad-23f5-484f-8737-c641834317e5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Justin Cassidy Black",
+        "documentmodifiedwhen": "2022-01-16T07:17:09.853Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76786T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Justin Cassidy Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N0B 1E0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ayr"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11869-11029",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:26:56.089Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Lauren-Beth-Black",
+        "nodeid": 11029,
+        "documentid": 11869,
+        "nodealias": "Lauren-Beth-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "17a35ae7-da23-44d6-9474-1d011ead1a80",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lauren Beth Black",
+        "documentmodifiedwhen": "2022-01-02T07:19:57.671Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49923N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lauren Beth Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4S 1V6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130725-126314",
+        "sys_site": "lso",
+        "sys_created": "2021-06-01T08:48:19.228Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Madison-Ann-Black",
+        "nodeid": 126314,
+        "documentid": 130725,
+        "nodealias": "Madison-Ann-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b817c589-b7c5-4504-9c2f-4a5c587255e6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Madison Ann Black",
+        "documentmodifiedwhen": "2022-01-18T12:00:14.133Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82143J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Madison Ann Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1B8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11854-11014",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:23:10.783Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Margaret-Joyce-Black",
+        "nodeid": 11014,
+        "documentid": 11854,
+        "nodealias": "Margaret-Joyce-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f54dcd6c-b924-4163-81eb-f0be6b16842a",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Margaret Joyce Black",
+        "documentmodifiedwhen": "2021-12-14T07:25:56.387Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "12784K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Margaret Joyce Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "4425-5084",
+        "sys_site": "lso",
+        "sys_created": "2018-06-14T21:11:05.653Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Martin-Zvi-Black",
+        "nodeid": 5084,
+        "documentid": 4425,
+        "nodealias": "Martin-Zvi-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "82c074bf-696f-4298-86a1-628d240804b4",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Martin Zvi Black",
+        "documentmodifiedwhen": "2021-12-17T07:18:00.301Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la faillite et de l'insolvabilit\u00e9",
+            "Contentieux civil - demandeur",
+            "Droit de la construction",
+            "Droit commercial et corporatifes",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Bankruptcy and Insolvency Law",
+            "Civil Litigation - Plaintiff",
+            "Construction Law",
+            "Corporate/Commercial Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21214G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Martin Zvi Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K2C 0P8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11874-11034",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:28:09.905Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Meredith-Shannon-Black",
+        "nodeid": 11034,
+        "documentid": 11874,
+        "nodealias": "Meredith-Shannon-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3d9bad2d-035c-4faf-a208-b1433a9e087e",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Meredith Shannon Black",
+        "documentmodifiedwhen": "2022-01-07T07:17:54.809Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56052R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Meredith Shannon Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6E 1C3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11852-11012",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:22:43.108Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/012/Michael-Anthony-Black",
+        "nodeid": 11012,
+        "documentid": 11852,
+        "nodealias": "Michael-Anthony-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3a4b0077-36f7-4b0a-81ec-f5bb2214b37d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Anthony Black",
+        "documentmodifiedwhen": "2022-05-18T07:17:49.752Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "11439Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Anthony Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K8N 3C3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Belleville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80654-79382",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:26:47.344Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/Rachel-Marie-Black",
+        "nodeid": 79382,
+        "documentid": 80654,
+        "nodealias": "Rachel-Marie-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7f97fc56-e6ff-431e-a461-3ce8d4dfb2af",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rachel Marie Black",
+        "documentmodifiedwhen": "2020-07-29T07:16:13.224Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37748S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rachel Marie Black",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11859-11019",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:24:24.965Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Robert-Neil-Black",
+        "nodeid": 11019,
+        "documentid": 11859,
+        "nodealias": "Robert-Neil-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "068846e4-b8e8-4269-b2db-5fa79b5c8271",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Neil Black",
+        "documentmodifiedwhen": "2021-12-21T07:26:01.316Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21575F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Neil Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1E2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "112663-110944",
+        "sys_site": "lso",
+        "sys_created": "2018-12-01T07:17:29.076Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/008/Robin-Nicole-Black",
+        "nodeid": 110944,
+        "documentid": 112663,
+        "nodealias": "Robin-Nicole-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a89cf353-8dba-4650-896a-56290ed047b7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robin Nicole Black",
+        "documentmodifiedwhen": "2022-03-01T07:18:53.711Z",
+        "skuname": null,
+        "memberprovincetext": "New Brunswick",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15103",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robin Nicole Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "E3E 1P8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Upper Kingsclear"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80652-79379",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:26:42.483Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/Rosemary-Lillian-Robinson-Black",
+        "nodeid": 79379,
+        "documentid": 80652,
+        "nodealias": "Rosemary-Lillian-Robinson-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c880262a-e247-4b76-b8ce-2d1ea6202324",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rosemary Lillian Robinson Black",
+        "documentmodifiedwhen": "2021-11-05T07:20:31.109Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "17690Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rosemary Lillian Robinson Black",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "122634-119159",
+        "sys_site": "lso",
+        "sys_created": "2020-06-16T07:18:02.155Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Samantha-Elizabeth-Black",
+        "nodeid": 119159,
+        "documentid": 122634,
+        "nodealias": "Samantha-Elizabeth-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2f0e110a-d4b0-412d-8258-e8616f2c5cdf",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Samantha Elizabeth Black",
+        "documentmodifiedwhen": "2021-09-09T07:18:48.797Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "79282D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Samantha Elizabeth Black",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.380012512207,
+                43.6476631164551
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1E7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80642-79371",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:26:29.604Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/007/Sandra-Louise-Noore-Black",
+        "nodeid": 79371,
+        "documentid": 80642,
+        "nodealias": "Sandra-Louise-Noore-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "59bb193f-21d9-491f-8617-8a22cf0dc85f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sandra Louise Noore Black",
+        "documentmodifiedwhen": "2020-02-20T09:34:55.862Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09496",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sandra Louise Noore Black",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "38796-37532",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T03:52:35.621Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Sarah-Jane-McRoberts-Black",
+        "nodeid": 37532,
+        "documentid": 38796,
+        "nodealias": "Sarah-Jane-McRoberts-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3d6cc7d1-d3d3-45b2-8ce9-6aef5d0cb65b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sarah Jane McRoberts Black",
+        "documentmodifiedwhen": "2019-05-07T17:01:55.953Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75373U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sarah Jane McRoberts Black",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -76.4790802001953,
+                44.2315902709961
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K7K 2X5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kingston"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11842-11002",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:21:34.591Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/012/Spencer-Black",
+        "nodeid": 11002,
+        "documentid": 11842,
+        "nodealias": "Spencer-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3b4bab55-8257-4029-85dc-f03d04a80281",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Spencer Black",
+        "documentmodifiedwhen": "2022-03-29T07:16:05.644Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "10750W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Spencer Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "L4J 8B4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Thornhill"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11868-11028",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:26:38.368Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Stephen-Daniel-Black",
+        "nodeid": 11028,
+        "documentid": 11868,
+        "nodealias": "Stephen-Daniel-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4846d676-1ca0-41d2-9ddf-015eb934fd4b",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stephen Daniel Black",
+        "documentmodifiedwhen": "2021-12-29T07:26:42.465Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38109R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stephen Daniel Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5V 2A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80651-79380",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:26:42.78Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/Susan-Margaret-Black",
+        "nodeid": 79380,
+        "documentid": 80651,
+        "nodealias": "Susan-Margaret-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "20dd782d-4bb1-40c5-978c-89b875d8fbb5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Susan Margaret Black",
+        "documentmodifiedwhen": "2020-02-20T08:15:12.874Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "28350T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Susan Margaret Black",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11872-11032",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:27:38.018Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Thomas-John-Black",
+        "nodeid": 11032,
+        "documentid": 11872,
+        "nodealias": "Thomas-John-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "50784807-280e-4c49-bae4-9a2ed5c585a5",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Thomas John Black",
+        "documentmodifiedwhen": "2022-01-03T07:21:26.264Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52770O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Thomas John Black",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M3J 2A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11858-11018",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:24:06.733Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Vivian-Janet-Black",
+        "nodeid": 11018,
+        "documentid": 11858,
+        "nodealias": "Vivian-Janet-Black",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ca65a1fb-780f-40d8-80d6-8c345b2365e9",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Vivian Janet Black",
+        "documentmodifiedwhen": "2021-09-21T07:21:44.66Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "20512T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Vivian Janet Black",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "128441-124412",
+        "sys_site": "lso",
+        "sys_created": "2021-04-01T07:21:33.775Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Valerie-Black-St-Laurent",
+        "nodeid": 124412,
+        "documentid": 128441,
+        "nodealias": "Valerie-Black-St-Laurent",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f14e9c3e-6bec-46eb-a17e-75b0b5a6e51f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Valerie Black St-Laurent",
+        "documentmodifiedwhen": "2022-01-18T12:02:36.273Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81367T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Valerie Black St-Laurent",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K1N 9J9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "135372-130365",
+        "sys_site": "lso",
+        "sys_created": "2021-12-11T07:18:57.825Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/015/Nathan-Daniel-Black-Devost",
+        "nodeid": 130365,
+        "documentid": 135372,
+        "nodealias": "Nathan-Daniel-Black-Devost",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e03b92ae-0080-4f2f-abe8-5c10236b2b0c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nathan Daniel Black-Devost",
+        "documentmodifiedwhen": "2022-05-28T07:43:23.007Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18061",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nathan Daniel Black-Devost",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "K1H 8L5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11883-11043",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:30:14.331Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Edward-Clayton-Blackbeard",
+        "nodeid": 11043,
+        "documentid": 11883,
+        "nodealias": "Edward-Clayton-Blackbeard",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e70d7802-2dfe-46e2-9f6a-cad3fff2648c",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Edward Clayton Blackbeard",
+        "documentmodifiedwhen": "2022-01-03T07:21:26.769Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52771K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Edward Clayton Blackbeard",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L6W 4T6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80661-79389",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:26:56.549Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/James-Nelson-Blackburn",
+        "nodeid": 79389,
+        "documentid": 80661,
+        "nodealias": "James-Nelson-Blackburn",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "493d5fea-a2f8-49ae-8ef1-55b46220d99f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "James Nelson Blackburn",
+        "documentmodifiedwhen": "2021-09-21T08:20:16.542Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "55459H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "James Nelson Blackburn",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11885-11045",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:30:44.733Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Janice-Elaine-Blackburn",
+        "nodeid": 11045,
+        "documentid": 11885,
+        "nodealias": "Janice-Elaine-Blackburn",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5082e375-916d-47e8-a1a8-20313a0d3d8e",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Janice Elaine Blackburn",
+        "documentmodifiedwhen": "2021-12-14T08:49:21.071Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "23979R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Janice Elaine Blackburn",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11887-11047",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:31:30.595Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Jedidiah-Montegu-Blackburn",
+        "nodeid": 11047,
+        "documentid": 11887,
+        "nodealias": "Jedidiah-Montegu-Blackburn",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4f7b1a35-d081-4b2d-85b4-1b8f5e884f8c",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jedidiah Montegu Blackburn",
+        "documentmodifiedwhen": "2022-02-24T07:17:11.694Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit administratif",
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit de l'emploi et droit du travail",
+            "Droits de la personne",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Administrative Law",
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Employment/Labour Law",
+            "Human Rights",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "55767C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jedidiah Montegu Blackburn",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11888-11048",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:31:44.743Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Michael-Gibson-Blackburn",
+        "nodeid": 11048,
+        "documentid": 11888,
+        "nodealias": "Michael-Gibson-Blackburn",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "38fe912d-4c99-4dd2-beb6-ca8e2266e48a",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Gibson Blackburn",
+        "documentmodifiedwhen": "2022-02-19T07:15:52.601Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60367R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Gibson Blackburn",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 5P3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80659-79388",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:26:54.048Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/Robert-Alexander-Blackburn",
+        "nodeid": 79388,
+        "documentid": 80659,
+        "nodealias": "Robert-Alexander-Blackburn",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f54b57e6-140c-4049-8f02-0dde58c5ae33",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Alexander Blackburn",
+        "documentmodifiedwhen": "2021-12-14T07:26:10.578Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "12744L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Alexander Blackburn",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11884-11044",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:30:27.731Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Robert-Holmes-Blackburn",
+        "nodeid": 11044,
+        "documentid": 11884,
+        "nodealias": "Robert-Holmes-Blackburn",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "39a1b301-87d1-4252-9f99-d606ee308741",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Holmes Blackburn",
+        "documentmodifiedwhen": "2021-12-14T07:46:51.02Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "11070W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Holmes Blackburn",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4C 3E4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Richmond Hill"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11889-11049",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:31:58.894Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Sarah-Elaine-Blackburn",
+        "nodeid": 11049,
+        "documentid": 11889,
+        "nodealias": "Sarah-Elaine-Blackburn",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "31f03478-2939-45cb-a6dd-e8e84bfb13af",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sarah Elaine Blackburn",
+        "documentmodifiedwhen": "2022-05-17T07:17:45.285Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69061J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sarah Elaine Blackburn",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K2K 3G1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11886-11046",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:31:12.589Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Steven-James-Blackburn",
+        "nodeid": 11046,
+        "documentid": 11886,
+        "nodealias": "Steven-James-Blackburn",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f35b863c-a9f7-48eb-8eb9-8980da8c180c",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Steven James Blackburn",
+        "documentmodifiedwhen": "2022-01-06T07:17:41.31Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41630H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Steven James Blackburn",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Australia",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "3008",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Victoria"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11890-11050",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:32:17.268Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Esther-Adelle-Blackett",
+        "nodeid": 11050,
+        "documentid": 11890,
+        "nodealias": "Esther-Adelle-Blackett",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "553c6fdc-fed7-4eeb-9db2-2fe6ee1df6e6",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Esther Adelle Blackett",
+        "documentmodifiedwhen": "2021-12-29T07:16:29.158Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38725H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Esther Adelle Blackett",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "H3A 1W9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Montreal"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "120593-117514",
+        "sys_site": "lso",
+        "sys_created": "2020-02-04T07:54:43.909Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Jacqueline-Amanda-Blackett",
+        "nodeid": 117514,
+        "documentid": 120593,
+        "nodealias": "Jacqueline-Amanda-Blackett",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6cc37a48-052f-442e-ae3d-7fceab351681",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jacqueline Amanda Blackett",
+        "documentmodifiedwhen": "2022-07-01T07:18:02.953Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [
+            "Droit de l'emploi et droit du travail",
+            "Droit des testaments, des successions et des fiducies",
+            "Droit de la s\u00e9curit\u00e9 professionnelle et de l'assurance contre les accidents du travail"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Employment/Labour Law",
+            "Wills, Estates, Trusts Law",
+            "Workplace Safety and Insurance Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78666R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jacqueline Amanda Blackett",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11891-11051",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:32:31.398Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Naomi-Joy-Phillisha-Blackhall",
+        "nodeid": 11051,
+        "documentid": 11891,
+        "nodealias": "Naomi-Joy-Phillisha-Blackhall",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3247e6cc-e020-4814-a601-e4f4dc9c19d0",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Naomi Joy Phillisha Blackhall",
+        "documentmodifiedwhen": "2022-07-20T07:15:34.725Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13296",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Naomi Joy Phillisha Blackhall",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6H 1L2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11892-11052",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:32:45.518Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Julie-Lynn-Blackhawk",
+        "nodeid": 11052,
+        "documentid": 11892,
+        "nodealias": "Julie-Lynn-Blackhawk",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "36021d00-a8df-45d5-ad08-7f267907201e",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Julie Lynn Blackhawk",
+        "documentmodifiedwhen": "2022-01-02T07:19:06.102Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50138V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Julie Lynn Blackhawk",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0H8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11893-11053",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:32:59.284Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Adam-Robert-Blacklock",
+        "nodeid": 11053,
+        "documentid": 11893,
+        "nodealias": "Adam-Robert-Blacklock",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "977be9d8-5b80-4665-9f45-1296c427a540",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Adam Robert Blacklock",
+        "documentmodifiedwhen": "2021-12-18T07:26:24.245Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07779",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Adam Robert Blacklock",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K0M 1A0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Bobcaygeon"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80662-79390",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:26:56.564Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/Jean-Elaine-Blacklock",
+        "nodeid": 79390,
+        "documentid": 80662,
+        "nodealias": "Jean-Elaine-Blacklock",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "32068597-80f5-4a2b-a8a6-291717847953",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jean Elaine Blacklock",
+        "documentmodifiedwhen": "2020-02-20T08:44:16.853Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "48955W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jean Elaine Blacklock",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11894-11054",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:33:12.872Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Joanne-Patricia-Blacklock",
+        "nodeid": 11054,
+        "documentid": 11894,
+        "nodealias": "Joanne-Patricia-Blacklock",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "141f5807-e96c-4ef6-a2b7-3f743186bd11",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joanne Patricia Blacklock",
+        "documentmodifiedwhen": "2022-07-28T07:17:45.212Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41321Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joanne Patricia Blacklock",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M8Z 3A8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Etobicoke"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11895-11055",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:33:26.338Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Francisco-Harold-Blackman",
+        "nodeid": 11055,
+        "documentid": 11895,
+        "nodealias": "Francisco-Harold-Blackman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dab286a1-0fd4-40eb-aecd-abb1743278e5",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Francisco Harold Blackman",
+        "documentmodifiedwhen": "2022-01-05T07:20:18.882Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50340E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Francisco Harold Blackman",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5A 3C4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80663-79391",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:26:57.74Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/Ian-Lawrence-Blackman",
+        "nodeid": 79391,
+        "documentid": 80663,
+        "nodealias": "Ian-Lawrence-Blackman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8da94f90-e9ed-464d-b4af-53a98807c289",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ian Lawrence Blackman",
+        "documentmodifiedwhen": "2021-12-14T09:04:11.97Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "21576B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ian Lawrence Blackman",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11896-11056",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:33:39.988Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Sommer-Leigh-Rae-Blackman",
+        "nodeid": 11056,
+        "documentid": 11896,
+        "nodealias": "Sommer-Leigh-Rae-Blackman",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2272116e-8353-4215-a0ce-2cf15f1973f2",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sommer Leigh Rae Blackman",
+        "documentmodifiedwhen": "2022-05-31T07:17:50.832Z",
+        "skuname": null,
+        "memberprovincetext": "New York",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "65811H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sommer Leigh Rae Blackman",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "10037-1314",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "New York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11897-11057",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:33:57.849Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/John-Russell-Blackmer",
+        "nodeid": 11057,
+        "documentid": 11897,
+        "nodealias": "John-Russell-Blackmer",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3bd79e34-6501-499c-b353-3342ff2e227c",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Russell Blackmer",
+        "documentmodifiedwhen": "2021-12-25T07:21:56.947Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "29035G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Russell Blackmer",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "V6E 4A6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vancouver"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11899-11059",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:34:25.398Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Brandon-Douglas-Blackmore",
+        "nodeid": 11059,
+        "documentid": 11899,
+        "nodealias": "Brandon-Douglas-Blackmore",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3f0ead45-1e2f-497a-944f-d75bd4b3c2bf",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brandon Douglas Blackmore",
+        "documentmodifiedwhen": "2022-01-13T07:22:36.338Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69565M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brandon Douglas Blackmore",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L8P 1H1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11898-11058",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:34:11.731Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Bryan-James-Blackmore",
+        "nodeid": 11058,
+        "documentid": 11898,
+        "nodealias": "Bryan-James-Blackmore",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "505aea56-35c9-4194-91f9-3bfbbd41050f",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Bryan James Blackmore",
+        "documentmodifiedwhen": "2019-05-07T14:56:17.711Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09584",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Bryan James Blackmore",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -80.9666595458984,
+                42.9735450744629
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "N0L 2B0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Putnam"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80664-79392",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:26:59.906Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/Gordon-Wallace-Blackmore",
+        "nodeid": 79392,
+        "documentid": 80664,
+        "nodealias": "Gordon-Wallace-Blackmore",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "19f943c4-87a8-49dd-882f-51a3bed69837",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gordon Wallace Blackmore",
+        "documentmodifiedwhen": "2021-11-05T07:47:08.838Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38808U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gordon Wallace Blackmore",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80665-79393",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:27:04.062Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/Jennifer-Dawn-Blackmore",
+        "nodeid": 79393,
+        "documentid": 80665,
+        "nodealias": "Jennifer-Dawn-Blackmore",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ec8dc75a-6247-407b-a7a5-60e0e98a0215",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Dawn Blackmore",
+        "documentmodifiedwhen": "2021-01-14T07:18:43.847Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50382S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Dawn Blackmore",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "113957-111950",
+        "sys_site": "lso",
+        "sys_created": "2019-03-09T07:18:32.934Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Laura-Christine-Blackshaw",
+        "nodeid": 111950,
+        "documentid": 113957,
+        "nodealias": "Laura-Christine-Blackshaw",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "91419e76-8a0d-4729-b09a-83ad7eca8577",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Laura Christine Blackshaw",
+        "documentmodifiedwhen": "2021-04-13T07:21:53.022Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15339",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Laura Christine Blackshaw",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4034423828125,
+                43.7054214477539
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M4R 1A6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11900-11060",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:34:39.155Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Robert-Seth-Blackstein",
+        "nodeid": 11060,
+        "documentid": 11900,
+        "nodealias": "Robert-Seth-Blackstein",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4fea035e-0ea2-4304-bdc3-ddb19cfb89da",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Seth Blackstein",
+        "documentmodifiedwhen": "2022-05-14T07:22:41.263Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52190Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Seth Blackstein",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M5H 4E3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118511-115871",
+        "sys_site": "lso",
+        "sys_created": "2019-09-25T07:21:09.225Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/001/Ashley-Shanice-Blackstock",
+        "nodeid": 115871,
+        "documentid": 118511,
+        "nodealias": "Ashley-Shanice-Blackstock",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e8c77283-e36f-4b64-8c97-847e23a32eba",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ashley Shanice Blackstock",
+        "documentmodifiedwhen": "2021-06-29T07:19:48.803Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15959",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ashley Shanice Blackstock",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -80.3034820556641,
+                43.3631896972656
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "N1R 5T3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Cambridge"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11901-11061",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:34:56.321Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Simon-Michael-Curt-Blackstone",
+        "nodeid": 11061,
+        "documentid": 11901,
+        "nodealias": "Simon-Michael-Curt-Blackstone",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4d71140b-f4a8-49bb-97e1-8abefe2f721d",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Simon Michael Curt Blackstone",
+        "documentmodifiedwhen": "2022-01-01T07:20:59.405Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45599M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Simon Michael Curt Blackstone",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4V 3A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80668-79396",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:27:06.949Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/Alan-Trevor-Blackwell",
+        "nodeid": 79396,
+        "documentid": 80668,
+        "nodealias": "Alan-Trevor-Blackwell",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ee6269a4-23b0-4143-a637-efe60358b5ad",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alan Trevor Blackwell",
+        "documentmodifiedwhen": "2022-03-25T07:18:13.596Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "29195G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alan Trevor Blackwell",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80667-79395",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:27:04.984Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/Debra-Marie-Claire-Blackwell",
+        "nodeid": 79395,
+        "documentid": 80667,
+        "nodealias": "Debra-Marie-Claire-Blackwell",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "816ccb4d-f8d2-4daf-bc01-43c98b38f8c8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Debra Marie Claire Blackwell",
+        "documentmodifiedwhen": "2021-12-24T07:21:24.449Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25249M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Debra Marie Claire Blackwell",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "129300-125019",
+        "sys_site": "lso",
+        "sys_created": "2021-05-01T07:49:08.647Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Jacob-Bradley-Blackwell",
+        "nodeid": 125019,
+        "documentid": 129300,
+        "nodealias": "Jacob-Bradley-Blackwell",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9d634ed0-a607-49f6-8040-93da5bcfa37f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jacob Bradley Blackwell",
+        "documentmodifiedwhen": "2022-06-17T07:29:20.803Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81441W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jacob Bradley Blackwell",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 1T1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80666-79394",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:27:04.359Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/029/Robert-Allan-Blackwell",
+        "nodeid": 79394,
+        "documentid": 80666,
+        "nodealias": "Robert-Allan-Blackwell",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e74834c6-1afc-485d-af81-10e829bb84c3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Allan Blackwell",
+        "documentmodifiedwhen": "2021-12-14T07:42:41.997Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "10459Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Allan Blackwell",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11903-11063",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:35:31.575Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Shannon-Elizabeth-Blackwell",
+        "nodeid": 11063,
+        "documentid": 11903,
+        "nodealias": "Shannon-Elizabeth-Blackwell",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0960018b-195d-4ccf-b870-9451edafb599",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shannon Elizabeth Blackwell",
+        "documentmodifiedwhen": "2022-01-06T07:21:29.952Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43783A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shannon Elizabeth Blackwell",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N6A 4K1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11902-11062",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:35:13.834Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Susan-Marie-Wilson-Blackwell",
+        "nodeid": 11062,
+        "documentid": 11902,
+        "nodealias": "Susan-Marie-Wilson-Blackwell",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b8bce4cf-b0d6-4c32-9513-12d583732282",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Susan Marie Wilson Blackwell",
+        "documentmodifiedwhen": "2021-12-30T07:28:39.521Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de la famille ou matrimonial"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Family/Matrimonial Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "40355R",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Susan Marie Wilson Blackwell",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M8Y 0B4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Etobicoke"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11906-11066",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:36:16.101Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Alina-Manuela-Blackwood",
+        "nodeid": 11066,
+        "documentid": 11906,
+        "nodealias": "Alina-Manuela-Blackwood",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bb9bce36-c373-43a7-9902-6b17579a50ee",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alina Manuela Blackwood",
+        "documentmodifiedwhen": "2022-01-10T07:16:29.246Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "62118Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alina Manuela Blackwood",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M7A 1N3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11904-11064",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:35:48.964Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Andrea-Lorraine-Blackwood",
+        "nodeid": 11064,
+        "documentid": 11904,
+        "nodealias": "Andrea-Lorraine-Blackwood",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b6ccae84-d5d7-442e-b808-f76c867eab9a",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrea Lorraine Blackwood",
+        "documentmodifiedwhen": "2021-12-19T07:23:43.839Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Affaires relevant de l'annexe sur les indemnit\u00e9s d'accident l\u00e9gales (AIAL)",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Small Claims Court matters",
+            "Statutory Accident Benefits Schedule matters (SABS)",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11333",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrea Lorraine Blackwood",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6T 4S3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "11905-11065",
+        "sys_site": "lso",
+        "sys_created": "2018-07-07T03:36:02.678Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/013/Calvin-Arthur-Sydney-Blackwood",
+        "nodeid": 11065,
+        "documentid": 11905,
+        "nodealias": "Calvin-Arthur-Sydney-Blackwood",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a4eaf037-bf66-4e7e-b29f-59bd5c864eae",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Calvin Arthur Sydney Blackwood",
+        "documentmodifiedwhen": "2021-12-14T11:07:44.37Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25250T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Calvin Arthur Sydney Blackwood",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "M2N 6L9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116937-114535",
+        "sys_site": "lso",
+        "sys_created": "2019-06-28T07:49:48.243Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Jennifer-Nicole-Blackwood",
+        "nodeid": 114535,
+        "documentid": 116937,
+        "nodealias": "Jennifer-Nicole-Blackwood",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5f9018f1-d910-433b-b72d-59de095adf82",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jennifer Nicole Blackwood",
+        "documentmodifiedwhen": "2022-01-08T07:34:07.205Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77574S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jennifer Nicole Blackwood",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K7K 1Z7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kingston"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "133751-129049",
+        "sys_site": "lso",
+        "sys_created": "2021-09-08T07:29:00.952Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/011/Karson-Michael-Blackwood",
+        "nodeid": 129049,
+        "documentid": 133751,
+        "nodealias": "Karson-Michael-Blackwood",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e499611e-1204-4f95-8110-22463e58fec7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Karson Michael Blackwood",
+        "documentmodifiedwhen": "2021-10-15T07:18:06.931Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83260K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Karson Michael Blackwood",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -89.2557983398438,
+                48.40576171875
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P7B 6T8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Thunder Bay"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80669-79397",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:27:12.231Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/007/Shamele-A-Blackwood",
+        "nodeid": 79397,
+        "documentid": 80669,
+        "nodealias": "Shamele-A-Blackwood",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bb191cb3-853f-4382-b7f9-13ea71151200",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Shamele A Blackwood",
+        "documentmodifiedwhen": "2021-09-21T09:04:13.791Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06446",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Shamele A Blackwood",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    }
+]

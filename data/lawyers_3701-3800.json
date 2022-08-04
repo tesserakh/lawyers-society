@@ -1,0 +1,5218 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123971-120425",
+        "sys_site": "lso",
+        "sys_created": "2020-06-23T10:00:20.062Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Kevin-Wade-Bailie",
+        "nodeid": 120425,
+        "documentid": 123971,
+        "nodealias": "Kevin-Wade-Bailie",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "126ba335-417e-4664-beb0-c86147e7e501",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kevin Wade Bailie",
+        "documentmodifiedwhen": "2022-01-17T07:29:19.13Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "79888L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kevin Wade Bailie",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5L 1B9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116479-114091",
+        "sys_site": "lso",
+        "sys_created": "2019-06-27T08:15:24.76Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Christopher-Michael-Baillargeon",
+        "nodeid": 114091,
+        "documentid": 116479,
+        "nodealias": "Christopher-Michael-Baillargeon",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "251673d8-10fd-49a9-8e51-05e3517e9cd8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christopher Michael Baillargeon",
+        "documentmodifiedwhen": "2022-01-15T07:25:59.987Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76911P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christopher Michael Baillargeon",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N3H 3P1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Cambridge"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9896-9058",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:08:02.127Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Andre-Paul-Baillargeon-Smith",
+        "nodeid": 9058,
+        "documentid": 9896,
+        "nodealias": "Andre-Paul-Baillargeon-Smith",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "41665291-b146-4b2d-ad91-9e4cb6c6d907",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andr\u00e9-Paul Baillargeon-Smith",
+        "documentmodifiedwhen": "2021-06-11T07:18:28.896Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14163",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andr\u00e9-Paul Baillargeon-Smith",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -84.3322982788086,
+                46.5108757019043
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "P6A 1Z5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Sault Ste Marie"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9898-9060",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:08:24.439Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Connor-James-William-Baillie",
+        "nodeid": 9060,
+        "documentid": 9898,
+        "nodealias": "Connor-James-William-Baillie",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b29b3b38-2e28-46ba-b734-9a5287db111e",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Connor James William Baillie",
+        "documentmodifiedwhen": "2022-04-01T07:17:57.137Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14185",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Connor James William Baillie",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L7R 2E4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Burlington"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79980-78708",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:09:11.503Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Robert-Harold-Baillie",
+        "nodeid": 78708,
+        "documentid": 79980,
+        "nodealias": "Robert-Harold-Baillie",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2333cc23-da24-4634-a416-20caf2fb6b89",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Harold Baillie",
+        "documentmodifiedwhen": "2021-09-21T08:48:40.804Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P01467",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Harold Baillie",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9908-9070",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:10:14.35Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Alyssa-Rae-Bain",
+        "nodeid": 9070,
+        "documentid": 9908,
+        "nodealias": "Alyssa-Rae-Bain",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "99ccedf9-8a52-46da-9606-1ab61d6e66e5",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alyssa Rae Bain",
+        "documentmodifiedwhen": "2022-01-01T07:23:33.127Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46460S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alyssa Rae Bain",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "N2H 6P1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Kitchener"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9907-9069",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:10:03.933Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Andrea-Meredith-Bain",
+        "nodeid": 9069,
+        "documentid": 9907,
+        "nodealias": "Andrea-Meredith-Bain",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0626c680-91b4-4493-99a0-22808754aebf",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrea Meredith Bain",
+        "documentmodifiedwhen": "2022-01-06T07:24:39.248Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45101A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrea Meredith Bain",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P2B 2C6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Sturgeon Falls"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "138726-133169",
+        "sys_site": "lso",
+        "sys_created": "2022-06-14T07:38:57.056Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/040/Angela-Michelle-Bain",
+        "nodeid": 133169,
+        "documentid": 138726,
+        "nodealias": "Angela-Michelle-Bain",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b3d661dd-75f9-4eca-b1cd-09611e948829",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Angela Michelle Bain",
+        "documentmodifiedwhen": "2022-08-03T07:16:16.574Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "84157J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Angela Michelle Bain",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0H8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9905-9067",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:09:43.899Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Belinda-Alice-Curtis-Bain",
+        "nodeid": 9067,
+        "documentid": 9905,
+        "nodealias": "Belinda-Alice-Curtis-Bain",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d3e20aa9-52b2-40c7-a69f-4f984d4b6623",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Belinda Alice Curtis Bain",
+        "documentmodifiedwhen": "2021-12-30T07:25:55.634Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "40754E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Belinda Alice Curtis Bain",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1G5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9906-9068",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:09:53.947Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Bradley-Douglas-Bain",
+        "nodeid": 9068,
+        "documentid": 9906,
+        "nodealias": "Bradley-Douglas-Bain",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "873e7380-5e89-4752-bd51-de03c8168134",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Bradley Douglas Bain",
+        "documentmodifiedwhen": "2021-12-30T07:24:19.708Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit immobilier"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Real Estate Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41319N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Bradley Douglas Bain",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N6A 4G4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "London"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79984-78709",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:09:15.006Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Brent-James-Bain",
+        "nodeid": 78709,
+        "documentid": 79984,
+        "nodealias": "Brent-James-Bain",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3bbd099d-abb3-4563-91c8-b19721175678",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brent James Bain",
+        "documentmodifiedwhen": "2019-05-08T16:04:49.79Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P07629",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brent James Bain",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118318-115718",
+        "sys_site": "lso",
+        "sys_created": "2019-09-14T07:42:17.79Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Genevieve-Delisca-Bain",
+        "nodeid": 115718,
+        "documentid": 118318,
+        "nodealias": "Genevieve-Delisca-Bain",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "62ff2916-1ec6-4a1a-9acd-acab09674b79",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Genevi\u00e8ve D\u00e9lisca Bain",
+        "documentmodifiedwhen": "2022-02-24T07:20:14.921Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15865",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Genevi\u00e8ve D\u00e9lisca Bain",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9901-9063",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:08:57.423Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Hugh-Ross-Robert-Bain",
+        "nodeid": 9063,
+        "documentid": 9901,
+        "nodealias": "Hugh-Ross-Robert-Bain",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bc96a134-00b1-4298-ba88-828d697841ae",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hugh Ross Robert Bain",
+        "documentmodifiedwhen": "2021-12-14T07:18:56.485Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "15848S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hugh Ross Robert Bain",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9903-9065",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:09:20.818Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Mark-William-Stewart-Bain",
+        "nodeid": 9065,
+        "documentid": 9903,
+        "nodealias": "Mark-William-Stewart-Bain",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6eb76a7f-70d4-4209-b688-9b13f17f642f",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mark William Stewart Bain",
+        "documentmodifiedwhen": "2021-12-25T07:19:08.734Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "29376R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mark William Stewart Bain",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1N2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33331-32067",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:49:58.715Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Michelle-Janice-Bain",
+        "nodeid": 32067,
+        "documentid": 33331,
+        "nodealias": "Michelle-Janice-Bain",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a5c3cca1-f498-4158-9944-4410dd948e41",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michelle Janice Bain",
+        "documentmodifiedwhen": "2022-05-28T07:41:09.769Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60029R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michelle Janice Bain",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M5R 0A2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "121578-118373",
+        "sys_site": "lso",
+        "sys_created": "2020-04-23T07:20:08.551Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Nicola-Bain",
+        "nodeid": 118373,
+        "documentid": 121578,
+        "nodealias": "Nicola-Bain",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a8ae243f-9220-46b9-85e8-51bc5048850b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nicola Bain",
+        "documentmodifiedwhen": "2022-07-27T07:17:13.481Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Infractions punissables par proc\u00e9dure sommaire \u00e0 la Cour de justice de l'Ontario",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Droits de la personne",
+            "Location immobili\u00e8re",
+            "Autres tribunaux"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Ontario Court of Justice - Summary Conviction Offences",
+            "Small Claims Court matters",
+            "Human Rights",
+            "Landlord and Tenant",
+            "Other Tribunals"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P16510",
+        "memberlimitedscoperetainer": [
+            "Y"
+        ],
+        "memberfullname": "Nicola Bain",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6Y 1P1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "127166-123348",
+        "sys_site": "lso",
+        "sys_created": "2021-01-19T07:23:27.417Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Nikita-Ann-Bain",
+        "nodeid": 123348,
+        "documentid": 127166,
+        "nodealias": "Nikita-Ann-Bain",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "89e05ff3-9a4c-4eb3-ab7a-a3892dae0bc8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nikita Ann Bain",
+        "documentmodifiedwhen": "2022-03-13T07:17:29.872Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P16966",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nikita Ann Bain",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4N 5W4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Barrie"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9899-9061",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:08:34.462Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Pamela-Ann-Bain",
+        "nodeid": 9061,
+        "documentid": 9899,
+        "nodealias": "Pamela-Ann-Bain",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "aa4208ea-9cae-491a-b70f-be7ddeed2af2",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Pamela Ann Bain",
+        "documentmodifiedwhen": "2022-03-14T07:16:18.55Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P10590",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Pamela Ann Bain",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M5E 1B2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9904-9066",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:09:32.115Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Paul-Edward-Bain",
+        "nodeid": 9066,
+        "documentid": 9904,
+        "nodealias": "Paul-Edward-Bain",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cac4f022-a9b5-4ad6-84ea-4f21f55659f9",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paul Edward Bain",
+        "documentmodifiedwhen": "2021-12-26T07:19:32.052Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "31742W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paul Edward Bain",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5L 1G4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118468-115831",
+        "sys_site": "lso",
+        "sys_created": "2019-09-21T07:18:41.257Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Rebecca-Rose-Bain",
+        "nodeid": 115831,
+        "documentid": 118468,
+        "nodealias": "Rebecca-Rose-Bain",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4ad41a0c-ccb2-419c-8049-3ea52763c796",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rebecca Rose Bain",
+        "documentmodifiedwhen": "2020-02-20T09:41:59.448Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15931",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rebecca Rose Bain",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9902-9064",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:09:08.289Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/William-Noble-Bain",
+        "nodeid": 9064,
+        "documentid": 9902,
+        "nodealias": "William-Noble-Bain",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ab6f10cf-53f9-492f-8b26-fb948a903bc3",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "William Noble Bain",
+        "documentmodifiedwhen": "2022-05-28T07:35:20.688Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "18335E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "William Noble Bain",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "110142-108675",
+        "sys_site": "lso",
+        "sys_created": "2018-10-04T06:32:52.145Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/031/Kaitlin-Emily-Mary-Bainbridge",
+        "nodeid": 108675,
+        "documentid": 110142,
+        "nodealias": "Kaitlin-Emily-Mary-Bainbridge",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ea5209f1-c4c2-4ae8-830f-d112c9ca8134",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kaitlin Emily Mary Bainbridge",
+        "documentmodifiedwhen": "2022-01-15T07:32:32.198Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75878T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kaitlin Emily Mary Bainbridge",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 2C9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33330-32066",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:49:58.527Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Beverley-Baines",
+        "nodeid": 32066,
+        "documentid": 33330,
+        "nodealias": "Beverley-Baines",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "92ef72f3-b138-4ae7-bdb6-c9829fc34bfa",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Beverley Baines",
+        "documentmodifiedwhen": "2021-12-14T07:39:19.541Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "16352F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Beverley Baines",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33342-32078",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:27.177Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Aarondeep-Singh-Bains",
+        "nodeid": 32078,
+        "documentid": 33342,
+        "nodealias": "Aarondeep-Singh-Bains",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "44e7a396-557d-4faa-af29-85a3090d3490",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Aarondeep Singh Bains",
+        "documentmodifiedwhen": "2022-01-12T07:18:44.27Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68006O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Aarondeep Singh Bains",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2T9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33339-32075",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:25.02Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Amandev-Singh-Bains",
+        "nodeid": 32075,
+        "documentid": 33339,
+        "nodealias": "Amandev-Singh-Bains",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7e859fa7-0f3c-43af-ae88-94686ab4f27b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amandev Singh Bains",
+        "documentmodifiedwhen": "2021-12-25T07:22:40.676Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27934N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amandev Singh Bains",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5C 1B5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33336-32072",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:24.207Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Gurjit-Bains",
+        "nodeid": 32072,
+        "documentid": 33336,
+        "nodealias": "Gurjit-Bains",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a22442a8-8cbe-4183-a4d8-8da9c31d7566",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gurjit Bains",
+        "documentmodifiedwhen": "2020-12-24T07:16:39.909Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "61763E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gurjit Bains",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6703796386719,
+                43.6183433532715
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "L5R 1C6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33344-32080",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:28.49Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Gurpreet-Kaur-Bains",
+        "nodeid": 32080,
+        "documentid": 33344,
+        "nodealias": "Gurpreet-Kaur-Bains",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "53ba222f-fa23-4d28-83c3-0c5a10a3f2ac",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gurpreet Kaur Bains",
+        "documentmodifiedwhen": "2022-01-11T07:32:23.62Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit de l'immigration",
+            "Droit immobilier"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Immigration Law",
+            "Real Estate Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66833V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gurpreet Kaur Bains",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5S 1M2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33343-32079",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:27.568Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Harkiran-Bains",
+        "nodeid": 32079,
+        "documentid": 33343,
+        "nodealias": "Harkiran-Bains",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "88afe93d-04e4-42e3-896b-5c22ecc15e66",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Harkiran Bains",
+        "documentmodifiedwhen": "2022-01-10T07:18:15.855Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63554C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Harkiran Bains",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 1R8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118242-115645",
+        "sys_site": "lso",
+        "sys_created": "2019-09-12T07:31:27.725Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Ishpal-Kaur-Bains",
+        "nodeid": 115645,
+        "documentid": 118242,
+        "nodealias": "Ishpal-Kaur-Bains",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7de6d690-6d04-45d1-b2ae-dd22706b2daa",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ishpal Kaur Bains",
+        "documentmodifiedwhen": "2021-01-29T07:19:42.243Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15839",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ishpal Kaur Bains",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3303146362305,
+                43.7697868347168
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M2J 1R4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "112892-111145",
+        "sys_site": "lso",
+        "sys_created": "2018-12-20T07:18:28.326Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/012/Kajal-Preet-Bains",
+        "nodeid": 111145,
+        "documentid": 112892,
+        "nodealias": "Kajal-Preet-Bains",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b2794f8f-ffc2-48da-bc5e-842ae9b4e678",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kajal Preet Bains",
+        "documentmodifiedwhen": "2022-02-23T07:41:21.292Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P15206",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kajal Preet Bains",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M9C 5K8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33329-32065",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:49:53.088Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Kanwaljit-Kaur-Bains",
+        "nodeid": 32065,
+        "documentid": 33329,
+        "nodealias": "Kanwaljit-Kaur-Bains",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ddc9e466-5823-4731-a576-5ed4096f0a5d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kanwaljit Kaur Bains",
+        "documentmodifiedwhen": "2020-01-02T07:36:01.206Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Gujarati",
+            "Hindi",
+            "Punjabi",
+            "Ourdou"
+        ],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Gujarati",
+            "Hindi",
+            "Punjabi",
+            "Urdu"
+        ],
+        "membernumber": "P01685",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kanwaljit Kaur Bains",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6681900024414,
+                43.6814308166504
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5S 1M2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33341-32077",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:26.255Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Mandip-Kaur-Bains",
+        "nodeid": 32077,
+        "documentid": 33341,
+        "nodealias": "Mandip-Kaur-Bains",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8ea705b3-967e-4f13-bd2a-68a242a628d3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mandip Kaur Bains",
+        "documentmodifiedwhen": "2022-01-10T07:18:15.236Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "63555V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mandip Kaur Bains",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6M 0C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oakville"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33340-32076",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:25.833Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Maninderjit-Kaur-Bains",
+        "nodeid": 32076,
+        "documentid": 33340,
+        "nodealias": "Maninderjit-Kaur-Bains",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1cf089eb-72ab-4325-8c79-fea8a9bf6648",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Maninderjit Kaur Bains",
+        "documentmodifiedwhen": "2022-01-01T07:24:24.311Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45879R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Maninderjit Kaur Bains",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "M5G 2E5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79985-78713",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:09:20.132Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Priya-Bains",
+        "nodeid": 78713,
+        "documentid": 79985,
+        "nodealias": "Priya-Bains",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "80b598a5-d8d0-4e0c-bbc4-94f0dfecdc51",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Priya Bains",
+        "documentmodifiedwhen": "2021-06-19T07:17:01.447Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74215B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Priya Bains",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4007415771484,
+                43.6444473266602
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 1M6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79983-78712",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:09:15.459Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Rosedeep-Kaur-Bains",
+        "nodeid": 78712,
+        "documentid": 79983,
+        "nodealias": "Rosedeep-Kaur-Bains",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f9ff360c-e4fd-4ef6-b6fa-85bd79b963e5",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rosedeep Kaur Bains",
+        "documentmodifiedwhen": "2020-02-20T08:55:09.248Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58202D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rosedeep Kaur Bains",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33347-32083",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:29.146Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Sumit-Bains",
+        "nodeid": 32083,
+        "documentid": 33347,
+        "nodealias": "Sumit-Bains",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ee1a1aa0-15ab-47aa-97cc-eeba093a54e0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sumit Bains",
+        "documentmodifiedwhen": "2022-01-14T07:24:06.902Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Hindi",
+            "Punjabi",
+            "Ourdou"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Hindi",
+            "Punjabi",
+            "Urdu"
+        ],
+        "membernumber": "74897A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sumit Bains",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6R 0Y7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33334-32070",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:18.237Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Sundeep-Singh-Bains",
+        "nodeid": 32070,
+        "documentid": 33334,
+        "nodealias": "Sundeep-Singh-Bains",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5c911861-27f5-46b2-8884-bba1e19468e4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sundeep Singh Bains",
+        "documentmodifiedwhen": "2021-09-21T09:27:33.682Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05426",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sundeep Singh Bains",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.6571044921875,
+                43.5314025878906
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L5K 2P6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33335-32071",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:23.223Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Grace-Michelle-Pereira-Baiocco",
+        "nodeid": 32071,
+        "documentid": 33335,
+        "nodealias": "Grace-Michelle-Pereira-Baiocco",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f6381ef3-00b4-4754-b391-e77430a06ad7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Grace Michelle Pereira Baiocco",
+        "documentmodifiedwhen": "2021-12-16T07:28:24.479Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P03837",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Grace Michelle Pereira Baiocco",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L6Y 5L7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33346-32082",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:29.255Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Elisa-Baioff",
+        "nodeid": 32082,
+        "documentid": 33346,
+        "nodealias": "Elisa-Baioff",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "801d6e81-7808-4600-881d-c660ca9ed87d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Elisa Baioff",
+        "documentmodifiedwhen": "2021-11-06T07:17:46.52Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72198V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Elisa Baioff",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3871917724609,
+                43.6583824157715
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "M5G 2C4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33348-32084",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:29.834Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Tessa-Marie-Bair",
+        "nodeid": 32084,
+        "documentid": 33348,
+        "nodealias": "Tessa-Marie-Bair",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "338ecf4e-19b3-4f33-bb1a-9748e9639e2b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tessa Marie Bair",
+        "documentmodifiedwhen": "2021-12-26T07:24:41.335Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30551G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tessa Marie Bair",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4M 3N6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Barrie"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33345-32081",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:29.194Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Vicki-Diana-Bair",
+        "nodeid": 32081,
+        "documentid": 33345,
+        "nodealias": "Vicki-Diana-Bair",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "50cbd4d7-fecd-474a-affd-ec1a7c7f5f3b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Vicki Diana Bair",
+        "documentmodifiedwhen": "2021-12-14T09:46:21.784Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27199O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Vicki Diana Bair",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79987-78715",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:09:20.46Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/David-Earle-Baird",
+        "nodeid": 78715,
+        "documentid": 79987,
+        "nodealias": "David-Earle-Baird",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4aa255e4-8163-4af2-8965-cf779ce05e7d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Earle Baird",
+        "documentmodifiedwhen": "2022-05-28T07:25:34.204Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "08806H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Earle Baird",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79989-78718",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:09:26.313Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Deborah-Ross-Baird",
+        "nodeid": 78718,
+        "documentid": 79989,
+        "nodealias": "Deborah-Ross-Baird",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f7526afd-704c-4e65-959f-54a3bad33a17",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Deborah Ross Baird",
+        "documentmodifiedwhen": "2021-09-21T08:07:53.378Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41618K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Deborah Ross Baird",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33352-32088",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:33.506Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Fraser-Baird",
+        "nodeid": 32088,
+        "documentid": 33352,
+        "nodealias": "Fraser-Baird",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f2c4617a-ad73-47e1-8de6-f717947cd14f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Fraser Baird",
+        "documentmodifiedwhen": "2021-12-29T07:17:27.58Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "38776T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Fraser Baird",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "H3A 3G4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Montreal"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33349-32085",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:30.771Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Gordon-David-Baird",
+        "nodeid": 32085,
+        "documentid": 33349,
+        "nodealias": "Gordon-David-Baird",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "29da1ffa-c5d4-40ff-aab2-d785af2b34c4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gordon David Baird",
+        "documentmodifiedwhen": "2021-12-26T07:22:36.407Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32141F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gordon David Baird",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9929-9091",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:14:14.919Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/James-Lawrence-Baird",
+        "nodeid": 9091,
+        "documentid": 9929,
+        "nodealias": "James-Lawrence-Baird",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "634f5a74-7945-4c0d-bea6-2ba2a4bed093",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "James Lawrence Baird",
+        "documentmodifiedwhen": "2022-01-08T07:25:18.637Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58817J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "James Lawrence Baird",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K9J 7H4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Peterborough"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33353-32089",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:34.147Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Melanie-Kristen-Baird",
+        "nodeid": 32089,
+        "documentid": 33353,
+        "nodealias": "Melanie-Kristen-Baird",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c98f6610-f8a6-41f0-9eec-1cd7852cd03a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Melanie Kristen Baird",
+        "documentmodifiedwhen": "2022-01-07T07:18:09.144Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56043T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Melanie Kristen Baird",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5L 1A9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33338-32074",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:24.848Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Robert-Keith-Baird",
+        "nodeid": 32074,
+        "documentid": 33338,
+        "nodealias": "Robert-Keith-Baird",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1fd0f9a6-d726-4f9e-8958-a84788c19d7f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Robert Keith Baird",
+        "documentmodifiedwhen": "2022-05-10T07:19:20.438Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P03926",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Robert Keith Baird",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79991-78717",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:09:26.672Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Sally-Louise-Baird-Nevins",
+        "nodeid": 78717,
+        "documentid": 79991,
+        "nodealias": "Sally-Louise-Baird-Nevins",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dddf90fe-3e1b-41eb-8c89-ce9992d7beac",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sally Louise Baird Nevins",
+        "documentmodifiedwhen": "2022-05-14T07:18:31.697Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13673",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sally Louise Baird Nevins",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9930-9092",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:14:26.447Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Virgil-Baisa",
+        "nodeid": 9092,
+        "documentid": 9930,
+        "nodealias": "Virgil-Baisa",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8a2203e3-5bde-40a7-a5b2-3157ba1de1ad",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Virgil Baisa",
+        "documentmodifiedwhen": "2021-12-16T07:22:44.853Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P03003",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Virgil Baisa",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L5B 3C1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "137808-132396",
+        "sys_site": "lso",
+        "sys_created": "2022-05-05T07:20:18.68Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/008/Liza-Nicolina-Baisden",
+        "nodeid": 132396,
+        "documentid": 137808,
+        "nodealias": "Liza-Nicolina-Baisden",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "45a9a68d-8b9c-4de1-952f-f43ecdb8f62a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Liza Nicolina Baisden",
+        "documentmodifiedwhen": "2022-06-07T07:18:10.328Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18366",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Liza Nicolina Baisden",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "N7V 1X6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Point Edward"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79990-78719",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:09:26.751Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Marnie-Patricia-Baizley",
+        "nodeid": 78719,
+        "documentid": 79990,
+        "nodealias": "Marnie-Patricia-Baizley",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "00974d0a-3d93-4347-aa88-f50403350014",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marnie Patricia Baizley",
+        "documentmodifiedwhen": "2022-01-06T07:30:59.896Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49499U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marnie Patricia Baizley",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5A 4K2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "125911-122104",
+        "sys_site": "lso",
+        "sys_created": "2020-11-03T07:26:39.336Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Aanchal-Bajaj",
+        "nodeid": 122104,
+        "documentid": 125911,
+        "nodealias": "Aanchal-Bajaj",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c0be4574-5e15-4228-9a89-5cc658bab644",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Aanchal Bajaj",
+        "documentmodifiedwhen": "2022-03-23T07:16:52.033Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80868A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Aanchal Bajaj",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3L5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79993-78721",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:09:28.095Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Arun-Douglas-Bajaj",
+        "nodeid": 78721,
+        "documentid": 79993,
+        "nodealias": "Arun-Douglas-Bajaj",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "71f488ec-e51d-4c8b-b384-be6495004643",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Arun Douglas Bajaj",
+        "documentmodifiedwhen": "2021-12-29T07:24:16.416Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36989F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Arun Douglas Bajaj",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "H3A 3J2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Montreal"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "139605-133993",
+        "sys_site": "lso",
+        "sys_created": "2022-06-29T07:27:57.639Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/048/Divya-Bajaj",
+        "nodeid": 133993,
+        "documentid": 139605,
+        "nodealias": "Divya-Bajaj",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "421d8491-e714-47dc-be85-6e1f332d0b99",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Divya Bajaj",
+        "documentmodifiedwhen": "2022-07-11T07:15:52.394Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85029R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Divya Bajaj",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9933-9095",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:15:00.261Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Nikhil-Bajaj",
+        "nodeid": 9095,
+        "documentid": 9933,
+        "nodealias": "Nikhil-Bajaj",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9b8e1deb-c12e-4e81-9e28-3c5dcb1d7734",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nikhil Bajaj",
+        "documentmodifiedwhen": "2022-06-11T07:17:28.412Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69911S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nikhil Bajaj",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33359-32095",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:37.101Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Nipun-Bajaj",
+        "nodeid": 32095,
+        "documentid": 33359,
+        "nodealias": "Nipun-Bajaj",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cece2fe8-661f-45a1-a92b-90dfc073946c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nipun Bajaj",
+        "documentmodifiedwhen": "2020-05-26T07:17:29.925Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [
+            "Hindi",
+            "Punjabi",
+            "Ourdou"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Hindi",
+            "Punjabi",
+            "Urdu"
+        ],
+        "membernumber": "73782C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nipun Bajaj",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.7428359985352,
+                43.7519607543945
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6R 0Y7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "125462-121729",
+        "sys_site": "lso",
+        "sys_created": "2020-09-29T07:39:52.378Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Pradeep-Bajaj",
+        "nodeid": 121729,
+        "documentid": 125462,
+        "nodealias": "Pradeep-Bajaj",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "aa0fea6c-9c0b-4a3d-b975-8ad9f54e9c8f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Pradeep Bajaj",
+        "documentmodifiedwhen": "2020-10-21T07:17:45.073Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80810Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Pradeep Bajaj",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.7342910766602,
+                43.6025352478027
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5N 6J4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9932-9094",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:14:47.798Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Sweta-Bajaj",
+        "nodeid": 9094,
+        "documentid": 9932,
+        "nodealias": "Sweta-Bajaj",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5097ed47-4ae3-41b2-bb1a-b81cb8d67f4f",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sweta Bajaj",
+        "documentmodifiedwhen": "2020-02-20T09:43:06.965Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14073",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sweta Bajaj",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79992-78720",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:09:28.064Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Cassandra-Patricia-Bajan",
+        "nodeid": 78720,
+        "documentid": 79992,
+        "nodealias": "Cassandra-Patricia-Bajan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cb797305-b391-45f1-aee4-79473cfc6c04",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Cassandra Patricia Bajan",
+        "documentmodifiedwhen": "2021-09-21T08:33:10.001Z",
+        "skuname": null,
+        "memberprovincetext": "New York",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "66182T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Cassandra Patricia Bajan",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -74.0148162841797,
+                40.7137145996094
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "10285",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "New York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33350-32086",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:31.897Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Peter-Michael-Bajc",
+        "nodeid": 32086,
+        "documentid": 33350,
+        "nodealias": "Peter-Michael-Bajc",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "03ba2d59-4db2-40d0-9abd-3948847db2e4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Peter Michael Bajc",
+        "documentmodifiedwhen": "2021-12-16T07:24:28.582Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P01109",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Peter Michael Bajc",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5E 1G4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "137062-131727",
+        "sys_site": "lso",
+        "sys_created": "2022-03-30T07:20:07.136Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Georgina-Bajcetic",
+        "nodeid": 131727,
+        "documentid": 137062,
+        "nodealias": "Georgina-Bajcetic",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0aaa2329-7dfc-4344-920b-410a7d4f9724",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Georgina Bajcetic",
+        "documentmodifiedwhen": "2022-04-09T07:18:21.65Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18273",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Georgina Bajcetic",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79994-78722",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:09:29.5Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Galina-Bajenova",
+        "nodeid": 78722,
+        "documentid": 79994,
+        "nodealias": "Galina-Bajenova",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d096cb06-12d6-44de-aa33-d3e546a9f927",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Galina Bajenova",
+        "documentmodifiedwhen": "2022-01-15T07:18:19.39Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "73783V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Galina Bajenova",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4M 3B5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Barrie"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "141212-135299",
+        "sys_site": "lso",
+        "sys_created": "2022-07-30T07:41:11.919Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Aneta-Bajic",
+        "nodeid": 135299,
+        "documentid": 141212,
+        "nodealias": "Aneta-Bajic",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6402cdf5-0e6d-4fa3-9d9a-98776ffba2a6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Aneta Bajic",
+        "documentmodifiedwhen": "2022-07-30T07:41:11.919Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85350F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Aneta Bajic",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33360-32097",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:37.632Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Benjamin-Felix-Bajikijaie",
+        "nodeid": 32097,
+        "documentid": 33360,
+        "nodealias": "Benjamin-Felix-Bajikijaie",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5061cf5a-f7e7-462d-9a96-dc9e5b157a6e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Benjamin Felix Bajikijaie",
+        "documentmodifiedwhen": "2021-11-05T07:49:12.827Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "41429U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Benjamin Felix Bajikijaie",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.0429458618164,
+                43.8627090454102
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "L1T 1W1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ajax"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33373-32109",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:45.962Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Danyal-Bajwa",
+        "nodeid": 32109,
+        "documentid": 33373,
+        "nodealias": "Danyal-Bajwa",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "61b9fd53-f9e3-4932-88bc-24eb89bdf2df",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Danyal Bajwa",
+        "documentmodifiedwhen": "2022-03-15T07:16:16.722Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71862F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Danyal Bajwa",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1E6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "141211-135298",
+        "sys_site": "lso",
+        "sys_created": "2022-07-30T07:41:06.886Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Gurkirpal-Singh-Bajwa",
+        "nodeid": 135298,
+        "documentid": 141211,
+        "nodealias": "Gurkirpal-Singh-Bajwa",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f46c2c7c-9d16-47e6-b7f2-a3a0dff161ec",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Gurkirpal Singh Bajwa",
+        "documentmodifiedwhen": "2022-07-30T07:41:06.886Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85351B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Gurkirpal Singh Bajwa",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "117395-114993",
+        "sys_site": "lso",
+        "sys_created": "2019-06-28T09:25:24.49Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Harlene-Bajwa",
+        "nodeid": 114993,
+        "documentid": 117395,
+        "nodealias": "Harlene-Bajwa",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3eaf89c3-c3cd-4bcc-81a7-003efec0fd13",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Harlene Bajwa",
+        "documentmodifiedwhen": "2021-10-20T07:17:38.918Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77900N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Harlene Bajwa",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.422607421875,
+                43.6365127563477
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M6K 3H5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33364-32101",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:39.867Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Harneet-Singh-Bajwa",
+        "nodeid": 32101,
+        "documentid": 33364,
+        "nodealias": "Harneet-Singh-Bajwa",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b1314a49-3eca-46a4-aee3-3619c177ac7c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Harneet Singh Bajwa",
+        "documentmodifiedwhen": "2022-01-13T07:25:19.383Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70209Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Harneet Singh Bajwa",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5S 0A7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "141210-135297",
+        "sys_site": "lso",
+        "sys_created": "2022-07-30T07:41:01.707Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/056/Harpreet-Kaur-Bajwa",
+        "nodeid": 135297,
+        "documentid": 141210,
+        "nodealias": "Harpreet-Kaur-Bajwa",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4527bee1-55ae-409c-9cb3-0fd322e7a54b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Harpreet Kaur Bajwa",
+        "documentmodifiedwhen": "2022-07-30T07:41:01.707Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85352U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Harpreet Kaur Bajwa",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33351-32087",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:33.413Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Kamal-Preet-Singh-Bajwa",
+        "nodeid": 32087,
+        "documentid": 33351,
+        "nodealias": "Kamal-Preet-Singh-Bajwa",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a0b65819-d8e0-4152-9670-a4617d7ae5be",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kamal Preet Singh Bajwa",
+        "documentmodifiedwhen": "2021-09-21T09:11:18.107Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06930",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kamal Preet Singh Bajwa",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.601188659668,
+                43.7521896362305
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M9V 4Z7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79995-78723",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:09:30.912Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Maya-Bajwa",
+        "nodeid": 78723,
+        "documentid": 79995,
+        "nodealias": "Maya-Bajwa",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ae808979-c158-4175-a9a1-9e6a2090fd98",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Maya Bajwa",
+        "documentmodifiedwhen": "2021-11-05T07:52:19.363Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37499O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Maya Bajwa",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33369-32105",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:40.852Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Numan-Ahmad-Bajwa",
+        "nodeid": 32105,
+        "documentid": 33369,
+        "nodealias": "Numan-Ahmad-Bajwa",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dfa7b924-8558-4f51-b1cf-9cd3dcc1f61d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Numan Ahmad Bajwa",
+        "documentmodifiedwhen": "2022-01-13T07:25:07.948Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit de la famille ou matrimonial",
+            "Droit de l'immigration",
+            "Droit immobilier"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Family/Matrimonial Law",
+            "Immigration Law",
+            "Real Estate Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71223Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Numan Ahmad Bajwa",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 5W9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79997-78725",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:09:33.624Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Anthony-Edward-Chester-Bak",
+        "nodeid": 78725,
+        "documentid": 79997,
+        "nodealias": "Anthony-Edward-Chester-Bak",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d72bbbaa-290e-4550-82aa-4ff1b28c9d4f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anthony Edward Chester Bak",
+        "documentmodifiedwhen": "2021-12-14T10:52:44.882Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25686G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anthony Edward Chester Bak",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "79996-78724",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:09:31.209Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Maria-Bak",
+        "nodeid": 78724,
+        "documentid": 79996,
+        "nodealias": "Maria-Bak",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "bd0bdd9c-5152-4af3-a5da-a98b1a460547",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Maria Bak",
+        "documentmodifiedwhen": "2020-04-30T07:28:11.277Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P11897",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Maria Bak",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "127492-123635",
+        "sys_site": "lso",
+        "sys_created": "2021-01-27T07:26:22.361Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Matthew-Jeffrey-Belair-Bak",
+        "nodeid": 123635,
+        "documentid": 127492,
+        "nodealias": "Matthew-Jeffrey-Belair-Bak",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9f8e614d-64b0-4c01-a959-fdf51a940a7d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Matthew Jeffrey Belair Bak",
+        "documentmodifiedwhen": "2022-01-21T07:17:34.823Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81118T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Matthew Jeffrey Belair Bak",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4W 3R4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33375-32111",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:46.994Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Antal-Joeseph-Bakaity",
+        "nodeid": 32111,
+        "documentid": 33375,
+        "nodealias": "Antal-Joeseph-Bakaity",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "11f76e72-19cf-41d0-ada5-bc9f9712bffb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Antal Joeseph Bakaity",
+        "documentmodifiedwhen": "2021-12-29T07:20:30.645Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37537C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Antal Joeseph Bakaity",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6X 1N2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33367-32102",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:40.711Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Maja-Bakalic",
+        "nodeid": 32102,
+        "documentid": 33367,
+        "nodealias": "Maja-Bakalic",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "af153162-524a-4727-abc7-ea7dfd9e8285",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Maja Bakalic",
+        "documentmodifiedwhen": "2022-04-14T07:17:45.244Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P09980",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Maja Bakalic",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "N8M 1A8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Essex"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33376-32112",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:47.322Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Jacob-Manuel-Bakan",
+        "nodeid": 32112,
+        "documentid": 33376,
+        "nodealias": "Jacob-Manuel-Bakan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "df773c1c-891d-4fc3-8f02-f02db6d7a248",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jacob Manuel Bakan",
+        "documentmodifiedwhen": "2021-12-31T07:25:50.95Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42792K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jacob Manuel Bakan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 2N5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "132947-128377",
+        "sys_site": "lso",
+        "sys_created": "2021-06-24T07:21:28.009Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Joel-Conrad-Bakan",
+        "nodeid": 128377,
+        "documentid": 132947,
+        "nodealias": "Joel-Conrad-Bakan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8041436e-1f11-4399-ba7a-ee45d13b63ae",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joel Conrad Bakan",
+        "documentmodifiedwhen": "2022-03-10T07:17:49.312Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82093M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joel Conrad Bakan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "V6T 1Z1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vancouver"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130264-125898",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T11:02:02.634Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Ayhan-Bakar",
+        "nodeid": 125898,
+        "documentid": 130264,
+        "nodealias": "Ayhan-Bakar",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1cbcbc4f-0d7b-40fe-9aea-0334a3195c14",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ayhan Bakar",
+        "documentmodifiedwhen": "2022-01-18T12:03:48.791Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "81615E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ayhan Bakar",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 6S6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33366-32103",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:40.696Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Maria-Bakas",
+        "nodeid": 32103,
+        "documentid": 33366,
+        "nodealias": "Maria-Bakas",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "86bfe309-afbc-40ec-8e01-2ff0999fb497",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Maria Bakas",
+        "documentmodifiedwhen": "2021-09-21T08:51:20.596Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08353",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Maria Bakas",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3890151977539,
+                43.6550521850586
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M5G 1V2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33378-32114",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:50:47.869Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Godfrey-Bakeerathan",
+        "nodeid": 32114,
+        "documentid": 33378,
+        "nodealias": "Godfrey-Bakeerathan",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6f5f8487-1dc2-4c8f-937b-f2fc761feffd",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Godfrey Bakeerathan",
+        "documentmodifiedwhen": "2022-01-27T07:16:53.483Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Droit criminel et quasi criminel",
+            "Droit de l'emploi et droit du travail",
+            "Affaires relevant de l'annexe sur les indemnit\u00e9s d'accident l\u00e9gales (AIAL)"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Criminal/Quasi-Criminal Law",
+            "Employment/Labour Law",
+            "Statutory Accident Benefits Schedule matters (SABS)"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "71528M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Godfrey Bakeerathan",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4L 0G9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vaughan"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9982-9144",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:29:25.251Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Adam-Robert-Henry-Baker",
+        "nodeid": 9144,
+        "documentid": 9982,
+        "nodealias": "Adam-Robert-Henry-Baker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "eeae7247-1ed8-4a83-860c-afa502ac7f13",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Adam Robert Henry Baker",
+        "documentmodifiedwhen": "2022-01-02T07:25:22.148Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit de la construction",
+            "Droit commercial et corporatifes",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies",
+            "Affaires relevant de la Cour des petites cr\u00e9ances"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Construction Law",
+            "Corporate/Commercial Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law",
+            "Small Claims Court matters"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "49500I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Adam Robert Henry Baker",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K0L 2H0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Lakefield"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9979-9141",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:28:52.043Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Adrian-David-Baker",
+        "nodeid": 9141,
+        "documentid": 9979,
+        "nodealias": "Adrian-David-Baker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6f7686e8-9736-4ab4-9018-647db93cbe68",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Adrian David Baker",
+        "documentmodifiedwhen": "2022-01-01T07:20:07.284Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47057B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Adrian David Baker",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6X 1R2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Brampton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33479-32215",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:52:20.453Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Allyson-Lynne-Baker",
+        "nodeid": 32215,
+        "documentid": 33479,
+        "nodealias": "Allyson-Lynne-Baker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ebc727f1-26e9-437e-9673-a1829b6d569e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Allyson Lynne Baker",
+        "documentmodifiedwhen": "2021-12-31T07:15:50.602Z",
+        "skuname": null,
+        "memberprovincetext": "British Columbia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43708F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Allyson Lynne Baker",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "V6C 3H1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vancouver"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33480-32216",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:52:20.688Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Andrew-Gregory-Baker",
+        "nodeid": 32216,
+        "documentid": 33480,
+        "nodealias": "Andrew-Gregory-Baker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2e210377-7778-4e95-8e1e-6ca8d0213577",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew Gregory Baker",
+        "documentmodifiedwhen": "2021-03-06T07:18:21.921Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43217H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew Gregory Baker",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3881149291992,
+                43.6558113098145
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 2P2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9995-9157",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:31:53.266Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Andrew-Michael-Baker",
+        "nodeid": 9157,
+        "documentid": 9995,
+        "nodealias": "Andrew-Michael-Baker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "24711746-a8be-4bcd-9429-7816ae5c0730",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew Michael Baker",
+        "documentmodifiedwhen": "2022-01-12T07:25:22.06Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68342W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew Michael Baker",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 4E3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33482-32218",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:52:35.75Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Andrew-Ryan-Baker",
+        "nodeid": 32218,
+        "documentid": 33482,
+        "nodealias": "Andrew-Ryan-Baker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cb97917d-e0f6-4d95-9352-775646fce9c9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew Ryan Baker",
+        "documentmodifiedwhen": "2021-09-01T07:16:56.96Z",
+        "skuname": null,
+        "memberprovincetext": "Nova Scotia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "74041T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew Ryan Baker",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -63.5717163085938,
+                44.6486701965332
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "B3J 2X2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Halifax"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9950-9112",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:17:57.441Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Antonia-Joanne-Baker",
+        "nodeid": 9112,
+        "documentid": 9950,
+        "nodealias": "Antonia-Joanne-Baker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7a89c810-ba72-419f-b68f-98c9f407fa29",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Antonia Joanne Baker",
+        "documentmodifiedwhen": "2022-05-28T07:28:10.645Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P10133",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Antonia Joanne Baker",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33478-32214",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:52:20.188Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Ashley-Vincent-Hollingsworth-Baker",
+        "nodeid": 32214,
+        "documentid": 33478,
+        "nodealias": "Ashley-Vincent-Hollingsworth-Baker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f1969478-e8dc-48e5-96f6-10e1822667c4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ashley Vincent Hollingsworth Baker",
+        "documentmodifiedwhen": "2021-09-21T08:14:10.619Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "46552G",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ashley Vincent Hollingsworth Baker",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9984-9146",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:29:46.541Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Brett-Stewart-Baker",
+        "nodeid": 9146,
+        "documentid": 9984,
+        "nodealias": "Brett-Stewart-Baker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1e42e864-8fda-434b-ba1f-61d771cd023b",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Brett Stewart Baker",
+        "documentmodifiedwhen": "2022-03-31T07:16:21.181Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "50367K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Brett Stewart Baker",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5J 2T3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80000-78728",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:09:35.817Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Carly-Victoria-Baker",
+        "nodeid": 78728,
+        "documentid": 80000,
+        "nodealias": "Carly-Victoria-Baker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b018f973-ac52-4c9f-ab46-d79b83555184",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Carly Victoria Baker",
+        "documentmodifiedwhen": "2022-03-30T07:17:24.761Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P13986",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Carly Victoria Baker",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "K2H 5B7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9992-9154",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:31:21.171Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Cassandra-Kathleen-Baker",
+        "nodeid": 9154,
+        "documentid": 9992,
+        "nodealias": "Cassandra-Kathleen-Baker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "51d33c7b-c3d1-4224-9222-03804baa8f76",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Cassandra Kathleen Baker",
+        "documentmodifiedwhen": "2022-05-11T07:15:30.112Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67412T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Cassandra Kathleen Baker",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0L5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80008-78736",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:09:46.97Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/Charles-Ernest-Baker",
+        "nodeid": 78736,
+        "documentid": 80008,
+        "nodealias": "Charles-Ernest-Baker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "603ffe3f-f7f0-407d-8eb8-689d989d7f83",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Charles Ernest Baker",
+        "documentmodifiedwhen": "2021-12-21T07:29:09.73Z",
+        "skuname": null,
+        "memberprovincetext": "Colorado",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "22615T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Charles Ernest Baker",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "United States",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "80021",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Westminster"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9993-9155",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:31:31.112Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Daniel-Kenneth-Baker",
+        "nodeid": 9155,
+        "documentid": 9993,
+        "nodealias": "Daniel-Kenneth-Baker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cf442c97-a198-4d4b-b508-504618b804fc",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniel Kenneth Baker",
+        "documentmodifiedwhen": "2019-05-07T14:48:20.188Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "67413P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniel Kenneth Baker",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3650588989258,
+                46.2217636108398
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P0H 1H0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Callander"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "33474-32210",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T01:52:15.235Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/David-Kenneth-Harold-Baker",
+        "nodeid": 32210,
+        "documentid": 33474,
+        "nodealias": "David-Kenneth-Harold-Baker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "aa6a3c7a-0fad-42bf-b9cd-e173ca665b50",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Kenneth Harold Baker",
+        "documentmodifiedwhen": "2021-11-05T07:41:06.936Z",
+        "skuname": null,
+        "memberprovincetext": "Nova Scotia",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "33861D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Kenneth Harold Baker",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -65.5138626098633,
+                44.7477684020996
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "B0S 1A0",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Annapolis"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "80007-78734",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T03:09:46.654Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/028/David-Norcliffe-Baker",
+        "nodeid": 78734,
+        "documentid": 80007,
+        "nodealias": "David-Norcliffe-Baker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "aa53965d-2770-41a2-be67-1442ac298c5e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "David Norcliffe Baker",
+        "documentmodifiedwhen": "2021-12-14T11:22:36.2Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "29377N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "David Norcliffe Baker",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9 - suspension administrative de plus de 12 mois"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked - Administrative Suspension Over 12 Months"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9949-9111",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:17:47.061Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/002/Debra-Ann-Baker",
+        "nodeid": 9111,
+        "documentid": 9949,
+        "nodealias": "Debra-Ann-Baker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "498f2815-ebf0-4c1c-b144-012780c3c773",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Debra Ann Baker",
+        "documentmodifiedwhen": "2021-01-27T09:08:13.426Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06998",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Debra Ann Baker",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "9981-9143",
+        "sys_site": "lso",
+        "sys_created": "2018-07-06T19:29:14.621Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/006/Denise-Clare-Baker",
+        "nodeid": 9143,
+        "documentid": 9981,
+        "nodealias": "Denise-Clare-Baker",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4086856e-ec2f-480b-a933-fe52d77687a1",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Denise Clare Baker",
+        "documentmodifiedwhen": "2022-01-03T07:17:50.425Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "48116H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Denise Clare Baker",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L6J 0B2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Oakville"
+        ]
+    }
+]

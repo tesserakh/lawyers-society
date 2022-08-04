@@ -1,0 +1,5228 @@
+[
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89806-88534",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:43:12.368Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Wen-Yee-Wendy-Yung",
+        "nodeid": 88534,
+        "documentid": 89806,
+        "nodealias": "Wen-Yee-Wendy-Yung",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "deffa2fc-dbc7-429d-a6a1-35976d09032d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Wen Yee Wendy Yung",
+        "documentmodifiedwhen": "2021-09-21T07:54:58.233Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "35928L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Wen Yee Wendy Yung",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -92.1756439208984,
+                38.5791053771973
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61955-60682",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:16.728Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Rikki-Yunger",
+        "nodeid": 60682,
+        "documentid": 61955,
+        "nodealias": "Rikki-Yunger",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ce4e36a5-b8ff-40a7-bf3f-4cf908562a37",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Rikki Yunger",
+        "documentmodifiedwhen": "2021-09-17T07:22:32.729Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "75321M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Rikki Yunger",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3815765380859,
+                43.6479454040527
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 0A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "128126-124156",
+        "sys_site": "lso",
+        "sys_created": "2021-03-11T07:20:38.17Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/005/Madina-Yunus",
+        "nodeid": 124156,
+        "documentid": 128126,
+        "nodealias": "Madina-Yunus",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "1549eea4-1abf-45e9-8947-fcd68cc1f31b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Madina Yunus",
+        "documentmodifiedwhen": "2021-06-23T07:21:24.647Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17201",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Madina Yunus",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3676071166992,
+                43.7740364074707
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M2K 2S5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61965-60691",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:22.259Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Pulat-Yunusov",
+        "nodeid": 60691,
+        "documentid": 61965,
+        "nodealias": "Pulat-Yunusov",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7127c4cb-1a84-4aec-845d-01ac5085c3ba",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Pulat Yunusov",
+        "documentmodifiedwhen": "2021-10-30T07:17:32.146Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60014U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Pulat Yunusov",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3811950683594,
+                43.6500205993652
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 2S8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61963-60688",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:22.243Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Paul-Anton-Yurack",
+        "nodeid": 60688,
+        "documentid": 61963,
+        "nodealias": "Paul-Anton-Yurack",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ad6a1b44-63c1-45bc-885a-9db701b2806b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Paul Anton Yurack",
+        "documentmodifiedwhen": "2021-12-14T10:31:30.207Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "31715F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Paul Anton Yurack",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118875-116193",
+        "sys_site": "lso",
+        "sys_created": "2019-09-27T07:58:24.034Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Lyubov-Yurchak",
+        "nodeid": 116193,
+        "documentid": 118875,
+        "nodealias": "Lyubov-Yurchak",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0b768191-3ece-4d4b-bc15-0759d6f8c410",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Lyubov Yurchak",
+        "documentmodifiedwhen": "2022-01-16T07:31:12.554Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78544B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Lyubov Yurchak",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4P 3B5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89812-88541",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:43:23.274Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Dale-Lucy-Yurkevicius-Yurka",
+        "nodeid": 88541,
+        "documentid": 89812,
+        "nodealias": "Dale-Lucy-Yurkevicius-Yurka",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0db8e8cf-7d95-481f-b06a-4ee26f95e383",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Dale Lucy Yurkevicius Yurka",
+        "documentmodifiedwhen": "2021-12-14T09:43:19.544Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26601Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Dale Lucy Yurkevicius Yurka",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123902-120356",
+        "sys_site": "lso",
+        "sys_created": "2020-06-23T09:37:02.335Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Katherine-Eve-Yurkovich",
+        "nodeid": 120356,
+        "documentid": 123902,
+        "nodealias": "Katherine-Eve-Yurkovich",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "852cefef-4d66-40c5-85f4-fddad153b310",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Katherine Eve Yurkovich",
+        "documentmodifiedwhen": "2022-01-17T07:31:02.056Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80396R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Katherine Eve Yurkovich",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1G5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61961-60686",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:22.212Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Olha-Yushko",
+        "nodeid": 60686,
+        "documentid": 61961,
+        "nodealias": "Olha-Yushko",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "208bc8b7-1858-458e-bfc9-dad700698e2e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Olha Yushko",
+        "documentmodifiedwhen": "2022-01-10T07:21:33.352Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "62680C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Olha Yushko",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M3K 1Y5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "138834-133277",
+        "sys_site": "lso",
+        "sys_created": "2022-06-14T07:49:18.77Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/015/Timothy-Eric-Vincent-Yusingco",
+        "nodeid": 133277,
+        "documentid": 138834,
+        "nodealias": "Timothy-Eric-Vincent-Yusingco",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6ffd4c54-4017-48d2-b4ec-8d97551210d6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Timothy Eric Vincent Yusingco",
+        "documentmodifiedwhen": "2022-07-07T07:33:31.453Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18530",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Timothy Eric Vincent Yusingco",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "120981-117949",
+        "sys_site": "lso",
+        "sys_created": "2020-03-12T07:28:48.413Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Hafsa-Iftikhar-Yusoof",
+        "nodeid": 117949,
+        "documentid": 120981,
+        "nodealias": "Hafsa-Iftikhar-Yusoof",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d36877bb-8bab-414e-9021-fd7912a5ff83",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Hafsa Iftikhar Yusoof",
+        "documentmodifiedwhen": "2022-06-11T07:16:50.236Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P16388",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Hafsa Iftikhar Yusoof",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L4W 0B5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61959-60689",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:22.243Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Jason-Benjamin-Julian-Yustin",
+        "nodeid": 60689,
+        "documentid": 61959,
+        "nodealias": "Jason-Benjamin-Julian-Yustin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "765aab5b-b3f0-4018-92be-a2c1cfeb3262",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jason Benjamin Julian Yustin",
+        "documentmodifiedwhen": "2021-09-21T08:18:47.962Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "44261M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jason Benjamin Julian Yustin",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.6815872192383,
+                45.4287414550781
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "K1N 8T7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89813-88540",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:43:23.227Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Maura-Ann-McConnell-Yustin",
+        "nodeid": 88540,
+        "documentid": 89813,
+        "nodealias": "Maura-Ann-McConnell-Yustin",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6cd64a3d-fcd2-48e5-9c82-fcc254616016",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Maura Ann McConnell Yustin",
+        "documentmodifiedwhen": "2021-12-28T07:22:34.839Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "36809R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Maura Ann McConnell Yustin",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "122099-118702",
+        "sys_site": "lso",
+        "sys_created": "2020-05-26T07:18:42.89Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/013/Fadi-Yusuf",
+        "nodeid": 118702,
+        "documentid": 122099,
+        "nodealias": "Fadi-Yusuf",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6c0786a9-e542-4ecf-b4a6-d8eeeb1f9674",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Fadi Yusuf",
+        "documentmodifiedwhen": "2021-09-21T09:33:22.814Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P16618",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Fadi Yusuf",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.7538299560547,
+                43.6018486022949
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "L5N 0B4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61958-60685",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:22.243Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Muneeb-Ahmed-Yusuf",
+        "nodeid": 60685,
+        "documentid": 61958,
+        "nodealias": "Muneeb-Ahmed-Yusuf",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6ba0456d-89b8-491c-9880-eb087e0462c4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Muneeb Ahmed Yusuf",
+        "documentmodifiedwhen": "2022-01-08T07:25:21.408Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58804E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Muneeb Ahmed Yusuf",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 1M1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61967-60693",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:22.321Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Syrah-Yasmeen-Yusuf",
+        "nodeid": 60693,
+        "documentid": 61967,
+        "nodealias": "Syrah-Yasmeen-Yusuf",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5928d1e3-ff06-4886-a6b4-6a3f50dbd0c0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Syrah Yasmeen Yusuf",
+        "documentmodifiedwhen": "2022-01-14T07:32:15.055Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Droit commercial et corporatifes",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Location immobili\u00e8re"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Corporate/Commercial Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law",
+            "Small Claims Court matters",
+            "Landlord and Tenant"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72786V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Syrah Yasmeen Yusuf",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4B 2N6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Richmond Hill"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "133048-128475",
+        "sys_site": "lso",
+        "sys_created": "2021-07-05T09:52:58.885Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Mariam-Rabia-Yusufi",
+        "nodeid": 128475,
+        "documentid": 133048,
+        "nodealias": "Mariam-Rabia-Yusufi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d4b0d339-82ff-4bd4-8b0c-7371dbe77cf3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mariam Rabia Yusufi",
+        "documentmodifiedwhen": "2021-10-15T07:18:17.199Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83091I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mariam Rabia Yusufi",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3909912109375,
+                43.6588096618652
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 1Z5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123903-120357",
+        "sys_site": "lso",
+        "sys_created": "2020-06-23T09:37:21.536Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Matthew-William-Yutronkie",
+        "nodeid": 120357,
+        "documentid": 123903,
+        "nodealias": "Matthew-William-Yutronkie",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "650f88c4-81bb-4c62-9723-dc87e217d94c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Matthew William Yutronkie",
+        "documentmodifiedwhen": "2020-12-22T07:18:17.38Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80397N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Matthew William Yutronkie",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "129001-124831",
+        "sys_site": "lso",
+        "sys_created": "2021-04-27T07:29:24.769Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/014/Ashley-Naomi-Yuval-Singer",
+        "nodeid": 124831,
+        "documentid": 129001,
+        "nodealias": "Ashley-Naomi-Yuval-Singer",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "50662df8-8b6c-454f-a803-febf4af9c03b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ashley Naomi Yuval Singer",
+        "documentmodifiedwhen": "2021-12-22T07:25:27.492Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17252",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ashley Naomi Yuval Singer",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L7L 5H6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Burlington"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61968-60694",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:22.368Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Michael-John-Yuzdepski",
+        "nodeid": 60694,
+        "documentid": 61968,
+        "nodealias": "Michael-John-Yuzdepski",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c9a98136-1a64-4ebc-a3cc-4dd1887c3db6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael John Yuzdepski",
+        "documentmodifiedwhen": "2022-04-09T07:16:10.823Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "62445D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael John Yuzdepski",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L4K 5Z5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Vaughan"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "89817-88543",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:43:23.774Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Irina-Yuzefov",
+        "nodeid": 88543,
+        "documentid": 89817,
+        "nodealias": "Irina-Yuzefov",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "97c8b6f5-3a29-4a80-99da-47a41f0e16f2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Irina Yuzefov",
+        "documentmodifiedwhen": "2020-02-20T09:20:07.979Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P01897",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Irina Yuzefov",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116694-114306",
+        "sys_site": "lso",
+        "sys_created": "2019-06-27T08:50:43.492Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Nawal-Zaarab",
+        "nodeid": 114306,
+        "documentid": 116694,
+        "nodealias": "Nawal-Zaarab",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "910d81a9-94f7-4945-a1c2-72df09e9813d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nawal Zaarab",
+        "documentmodifiedwhen": "2019-12-04T07:24:47.797Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77536L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nawal Zaarab",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3517990112305,
+                43.7602348327637
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M3B 3L6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "110004-108559",
+        "sys_site": "lso",
+        "sys_created": "2018-09-29T06:36:15.065Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/021/Diana-Zaarour",
+        "nodeid": 108559,
+        "documentid": 110004,
+        "nodealias": "Diana-Zaarour",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2b58f9ea-b2e2-464d-9611-126d9fbb80ce",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Diana Zaarour",
+        "documentmodifiedwhen": "2022-02-25T07:19:11.201Z",
+        "skuname": null,
+        "memberprovincetext": "Quebec",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "76120B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Diana Zaarour",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "H2Y 1W8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Montr\u00e9al"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61990-60715",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:31.228Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Jeffrey-Zabalet",
+        "nodeid": 60715,
+        "documentid": 61990,
+        "nodealias": "Jeffrey-Zabalet",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7adb3709-9fef-4dc9-8765-8910758d66eb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jeffrey Zabalet",
+        "documentmodifiedwhen": "2022-01-04T07:24:09.703Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "54186U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jeffrey Zabalet",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L4W 5L2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130118-125752",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T09:33:33.334Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Ravital-Zabarsky",
+        "nodeid": 125752,
+        "documentid": 130118,
+        "nodealias": "Ravital-Zabarsky",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "519d178c-7b26-4269-902f-b5f40b557e0d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ravital Zabarsky",
+        "documentmodifiedwhen": "2021-08-04T07:20:36.366Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82087C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ravital Zabarsky",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -75.6928634643555,
+                45.4198608398438
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "K2P 3C3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61988-60716",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:31.275Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Elizabeth-Caroline-Zabek",
+        "nodeid": 60716,
+        "documentid": 61988,
+        "nodealias": "Elizabeth-Caroline-Zabek",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "69c6d5f2-7dfc-4a95-9f26-445d7b8d4472",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Elizabeth Caroline Zabek",
+        "documentmodifiedwhen": "2022-01-12T07:16:38.735Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "32527W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Elizabeth Caroline Zabek",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L9H 3R3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Dundas"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90153-88881",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:51:50.629Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Joseph-John-Zabek",
+        "nodeid": 88881,
+        "documentid": 90153,
+        "nodealias": "Joseph-John-Zabek",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "96cded76-acbe-469f-97b5-fd8e6aaaa057",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Joseph John Zabek",
+        "documentmodifiedwhen": "2021-12-14T07:41:04.878Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "10667V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Joseph John Zabek",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61991-60717",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:32.322Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Yuri-Zabelishensky",
+        "nodeid": 60717,
+        "documentid": 61991,
+        "nodealias": "Yuri-Zabelishensky",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b1fd5617-73cc-4d9b-841b-d0aa6743b861",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Yuri Zabelishensky",
+        "documentmodifiedwhen": "2021-12-31T07:23:28.844Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42170V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Yuri Zabelishensky",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M1T 3V4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61994-60725",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:36.103Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Christine-Anna-Zablocki",
+        "nodeid": 60725,
+        "documentid": 61994,
+        "nodealias": "Christine-Anna-Zablocki",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "9c659c37-7159-4513-be82-e61d06f3219d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Christine Anna Zablocki",
+        "documentmodifiedwhen": "2021-12-26T07:27:15.895Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "30177K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Christine Anna Zablocki",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5V 3C6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "118869-116187",
+        "sys_site": "lso",
+        "sys_created": "2019-09-27T07:56:59.784Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Eric-Patrick-Zablotny",
+        "nodeid": 116187,
+        "documentid": 118869,
+        "nodealias": "Eric-Patrick-Zablotny",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "2076147e-0ad5-4dec-bc50-595ad0737ea3",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eric Patrick Zablotny",
+        "documentmodifiedwhen": "2022-01-16T07:31:13.181Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78545U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eric Patrick Zablotny",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "P7B 5N3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Thunder Bay"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130119-125753",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T09:34:09.77Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Dorna-Zaboli",
+        "nodeid": 125753,
+        "documentid": 130119,
+        "nodealias": "Dorna-Zaboli",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "52763cf7-5b44-4487-8181-fb9de275560d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Dorna Zaboli",
+        "documentmodifiedwhen": "2022-01-18T12:01:35.584Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82088V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Dorna Zaboli",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M4S 2C6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90150-88878",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:51:50.019Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Sahar-Naz-Zaboli",
+        "nodeid": 88878,
+        "documentid": 90150,
+        "nodealias": "Sahar-Naz-Zaboli",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "39de192e-e545-428a-8a7b-7b50859ed4ac",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sahar Naz Zaboli",
+        "documentmodifiedwhen": "2021-09-21T08:39:33.485Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72787R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sahar Naz Zaboli",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61995-60722",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:36.134Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Sean-Franklin-Zaboroski",
+        "nodeid": 60722,
+        "documentid": 61995,
+        "nodealias": "Sean-Franklin-Zaboroski",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "421c8fcf-241c-4c1f-90dd-bbadf9986f1e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sean Franklin Zaboroski",
+        "documentmodifiedwhen": "2022-01-01T07:27:02.123Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47313L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sean Franklin Zaboroski",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4S 1E2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61996-60718",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:36.119Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Andrew-Nolan-Zabrovsky",
+        "nodeid": 60718,
+        "documentid": 61996,
+        "nodealias": "Andrew-Nolan-Zabrovsky",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "5278b0cd-9847-4559-8ce7-b30192f3c0f8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Andrew Nolan Zabrovsky",
+        "documentmodifiedwhen": "2022-01-05T07:29:04.42Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "55725L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Andrew Nolan Zabrovsky",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1K8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61993-60723",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:36.119Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Leanne-Wendy-Zabudsky",
+        "nodeid": 60723,
+        "documentid": 61993,
+        "nodealias": "Leanne-Wendy-Zabudsky",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "7f0b7d51-847a-4ec9-9346-5f27d09a5f3d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Leanne Wendy Zabudsky",
+        "documentmodifiedwhen": "2022-01-09T07:22:41.676Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "60908M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Leanne Wendy Zabudsky",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L8N 3P9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61999-60728",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:36.259Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Alexandra-Grace-Zaccagnini",
+        "nodeid": 60728,
+        "documentid": 61999,
+        "nodealias": "Alexandra-Grace-Zaccagnini",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c4e83047-d15d-41a1-a4cb-60124edc9fbc",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Alexandra Grace Zaccagnini",
+        "documentmodifiedwhen": "2022-01-12T07:32:29.87Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies",
+            "Affaires relevant de la Cour des petites cr\u00e9ances",
+            "Location immobili\u00e8re"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law",
+            "Small Claims Court matters",
+            "Landlord and Tenant"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "68956J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Alexandra Grace Zaccagnini",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L4L 8G7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Woodbridge"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90151-88879",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:51:50.035Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Berta-Giovina-Claira-Zaccardi",
+        "nodeid": 88879,
+        "documentid": 90151,
+        "nodealias": "Berta-Giovina-Claira-Zaccardi",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e9f37216-c58f-4959-be42-fc149b947128",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Berta Giovina Claira Zaccardi",
+        "documentmodifiedwhen": "2021-12-14T08:44:37.483Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "18657A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Berta Giovina Claira Zaccardi",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "133776-129074",
+        "sys_site": "lso",
+        "sys_created": "2021-09-08T07:31:43.409Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/012/Suzanne-Frederique-Elizabeth-Zaccour",
+        "nodeid": 129074,
+        "documentid": 133776,
+        "nodealias": "Suzanne-Frederique-Elizabeth-Zaccour",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0981971d-1a5d-4271-864a-fac621b9c29c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Suzanne Fr\u00e9d\u00e9rique Elizabeth Zaccour",
+        "documentmodifiedwhen": "2022-07-23T07:18:15.553Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83427J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Suzanne Fr\u00e9d\u00e9rique Elizabeth Zaccour",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1Y 2N2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61997-60720",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:36.181Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Aleesha-Andrea-Zachar",
+        "nodeid": 60720,
+        "documentid": 61997,
+        "nodealias": "Aleesha-Andrea-Zachar",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d2eaba26-b220-4442-880a-6677ac45afd6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Aleesha Andrea Zachar",
+        "documentmodifiedwhen": "2021-01-14T07:20:47.664Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "69507R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Aleesha Andrea Zachar",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "133777-129075",
+        "sys_site": "lso",
+        "sys_created": "2021-09-08T07:31:48.9Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/012/Peter-Charles-Zachar",
+        "nodeid": 129075,
+        "documentid": 133777,
+        "nodealias": "Peter-Charles-Zachar",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0270666c-ee77-4e1a-8738-c00f27e6ce78",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Peter Charles Zachar",
+        "documentmodifiedwhen": "2021-09-10T07:19:27.358Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83428F",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Peter Charles Zachar",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61998-60724",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:36.259Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Myrsini-Zacharakis",
+        "nodeid": 60724,
+        "documentid": 61998,
+        "nodealias": "Myrsini-Zacharakis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "10d4af40-c094-41f1-a4ed-3b5909ed10c4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Myrsini Zacharakis",
+        "documentmodifiedwhen": "2021-12-31T07:18:29.933Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43565B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Myrsini Zacharakis",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5G 1Z3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "141118-135205",
+        "sys_site": "lso",
+        "sys_created": "2022-07-30T07:32:22.666Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/054/Tresa-Susan-Zacharia",
+        "nodeid": 135205,
+        "documentid": 141118,
+        "nodealias": "Tresa-Susan-Zacharia",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0307134b-f05b-4aac-a8fa-b13017536079",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Tresa Susan Zacharia",
+        "documentmodifiedwhen": "2022-07-30T07:32:22.666Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "85756K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Tresa Susan Zacharia",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62002-60721",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:36.244Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Anna-Zachariah",
+        "nodeid": 60721,
+        "documentid": 62002,
+        "nodealias": "Anna-Zachariah",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "70ff9d1b-8f92-4ddb-aacc-46501b3ffe25",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anna Zachariah",
+        "documentmodifiedwhen": "2021-06-01T07:16:16.74Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "37471M",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anna Zachariah",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.4038772583008,
+                43.752857208252
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2P 1S3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "North York"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116712-114324",
+        "sys_site": "lso",
+        "sys_created": "2019-06-27T08:53:51.764Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Anoushka-Kalathil-Zachariah",
+        "nodeid": 114324,
+        "documentid": 116712,
+        "nodealias": "Anoushka-Kalathil-Zachariah",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "e0f55643-4f19-409c-9186-e0a04cbc1d79",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anoushka Kalathil Zachariah",
+        "documentmodifiedwhen": "2022-01-16T07:22:12.167Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77537H",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anoushka Kalathil Zachariah",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3P5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116170-113782",
+        "sys_site": "lso",
+        "sys_created": "2019-06-27T07:31:24.407Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Meera-Miriam-Zachariah",
+        "nodeid": 113782,
+        "documentid": 116170,
+        "nodealias": "Meera-Miriam-Zachariah",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ee07e308-343a-45bd-9bb1-db793a47df69",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Meera Miriam Zachariah",
+        "documentmodifiedwhen": "2022-01-27T07:17:14.801Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77220C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Meera Miriam Zachariah",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2N 1N2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "61992-60726",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:36.259Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Stuart-Alexander-Zacharias",
+        "nodeid": 60726,
+        "documentid": 61992,
+        "nodealias": "Stuart-Alexander-Zacharias",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d29a2494-8b97-4814-be1f-c89e637223e7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stuart Alexander Zacharias",
+        "documentmodifiedwhen": "2022-01-03T07:22:35.247Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "51652R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stuart Alexander Zacharias",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3P5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62000-60727",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:36.244Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Glenn-Marshall-Zacher",
+        "nodeid": 60727,
+        "documentid": 62000,
+        "nodealias": "Glenn-Marshall-Zacher",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "528588e0-e456-4734-869e-4abd7e411bb2",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Glenn Marshall Zacher",
+        "documentmodifiedwhen": "2021-12-31T07:16:01.375Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43625P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Glenn Marshall Zacher",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5L 1B9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90154-88882",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:51:53.864Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Melvin-Irving-Zackheim",
+        "nodeid": 88882,
+        "documentid": 90154,
+        "nodealias": "Melvin-Irving-Zackheim",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cf02d350-34b7-452f-a158-15706005a433",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Melvin Irving Zackheim",
+        "documentmodifiedwhen": "2022-05-28T07:20:36.693Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "10165K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Melvin Irving Zackheim",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62001-60729",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:36.322Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Michael-Benjamin-Zackheim",
+        "nodeid": 60729,
+        "documentid": 62001,
+        "nodealias": "Michael-Benjamin-Zackheim",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4dd7f789-d4af-4fa9-a628-3e2b4099a90d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Benjamin Zackheim",
+        "documentmodifiedwhen": "2022-01-04T07:22:23.718Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "52727Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Benjamin Zackheim",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1N2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62007-60732",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:36.525Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Cara-Michelle-Frank-Zacks",
+        "nodeid": 60732,
+        "documentid": 62007,
+        "nodealias": "Cara-Michelle-Frank-Zacks",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6080eeb9-5e3e-4dc1-8286-650a4e24e932",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Cara Michelle Frank Zacks",
+        "documentmodifiedwhen": "2022-01-11T07:29:05.466Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "64681U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Cara Michelle Frank Zacks",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5B 2L7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62004-60731",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:36.509Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Daniel-Lawrence-Frank-Zacks",
+        "nodeid": 60731,
+        "documentid": 62004,
+        "nodealias": "Daniel-Lawrence-Frank-Zacks",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d91298c8-6d0a-4ebc-9800-9491e95611d9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniel Lawrence Frank Zacks",
+        "documentmodifiedwhen": "2022-01-07T07:22:41.33Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57621N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniel Lawrence Frank Zacks",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5E 1J8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62005-60730",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:36.478Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Michael-Zacks",
+        "nodeid": 60730,
+        "documentid": 62005,
+        "nodealias": "Michael-Zacks",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0a39b160-c46d-45ac-8476-74031193858d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Zacks",
+        "documentmodifiedwhen": "2021-12-14T07:41:50.642Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "16218P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Zacks",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62006-60733",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:36.525Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Nadine-Sonya-Zacks",
+        "nodeid": 60733,
+        "documentid": 62006,
+        "nodealias": "Nadine-Sonya-Zacks",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6a6f8456-9522-47aa-9928-471a91120b87",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nadine Sonya Zacks",
+        "documentmodifiedwhen": "2022-01-07T07:21:25.414Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57304U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nadine Sonya Zacks",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5K 1K8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62008-60734",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:37.369Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Sandra-Zada",
+        "nodeid": 60734,
+        "documentid": 62008,
+        "nodealias": "Sandra-Zada",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c0f02980-5e90-4a83-b381-9b08cb549b05",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sandra Zada",
+        "documentmodifiedwhen": "2022-01-01T07:21:08.368Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45563I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sandra Zada",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 1H1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62014-60741",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:41.619Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Saba-Zadeh",
+        "nodeid": 60741,
+        "documentid": 62014,
+        "nodealias": "Saba-Zadeh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cc8b3d4e-df74-4a38-a85e-7d7bf68b7d6c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Saba Zadeh",
+        "documentmodifiedwhen": "2021-09-21T08:31:55.039Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58512N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Saba Zadeh",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3909912109375,
+                43.6588096618652
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "M5G 1X6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62019-60740",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:41.619Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Sam-Zadeh",
+        "nodeid": 60740,
+        "documentid": 62019,
+        "nodealias": "Sam-Zadeh",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c15f2b1c-8658-4419-9b6c-123067917715",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sam Zadeh",
+        "documentmodifiedwhen": "2022-01-13T07:26:11.82Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "70505C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sam Zadeh",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "\u00c0 confirmer"
+        ],
+        "memberwebstatus": [
+            "To Be Confirmed"
+        ],
+        "memberpostalcode": "M5J 2Z4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62020-60743",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:41.65Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/John-Zadkovich",
+        "nodeid": 60743,
+        "documentid": 62020,
+        "nodealias": "John-Zadkovich",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "61791b65-84b9-4064-a8a3-0d355d133634",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "John Zadkovich",
+        "documentmodifiedwhen": "2019-09-24T07:20:58.406Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Affaires relevant de la Loi sur les infractions provinciales \u00e0 la Cour de justice de l'Ontario",
+            "Infractions punissables par proc\u00e9dure sommaire \u00e0 la Cour de justice de l'Ontario"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Ontario Court of Justice Provincial Offences Act matters",
+            "Ontario Court of Justice - Summary Conviction Offences"
+        ],
+        "memberlanguagenamesfrench": [
+            "Croate",
+            "Italien",
+            "Mac\u00e9donien",
+            "Polonais",
+            "Portugais",
+            "Russe",
+            "Serbe",
+            "Espagnol",
+            "Ukrainien"
+        ],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Croatian",
+            "Italian",
+            "Macedonian",
+            "Polish",
+            "Portuguese",
+            "Russian",
+            "Serbian",
+            "Spanish",
+            "Ukrainian"
+        ],
+        "membernumber": "P03443",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "John Zadkovich",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.7584838867188,
+                43.5820960998535
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5N 2W7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62009-60736",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:41.603Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Matthew-James-Zadkovich",
+        "nodeid": 60736,
+        "documentid": 62009,
+        "nodealias": "Matthew-James-Zadkovich",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8771cd87-50d4-43bc-b664-7465f54791de",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Matthew James Zadkovich",
+        "documentmodifiedwhen": "2021-12-16T07:20:54.515Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P02720",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Matthew James Zadkovich",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "L5K 2E3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90155-88883",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:51:53.832Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Arnold-John-Zado",
+        "nodeid": 88883,
+        "documentid": 90155,
+        "nodealias": "Arnold-John-Zado",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6dfd21b5-a7e9-492c-855b-f0646cec0ae1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Arnold John Zado",
+        "documentmodifiedwhen": "2021-12-14T07:30:44.072Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "12694O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Arnold John Zado",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62012-60735",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:41.619Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Kateryna-Zadorozhnya",
+        "nodeid": 60735,
+        "documentid": 62012,
+        "nodealias": "Kateryna-Zadorozhnya",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "19d822e5-55eb-4707-996a-7e98fa91486c",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kateryna Zadorozhnya",
+        "documentmodifiedwhen": "2022-01-14T07:27:39.561Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72788N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kateryna Zadorozhnya",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5G 1Z6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62011-60737",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:41.619Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Daniel-Robert-Zadorozny",
+        "nodeid": 60737,
+        "documentid": 62011,
+        "nodealias": "Daniel-Robert-Zadorozny",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "328d62dc-1202-4945-aae0-02423f25fbc1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniel Robert Zadorozny",
+        "documentmodifiedwhen": "2021-12-14T07:30:44.645Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "12695K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniel Robert Zadorozny",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M8X 1Y4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62015-60742",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:41.603Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Eric-Rino-Zadro",
+        "nodeid": 60742,
+        "documentid": 62015,
+        "nodealias": "Eric-Rino-Zadro",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b501072b-c162-4e02-84f2-c7bb5d0895e6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Eric Rino Zadro",
+        "documentmodifiedwhen": "2022-01-10T07:26:20.205Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "62083E",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Eric Rino Zadro",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M2M 4K2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62016-60739",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:41.619Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Matthew-Richard-Zadro",
+        "nodeid": 60739,
+        "documentid": 62016,
+        "nodealias": "Matthew-Richard-Zadro",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "695d5765-00af-4b95-8915-602c3f3ca550",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Matthew Richard Zadro",
+        "documentmodifiedwhen": "2022-01-05T07:18:48.168Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "55041Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Matthew Richard Zadro",
+        "memberserviceinfrench": [
+            "Y"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "K1A 0H8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ottawa"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62013-60744",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:41.619Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Michael-Peter-Zaduk",
+        "nodeid": 60744,
+        "documentid": 62013,
+        "nodealias": "Michael-Peter-Zaduk",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c90f85ef-83dd-4d81-b3de-267e7c1c4272",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Michael Peter Zaduk",
+        "documentmodifiedwhen": "2022-02-04T07:16:45.381Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "18029B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Michael Peter Zaduk",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4V 3A1",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "134379-129654",
+        "sys_site": "lso",
+        "sys_created": "2021-09-28T07:21:13.237Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/019/Abdul-Mohaimin-Zafar",
+        "nodeid": 129654,
+        "documentid": 134379,
+        "nodealias": "Abdul-Mohaimin-Zafar",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "0d6d21d7-d02d-4a3f-9664-0e5c28521bda",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Abdul Mohaimin Zafar",
+        "documentmodifiedwhen": "2022-05-13T07:16:42.786Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "83494C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Abdul Mohaimin Zafar",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M9A 1B2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Etobicoke"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62010-60738",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:41.619Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Farah-Zafar",
+        "nodeid": 60738,
+        "documentid": 62010,
+        "nodealias": "Farah-Zafar",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4ae1ab5e-4121-49c5-b39d-fc2f214cb986",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Farah Zafar",
+        "documentmodifiedwhen": "2021-02-18T07:18:14.772Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "53271C",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Farah Zafar",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3813552856445,
+                43.6515769958496
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "M5H 2Y2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90157-88885",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:51:59.535Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Mohamed-Shabeer-Zafar",
+        "nodeid": 88885,
+        "documentid": 90157,
+        "nodealias": "Mohamed-Shabeer-Zafar",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "66a02f96-3976-42ac-b52e-8d720b255ff4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Mohamed Shabeer Zafar",
+        "documentmodifiedwhen": "2021-09-21T08:38:04.488Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "73653D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Mohamed Shabeer Zafar",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -82.3838729858398,
+                42.5964469909668
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "N8A 4G6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Wallaceburg"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "4406-5065",
+        "sys_site": "lso",
+        "sys_created": "2018-06-14T20:57:31.685Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Muhammad-Zafar",
+        "nodeid": 5065,
+        "documentid": 4406,
+        "nodealias": "Muhammad-Zafar",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "82f78a86-aa91-4582-926f-72172dde9d3c",
+        "documentculture": "en-CA",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Muhammad Zafar",
+        "documentmodifiedwhen": "2022-02-06T07:16:35.794Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "R\u00e8glement extrajudiciaire des diff\u00e9rends (RAD)/ Services de m\u00e9diation",
+            "Droit administratif",
+            "Contentieux civil - demandeur",
+            "Contentieux civil - d\u00e9fendeur",
+            "Droit de la famille ou matrimonial",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies",
+            "Affaires relevant de l'annexe sur les indemnit\u00e9s d'accident l\u00e9gales (AIAL)"
+        ],
+        "memberareasofservicenamesenglish": [
+            "ADR/Mediation Services",
+            "Administrative Law",
+            "Civil Litigation - Plaintiff",
+            "Civil Litigation - Defendant",
+            "Family/Matrimonial Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law",
+            "Statutory Accident Benefits Schedule matters (SABS)"
+        ],
+        "memberlanguagenamesfrench": [
+            "Hindi",
+            "Punjabi",
+            "Ourdou"
+        ],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [
+            "Hindi",
+            "Punjabi",
+            "Urdu"
+        ],
+        "membernumber": "68632V",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Muhammad Zafar",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5B 2N5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "128445-124416",
+        "sys_site": "lso",
+        "sys_created": "2021-04-01T07:24:13.343Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/003/Zanib-Zafar",
+        "nodeid": 124416,
+        "documentid": 128445,
+        "nodealias": "Zanib-Zafar",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "baf3733c-2811-4837-a72c-924db7845ae9",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Zanib Zafar",
+        "documentmodifiedwhen": "2022-05-28T07:46:10.369Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17210",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Zanib Zafar",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62018-60746",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:41.682Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Giuseppe-Zaffino",
+        "nodeid": 60746,
+        "documentid": 62018,
+        "nodealias": "Giuseppe-Zaffino",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "8a7c41bd-ddd7-43ca-acd4-5b1c491bda77",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Giuseppe Zaffino",
+        "documentmodifiedwhen": "2021-12-14T08:56:22.211Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "22276T",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Giuseppe Zaffino",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "130120-125754",
+        "sys_site": "lso",
+        "sys_created": "2021-05-27T09:34:46.453Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Melissa-Letterina-Zaffino",
+        "nodeid": 125754,
+        "documentid": 130120,
+        "nodealias": "Melissa-Letterina-Zaffino",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "28d38e2a-6521-44de-b05a-b83e0025f86f",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Melissa Letterina Zaffino",
+        "documentmodifiedwhen": "2021-06-29T07:19:20.162Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "82089R",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Melissa Letterina Zaffino",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.3978500366211,
+                43.7089500427246
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M4P 2E5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90158-88886",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:51:59.55Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Nicholas-Joseph-Zaffiro",
+        "nodeid": 88886,
+        "documentid": 90158,
+        "nodealias": "Nicholas-Joseph-Zaffiro",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "815e721f-3a68-48fd-b741-695237a584d8",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nicholas Joseph Zaffiro",
+        "documentmodifiedwhen": "2021-12-14T08:29:55.32Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "07906J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nicholas Joseph Zaffiro",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90159-88887",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:52:00.191Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/009/Peter-Alexander-Zafiridis",
+        "nodeid": 88887,
+        "documentid": 90159,
+        "nodealias": "Peter-Alexander-Zafiridis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "aec0e402-2fc5-46cd-b69a-c1a4bd6917ce",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Peter Alexander Zafiridis",
+        "documentmodifiedwhen": "2021-09-21T09:42:27.565Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P12410",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Peter Alexander Zafiridis",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62017-60745",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:41.682Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Jessica-Anne-Zagar",
+        "nodeid": 60745,
+        "documentid": 62017,
+        "nodealias": "Jessica-Anne-Zagar",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "f033e594-9ac0-4081-aba1-004687357aee",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jessica Anne Zagar",
+        "documentmodifiedwhen": "2022-02-24T07:17:24.803Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57305Q",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jessica Anne Zagar",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5H 3C2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62022-60749",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:42.041Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Maria-Elka-Zagazeta-Garcia",
+        "nodeid": 60749,
+        "documentid": 62022,
+        "nodealias": "Maria-Elka-Zagazeta-Garcia",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "eea8e3f3-a71f-4538-89ba-ca5aab793c67",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Maria Elka Zagazeta Garcia",
+        "documentmodifiedwhen": "2022-01-08T07:18:45.544Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "57772P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Maria Elka Zagazeta Garcia",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5B 2N5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62021-60747",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:41.885Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Maria-Norka-Zagazeta-Garcia",
+        "nodeid": 60747,
+        "documentid": 62021,
+        "nodealias": "Maria-Norka-Zagazeta-Garcia",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cf042a1c-cf72-4d17-8058-ef9259e3cc9e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Maria Norka Zagazeta Garcia",
+        "documentmodifiedwhen": "2022-01-05T07:30:41.223Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "56992S",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Maria Norka Zagazeta Garcia",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L5B 2N5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62023-60748",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:42.041Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Barry-Marvin-Zagdanski",
+        "nodeid": 60748,
+        "documentid": 62023,
+        "nodealias": "Barry-Marvin-Zagdanski",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "c4a4d021-7d4e-423d-b209-aa52970677d6",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Barry Marvin Zagdanski",
+        "documentmodifiedwhen": "2021-12-24T07:21:04.168Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25201W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Barry Marvin Zagdanski",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M6B 4J3",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90161-88888",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:52:00.207Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Marlene-Sheva-Anna-Zagdanski",
+        "nodeid": 88888,
+        "documentid": 90161,
+        "nodealias": "Marlene-Sheva-Anna-Zagdanski",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "6408e113-d119-40a7-bb90-4644eb2092cb",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marlene Sheva Anna Zagdanski",
+        "documentmodifiedwhen": "2021-12-14T10:52:37.368Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "25613O",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marlene Sheva Anna Zagdanski",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis remis - retrait\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Retired"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62025-60750",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:42.822Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Nelly-Singer-Zagdanski",
+        "nodeid": 60750,
+        "documentid": 62025,
+        "nodealias": "Nelly-Singer-Zagdanski",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cedd28d3-03b6-46e3-899a-2543b1436471",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nelly Singer Zagdanski",
+        "documentmodifiedwhen": "2021-12-24T07:16:00.228Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26054L",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nelly Singer Zagdanski",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "M3J 3G2",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "117292-114890",
+        "sys_site": "lso",
+        "sys_created": "2019-06-28T09:01:47.284Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Reyam-Zager",
+        "nodeid": 114890,
+        "documentid": 117292,
+        "nodealias": "Reyam-Zager",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "720ac397-e39b-4dce-91ba-76d8e6cc1f0d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Reyam Zager",
+        "documentmodifiedwhen": "2020-03-20T07:19:13.796Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "78191A",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Reyam Zager",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.8882217407227,
+                43.5277328491211
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L9T 1Y7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Milton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "116709-114321",
+        "sys_site": "lso",
+        "sys_created": "2019-06-27T08:53:19.857Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Sarah-Zaghloul",
+        "nodeid": 114321,
+        "documentid": 116709,
+        "nodealias": "Sarah-Zaghloul",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "df90414e-418f-4a62-93cf-8fa66e7e3694",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sarah Zaghloul",
+        "documentmodifiedwhen": "2020-02-20T09:17:03.091Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "77538D",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sarah Zaghloul",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90160-88889",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:52:00.847Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Richard-John-Zago",
+        "nodeid": 88889,
+        "documentid": 90160,
+        "nodealias": "Richard-John-Zago",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "dead94cb-3ac4-419f-b5d0-79a31e187984",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Richard John Zago",
+        "documentmodifiedwhen": "2021-12-14T09:40:33.389Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "26706J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Richard John Zago",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123047-119572",
+        "sys_site": "lso",
+        "sys_created": "2020-06-16T09:07:03.251Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Kaya-Sophie-Zagorda",
+        "nodeid": 119572,
+        "documentid": 123047,
+        "nodealias": "Kaya-Sophie-Zagorda",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "3411959b-7511-4d14-94ba-dfdcc6899e96",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Kaya Sophie Zagorda",
+        "documentmodifiedwhen": "2022-01-17T07:29:14.7Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "79862B",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Kaya Sophie Zagorda",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L8N 3P9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Hamilton"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90162-88890",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:52:04.602Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Anita-Miriam-Zagorski",
+        "nodeid": 88890,
+        "documentid": 90162,
+        "nodealias": "Anita-Miriam-Zagorski",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "a1b71252-d4d5-4635-b4fc-1a0bdc21bb5a",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Anita Miriam Zagorski",
+        "documentmodifiedwhen": "2021-09-21T08:14:28.636Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "47978K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Anita Miriam Zagorski",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -81.377555847168,
+                19.3204135894775
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Cayman Islands",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "KY1 1205",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Grand Cayman"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "137739-132349",
+        "sys_site": "lso",
+        "sys_created": "2022-04-30T07:29:53.436Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/015/Nicole-Zagury",
+        "nodeid": 132349,
+        "documentid": 137739,
+        "nodealias": "Nicole-Zagury",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "d85f4206-b3f3-4dde-9b6d-1e74ec3275b1",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Nicole Zagury",
+        "documentmodifiedwhen": "2022-06-23T07:17:11.956Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P18319",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Nicole Zagury",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M3J 3H7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90164-88892",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:52:05.838Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Jumana-Zahalka",
+        "nodeid": 88892,
+        "documentid": 90164,
+        "nodealias": "Jumana-Zahalka",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "67bd91e0-6f88-47dd-aa4c-4bef9647ee6e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jumana Zahalka",
+        "documentmodifiedwhen": "2022-01-06T07:22:39.523Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "42594W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jumana Zahalka",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Singapore",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "119245",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Singapore"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90163-88891",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:52:05.556Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Sophia-Zahariadakis",
+        "nodeid": 88891,
+        "documentid": 90163,
+        "nodealias": "Sophia-Zahariadakis",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "4bfd3ccc-17b6-403d-9a00-0d068daaf5e7",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sophia Zahariadakis",
+        "documentmodifiedwhen": "2020-02-20T08:55:08.346Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "58181P",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sophia Zahariadakis",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "N\u2019exer\u00e7ant pas le droit"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "134534-129783",
+        "sys_site": "lso",
+        "sys_created": "2021-10-05T07:18:45.941Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/008/Marina-Nikolaeva-Zaharieva",
+        "nodeid": 129783,
+        "documentid": 134534,
+        "nodealias": "Marina-Nikolaeva-Zaharieva",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "630730e8-55eb-409f-a3ec-19d3dd999f70",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Marina Nikolaeva Zaharieva",
+        "documentmodifiedwhen": "2022-06-23T07:16:40.59Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P17984",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Marina Nikolaeva Zaharieva",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Fournissant des services juridiques - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Providing Legal Services - Employed"
+        ],
+        "memberpostalcode": "M2R 1N7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62032-60756",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:47.557Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Ahamed-Irfan-Zaheed",
+        "nodeid": 60756,
+        "documentid": 62032,
+        "nodealias": "Ahamed-Irfan-Zaheed",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "accdd529-7274-438d-ae52-1ca51a247c7d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Ahamed Irfan Zaheed",
+        "documentmodifiedwhen": "2022-01-05T07:17:53.595Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "45855W",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Ahamed Irfan Zaheed",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Exer\u00e7ant le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Practising Law - Employed"
+        ],
+        "memberpostalcode": "L4Z 4E7",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Mississauga"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90165-88895",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:52:14.467Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/045/Sandra-Zaher",
+        "nodeid": 88895,
+        "documentid": 90165,
+        "nodealias": "Sandra-Zaher",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "629fc87d-89d6-495a-aedc-0046fe721b18",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Sandra Zaher",
+        "documentmodifiedwhen": "2022-04-02T07:27:32.01Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "43850U",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Sandra Zaher",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis r\u00e9voqu\u00e9"
+        ],
+        "memberwebstatus": [
+            "Licence Revoked"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90171-88893",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:52:14.248Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Maria-Zahid",
+        "nodeid": 88893,
+        "documentid": 90171,
+        "nodealias": "Maria-Zahid",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "41ea15e6-ccff-4197-bbee-bab23d16c5b0",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Maria Zahid",
+        "documentmodifiedwhen": "2022-06-21T07:16:03.384Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P14186",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Maria Zahid",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M2J 1R4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62027-60752",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:47.541Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Omar-Hasan-Al-Zahid",
+        "nodeid": 60752,
+        "documentid": 62027,
+        "nodealias": "Omar-Hasan-Al-Zahid",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "16713282-89b1-4d31-9c96-b5b5ec4ba38b",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Omar Hasan Al Zahid",
+        "documentmodifiedwhen": "2021-06-11T07:16:57.001Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [
+            "Contentieux civil - demandeur",
+            "Droit commercial et corporatifes",
+            "Droit de l'emploi et droit du travail",
+            "Droit de la famille ou matrimonial",
+            "Droit des franchisese",
+            "Droit de l'immigration",
+            "Droit immobilier",
+            "Droit des testaments, des successions et des fiducies"
+        ],
+        "memberareasofservicenamesenglish": [
+            "Civil Litigation - Plaintiff",
+            "Corporate/Commercial Law",
+            "Employment/Labour Law",
+            "Family/Matrimonial Law",
+            "Franchise Law",
+            "Immigration Law",
+            "Real Estate Law",
+            "Wills, Estates, Trusts Law"
+        ],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "72789J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Omar Hasan Al Zahid",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.2483978271484,
+                43.7091102600098
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M1N 1V4",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90166-88896",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:52:14.42Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Daniyal-Zahir",
+        "nodeid": 88896,
+        "documentid": 90166,
+        "nodealias": "Daniyal-Zahir",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cb0b327d-e846-41c3-ae7f-ad4761257e36",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Daniyal Zahir",
+        "documentmodifiedwhen": "2020-02-20T09:37:07.293Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P08619",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Daniyal Zahir",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Ne fournissant pas de services juridiques"
+        ],
+        "memberwebstatus": [
+            "Not Providing Legal Services"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62028-60754",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:47.541Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Adrian-Zahl",
+        "nodeid": 60754,
+        "documentid": 62028,
+        "nodealias": "Adrian-Zahl",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "67ce18fc-d103-467e-bffc-0387a54da8c4",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Adrian Zahl",
+        "documentmodifiedwhen": "2021-09-21T07:35:38.269Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "27751K",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Adrian Zahl",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62026-60753",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:47.572Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Jeffrey-Bard-Zahn",
+        "nodeid": 60753,
+        "documentid": 62026,
+        "nodealias": "Jeffrey-Bard-Zahn",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "cfe47926-04dd-4564-93ea-5b107397973d",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Jeffrey Bard Zahn",
+        "documentmodifiedwhen": "2021-12-14T09:11:58.403Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "17658I",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Jeffrey Bard Zahn",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "90169-88894",
+        "sys_site": "lso",
+        "sys_created": "2018-08-10T07:52:14.623Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/010/Stacy-Ann-Zahn",
+        "nodeid": 88894,
+        "documentid": 90169,
+        "nodealias": "Stacy-Ann-Zahn",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "b5d81c62-515d-4f57-8e67-d4f3446fffae",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Stacy Ann Zahn",
+        "documentmodifiedwhen": "2021-11-17T07:16:51.193Z",
+        "skuname": null,
+        "memberprovincetext": "",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P05929",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Stacy Ann Zahn",
+        "memberserviceinfrench": [],
+        "membergeolocation": null,
+        "membercountrytext": "",
+        "memberwebstatusfrench": [
+            "Permis rendu - remise administrative du permis"
+        ],
+        "memberwebstatus": [
+            "Licence Surrendered - Administrative Surrender of Licence"
+        ],
+        "memberpostalcode": "",
+        "membercurrentrestrictions": "N",
+        "membercity": []
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62030-60757",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:47.572Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Cheryl-Zahnleiter",
+        "nodeid": 60757,
+        "documentid": 62030,
+        "nodealias": "Cheryl-Zahnleiter",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "52f7cb13-f4d4-4b46-9896-4988a68bf30e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Cheryl Zahnleiter",
+        "documentmodifiedwhen": "2022-01-04T07:30:29Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "53614J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Cheryl Zahnleiter",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "N'exer\u00e7ant pas le droit - employ\u00e9(e)"
+        ],
+        "memberwebstatus": [
+            "Not Practising Law - Employed"
+        ],
+        "memberpostalcode": "N1R 5W8",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Cambridge"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62029-60755",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:47.557Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/044/Harry-William-Zahoruk",
+        "nodeid": 60755,
+        "documentid": 62029,
+        "nodealias": "Harry-William-Zahoruk",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "46605ca9-0ad5-48e2-a7a0-d1ceed2674ed",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Harry William Zahoruk",
+        "documentmodifiedwhen": "2021-12-14T07:24:33.333Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "09919N",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Harry William Zahoruk",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "L7N 1M6",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Burlington"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "62031-60758",
+        "sys_site": "lso",
+        "sys_created": "2018-08-02T19:36:47.666Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Paralegal/006/Amal-Zahra",
+        "nodeid": 60758,
+        "documentid": 62031,
+        "nodealias": "Amal-Zahra",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "ae39c071-38c4-4f73-9d39-22cbfd1b8861",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Amal Zahra",
+        "documentmodifiedwhen": "2020-11-27T07:38:12.078Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "P1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "P06298",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Amal Zahra",
+        "memberserviceinfrench": [],
+        "membergeolocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.0230178833008,
+                43.8636245727539
+            ],
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            }
+        },
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "Suspendu(e) administrativement"
+        ],
+        "memberwebstatus": [
+            "Suspended Administratively"
+        ],
+        "memberpostalcode": "L1Z 1E9",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Ajax"
+        ]
+    },
+    {
+        "@search.score": 1.0,
+        "sys_type": "cms.document",
+        "sys_id": "123905-120359",
+        "sys_site": "lso",
+        "sys_created": "2020-06-23T09:37:59.872Z",
+        "sys_culture": "en-ca",
+        "sys_index": "lsolpregistry",
+        "nodealiaspath": "/Public-Resources/Finding-a-Lawyer-or-Paralegal/Directory-Search/Members/Lawyer/001/Fatima-Tu-Zahra",
+        "nodeid": 120359,
+        "documentid": 123905,
+        "nodealias": "Fatima-Tu-Zahra",
+        "documenturlpath": "",
+        "documentpagedescription": null,
+        "nodeguid": "52ebcdd2-83a9-4b2b-837b-2ae0b109bb3e",
+        "documentculture": "en-ca",
+        "skudescription": null,
+        "skushortdescription": null,
+        "documentlastpublished": null,
+        "documentname": "Fatima-Tu Zahra",
+        "documentmodifiedwhen": "2022-01-17T07:31:02.621Z",
+        "skuname": null,
+        "memberprovincetext": "Ontario",
+        "memberareasofservicenamesfrench": [],
+        "memberareasofservicenamesenglish": [],
+        "memberlanguagenamesfrench": [],
+        "memberlicencetype": [
+            "L1"
+        ],
+        "memberlanguagenamesenglish": [],
+        "membernumber": "80398J",
+        "memberlimitedscoperetainer": [],
+        "memberfullname": "Fatima-Tu Zahra",
+        "memberserviceinfrench": [
+            "N"
+        ],
+        "membergeolocation": null,
+        "membercountrytext": "Canada",
+        "memberwebstatusfrench": [
+            "En pratique priv\u00e9e"
+        ],
+        "memberwebstatus": [
+            "In Private Practice"
+        ],
+        "memberpostalcode": "M5X 1G5",
+        "membercurrentrestrictions": "N",
+        "membercity": [
+            "Toronto"
+        ]
+    }
+]
