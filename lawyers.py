@@ -39,7 +39,7 @@ for n in range(0, 820):
   
   response = requests.request("POST", url, json=payload, headers=headers, params=querystring)
   
-  time.sleep(3)
+  time.sleep(1)
   
   filename = 'data/lawyers_'+str(skip+1)+'-'+str(skip1)+'.json'
   json_object = json.loads(response.text)['value']

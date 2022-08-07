@@ -20,8 +20,17 @@ class LawyersSpider(scrapy.Spider):
         profile_info = response.css('div.cell.small-12.medium-6').css('div.member-info-wrapper')
         special_info = response.css('div.member-special-cases')
         
-        labels = ['Link']
-        values = [response.meta['url']]
+        labels = []
+        values = []
+        
+        # Names
+        full_name = response.css('h2.member-info-title::text').get().strip()
+        split_name = full_name.split(' ')
+        last_name = split_name[-1]
+        del split_name[-1]
+        given_name = ' '.join(split_name)
+        labels.append(['Full Name', 'Fist Name', 'Last Name'])
+        values.append([full_name, given_name, last_name])
         
         # Left side content
         for info in profile_info:
@@ -60,7 +69,10 @@ class LawyersSpider(scrapy.Spider):
             values.append(value)
 
 
-        yield { labels[i]: values[i] for i in range(len(labels)) }
+        data = { labels[i]: values[i] for i in range(len(labels)) }
+        data = data.update({ 'Link': response.meta['url'] })
+        
+        yield data
 
 process = CrawlerProcess(settings = {
     'FEED_URI': 'lawyers.json',

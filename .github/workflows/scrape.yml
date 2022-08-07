@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  scraping-process:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -19,15 +19,18 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install Scrapy
+          pip install pandas
       
       - name: Running Script
-        run: python scrape.py
+        run: |
+          python scrape.py
+          python json2csv.py
       
       - name: Commit and Push Changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add *.json
+          git add *.json *.csv
           timestamp=$(TZ='Asia/Jakarta' date +'%a, %F at %H:%M %Z')
           git commit -m "Updated: ${timestamp}" || exit 0
           git push
