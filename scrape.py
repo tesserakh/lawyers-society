@@ -17,11 +17,6 @@ class LawyersSpider(scrapy.Spider):
             yield scrapy.Request(url = url, callback = self.parse, meta = meta)
     
     def parse(self, response):
-        profile_info = response.css('div.cell.small-12.medium-6').css('div.member-info-wrapper')
-        special_info = response.css('div.member-special-cases')
-        
-        labels = []
-        values = []
         
         # Names
         full_name = response.css('h2.member-info-title::text').get().strip()
@@ -29,8 +24,11 @@ class LawyersSpider(scrapy.Spider):
         last_name = split_name[-1]
         del split_name[-1]
         given_name = ' '.join(split_name)
-        labels.append(['Full Name', 'Fist Name', 'Last Name'])
-        values.append([full_name, given_name, last_name])
+        labels = ['Full Name', 'Fist Name', 'Last Name']
+        values = [full_name, given_name, last_name]
+
+        profile_info = response.css('div.cell.small-12.medium-6').css('div.member-info-wrapper')
+        special_info = response.css('div.member-special-cases')
         
         # Left side content
         for info in profile_info:
@@ -70,15 +68,23 @@ class LawyersSpider(scrapy.Spider):
 
 
         data = { labels[i]: values[i] for i in range(len(labels)) }
-        data = data.update({ 'Link': response.meta['url'] })
-        
+        data.update({ 'Link': response.meta['url'] })
+
         yield data
 
-process = CrawlerProcess(settings = {
-    'FEED_URI': 'lawyers.json',
-    'FEED_FORMAT': 'json',
-    'DOWNLOAD_DELAY': 0.25
-})
 
-process.crawl(LawyersSpider)
-process.start()
+if __name__ == '__main__':
+    DOWNLOADER_MIDDLEWARES = {
+
+        'FEEDS': {'results/test.json': {
+            'format': 'json',
+            'overwrite': True
+        }},
+        'LOG_LEVEL': 'DEBUG'
+        #'HTTPCACHE_ENABLED': True, # developing purpose to reduce the time only
+        #'HTTPCACHE_IGNORE_HTTP_CODES': [400, 403, 404, 413, 414, 429, 456, 503, 529, 500], # developing purpose to reduce the time only
+
+    }
+    process = CrawlerProcess(DOWNLOADER_MIDDLEWARES)
+    process.crawl(LawyersSpider)
+    process.start()
