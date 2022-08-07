@@ -76,7 +76,7 @@ class LawyersSpider(scrapy.Spider):
 if __name__ == '__main__':
     DOWNLOADER_MIDDLEWARES = {
 
-        'FEEDS': {'results/test.json': {
+        'FEEDS': {'lawyers.json': {
             'format': 'json',
             'overwrite': True
         }},
