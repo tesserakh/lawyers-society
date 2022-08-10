@@ -1,8 +1,9 @@
 # Data check up: duplication, failed scraped
 library(dplyr, warn.conflicts = FALSE)
 
+source("combine.R")
+
 # Paralegal give an empty, we should to fill them
-csv <- read.csv("data/data.csv")
 csv <- csv %>% 
   mutate(`Class of Licence` = ifelse(`Class of Licence` == "", "Paralegal", `Class of Licence`))
 write.csv(csv, file = "data/data.csv", na = "", row.names = FALSE)
