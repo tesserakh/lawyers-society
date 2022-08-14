@@ -41,7 +41,7 @@ for n in range(0, 820):
   
   time.sleep(1)
   
-  filename = 'data/lawyers_'+str(skip+1)+'-'+str(skip1)+'.json'
+  filename = 'raw/lawyers_'+str(skip+1)+'-'+str(skip1)+'.json'
   json_object = json.loads(response.text)['value']
   outfile = open(filename, "w")
   json.dump(json_object, outfile, indent = 4, sort_keys = False)
