@@ -14,7 +14,8 @@ csv <- csv %>%
     Business.Name, # Organization/Firm Name
     Email.Address, # Email
     Status, # Status
-    Area.s..of.Law.Legal.Services, # Area of Law Address
+    Area.s..of.Law.Legal.Services, # Area of Law 
+    Business.Address, #Address
     Phone, # Phone #
     Fax, # Fax #
     Class.of.Licence, # Class of Licence
@@ -32,7 +33,8 @@ header <- c(
   "Organization/Firm Name",
   "Email",
   "Status",
-  "Area of Law Address",
+  "Area of Law",
+  "Address",
   "Phone Number",
   "Fax Number",
   "Class of Licence",
